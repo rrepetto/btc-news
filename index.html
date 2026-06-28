@@ -1,147 +1,150 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Bitcoin Daily Digest</title>
 <style>
-  :root {
-    --bg: #0d1117;
-    --card: #161b22;
-    --border: #30363d;
-    --text: #e6edf3;
-    --muted: #8b949e;
-    --link: #58a6ff;
-    --alta: #f85149;
-    --media: #d29922;
-    --baja: #e3b341;
-  }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    background: var(--bg); color: var(--text);
-    line-height: 1.6; padding: 1rem;
-    max-width: 860px; margin: 0 auto;
-  }
-  header {
-    border-bottom: 1px solid var(--border);
-    padding-bottom: 1rem; margin-bottom: 1.5rem;
-  }
-  header h1 { font-size: 1.6rem; font-weight: 600; }
-  header p { color: var(--muted); font-size: 0.9rem; margin-top: 0.3rem; }
-  .rss-link {
-    display: inline-block; margin-top: 0.5rem;
-    color: var(--link); text-decoration: none; font-size: 0.85rem;
-  }
-  .rss-link:hover { text-decoration: underline; }
-  h2 { font-size: 1.2rem; margin: 1.5rem 0 0.8rem; }
-  .item {
-    background: var(--card); border: 1px solid var(--border);
-    border-radius: 8px; padding: 0.9rem 1rem; margin-bottom: 0.7rem;
-  }
-  .item a {
-    color: var(--link); text-decoration: none; font-weight: 600;
-  }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background: #0d1117; color: #c9d1d9; line-height: 1.6; }
+  .container { max-width: 860px; margin: 0 auto; padding: 24px 16px; }
+  header { border-bottom: 1px solid #30363d; padding-bottom: 16px; margin-bottom: 24px; }
+  header h1 { font-size: 1.8em; color: #f0f6fc; margin-bottom: 4px; }
+  header .subtitle { color: #8b949e; font-size: 0.9em; }
+  .rss-link { display: inline-block; margin-top: 8px; padding: 6px 14px; background: #21262d; color: #f78166; border: 1px solid #30363d; border-radius: 6px; text-decoration: none; font-size: 0.85em; }
+  .rss-link:hover { background: #30363d; }
+  .section { margin-bottom: 28px; }
+  .section h2 { font-size: 1.2em; color: #f0f6fc; margin-bottom: 12px; padding-bottom: 6px; border-bottom: 1px solid #21262d; }
+  .item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 14px 16px; margin-bottom: 10px; }
+  .item .tag { display: inline-block; font-size: 0.7em; padding: 2px 8px; border-radius: 12px; margin-right: 6px; font-weight: 600; }
+  .tag-tecnico { background: #1f3a5f; color: #58a6ff; }
+  .tag-mercado { background: #3d2e00; color: #d29922; }
+  .tag-geo { background: #2d1a3e; color: #bc8cff; }
+  .tag-update { background: #2a1500; color: #f78166; border: 1px solid #f78166; }
+  .item .cat { font-size: 0.7em; color: #8b949e; margin-left: 4px; }
+  .item a { color: #58a6ff; text-decoration: none; font-weight: 600; }
   .item a:hover { text-decoration: underline; }
-  .tag {
-    display: inline-block; font-size: 0.7rem; font-weight: 600;
-    padding: 0.15rem 0.45rem; border-radius: 4px;
-    margin-right: 0.3rem; vertical-align: middle;
-  }
-  .tag-tecnico { background: #1f6feb33; color: #58a6ff; }
-  .tag-mercado { background: #23842533; color: #3fb950; }
-  .tag-cat { background: #30363d; color: var(--muted); }
-  .summary { color: var(--muted); font-size: 0.9rem; margin-top: 0.35rem; }
-  .history { margin-top: 2.5rem; border-top: 1px solid var(--border); padding-top: 1rem; }
-  .history h2 { margin-top: 0; }
+  .item .summary { color: #c9d1d9; font-size: 0.9em; margin-top: 6px; }
+  .empty { color: #8b949e; font-style: italic; padding: 20px; text-align: center; }
+  .history { margin-top: 32px; }
+  .history h2 { font-size: 1.1em; color: #f0f6fc; margin-bottom: 10px; }
   .history ul { list-style: none; }
-  .history li { padding: 0.3rem 0; }
-  .history a { color: var(--link); text-decoration: none; font-size: 0.9rem; }
+  .history li { padding: 4px 0; }
+  .history a { color: #58a6ff; text-decoration: none; font-size: 0.9em; }
   .history a:hover { text-decoration: underline; }
-  footer {
-    margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border);
-    color: var(--muted); font-size: 0.8rem; text-align: center;
-  }
+  footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid #30363d; color: #484f58; font-size: 0.8em; text-align: center; }
 </style>
 </head>
 <body>
-<header>
-  <h1>Bitcoin Daily Digest</h1>
-  <p>Ultima actualizacion: 2026-06-28 00:12 UTC</p>
-  <a class="rss-link" href="https://raw.githubusercontent.com/rrepetto/btc-news/claude/digest/feed.xml" target="_blank" rel="noopener">RSS Feed (ultimo dia)</a>
-</header>
+<div class="container">
+  <header>
+    <h1>Bitcoin Daily Digest</h1>
+    <div class="subtitle">Última actualización: 2026-06-28 00:30 UTC</div>
+    <a class="rss-link" href="https://raw.githubusercontent.com/rrepetto/btc-news/claude/digest/feed.xml">RSS Feed</a>
+  </header>
 
-<h2>&#x1F534; Alta relevancia</h2>
+  <div class="section">
+    <h2>🔴 Alta relevancia</h2>
 
-<div class="item">
-  <span class="tag tag-tecnico">Tecnico</span>
-  <span class="tag tag-cat">BIP/Fork</span>
-  <a href="https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/" target="_blank" rel="noopener">BIP-110 avanza hacia deadline de agosto con solo 0.36% de senalizacion</a>
-  <p class="summary">Soft fork temporal que restringe datos arbitrarios (Ordinals, BRC-20, OP_RETURN) tiene apenas 0.36% de hashrate senalizando (~5 EH/s de 940 EH/s). Ventana obligatoria en bloque 961,632 (~7 ago). Adam Back advierte riesgo de chain split; Bitcoin Core no respalda la propuesta.</p>
+    <div class="item">
+      <span class="tag tag-mercado">Mercado</span><span class="cat">Macro</span>
+      <div class="summary"><a href="https://www.thestreet.com/crypto/markets/bitcoin-crashes-to-21-month-low-as-extreme-fear-grips-investors" target="_blank" rel="noopener">Bitcoin flash-crash a $58K: mínimo de 21 meses, Fear &amp; Greed en 13</a> — BTC cayó de $61K a $58K el 26 de junio. $1.26B liquidados en 24h (209K traders). Fear &amp; Greed en 13 (Extreme Fear). Causas: inflación EE.UU., conflicto Irán, salidas ETF, ventas de ballenas.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag tag-tecnico">Técnico</span><span class="cat">BIP/Fork</span>
+      <div class="summary"><a href="https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/" target="_blank" rel="noopener">BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización</a> — Soft fork temporal que restringe datos arbitrarios (Ordinals, BRC-20) entra en señalización con ~5 EH/s de 940 EH/s. Ventana obligatoria desde ~7 de agosto. Adam Back y Lopp advierten riesgo de chain split.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag tag-geo">Geo</span><span class="cat">Geopolítica</span>
+      <div class="summary"><a href="https://bitcoinmagazine.com/news/trump-signs-quantum-computing-orders" target="_blank" rel="noopener">Trump firma órdenes ejecutivas sobre computación cuántica con deadline 2030</a> — Dos EOs firmadas el 22 de junio: computador cuántico para 2028 y migración federal a criptografía post-cuántica antes de 2030/2031. Nombra amenaza "harvest now, decrypt later". Bitcoin ya tiene BIP-360/361 en desarrollo.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag tag-tecnico">Técnico</span><span class="cat">BIP/Cuántica</span>
+      <div class="summary"><a href="https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan" target="_blank" rel="noopener">BIP-361: plan de 3 fases para congelar ~6.7M BTC vulnerables a computación cuántica</a> — Propuesta por Jameson Lopp. Fase A: prohíbe envíos a direcciones legacy. Fase B: invalida firmas legacy, congela BTC no migrado. Fase C: recuperación vía ZK proofs. Afecta ~34% del supply.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag tag-geo">Geo</span><span class="cat">Regulación</span>
+      <div class="summary"><a href="https://www.cftc.gov/PressRoom/PressReleases/9240-26" target="_blank" rel="noopener">CFTC aprueba futuros perpetuos de Bitcoin en EE.UU. por primera vez (Kalshi)</a> — El 29 de mayo, la CFTC aprobó BTCPERP de KalshiEX. Primera aprobación regulatoria de perps en mercado regulado de EE.UU. Los perps dominan ~75% del volumen de derivados crypto offshore.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag tag-update">ACTUALIZACIÓN</span><span class="tag tag-mercado">Mercado</span><span class="cat">ETF</span>
+      <div class="summary"><a href="https://bitcoinfoundation.org/news/crypto-etfs-news/etf-outflows-june-2/" target="_blank" rel="noopener">ETFs de Bitcoin: salidas de junio alcanzan $5.4B en 4 semanas</a> — Actualización: salidas acumuladas de junio suman $5.4B, peor racha mensual desde el lanzamiento. $696M de salida total el 26 de junio (mayor del mes). Primera semana: $3.4B (récord semanal absoluto).</div>
+    </div>
+
+    <div class="item">
+      <span class="tag tag-mercado">Mercado</span><span class="cat">ETF</span>
+      <div class="summary"><a href="https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/" target="_blank" rel="noopener">ETFs spot de BTC: 7 días de salidas netas; IBIT pierde $444.5M en un día</a> — El 26 de junio, IBIT concentró el 100% del flujo negativo ($444.5M). Demás fondos reportaron flujo cero. La racha de 7 días acumula más de $1.2B.</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>🟠 Media relevancia</h2>
+
+    <div class="item">
+      <span class="tag tag-tecnico">Técnico</span><span class="cat">Stablecoins/Lightning</span>
+      <div class="summary"><a href="https://www.kucoin.com/news/flash/lightning-labs-launches-taproot-assets-v0-8-and-sdk-for-bitcoin-stablecoin-development" target="_blank" rel="noopener">Taproot Assets v0.8 con SDK para stablecoins en Bitcoin</a> — Lightning Labs publicó un SDK para integrar stablecoins sobre Bitcoin/Lightning con backup, liquidez multi-activo y verificación acelerada. USDT ya operativo en Lightning.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag tag-mercado">Mercado</span><span class="cat">On-chain</span>
+      <div class="summary"><a href="https://bitcoinnewsdigest.substack.com/p/bitcoin-news-digest-june-27-2026" target="_blank" rel="noopener">Vencimiento de $10.5B en opciones BTC en Deribit despeja presión bajista</a> — El 27 de junio expiró un volumen masivo. BTC tocó $58,395 antes de rebotar por encima de $60K.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag tag-geo">Geo</span><span class="cat">Regulación</span>
+      <div class="summary"><a href="https://cryptobriefing.com/sec-cftc-portfolio-margining-harmonization/" target="_blank" rel="noopener">SEC y CFTC abren consulta para armonizar margining de derivados</a> — Pedido conjunto de comentarios públicos (60 días) para armonizar reglas de margen entre securities, opciones y futuros. Impactará derivados crypto.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag tag-mercado">Mercado</span><span class="cat">Figuras</span>
+      <div class="summary"><a href="https://www.coindesk.com/markets/2026/06/01/strategy-sold-32-btc-for-usd2-5-million-in-late-may-filing-shows" target="_blank" rel="noopener">Strategy/Saylor vende 32 BTC por primera vez desde 2022, luego compra 1,550</a> — Strategy vendió 32 BTC (~$2.5M) para dividendos de STRC, rompiendo su política de "nunca vender". Luego compró 1,550 BTC ($101M). Mantiene 843,706 BTC (~$51.6B).</div>
+    </div>
+
+    <div class="item">
+      <span class="tag tag-tecnico">Técnico</span><span class="cat">Minería/AI</span>
+      <div class="summary"><a href="https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026" target="_blank" rel="noopener">Dificultad de minería Bitcoin cae 10% — mineros pivotan a AI/HPC</a> — Dificultad cayó de 138.96T a 124.93T (−10.09%), 2da mayor baja de 2026. CoinShares proyecta 70% de ingresos mineros de AI para fin de año, con >$70B en contratos anunciados.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag tag-mercado">Mercado</span><span class="cat">Figuras</span>
+      <div class="summary"><a href="https://news.bitcoin.com/metaplanet-to-launch-bitcoin-yield-products-in-japan-after-13-million-siiibo-securities-deal/" target="_blank" rel="noopener">Metaplanet adquiere Siiibo Securities y lanza Project Nova en Japón</a> — 3er mayor tenedor corporativo (40,177 BTC) compra Siiibo Securities por $13M para productos de rendimiento BTC: securities digitales, lending, acciones preferidas BTC-backed.</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>🟡 Baja relevancia / notas</h2>
+
+    <div class="item">
+      <span class="tag tag-mercado">Mercado</span><span class="cat">Figuras</span>
+      <div class="summary"><a href="https://finance.yahoo.com/markets/crypto/articles/gamestop-retains-4-710-bitcoin-101324345.html" target="_blank" rel="noopener">GameStop retiene 4,710 BTC y ejecuta covered calls</a> — Mantiene todos sus BTC (~$368M). El 99.98% colateralizado en Coinbase Prime para covered calls como generador de rendimiento.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag tag-tecnico">Técnico</span><span class="cat">Cuántica</span>
+      <div class="summary"><a href="https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says" target="_blank" rel="noopener">BIP-360 (post-cuántico) fue mergeado; migración será más difícil que Taproot</a> — BIP-360 (pay-to-Merkle-root) mergeado en febrero 2026. Elimina ruta de gasto por clave vulnerable. Migración será más compleja que Taproot (~5 años).</div>
+    </div>
+
+    <div class="item">
+      <span class="tag tag-mercado">Mercado</span><span class="cat">On-chain</span>
+      <div class="summary"><a href="https://wazirx.com/blog/bitcoin-liquidation-cascade-june-2026/" target="_blank" rel="noopener">Cascada de liquidaciones a inicios de junio: $3B en 3 días</a> — Entre el 4 y 6 de junio, ~$3B liquidados en derivados crypto. Posiciones long representaron el 84-85% de las pérdidas.</div>
+    </div>
+  </div>
+
+  <div class="history">
+    <h2>Historial</h2>
+    <ul>
+      <li><a href="https://github.com/rrepetto/btc-news/blob/claude/digest/digests/2026-06-28.md">2026-06-28</a></li>
+    </ul>
+  </div>
+
+  <footer>
+    Bitcoin Daily Digest — Generado automáticamente. No constituye asesoramiento financiero.
+  </footer>
 </div>
-
-<div class="item">
-  <span class="tag tag-mercado">Mercado</span>
-  <span class="tag tag-cat">ETF</span>
-  <a href="https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/" target="_blank" rel="noopener">ETFs spot BTC: 7 dias de salidas netas; IBIT pierde $444.5M en un dia</a>
-  <p class="summary">El 26/06, IBIT (BlackRock) registro $444.5M de salida neta, la mayor desde su lanzamiento. Racha de 7 dias acumula &gt;$1.2B en salidas. Demas fondos con flujo cero. Se atribuye a toma de ganancias institucional y sentimiento risk-off.</p>
-</div>
-
-<h2>&#x1F7E0; Media relevancia</h2>
-
-<div class="item">
-  <span class="tag tag-tecnico">Tecnico</span>
-  <span class="tag tag-cat">Lightning/Stablecoins</span>
-  <a href="https://www.kucoin.com/news/flash/lightning-labs-launches-taproot-assets-v0-8-and-sdk-for-bitcoin-stablecoin-development" target="_blank" rel="noopener">Lightning Labs lanza Taproot Assets v0.8 con SDK para stablecoins</a>
-  <p class="summary">Release del 24/06 incluye SDK para integrar stablecoins sobre Bitcoin/Lightning con backup, liquidez multi-activo y verificacion acelerada. USDT ya opera en Lightning via Taproot Assets desde marzo 2026.</p>
-</div>
-
-<div class="item">
-  <span class="tag tag-mercado">Mercado</span>
-  <span class="tag tag-cat">On-chain</span>
-  <a href="https://bitcoinnewsdigest.substack.com/p/bitcoin-news-digest-june-27-2026" target="_blank" rel="noopener">Vencimiento de $10.5B en opciones BTC en Deribit despeja presion bajista</a>
-  <p class="summary">El 27/06 expiro volumen masivo de opciones. BTC toco minimo de $58,395 antes de rebotar por encima de $60,000. Estabilizacion tras semanas de caida.</p>
-</div>
-
-<div class="item">
-  <span class="tag tag-mercado">Mercado</span>
-  <span class="tag tag-cat">Macro/Regulacion</span>
-  <a href="https://cryptobriefing.com/sec-cftc-portfolio-margining-harmonization/" target="_blank" rel="noopener">SEC y CFTC abren consulta publica para armonizar margining de derivados</a>
-  <p class="summary">El 18/06, ambos reguladores abrieron consulta de 60 dias para armonizar reglas de margen entre securities, opciones y futuros. El marco resultante impactara como se regulan derivados crypto en EE.UU.</p>
-</div>
-
-<h2>&#x1F7E1; Baja relevancia / notas</h2>
-
-<div class="item">
-  <span class="tag tag-mercado">Mercado</span>
-  <span class="tag tag-cat">Ballenas</span>
-  <a href="https://finance.yahoo.com/markets/crypto/articles/gamestop-retains-4-710-bitcoin-101324345.html" target="_blank" rel="noopener">GameStop retiene 4,710 BTC y ejecuta covered calls</a>
-  <p class="summary">GameStop mantiene sus 4,710 BTC (~$368M). El 99.98% colateralizado en Coinbase Prime para covered calls, tratando BTC como activo generador de rendimiento, no solo reserva pasiva.</p>
-</div>
-
-<div class="item">
-  <span class="tag tag-tecnico">Tecnico</span>
-  <span class="tag tag-cat">Cuantica</span>
-  <a href="https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says" target="_blank" rel="noopener">BIP-360 post-cuantico mergeado; migracion sera mas dificil que Taproot</a>
-  <p class="summary">BIP-360 (pay-to-Merkle-root) elimina ruta de gasto vulnerable a ataques cuanticos. Migracion requerira participacion de todos los usuarios/wallets/exchanges. Computadoras cuanticas capaces estimadas a 5-10 anos.</p>
-</div>
-
-<div class="item">
-  <span class="tag tag-mercado">Mercado</span>
-  <span class="tag tag-cat">On-chain</span>
-  <a href="https://wazirx.com/blog/bitcoin-liquidation-cascade-june-2026/" target="_blank" rel="noopener">Cascada de liquidaciones a inicios de junio: $3B en 3 dias</a>
-  <p class="summary">Entre el 4-6 de junio se liquidaron ~$3B en derivados crypto, 84-85% posiciones long en BTC. Refleja el alto apalancamiento del ciclo actual.</p>
-</div>
-
-<section class="history">
-  <h2>Historial</h2>
-  <ul>
-    <li><a href="https://github.com/rrepetto/btc-news/blob/claude/digest/digests/2026-06-28.md">2026-06-28</a></li>
-  </ul>
-</section>
-
-<footer>
-  Bitcoin Daily Digest &mdash; Generado automaticamente. Datos informativos, no constituyen consejo financiero.
-</footer>
 </body>
 </html>

@@ -1,12 +1,12 @@
 # Bitcoin Daily Digest
 
-Resumen diario automatizado de novedades del ecosistema Bitcoin: protocolo, mercado, regulacion y tecnologia.
+Resumen diario automatizado de novedades del ecosistema Bitcoin: protocolo, mercado, regulación y tecnología.
 
 **Sitio publicado:** https://rrepetto.github.io/btc-news/
 
-**Feed RSS (ultimo dia):** https://raw.githubusercontent.com/rrepetto/btc-news/claude/digest/feed.xml
+**Feed RSS (último día):** https://raw.githubusercontent.com/rrepetto/btc-news/claude/digest/feed.xml
 
-> El feed RSS contiene solo los items del ultimo dia. El historial completo esta en `digests/`.
+> El feed RSS contiene solo los ítems del último día. El historial completo está en `digests/`.
 
 ## Digests recientes
 

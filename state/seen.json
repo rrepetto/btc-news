@@ -10,7 +10,9 @@
       "id": "ibit-etf-outflows-444m-seven-day-streak",
       "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
       "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
-      "first_seen": "2026-06-28"
+      "first_seen": "2026-06-28",
+      "last_update": "2026-06-28",
+      "updates": ["2026-06-28"]
     },
     {
       "id": "taproot-assets-v08-sdk-stablecoins",
@@ -46,6 +48,48 @@
       "id": "bip-360-post-quantum-migration-merged",
       "title": "BIP-360 (pay-to-Merkle-root post-cuántico) fue mergeado en el repositorio de BIPs en febrero 2026",
       "url": "https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "bitcoin-crash-58k-21-month-low-june-2026",
+      "title": "Bitcoin flash-crash a $58K: mínimo de 21 meses, Fear & Greed en 13",
+      "url": "https://www.thestreet.com/crypto/markets/bitcoin-crashes-to-21-month-low-as-extreme-fear-grips-investors",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "trump-quantum-executive-orders-june-2026",
+      "title": "Trump firma órdenes ejecutivas sobre computación cuántica con deadline 2030",
+      "url": "https://bitcoinmagazine.com/news/trump-signs-quantum-computing-orders",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "bip-361-post-quantum-freeze-legacy-coins",
+      "title": "BIP-361: plan de 3 fases para congelar ~6.7M BTC vulnerables a computación cuántica",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "cftc-approves-bitcoin-perpetual-futures-kalshi",
+      "title": "CFTC aprueba futuros perpetuos de Bitcoin en EE.UU. por primera vez (Kalshi)",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9240-26",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "strategy-saylor-sells-32-btc-first-time-2022",
+      "title": "Strategy/Saylor vende 32 BTC por primera vez desde 2022, luego compra 1,550",
+      "url": "https://www.coindesk.com/markets/2026/06/01/strategy-sold-32-btc-for-usd2-5-million-in-late-may-filing-shows",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "bitcoin-mining-difficulty-drop-10pct-ai-pivot",
+      "title": "Dificultad de minería Bitcoin cae 10% — mineros pivotan a AI/HPC",
+      "url": "https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "metaplanet-project-nova-siiibo-securities",
+      "title": "Metaplanet adquiere Siiibo Securities y lanza Project Nova para productos BTC en Japón",
+      "url": "https://news.bitcoin.com/metaplanet-to-launch-bitcoin-yield-products-in-japan-after-13-million-siiibo-securities-deal/",
       "first_seen": "2026-06-28"
     }
   ]
