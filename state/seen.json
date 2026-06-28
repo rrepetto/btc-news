@@ -84,12 +84,50 @@
       "id": "bitcoin-mining-difficulty-drop-10pct-ai-pivot",
       "title": "Dificultad de minería Bitcoin cae 10% — mineros pivotan a AI/HPC",
       "url": "https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026",
-      "first_seen": "2026-06-28"
+      "first_seen": "2026-06-28",
+      "last_update": "2026-06-28",
+      "updates": ["2026-06-28"]
     },
     {
       "id": "metaplanet-project-nova-siiibo-securities",
       "title": "Metaplanet adquiere Siiibo Securities y lanza Project Nova para productos BTC en Japón",
       "url": "https://news.bitcoin.com/metaplanet-to-launch-bitcoin-yield-products-in-japan-after-13-million-siiibo-securities-deal/",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "binance-mica-failure-eu-exit-july-2026",
+      "title": "Binance pierde licencia MiCA y suspende servicios en la UE desde el 1 de julio",
+      "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license/",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "clarity-act-senate-calendar-crypto-market-structure",
+      "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
+      "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "bitcoin-core-31-privacy-bug-ip-leak",
+      "title": "Bitcoin Core 31.0: vulnerabilidad de privacidad expone IP real de nodos",
+      "url": "https://bitcoincore.org/en/2026/06/06/privatebroadcast-ip-leak/",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "tether-gold-23b-bullion-backed-loans-ledn",
+      "title": "Tether pone a trabajar $23B en oro con préstamos colateralizados (Ledn)",
+      "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans/",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "marathon-digital-buys-1000-btc-66m-june",
+      "title": "Marathon Digital compra 1,000 BTC ($66M) contra la tendencia del sector",
+      "url": "https://cryptobriefing.com/marathon-digital-buys-66m-bitcoin/",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "bip-451-dust-utxo-disposal-protocol",
+      "title": "BIP-451: protocolo estándar para eliminar dust UTXOs",
+      "url": "https://groups.google.com/g/bitcoindev/c/dust-utxo-disposal",
       "first_seen": "2026-06-28"
     }
   ]
