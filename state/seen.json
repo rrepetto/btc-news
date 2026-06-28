@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "bip-110-signaling-august-fork-deadline",
+      "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
+      "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "ibit-etf-outflows-444m-seven-day-streak",
+      "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
+      "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "taproot-assets-v08-sdk-stablecoins",
+      "title": "Lightning Labs lanza Taproot Assets v0.8 con SDK para stablecoins en Bitcoin",
+      "url": "https://www.kucoin.com/news/flash/lightning-labs-launches-taproot-assets-v0-8-and-sdk-for-bitcoin-stablecoin-development",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "sec-cftc-portfolio-margining-harmonization",
+      "title": "SEC y CFTC abren consulta pública para armonizar margining de derivados (incluye crypto)",
+      "url": "https://cryptobriefing.com/sec-cftc-portfolio-margining-harmonization/",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "bitcoin-10-5b-options-expiry-june-27",
+      "title": "Vencimiento de $10.5B en opciones de BTC en Deribit despeja presión bajista",
+      "url": "https://bitcoinnewsdigest.substack.com/p/bitcoin-news-digest-june-27-2026",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "bitcoin-liquidation-cascade-june-4-6",
+      "title": "Cascada de liquidaciones: $3B liquidados entre el 4 y 6 de junio, 85% posiciones long",
+      "url": "https://wazirx.com/blog/bitcoin-liquidation-cascade-june-2026/",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "gamestop-bitcoin-treasury-covered-calls",
+      "title": "GameStop retiene 4,710 BTC y ejecuta estrategia de covered calls como activo generador de rendimiento",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/gamestop-retains-4-710-bitcoin-101324345.html",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "bip-360-post-quantum-migration-merged",
+      "title": "BIP-360 (pay-to-Merkle-root post-cuántico) fue mergeado en el repositorio de BIPs en febrero 2026",
+      "url": "https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says",
+      "first_seen": "2026-06-28"
+    }
+  ]
+}

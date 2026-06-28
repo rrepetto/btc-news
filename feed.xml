@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Bitcoin Daily Digest</title>
+    <link>https://rrepetto.github.io/btc-news/</link>
+    <description>Resumen diario de novedades del ecosistema Bitcoin: protocolo, mercado, regulaci&amp;oacute;n y tecnolog&amp;iacute;a.</description>
+    <language>es</language>
+    <lastBuildDate>Sun, 28 Jun 2026 00:12:36 +0000</lastBuildDate>
+    <item>
+      <title>[ALTA][T&amp;eacute;cnico] BIP-110 avanza hacia deadline de agosto con solo 0.36% de se&amp;ntilde;alizaci&amp;oacute;n</title>
+      <link>https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline</guid>
+      <description>Soft fork temporal que restringe datos arbitrarios (Ordinals, BRC-20, OP_RETURN) tiene apenas 0.36% de hashrate se&amp;ntilde;alizando (~5 EH/s de 940 EH/s). Ventana obligatoria en bloque 961,632 (~7 ago). Adam Back advierte riesgo de chain split. Categor&amp;iacute;a: BIP/Fork.</description>
+      <pubDate>Sun, 28 Jun 2026 00:12:36 +0000</pubDate>
+      <category>BIP/Fork</category>
+    </item>
+    <item>
+      <title>[ALTA][Mercado] ETFs spot BTC: 7 d&amp;iacute;as de salidas netas; IBIT pierde $444.5M en un d&amp;iacute;a</title>
+      <link>https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/</link>
+      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak</guid>
+      <description>El 26/06, IBIT (BlackRock) registr&amp;oacute; $444.5M de salida neta, la mayor desde su lanzamiento. Racha de 7 d&amp;iacute;as acumula &amp;gt;$1.2B en salidas. Dem&amp;aacute;s fondos con flujo cero. Categor&amp;iacute;a: ETF.</description>
+      <pubDate>Sun, 28 Jun 2026 00:12:36 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+    <item>
+      <title>[MEDIA][T&amp;eacute;cnico] Lightning Labs lanza Taproot Assets v0.8 con SDK para stablecoins</title>
+      <link>https://www.kucoin.com/news/flash/lightning-labs-launches-taproot-assets-v0-8-and-sdk-for-bitcoin-stablecoin-development</link>
+      <guid isPermaLink="false">taproot-assets-v08-sdk-stablecoins</guid>
+      <description>Release del 24/06 incluye SDK para integrar stablecoins sobre Bitcoin/Lightning con backup, liquidez multi-activo y verificaci&amp;oacute;n acelerada. USDT ya opera en Lightning v&amp;iacute;a Taproot Assets. Categor&amp;iacute;a: Lightning/Stablecoins.</description>
+      <pubDate>Sun, 28 Jun 2026 00:12:36 +0000</pubDate>
+      <category>Lightning/Stablecoins</category>
+    </item>
+    <item>
+      <title>[MEDIA][Mercado] Vencimiento de $10.5B en opciones BTC en Deribit despeja presi&amp;oacute;n bajista</title>
+      <link>https://bitcoinnewsdigest.substack.com/p/bitcoin-news-digest-june-27-2026</link>
+      <guid isPermaLink="false">bitcoin-10-5b-options-expiry-june-27</guid>
+      <description>El 27/06 expir&amp;oacute; volumen masivo de opciones. BTC toc&amp;oacute; m&amp;iacute;nimo de $58,395 antes de rebotar por encima de $60,000. Estabilizaci&amp;oacute;n tras semanas de ca&amp;iacute;da. Categor&amp;iacute;a: On-chain.</description>
+      <pubDate>Sun, 28 Jun 2026 00:12:36 +0000</pubDate>
+      <category>On-chain</category>
+    </item>
+    <item>
+      <title>[MEDIA][Mercado] SEC y CFTC abren consulta p&amp;uacute;blica para armonizar margining de derivados</title>
+      <link>https://cryptobriefing.com/sec-cftc-portfolio-margining-harmonization/</link>
+      <guid isPermaLink="false">sec-cftc-portfolio-margining-harmonization</guid>
+      <description>El 18/06, ambos reguladores abrieron consulta de 60 d&amp;iacute;as para armonizar reglas de margen entre securities, opciones y futuros. Impactar&amp;aacute; derivados crypto. Categor&amp;iacute;a: Macro/Regulaci&amp;oacute;n.</description>
+      <pubDate>Sun, 28 Jun 2026 00:12:36 +0000</pubDate>
+      <category>Macro/Regulacion</category>
+    </item>
+    <item>
+      <title>[BAJA][Mercado] GameStop retiene 4,710 BTC y ejecuta covered calls</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/gamestop-retains-4-710-bitcoin-101324345.html</link>
+      <guid isPermaLink="false">gamestop-bitcoin-treasury-covered-calls</guid>
+      <description>GameStop mantiene sus 4,710 BTC (~$368M). El 99.98% colateralizado en Coinbase Prime para covered calls. Trata BTC como activo generador de rendimiento. Categor&amp;iacute;a: Ballenas.</description>
+      <pubDate>Sun, 28 Jun 2026 00:12:36 +0000</pubDate>
+      <category>Ballenas</category>
+    </item>
+    <item>
+      <title>[BAJA][T&amp;eacute;cnico] BIP-360 post-cu&amp;aacute;ntico mergeado; migraci&amp;oacute;n ser&amp;aacute; m&amp;aacute;s dif&amp;iacute;cil que Taproot</title>
+      <link>https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says</link>
+      <guid isPermaLink="false">bip-360-post-quantum-migration-merged</guid>
+      <description>BIP-360 (pay-to-Merkle-root) elimina ruta de gasto vulnerable a ataques cu&amp;aacute;nticos. Migraci&amp;oacute;n requerir&amp;aacute; participaci&amp;oacute;n de todos los usuarios/wallets/exchanges. Computadoras cu&amp;aacute;nticas capaces estimadas a 5-10 a&amp;ntilde;os. Categor&amp;iacute;a: Cu&amp;aacute;ntica.</description>
+      <pubDate>Sun, 28 Jun 2026 00:12:36 +0000</pubDate>
+      <category>Cuantica</category>
+    </item>
+    <item>
+      <title>[BAJA][Mercado] Cascada de liquidaciones a inicios de junio: $3B en 3 d&amp;iacute;as</title>
+      <link>https://wazirx.com/blog/bitcoin-liquidation-cascade-june-2026/</link>
+      <guid isPermaLink="false">bitcoin-liquidation-cascade-june-4-6</guid>
+      <description>Entre el 4-6 de junio se liquidaron ~$3B en derivados crypto, 84-85% posiciones long en BTC. Refleja alto apalancamiento del ciclo actual. Categor&amp;iacute;a: On-chain.</description>
+      <pubDate>Sun, 28 Jun 2026 00:12:36 +0000</pubDate>
+      <category>On-chain</category>
+    </item>
+  </channel>
+</rss>
