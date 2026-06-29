@@ -1,13 +1,20 @@
 # Bitcoin Daily Digest
 
-Resumen diario automatizado de novedades del ecosistema Bitcoin: protocolo, mercado, regulación y tecnología.
+Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.
 
-**Sitio publicado:** https://rrepetto.github.io/btc-news/
+## Suscribirse al feed RSS
 
-**Feed RSS (último día):** https://raw.githubusercontent.com/rrepetto/btc-news/claude/digest/feed.xml
+```
+https://raw.githubusercontent.com/rrepetto/btc-news/claude/digest/feed.xml
+```
 
-> El feed RSS contiene solo los ítems del último día. El historial completo está en `digests/`.
+Compatible con cualquier lector RSS (Feedly, Inoreader, Miniflux, etc.).
 
-## Digests recientes
+> **Nota:** El feed RSS contiene solo los ítems del último día. El historial completo está en la carpeta `digests/`.
 
-- [2026-06-28](digests/2026-06-28.md)
+## Índice de digests
+
+| Fecha | Items |
+|-------|-------|
+| [2026-06-29](digests/2026-06-29.md) | 4 nuevos |
+| [2026-06-28](digests/2026-06-28.md) | 21 nuevos |

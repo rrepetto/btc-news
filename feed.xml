@@ -3,198 +3,72 @@
   <channel>
     <title>Bitcoin Daily Digest</title>
     <link>https://rrepetto.github.io/btc-news/</link>
-    <description>Resumen diario automatizado de novedades del ecosistema Bitcoin: protocolo, mercado, regulación y tecnología.</description>
+    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 28 Jun 2026 11:04:07 +0000</lastBuildDate>
-
+    <lastBuildDate>Mon, 29 Jun 2026 01:55:50 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][Técnico] BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización</title>
-      <link>https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline</guid>
-      <description>La propuesta de soft fork temporal que restringe datos arbitrarios en transacciones entra en fase de señalización con apenas ~5 EH/s de los ~940 EH/s de la red. Necesita 55% para lock-in anticipado. Riesgo de chain split a partir del bloque 961,632 (~7 de agosto). Categoría: BIP/Fork</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>BIP/Fork</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Mercado] ETFs spot de BTC: 7 días de salidas, IBIT -$444.5M; junio acumula $5.4B en salidas</title>
-      <link>https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/</link>
-      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-06-28</guid>
-      <description>[ACTUALIZACIÓN] Las salidas acumuladas de junio suman $5.4B, la peor racha mensual desde el lanzamiento en enero 2024. La primera semana de junio registró $3.4B en salidas (récord absoluto). Categoría: ETF</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
+      <title>[ALTA][Mercado] BlackRock formaliza guía de 1-2% en Bitcoin para carteras de inversión y añade IBIT a portafolios modelo</title>
+      <link>https://www.investing.com/analysis/blackrock-sets-12-bitcoin-risk-budget-for-advisor-portfolios-200682701</link>
+      <guid isPermaLink="false">blackrock-1-2pct-bitcoin-allocation-advisor-portfolios</guid>
+      <description>BlackRock Investment Institute recomienda formalmente 1-2% de BTC en carteras multi-activo y añade IBIT (~$62B AUM) a sus portafolios modelo. Categoría: ETF.</description>
+      <pubDate>Mon, 29 Jun 2026 01:55:50 +0000</pubDate>
       <category>ETF</category>
     </item>
-
     <item>
-      <title>[ALTA][Mercado] Bitcoin flash-crash a $58K: mínimo de 21 meses, Fear &amp; Greed en 13</title>
-      <link>https://www.thestreet.com/crypto/markets/bitcoin-crashes-to-21-month-low-as-extreme-fear-grips-investors</link>
-      <guid isPermaLink="false">bitcoin-crash-58k-21-month-low-june-2026</guid>
-      <description>BTC cayó de $61K a $58K el 26 de junio, liquidando $1.26B en 24h. Causas: inflación mayor a la esperada en EE.UU., conflicto EE.UU.-Irán, salidas masivas de ETFs y ventas de ballenas. Categoría: On-chain</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>On-chain</category>
+      <title>[ALTA][Mercado][ACTUALIZACIÓN] Strategy/MSTR: mNAV colapsa a 0.70x — venta de BTC pasa de puntual a estructural</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/michael-saylor-bitcoin-treasury-strategy-121716177.html</link>
+      <guid isPermaLink="false">strategy-saylor-sells-32-btc-first-time-2022#upd-2026-06-29</guid>
+      <description>mNAV cayó debajo de 1.0 (0.70x). Venta de ~18,500-19,000 BTC/año para dividendos de preferentes STRC (11.25%). Pérdida neta $12.54B en Q1 2026. Categoría: Ballenas.</description>
+      <pubDate>Mon, 29 Jun 2026 01:55:50 +0000</pubDate>
+      <category>Ballenas</category>
     </item>
-
     <item>
-      <title>[ALTA][Geo] Trump firma órdenes ejecutivas sobre computación cuántica con deadline 2030</title>
-      <link>https://bitcoinmagazine.com/news/trump-signs-quantum-computing-orders</link>
-      <guid isPermaLink="false">trump-quantum-executive-orders-june-2026</guid>
-      <description>El 22 de junio, Trump firmó dos EOs: computador cuántico en laboratorio nacional para 2028 y migración federal a criptografía post-cuántica antes del 31/12/2030. Nombra la amenaza "harvest now, decrypt later". Categoría: Geopolítica</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
+      <title>[ALTA][Mercado][ACTUALIZACIÓN] ETFs de BTC acumulan $7.2B en salidas en dos rachas récord — flujos YTD negativos</title>
+      <link>https://www.tftc.io/bitcoin-etf-outflows-2026-record-streaks/</link>
+      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-06-29</guid>
+      <description>Dos rachas de salidas ($2.8B mayo + $4.37B junio) totalizan $7.2B y empujan flujos acumulados 2026 a territorio negativo por primera vez. Categoría: ETF.</description>
+      <pubDate>Mon, 29 Jun 2026 01:55:50 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+    <item>
+      <title>[MEDIA][Mercado] Ballenas de Bitcoin alcanzan pico de actividad en 2 meses mientras precio sostiene $60K</title>
+      <link>https://www.livebitcoinnews.com/bitcoin-whale-transactions-hit-two-month-peak-as-price-holds-60000/</link>
+      <guid isPermaLink="false">btc-whale-transactions-two-month-peak-60k</guid>
+      <description>6,920 transacciones &gt;$100K y 1,438 &gt;$1M el 28/06, segundo mayor pico en dos meses. Ballenas acumulan en $58K-$60K mientras ETFs sangran. Categoría: On-chain/Ballenas.</description>
+      <pubDate>Mon, 29 Jun 2026 01:55:50 +0000</pubDate>
+      <category>Ballenas</category>
+    </item>
+    <item>
+      <title>[MEDIA][Geo] UE propone 21° paquete de sanciones contra Rusia: prohíbe transacciones con 11 plataformas crypto</title>
+      <link>https://www.theblock.co/amp/post/404207/eu-proposes-russia-crypto-sanction</link>
+      <guid isPermaLink="false">eu-21st-sanctions-package-crypto-russia-june-2026</guid>
+      <description>Comisión Europea propone prohibir transacciones con 11 plataformas crypto vinculadas a Rusia y busca capacidad de prohibiciones a nivel país. Categoría: Geopolítica.</description>
+      <pubDate>Mon, 29 Jun 2026 01:55:50 +0000</pubDate>
       <category>Geopolítica</category>
     </item>
-
     <item>
-      <title>[ALTA][Técnico] BIP-361: plan de 3 fases para congelar ~6.7M BTC vulnerables a computación cuántica</title>
-      <link>https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan</link>
-      <guid isPermaLink="false">bip-361-post-quantum-freeze-legacy-coins</guid>
-      <description>Propuesta por Jameson Lopp: sunset gradual de firmas legacy en 3 fases. Fase B invalida firmas legacy congelando BTC no migrado (~34% del supply). Genera fuerte debate. Categoría: Cuántica</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>Cuántica</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Geo] CFTC aprueba futuros perpetuos de Bitcoin en EE.UU. por primera vez (Kalshi)</title>
-      <link>https://www.cftc.gov/PressRoom/PressReleases/9240-26</link>
-      <guid isPermaLink="false">cftc-approves-bitcoin-perpetual-futures-kalshi</guid>
-      <description>La CFTC aprobó el contrato BTCPERP de KalshiEX (perpetuo cash-settled). Los perps dominan ~75% del volumen offshore de derivados crypto; esta aprobación abre su migración a mercados regulados de EE.UU. Categoría: Regulación</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
+      <title>[MEDIA][Geo][ACTUALIZACIÓN] CLARITY Act enfrenta oposición de ~100 líderes católicos y fuerzas de seguridad</title>
+      <link>https://decrypt.co/371923/crypto-clarity-act-new-enemy-catholic-leaders</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-06-29</guid>
+      <description>82 líderes católicos (Alliance to End Human Trafficking) se oponen a la Sección 604 que eximiría a desarrolladores DeFi non-custodial de obligaciones AML. Categoría: Regulación.</description>
+      <pubDate>Mon, 29 Jun 2026 01:55:50 +0000</pubDate>
       <category>Regulación</category>
     </item>
-
     <item>
-      <title>[ALTA][Geo] Binance pierde licencia MiCA y suspende servicios en la UE desde el 1 de julio</title>
-      <link>https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license/</link>
-      <guid isPermaLink="false">binance-mica-failure-eu-exit-july-2026</guid>
-      <description>Binance no pudo obtener la licencia MiCA y suspende servicios en la UE el 1 de julio. Solo 210 de 3,000+ exchanges obtuvieron autorización. Coinbase y OKX lanzan campañas para captar sus ~450M de usuarios europeos. Categoría: Regulación</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Geo] CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto</title>
-      <link>https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure</guid>
-      <description>El Comité de Banca del Senado aprobó el CLARITY Act 15-9 (14 mayo). Define qué crypto es security vs commodity. Negociación clave: cláusula ética sobre funcionarios con stakes crypto. Deadline: receso de verano. Categoría: Regulación</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Técnico] Lightning Labs lanza Taproot Assets v0.8 con SDK para stablecoins</title>
-      <link>https://www.kucoin.com/news/flash/lightning-labs-launches-taproot-assets-v0-8-and-sdk-for-bitcoin-stablecoin-development</link>
-      <guid isPermaLink="false">taproot-assets-v08-sdk-stablecoins</guid>
-      <description>Release del 24 de junio con SDK para integrar stablecoins sobre Bitcoin/Lightning. USDT ya operativo en Lightning vía Taproot Assets desde marzo 2026. Categoría: Stablecoins</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>Stablecoins</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] Vencimiento de $10.5B en opciones BTC en Deribit despeja presión bajista</title>
-      <link>https://bitcoinnewsdigest.substack.com/p/bitcoin-news-digest-june-27-2026</link>
-      <guid isPermaLink="false">bitcoin-10-5b-options-expiry-june-27</guid>
-      <description>El 27 de junio expiró un volumen masivo de opciones. BTC tocó $58,395 antes de rebotar por encima de $60K, absorbiendo la presión vendedora post-expiración. Categoría: On-chain</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>On-chain</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Geo] SEC y CFTC abren consulta pública para armonizar margining de derivados</title>
-      <link>https://cryptobriefing.com/sec-cftc-portfolio-margining-harmonization/</link>
-      <guid isPermaLink="false">sec-cftc-portfolio-margining-harmonization</guid>
-      <description>El 18 de junio, ambos reguladores publicaron un pedido conjunto de comentarios públicos (60 días) para armonizar reglas de margen entre securities, opciones y futuros. Categoría: Regulación</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] Strategy/Saylor vende 32 BTC por primera vez desde 2022, luego compra 1,550</title>
-      <link>https://www.coindesk.com/markets/2026/06/01/strategy-sold-32-btc-for-usd2-5-million-in-late-may-filing-shows</link>
-      <guid isPermaLink="false">strategy-saylor-sells-32-btc-first-time-2022</guid>
-      <description>Strategy vendió 32 BTC (~$2.5M) para cubrir dividendos STRC, luego compró 1,550 BTC ($101M). Mantiene 843,706 BTC (~$51.6B). Categoría: Ballenas</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>Ballenas</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Técnico] Dificultad de minería: cae 10%, luego rebota +7.15% el 26 de junio</title>
+      <title>[MEDIA][Técnico][ACTUALIZACIÓN] Dificultad de minería Bitcoin rebota +7.15% tras caída de 10%: hashrate ~984 EH/s</title>
       <link>https://news.bitcoin.com/miners-absorb-18-hashprice-crash-as-bitcoin-difficulty-jumps-7-15/</link>
-      <guid isPermaLink="false">bitcoin-mining-difficulty-drop-10pct-ai-pivot#upd-2026-06-28</guid>
-      <description>[ACTUALIZACIÓN] Tras la caída del 10%, la dificultad rebotó +7.15% a 133.87T (bloque 955,584). Hashrate en ~984 EH/s. Hashprice cae 18% a $28.68/PH/s. Categoría: Minería/AI</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
+      <guid isPermaLink="false">bitcoin-mining-difficulty-drop-10pct-ai-pivot#upd-2026-06-29</guid>
+      <description>Dificultad sube 7.15% el 26/06 (bloque 955,584), de 124.93T a 133.87T. Hashprice cae 18% a $28.68/PH/s. En 2026: 7 reducciones vs 6 aumentos. Categoría: Minería/AI.</description>
+      <pubDate>Mon, 29 Jun 2026 01:55:50 +0000</pubDate>
       <category>Minería/AI</category>
     </item>
-
     <item>
-      <title>[MEDIA][Mercado] Metaplanet adquiere Siiibo Securities y lanza Project Nova en Japón</title>
-      <link>https://news.bitcoin.com/metaplanet-to-launch-bitcoin-yield-products-in-japan-after-13-million-siiibo-securities-deal/</link>
-      <guid isPermaLink="false">metaplanet-project-nova-siiibo-securities</guid>
-      <description>Metaplanet (3er tenedor corporativo, 40,177 BTC) compra Siiibo Securities por $13M y lanzará productos de rendimiento vinculados a BTC en Japón. Categoría: Figuras</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
+      <title>[BAJA][Geo] CZ atribuye la caída crypto de 2026 a rotación hacia IA, tensión geopolítica y ciclo de 4 años</title>
+      <link>https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle</link>
+      <guid isPermaLink="false">cz-binance-blames-2026-downturn-ai-geopolitics-cycle</guid>
+      <description>CZ identifica tres factores: capital migrando a IA, tensiones EE.UU.-Irán, y ciclo post-halving. Se declara optimista a largo plazo pese a caída de 50% desde ATH. Categoría: Figuras.</description>
+      <pubDate>Mon, 29 Jun 2026 01:55:50 +0000</pubDate>
       <category>Figuras</category>
     </item>
-
-    <item>
-      <title>[MEDIA][Técnico] Bitcoin Core 31.0: vulnerabilidad de privacidad expone IP real de nodos</title>
-      <link>https://bitcoincore.org/en/2026/06/06/privatebroadcast-ip-leak/</link>
-      <guid isPermaLink="false">bitcoin-core-31-privacy-bug-ip-leak</guid>
-      <description>La función "private broadcast" de v31.0 tiene un fallo: si el handshake BIP324 v2 falla, el retry v1 bypasea Tor y expone la IP real del nodo. Fix en v31.1. Categoría: Core/Release</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>Core/Release</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] Tether pone a trabajar $23B en oro con préstamos colateralizados (Ledn)</title>
-      <link>https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans/</link>
-      <guid isPermaLink="false">tether-gold-23b-bullion-backed-loans-ledn</guid>
-      <description>Tether tiene ~140 toneladas de oro ($23B). Junto a Ledn, lanza préstamos respaldados en oro tokenizado (XAUT). Colateral 1:1 sin re-préstamo. Categoría: Stablecoins</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>Stablecoins</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] Marathon Digital compra 1,000 BTC ($66M) contra la tendencia del sector</title>
-      <link>https://cryptobriefing.com/marathon-digital-buys-66m-bitcoin/</link>
-      <guid isPermaLink="false">marathon-digital-buys-1000-btc-66m-june</guid>
-      <description>MARA compró 1,000 BTC vía FalconX a ~$66,700/BTC el 16 de junio, contra la tendencia de mineros vendiendo. 2do mayor tenedor corporativo tras Strategy. Categoría: Ballenas</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>Ballenas</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Mercado] GameStop retiene 4,710 BTC con estrategia de covered calls</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/gamestop-retains-4-710-bitcoin-101324345.html</link>
-      <guid isPermaLink="false">gamestop-bitcoin-treasury-covered-calls</guid>
-      <description>GameStop mantiene 4,710 BTC (~$368M), 99.98% colateralizado en Coinbase Prime para covered calls como activo generador de rendimiento. Categoría: Ballenas</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>Ballenas</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Técnico] BIP-360 (post-cuántico) fue mergeado; migración más difícil que Taproot</title>
-      <link>https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says</link>
-      <guid isPermaLink="false">bip-360-post-quantum-migration-merged</guid>
-      <description>BIP-360 agrega pay-to-Merkle-root eliminando ruta de gasto vulnerable a ataques cuánticos. Mergeado en febrero 2026. Migración estimada más compleja que Taproot. Categoría: Cuántica</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>Cuántica</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Mercado] Cascada de liquidaciones a inicios de junio: $3B en 3 días</title>
-      <link>https://wazirx.com/blog/bitcoin-liquidation-cascade-june-2026/</link>
-      <guid isPermaLink="false">bitcoin-liquidation-cascade-june-4-6</guid>
-      <description>Entre el 4 y 6 de junio, ~$3B liquidados en derivados crypto. Posiciones long representaron el 84-85% de las pérdidas. Categoría: On-chain</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>On-chain</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Técnico] BIP-451: protocolo estándar para eliminar dust UTXOs</title>
-      <link>https://groups.google.com/g/bitcoindev/c/dust-utxo-disposal</link>
-      <guid isPermaLink="false">bip-451-dust-utxo-disposal-protocol</guid>
-      <description>Actualizado el 25 de junio. Protocolo para disponer de UTXOs polvo vía OP_RETURN con valor como fee. Permite batching con RBF. Categoría: BIP/Fork</description>
-      <pubDate>Sun, 28 Jun 2026 11:04:07 +0000</pubDate>
-      <category>BIP/Fork</category>
-    </item>
-
   </channel>
 </rss>

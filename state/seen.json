@@ -11,8 +11,8 @@
       "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
       "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-06-28",
-      "updates": ["2026-06-28"]
+      "last_update": "2026-06-29",
+      "updates": ["2026-06-28", "2026-06-29"]
     },
     {
       "id": "taproot-assets-v08-sdk-stablecoins",
@@ -78,15 +78,17 @@
       "id": "strategy-saylor-sells-32-btc-first-time-2022",
       "title": "Strategy/Saylor vende 32 BTC por primera vez desde 2022, luego compra 1,550",
       "url": "https://www.coindesk.com/markets/2026/06/01/strategy-sold-32-btc-for-usd2-5-million-in-late-may-filing-shows",
-      "first_seen": "2026-06-28"
+      "first_seen": "2026-06-28",
+      "last_update": "2026-06-29",
+      "updates": ["2026-06-29"]
     },
     {
       "id": "bitcoin-mining-difficulty-drop-10pct-ai-pivot",
       "title": "Dificultad de minería Bitcoin cae 10% — mineros pivotan a AI/HPC",
       "url": "https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026",
       "first_seen": "2026-06-28",
-      "last_update": "2026-06-28",
-      "updates": ["2026-06-28"]
+      "last_update": "2026-06-29",
+      "updates": ["2026-06-28", "2026-06-29"]
     },
     {
       "id": "metaplanet-project-nova-siiibo-securities",
@@ -104,7 +106,9 @@
       "id": "clarity-act-senate-calendar-crypto-market-structure",
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
-      "first_seen": "2026-06-28"
+      "first_seen": "2026-06-28",
+      "last_update": "2026-06-29",
+      "updates": ["2026-06-29"]
     },
     {
       "id": "bitcoin-core-31-privacy-bug-ip-leak",
@@ -129,6 +133,30 @@
       "title": "BIP-451: protocolo estándar para eliminar dust UTXOs",
       "url": "https://groups.google.com/g/bitcoindev/c/dust-utxo-disposal",
       "first_seen": "2026-06-28"
+    },
+    {
+      "id": "blackrock-1-2pct-bitcoin-allocation-advisor-portfolios",
+      "title": "BlackRock formaliza guía de 1-2% en Bitcoin para carteras de inversión y añade IBIT a portafolios modelo",
+      "url": "https://www.investing.com/analysis/blackrock-sets-12-bitcoin-risk-budget-for-advisor-portfolios-200682701",
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "btc-whale-transactions-two-month-peak-60k",
+      "title": "Ballenas de Bitcoin alcanzan pico de actividad en 2 meses mientras precio sostiene $60K",
+      "url": "https://www.livebitcoinnews.com/bitcoin-whale-transactions-hit-two-month-peak-as-price-holds-60000/",
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "eu-21st-sanctions-package-crypto-russia-june-2026",
+      "title": "UE propone 21° paquete de sanciones contra Rusia: prohíbe transacciones con 11 plataformas crypto",
+      "url": "https://www.theblock.co/amp/post/404207/eu-proposes-russia-crypto-sanction",
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "cz-binance-blames-2026-downturn-ai-geopolitics-cycle",
+      "title": "CZ atribuye la caída crypto de 2026 a rotación de capital hacia IA, tensión geopolítica y ciclo de 4 años",
+      "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
+      "first_seen": "2026-06-29"
     }
   ]
 }
