@@ -94,7 +94,9 @@
       "id": "metaplanet-project-nova-siiibo-securities",
       "title": "Metaplanet adquiere Siiibo Securities y lanza Project Nova para productos BTC en Japón",
       "url": "https://news.bitcoin.com/metaplanet-to-launch-bitcoin-yield-products-in-japan-after-13-million-siiibo-securities-deal/",
-      "first_seen": "2026-06-28"
+      "first_seen": "2026-06-28",
+      "last_update": "2026-06-29",
+      "updates": ["2026-06-29"]
     },
     {
       "id": "binance-mica-failure-eu-exit-july-2026",
@@ -156,6 +158,24 @@
       "id": "cz-binance-blames-2026-downturn-ai-geopolitics-cycle",
       "title": "CZ atribuye la caída crypto de 2026 a rotación de capital hacia IA, tensión geopolítica y ciclo de 4 años",
       "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "kashkari-fed-rate-hike-pivot-june-2026",
+      "title": "Kashkari (Fed Minneapolis) pivotea a hawkish: proyecta una suba de tasas en 2026",
+      "url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "bis-annual-report-stablecoin-fragmentation-warning",
+      "title": "BIS advierte que stablecoins pueden fragmentar el sistema monetario global",
+      "url": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system",
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "eba-mica-penalty-framework-12-5pct-fines",
+      "title": "EBA propone multas de hasta 12.5% de facturación anual por violar MiCA",
+      "url": "https://crypto.news/european-banking-authority-seeks-feedback-on-a-tougher-mica-penalty-framework/",
       "first_seen": "2026-06-29"
     }
   ]
