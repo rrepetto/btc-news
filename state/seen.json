@@ -4,15 +4,17 @@
       "id": "bip-110-signaling-august-fork-deadline",
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
-      "first_seen": "2026-06-28"
+      "first_seen": "2026-06-28",
+      "last_update": "2026-06-30",
+      "updates": ["2026-06-30"]
     },
     {
       "id": "ibit-etf-outflows-444m-seven-day-streak",
       "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
       "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-06-29",
-      "updates": ["2026-06-28", "2026-06-29"]
+      "last_update": "2026-06-30",
+      "updates": ["2026-06-28", "2026-06-29", "2026-06-30"]
     },
     {
       "id": "taproot-assets-v08-sdk-stablecoins",
@@ -79,8 +81,8 @@
       "title": "Strategy/Saylor vende 32 BTC por primera vez desde 2022, luego compra 1,550",
       "url": "https://www.coindesk.com/markets/2026/06/01/strategy-sold-32-btc-for-usd2-5-million-in-late-may-filing-shows",
       "first_seen": "2026-06-28",
-      "last_update": "2026-06-29",
-      "updates": ["2026-06-29"]
+      "last_update": "2026-06-30",
+      "updates": ["2026-06-29", "2026-06-30"]
     },
     {
       "id": "bitcoin-mining-difficulty-drop-10pct-ai-pivot",
@@ -177,6 +179,12 @@
       "title": "EBA propone multas de hasta 12.5% de facturación anual por violar MiCA",
       "url": "https://crypto.news/european-banking-authority-seeks-feedback-on-a-tougher-mica-penalty-framework/",
       "first_seen": "2026-06-29"
+    },
+    {
+      "id": "tether-usdt-india-premium-85pct-ed-crackdown",
+      "title": "India: USDT salta a 8.5% de premium tras redada de la ED contra firmas que usaban el stablecoin para remesas no declaradas",
+      "url": "https://www.coindesk.com/markets/2026/06/29/usdt-jumps-to-8-5-premium-in-india-after-crypto-payment-crackdown",
+      "first_seen": "2026-06-30"
     }
   ]
 }
