@@ -5,38 +5,52 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 30 Jun 2026 11:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 11:04:25 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Mercado] Strategy formaliza el "Digital Credit Capital Framework": ya puede vender BTC para financiar recompras y dividendos</title>
-      <link>https://www.coindesk.com/markets/2026/06/29/saylor-s-strategy-initiates-buybacks-bitcoin-monetization-program-lifts-strc-dividend</link>
-      <guid isPermaLink="false">strategy-saylor-sells-32-btc-first-time-2022#upd-2026-06-30</guid>
-      <description>ACTUALIZACIÓN: Strategy anunció recompra de acciones por $2,000M y un marco que limita en $1,250M la venta de BTC para reservas, dividendos y recompras; subió el dividendo de STRC a 12%. Categoría: Figuras.</description>
-      <pubDate>Tue, 30 Jun 2026 11:05:14 +0000</pubDate>
-      <category>Figuras</category>
-    </item>
-    <item>
-      <title>[ALTA][Mercado] ETFs de Bitcoin cierran junio con el peor mes de salidas desde su lanzamiento: $4,060M</title>
-      <link>https://cryptobriefing.com/bitcoin-etf-worst-monthly-outflows/</link>
-      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-06-30</guid>
-      <description>ACTUALIZACIÓN: junio cerró con $4,060M en salidas netas de los ETF spot de BTC en EE.UU., superando el récord mensual previo de $3,560M (feb. 2025). IBIT concentró ~$3,000M. Categoría: ETF.</description>
-      <pubDate>Tue, 30 Jun 2026 11:05:14 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-    <item>
-      <title>[ALTA][Geo] India: USDT salta a 8.5% de premium tras redada de la ED contra firmas de remesas vía stablecoins</title>
-      <link>https://www.coindesk.com/markets/2026/06/29/usdt-jumps-to-8-5-premium-in-india-after-crypto-payment-crackdown</link>
-      <guid isPermaLink="false">tether-usdt-india-premium-85pct-ed-crackdown</guid>
-      <description>La ED allanó seis locales en Bengaluru y acusó a cinco firmas de mover más de $265M en transferencias no autorizadas usando USDT como canal informal de remesas, generando escasez local de USDT y un premium del 8.5%. Categoría: Regulación.</description>
-      <pubDate>Tue, 30 Jun 2026 11:05:14 +0000</pubDate>
+      <title>[ALTA][Geo] [ACTUALIZACIÓN] Binance suspende servicios en la UE: corte efectivo hoy y pivot a Francia</title>
+      <link>https://crypto.news/binance-eu-mica-license-lockout-july-2026-explained/</link>
+      <guid isPermaLink="false">binance-mica-failure-eu-exit-july-2026#upd-2026-07-01</guid>
+      <description>Desde el 1/07, Binance no ofrece servicios a residentes de la UE (Francia, Italia, Polonia, España). Retiró su solicitud MiCA en Grecia y apuntará a Francia como nueva jurisdicción. Los fondos de clientes siguen accesibles. Categoría: Regulación.</description>
+      <pubDate>Wed, 01 Jul 2026 11:04:25 +0000</pubDate>
       <category>Regulación</category>
     </item>
+
     <item>
-      <title>[ALTA][Técnico] BIP-110: Adam Back y Jameson Lopp advierten riesgo de chain split a 5 semanas del plazo de agosto</title>
-      <link>https://cryptobriefing.com/bip-110-fork-fail-activate-adam-back/</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-06-30</guid>
-      <description>ACTUALIZACIÓN: Adam Back (Blockstream) y Jameson Lopp advirtieron públicamente que BIP-110 podría autodividir la red o fallar en activarse antes del 7/08, calificándola de "imprudente" y "técnicamente rota". Señalización minera sigue entre 0.3% y 3%. Categoría: BIP/Fork.</description>
-      <pubDate>Tue, 30 Jun 2026 11:05:14 +0000</pubDate>
-      <category>BIP/Fork</category>
+      <title>[ALTA][Mercado] [ACTUALIZACIÓN] ETF Bitcoin: junio cierra con $4,500M en salidas netas, peor mes desde el lanzamiento</title>
+      <link>https://www.theblock.co/post/406802/bitcoin-etf-worst-month-yet</link>
+      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-01</guid>
+      <description>Dato definitivo de junio: $4,500M en salidas netas (vs. $4,060M reportados el 30/06), con IBIT de BlackRock aportando $3,550M. Racha de 9 días consecutivos. Más de 100,000 BTC salieron de ETFs en 2026. Categoría: ETF.</description>
+      <pubDate>Wed, 01 Jul 2026 11:04:25 +0000</pubDate>
+      <category>ETF</category>
     </item>
+
+    <item>
+      <title>[MEDIA][Técnico] [ACTUALIZACIÓN] Bitcoin Core 31.1rc1: fix del bug de IP leak disponible para testing</title>
+      <link>https://crypto.news/bitcoin-core-fixes-privacy-risk-before-next-release/</link>
+      <guid isPermaLink="false">bitcoin-core-31-privacy-bug-ip-leak#upd-2026-07-01</guid>
+      <description>Bitcoin Core 31.1rc1 resuelve la vulnerabilidad de -privatebroadcast en v31.0 que exponía la IP real del nodo al fallar el handshake BIP324 v2. También mejora proxy handling y cálculo de tamaño de inputs. Aún en testing (RC, no producción). Categoría: Core/Release.</description>
+      <pubDate>Wed, 01 Jul 2026 11:04:25 +0000</pubDate>
+      <category>Core/Release</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Geo] California implementa hoy su ley de activos digitales (DFAL): licencia obligatoria para firmas cripto</title>
+      <link>https://www.jonesday.com/en/insights/2026/02/registration-under-california-digital-financial-assets-law-begins-march-9-law-takes-effect-july-1</link>
+      <guid isPermaLink="false">california-dfal-enforcement-july-2026</guid>
+      <description>La Digital Financial Assets Law de California entra en vigor el 1/07/2026. Firmas de intercambio, custodia o transferencia de activos digitales con residentes de CA deben tener licencia DFPI o solicitud presentada. Multa base $500K. Alcance equivalente a norma federal de facto. Categoría: Regulación.</description>
+      <pubDate>Wed, 01 Jul 2026 11:04:25 +0000</pubDate>
+      <category>Regulación</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Geo] [ACTUALIZACIÓN] CLARITY Act: negociaciones bipartidistas rotas; plazo límite es fin de julio</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/senates-last-ditch-clarity-act-145216524.html</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-01</guid>
+      <description>Las negociaciones sobre cláusulas de ética y protecciones a desarrolladores colapsaron. El Senado vuelve el 13/07; si no hay voto de piso antes del receso de agosto, las perspectivas se deterioran materialmente. Se necesitan 7 votos demócratas para superar el umbral de 60. Categoría: Regulación.</description>
+      <pubDate>Wed, 01 Jul 2026 11:04:25 +0000</pubDate>
+      <category>Regulación</category>
+    </item>
+
   </channel>
 </rss>
