@@ -5,51 +5,33 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 01 Jul 2026 11:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 11:02:22 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACIÓN] Binance suspende servicios en la UE: corte efectivo hoy y pivot a Francia</title>
-      <link>https://crypto.news/binance-eu-mica-license-lockout-july-2026-explained/</link>
-      <guid isPermaLink="false">binance-mica-failure-eu-exit-july-2026#upd-2026-07-01</guid>
-      <description>Desde el 1/07, Binance no ofrece servicios a residentes de la UE (Francia, Italia, Polonia, España). Retiró su solicitud MiCA en Grecia y apuntará a Francia como nueva jurisdicción. Los fondos de clientes siguen accesibles. Categoría: Regulación.</description>
-      <pubDate>Wed, 01 Jul 2026 11:04:25 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[ALTA][Técnico][ACTUALIZACIÓN] BIP-110: críticos detallan riesgo de fondos inaccesibles — scripts Miniscript y 1.7M BTC en P2PK afectados</title>
+      <link>https://cryptopotato.com/critics-say-bip-110-could-break-self-custody-and-risk-user-funds/</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-02</guid>
+      <description>Actualización: BIP-110 prohibiría opcodes de Miniscript activos, dejando fondos inaccesibles; ban de outputs P2PK afecta 1.7M BTC. Saylor lo llama &quot;el mayor riesgo autoinfligido de Bitcoin&quot;. Señalización minera sigue en ~0.3-3% del hashrate, muy por debajo del 55% requerido. Categoría: BIP/Fork</description>
+      <pubDate>Thu, 02 Jul 2026 11:02:22 +0000</pubDate>
+      <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[ALTA][Mercado] [ACTUALIZACIÓN] ETF Bitcoin: junio cierra con $4,500M en salidas netas, peor mes desde el lanzamiento</title>
-      <link>https://www.theblock.co/post/406802/bitcoin-etf-worst-month-yet</link>
-      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-01</guid>
-      <description>Dato definitivo de junio: $4,500M en salidas netas (vs. $4,060M reportados el 30/06), con IBIT de BlackRock aportando $3,550M. Racha de 9 días consecutivos. Más de 100,000 BTC salieron de ETFs en 2026. Categoría: ETF.</description>
-      <pubDate>Wed, 01 Jul 2026 11:04:25 +0000</pubDate>
-      <category>ETF</category>
+      <title>[ALTA][Geo] Corte Suprema de EE.UU. bloquea a Trump de remover a Lisa Cook (Fed) — composición hawkish consolidada</title>
+      <link>https://www.cnbc.com/2026/06/29/supreme-court-lisa-cook-trump-federal-reserve.html</link>
+      <guid isPermaLink="false">scotus-trump-lisa-cook-fed-hawkish</guid>
+      <description>Fallo 5-4 de emergencia bloquea el despido de la gobernadora de la Fed Lisa Cook. Cierra la vía para instalar un reemplazante dovish. Futuros dan &gt;50% de probabilidad de suba de tasas antes de fin de año; próxima reunión FOMC el 28-29 de julio. Tasas altas presionan a Bitcoin. Categoría: Macro</description>
+      <pubDate>Thu, 02 Jul 2026 11:02:22 +0000</pubDate>
+      <category>Macro</category>
     </item>
 
     <item>
-      <title>[MEDIA][Técnico] [ACTUALIZACIÓN] Bitcoin Core 31.1rc1: fix del bug de IP leak disponible para testing</title>
-      <link>https://crypto.news/bitcoin-core-fixes-privacy-risk-before-next-release/</link>
-      <guid isPermaLink="false">bitcoin-core-31-privacy-bug-ip-leak#upd-2026-07-01</guid>
-      <description>Bitcoin Core 31.1rc1 resuelve la vulnerabilidad de -privatebroadcast en v31.0 que exponía la IP real del nodo al fallar el handshake BIP324 v2. También mejora proxy handling y cálculo de tamaño de inputs. Aún en testing (RC, no producción). Categoría: Core/Release.</description>
-      <pubDate>Wed, 01 Jul 2026 11:04:25 +0000</pubDate>
-      <category>Core/Release</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Geo] California implementa hoy su ley de activos digitales (DFAL): licencia obligatoria para firmas cripto</title>
-      <link>https://www.jonesday.com/en/insights/2026/02/registration-under-california-digital-financial-assets-law-begins-march-9-law-takes-effect-july-1</link>
-      <guid isPermaLink="false">california-dfal-enforcement-july-2026</guid>
-      <description>La Digital Financial Assets Law de California entra en vigor el 1/07/2026. Firmas de intercambio, custodia o transferencia de activos digitales con residentes de CA deben tener licencia DFPI o solicitud presentada. Multa base $500K. Alcance equivalente a norma federal de facto. Categoría: Regulación.</description>
-      <pubDate>Wed, 01 Jul 2026 11:04:25 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Geo] [ACTUALIZACIÓN] CLARITY Act: negociaciones bipartidistas rotas; plazo límite es fin de julio</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/senates-last-ditch-clarity-act-145216524.html</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-01</guid>
-      <description>Las negociaciones sobre cláusulas de ética y protecciones a desarrolladores colapsaron. El Senado vuelve el 13/07; si no hay voto de piso antes del receso de agosto, las perspectivas se deterioran materialmente. Se necesitan 7 votos demócratas para superar el umbral de 60. Categoría: Regulación.</description>
-      <pubDate>Wed, 01 Jul 2026 11:04:25 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[ALTA][Mercado] Citi recorta objetivo de BTC a $82K — primera rebaja del sector financiero tradicional en 2026; bear case: $53K</title>
+      <link>https://www.coindesk.com/markets/2026/07/01/citi-slashes-12-month-bitcoin-ether-targets-as-etf-flows-dry-up</link>
+      <guid isPermaLink="false">citi-bitcoin-target-cut-82k-2026</guid>
+      <description>Citi baja objetivo 12M de BTC de $112K a $82K citando: flujos ETF que pasaron de $10B proyectados a cero o negativos, legislación estancada en el Congreso, y riesgo de ventas de tesorerías corporativas. Bear case $53K si ETFs siguen perdiendo activos. Bull case $108K. Categoría: Figuras</description>
+      <pubDate>Thu, 02 Jul 2026 11:02:22 +0000</pubDate>
+      <category>Figuras</category>
     </item>
 
   </channel>

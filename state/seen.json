@@ -5,8 +5,8 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-06-30",
-      "updates": ["2026-06-30"]
+      "last_update": "2026-07-02",
+      "updates": ["2026-06-30", "2026-07-02"]
     },
     {
       "id": "ibit-etf-outflows-444m-seven-day-streak",
@@ -195,6 +195,18 @@
       "title": "California implementa su ley de activos digitales (DFAL): firmas cripto deben tener licencia o solicitud presentada desde hoy",
       "url": "https://www.jonesday.com/en/insights/2026/02/registration-under-california-digital-financial-assets-law-begins-march-9-law-takes-effect-july-1",
       "first_seen": "2026-07-01"
+    },
+    {
+      "id": "scotus-trump-lisa-cook-fed-hawkish",
+      "title": "Corte Suprema de EE.UU. bloquea a Trump de remover a Lisa Cook (Fed) — composición hawkish consolidada",
+      "url": "https://www.cnbc.com/2026/06/29/supreme-court-lisa-cook-trump-federal-reserve.html",
+      "first_seen": "2026-07-02"
+    },
+    {
+      "id": "citi-bitcoin-target-cut-82k-2026",
+      "title": "Citi recorta objetivo de BTC a $82K — primera rebaja del sector financiero tradicional en 2026; bear case: $53K",
+      "url": "https://www.coindesk.com/markets/2026/07/01/citi-slashes-12-month-bitcoin-ether-targets-as-etf-flows-dry-up",
+      "first_seen": "2026-07-02"
     }
   ]
 }
