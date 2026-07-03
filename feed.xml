@@ -5,33 +5,51 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 02 Jul 2026 11:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:07:28 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico][ACTUALIZACIÓN] BIP-110: críticos detallan riesgo de fondos inaccesibles — scripts Miniscript y 1.7M BTC en P2PK afectados</title>
-      <link>https://cryptopotato.com/critics-say-bip-110-could-break-self-custody-and-risk-user-funds/</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-02</guid>
-      <description>Actualización: BIP-110 prohibiría opcodes de Miniscript activos, dejando fondos inaccesibles; ban de outputs P2PK afecta 1.7M BTC. Saylor lo llama &quot;el mayor riesgo autoinfligido de Bitcoin&quot;. Señalización minera sigue en ~0.3-3% del hashrate, muy por debajo del 55% requerido. Categoría: BIP/Fork</description>
-      <pubDate>Thu, 02 Jul 2026 11:02:22 +0000</pubDate>
+      <title>[ALTA][Técnico] Paul Sztorc anuncia hard fork "eCash" de Bitcoin en agosto (bloque 964,000) — controversia por reasignar monedas de Satoshi</title>
+      <link>https://news.bitcoin.com/drivechain-architect-paul-sztorc-unveils-august-bitcoin-hard-fork-with-11-btc-coin-split/</link>
+      <guid isPermaLink="false">sztorc-ecash-hard-fork-august-2026</guid>
+      <description>El creador de Drivechain planea bifurcar Bitcoin en el bloque 964,000 (~agosto 2026) con airdrop 1:1 a holders. Controversia central: ~500K-600K BTC de direcciones de Satoshi serian redirigidos a inversores del proyecto. 80-85% de respuestas negativas; criticos lo llaman &quot;robo&quot;. Suma un segundo vector de incertidumbre a agosto, junto con BIP-110. Categoria: BIP/Fork</description>
+      <pubDate>Fri, 03 Jul 2026 11:07:28 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[ALTA][Geo] Corte Suprema de EE.UU. bloquea a Trump de remover a Lisa Cook (Fed) — composición hawkish consolidada</title>
-      <link>https://www.cnbc.com/2026/06/29/supreme-court-lisa-cook-trump-federal-reserve.html</link>
-      <guid isPermaLink="false">scotus-trump-lisa-cook-fed-hawkish</guid>
-      <description>Fallo 5-4 de emergencia bloquea el despido de la gobernadora de la Fed Lisa Cook. Cierra la vía para instalar un reemplazante dovish. Futuros dan &gt;50% de probabilidad de suba de tasas antes de fin de año; próxima reunión FOMC el 28-29 de julio. Tasas altas presionan a Bitcoin. Categoría: Macro</description>
-      <pubDate>Thu, 02 Jul 2026 11:02:22 +0000</pubDate>
-      <category>Macro</category>
+      <title>[ALTA][Mercado][ACTUALIZACIÓN] ETFs de BTC: $221M en entradas el 3/julio ponen fin a la racha de 10 dias de salidas — mayores flujos positivos en 2 meses</title>
+      <link>https://www.coindesk.com/markets/2026/07/03/finally-usd221-million-flow-into-bitcoin-etfs-ending-a-painful-10-day-outflow-streak</link>
+      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-03</guid>
+      <description>Reversion de la racha de salidas: FBTC lidero con $166M, ARKB $92M. IBIT registro $40M de salidas. Total neto: $221M, los mayores flujos positivos en ~2 meses. YTD sigue negativo en ~$5,400M. Se necesita tendencia sostenida para confirmar recuperacion. Categoria: ETF</description>
+      <pubDate>Fri, 03 Jul 2026 11:07:28 +0000</pubDate>
+      <category>ETF</category>
     </item>
 
     <item>
-      <title>[ALTA][Mercado] Citi recorta objetivo de BTC a $82K — primera rebaja del sector financiero tradicional en 2026; bear case: $53K</title>
-      <link>https://www.coindesk.com/markets/2026/07/01/citi-slashes-12-month-bitcoin-ether-targets-as-etf-flows-dry-up</link>
-      <guid isPermaLink="false">citi-bitcoin-target-cut-82k-2026</guid>
-      <description>Citi baja objetivo 12M de BTC de $112K a $82K citando: flujos ETF que pasaron de $10B proyectados a cero o negativos, legislación estancada en el Congreso, y riesgo de ventas de tesorerías corporativas. Bear case $53K si ETFs siguen perdiendo activos. Bull case $108K. Categoría: Figuras</description>
-      <pubDate>Thu, 02 Jul 2026 11:02:22 +0000</pubDate>
-      <category>Figuras</category>
+      <title>[MEDIA][Técnico][ACTUALIZACIÓN] BIP-110: desarrollador de Bitcoin Core Jon Atack advierte explicitamente pausar transferencias BTC en agosto</title>
+      <link>https://news.bitcoin.com/bitcoin-core-developer-warns-users-to-pause-btc-transfers-when-bip-110-deadline-nears/</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-03</guid>
+      <description>Jon Atack (Bitcoin Core) publico advertencia directa: evitar enviar BTC alrededor del bloque 961,632 (~7 agosto) por riesgo de reorgs y divergencia de mempool. Planea monitorear con nodos paralelos. Senalizacion en 0.78%, lejos del 55% requerido. Categoria: BIP/Fork</description>
+      <pubDate>Fri, 03 Jul 2026 11:07:28 +0000</pubDate>
+      <category>BIP/Fork</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Geo] Japon reclasifica Bitcoin y 104 criptos como instrumentos financieros — insider trading prohibido, impuesto flat al 20% en 2028</title>
+      <link>https://news.bitcoin.com/japan-passes-bill-reclassifying-crypto-as-financial-instruments/</link>
+      <guid isPermaLink="false">japan-crypto-financial-instrument-fiea-2026</guid>
+      <description>El Parlamento japones aprobo enmienda a la FIEA que eleva crypto a instrumentos de inversion equiparables a acciones. Insider trading prohibido para directivos. Impuesto flat 20% en 2028 (desde hasta 55%). Reforma mas significativa de Japon en cripto en mas de 5 anos. Categoria: Regulacion</description>
+      <pubDate>Fri, 03 Jul 2026 11:07:28 +0000</pubDate>
+      <category>Regulacion</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Mineria] HashKey Capital lanza el primer Bitcoin Hashrate Fund con BITMAIN como proveedor de computo</title>
+      <link>https://group.hashkey.com/en/newsroom/hashkey-capital-launches-industry-s-first-bitcoin-hashrate-fund-with-bitmain-providing-computing-power-solutions</link>
+      <guid isPermaLink="false">hashkey-capital-bitcoin-hashrate-fund-bitmain</guid>
+      <description>Primer fondo de inversion denominado en BTC ligado al hashrate de mineria. BITMAIN aporta computo pero no distribuye. Apunta a retornos anualizados competitivos para inversores profesionales globales. Detalles de tamano y estructura pendientes. Categoria: Mineria/AI</description>
+      <pubDate>Fri, 03 Jul 2026 11:07:28 +0000</pubDate>
+      <category>Mineria/AI</category>
     </item>
 
   </channel>

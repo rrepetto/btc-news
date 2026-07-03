@@ -5,16 +5,16 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-02",
-      "updates": ["2026-06-30", "2026-07-02"]
+      "last_update": "2026-07-03",
+      "updates": ["2026-06-30", "2026-07-02", "2026-07-03"]
     },
     {
       "id": "ibit-etf-outflows-444m-seven-day-streak",
       "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
       "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-01",
-      "updates": ["2026-06-28", "2026-06-29", "2026-06-30", "2026-07-01"]
+      "last_update": "2026-07-03",
+      "updates": ["2026-06-28", "2026-06-29", "2026-06-30", "2026-07-01", "2026-07-03"]
     },
     {
       "id": "taproot-assets-v08-sdk-stablecoins",
@@ -207,6 +207,24 @@
       "title": "Citi recorta objetivo de BTC a $82K — primera rebaja del sector financiero tradicional en 2026; bear case: $53K",
       "url": "https://www.coindesk.com/markets/2026/07/01/citi-slashes-12-month-bitcoin-ether-targets-as-etf-flows-dry-up",
       "first_seen": "2026-07-02"
+    },
+    {
+      "id": "sztorc-ecash-hard-fork-august-2026",
+      "title": "Paul Sztorc anuncia hard fork 'eCash' de Bitcoin en agosto (bloque 964,000) — controversia por reasignar monedas de Satoshi",
+      "url": "https://news.bitcoin.com/drivechain-architect-paul-sztorc-unveils-august-bitcoin-hard-fork-with-11-btc-coin-split/",
+      "first_seen": "2026-07-03"
+    },
+    {
+      "id": "japan-crypto-financial-instrument-fiea-2026",
+      "title": "Japón reclasifica Bitcoin y 104 criptos como instrumentos financieros — insider trading prohibido, impuesto flat al 20% en 2028",
+      "url": "https://news.bitcoin.com/japan-passes-bill-reclassifying-crypto-as-financial-instruments/",
+      "first_seen": "2026-07-03"
+    },
+    {
+      "id": "hashkey-capital-bitcoin-hashrate-fund-bitmain",
+      "title": "HashKey Capital lanza el primer Bitcoin Hashrate Fund con BITMAIN como proveedor de cómputo",
+      "url": "https://group.hashkey.com/en/newsroom/hashkey-capital-launches-industry-s-first-bitcoin-hashrate-fund-with-bitmain-providing-computing-power-solutions",
+      "first_seen": "2026-07-03"
     }
   ]
 }
