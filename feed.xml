@@ -3,53 +3,71 @@
   <channel>
     <title>Bitcoin Daily Digest</title>
     <link>https://rrepetto.github.io/btc-news/</link>
-    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
+    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuantica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolitica/regulacion y mineria.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 03 Jul 2026 11:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 11:09:56 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] Paul Sztorc anuncia hard fork "eCash" de Bitcoin en agosto (bloque 964,000) — controversia por reasignar monedas de Satoshi</title>
-      <link>https://news.bitcoin.com/drivechain-architect-paul-sztorc-unveils-august-bitcoin-hard-fork-with-11-btc-coin-split/</link>
-      <guid isPermaLink="false">sztorc-ecash-hard-fork-august-2026</guid>
-      <description>El creador de Drivechain planea bifurcar Bitcoin en el bloque 964,000 (~agosto 2026) con airdrop 1:1 a holders. Controversia central: ~500K-600K BTC de direcciones de Satoshi serian redirigidos a inversores del proyecto. 80-85% de respuestas negativas; criticos lo llaman &quot;robo&quot;. Suma un segundo vector de incertidumbre a agosto, junto con BIP-110. Categoria: BIP/Fork</description>
-      <pubDate>Fri, 03 Jul 2026 11:07:28 +0000</pubDate>
+      <title>[ALTA][Tecnico] [ACTUALIZACION] BIP-110 — Adam Back: Fork Off and Find Out; criticos advierten UTXOs potencialmente inespendibles</title>
+      <link>https://cryptobriefing.com/bip-110-fork-fail-activate-adam-back/</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-04</guid>
+      <description>Escalada concreta respecto del 03/07. Adam Back califica BIP-110 de literal downgrade intencional y advierte fork minoritario aislado. Analisis formales concluyen que UTXOs existentes podrian volverse inespendibles permanentemente. Bitcoin a menos de 10,000 bloques de la ventana de senalizacion obligatoria (~7 agosto). Senalizacion minera: menos del 1%, lejos del 55% requerido. Categoria: BIP/Fork</description>
+      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[ALTA][Mercado][ACTUALIZACIÓN] ETFs de BTC: $221M en entradas el 3/julio ponen fin a la racha de 10 dias de salidas — mayores flujos positivos en 2 meses</title>
-      <link>https://www.coindesk.com/markets/2026/07/03/finally-usd221-million-flow-into-bitcoin-etfs-ending-a-painful-10-day-outflow-streak</link>
-      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-03</guid>
-      <description>Reversion de la racha de salidas: FBTC lidero con $166M, ARKB $92M. IBIT registro $40M de salidas. Total neto: $221M, los mayores flujos positivos en ~2 meses. YTD sigue negativo en ~$5,400M. Se necesita tendencia sostenida para confirmar recuperacion. Categoria: ETF</description>
-      <pubDate>Fri, 03 Jul 2026 11:07:28 +0000</pubDate>
-      <category>ETF</category>
+      <title>[ALTA][Geo] Reserva Estrategica de Bitcoin de EE.UU.: blueprint detallado previsto antes del 22 de julio</title>
+      <link>https://bitcoinist.com/bitcoin-reserve-blueprint-in-short-order/</link>
+      <guid isPermaLink="false">us-strategic-bitcoin-reserve-blueprint-july-22</guid>
+      <description>Bo Hines (White House Digital Assets Council) confirma que el diseno arquitectonico de la reserva esta circulando entre agencias y sera publicado antes del 22 de julio. Opciones: BitBonds, mineria federal con licencia, cobro de tarifas en BTC como adquisicion budget-neutral. Primer marco para adquisicion activa de nuevos BTC. Categoria: Geopolitica</description>
+      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
+      <category>Geopolitica</category>
     </item>
 
     <item>
-      <title>[MEDIA][Técnico][ACTUALIZACIÓN] BIP-110: desarrollador de Bitcoin Core Jon Atack advierte explicitamente pausar transferencias BTC en agosto</title>
-      <link>https://news.bitcoin.com/bitcoin-core-developer-warns-users-to-pause-btc-transfers-when-bip-110-deadline-nears/</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-03</guid>
-      <description>Jon Atack (Bitcoin Core) publico advertencia directa: evitar enviar BTC alrededor del bloque 961,632 (~7 agosto) por riesgo de reorgs y divergencia de mempool. Planea monitorear con nodos paralelos. Senalizacion en 0.78%, lejos del 55% requerido. Categoria: BIP/Fork</description>
-      <pubDate>Fri, 03 Jul 2026 11:07:28 +0000</pubDate>
-      <category>BIP/Fork</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Geo] Japon reclasifica Bitcoin y 104 criptos como instrumentos financieros — insider trading prohibido, impuesto flat al 20% en 2028</title>
-      <link>https://news.bitcoin.com/japan-passes-bill-reclassifying-crypto-as-financial-instruments/</link>
-      <guid isPermaLink="false">japan-crypto-financial-instrument-fiea-2026</guid>
-      <description>El Parlamento japones aprobo enmienda a la FIEA que eleva crypto a instrumentos de inversion equiparables a acciones. Insider trading prohibido para directivos. Impuesto flat 20% en 2028 (desde hasta 55%). Reforma mas significativa de Japon en cripto en mas de 5 anos. Categoria: Regulacion</description>
-      <pubDate>Fri, 03 Jul 2026 11:07:28 +0000</pubDate>
+      <title>[ALTA][Geo] [ACTUALIZACION] CLARITY Act — colapso de negociaciones bipartidistas; odds de aprobacion caen de 74% a 48%</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/senates-last-ditch-clarity-act-145216524.html</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-04</guid>
+      <description>Actualizacion del 01/07. Negociaciones bipartidistas sobre clausulas de etica y ley colapsaron. Senado en receso hasta el 13/julio, menos de 4 semanas antes del receso de agosto. Odds de aprobacion: 48% (desde 74% hace un mes). Casa Blanca habia fijado el 4 de julio como fecha simbolica. Categoria: Regulacion</description>
+      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
       <category>Regulacion</category>
     </item>
 
     <item>
-      <title>[BAJA][Mineria] HashKey Capital lanza el primer Bitcoin Hashrate Fund con BITMAIN como proveedor de computo</title>
-      <link>https://group.hashkey.com/en/newsroom/hashkey-capital-launches-industry-s-first-bitcoin-hashrate-fund-with-bitmain-providing-computing-power-solutions</link>
-      <guid isPermaLink="false">hashkey-capital-bitcoin-hashrate-fund-bitmain</guid>
-      <description>Primer fondo de inversion denominado en BTC ligado al hashrate de mineria. BITMAIN aporta computo pero no distribuye. Apunta a retornos anualizados competitivos para inversores profesionales globales. Detalles de tamano y estructura pendientes. Categoria: Mineria/AI</description>
-      <pubDate>Fri, 03 Jul 2026 11:07:28 +0000</pubDate>
-      <category>Mineria/AI</category>
+      <title>[MEDIA][Tecnico] Blockstream Q2 2026: propone OP_CHECKSHRINCS, opcode post-cuantico sin congelar coins</title>
+      <link>https://blog.blockstream.com/op_checkshrincs-a-hash-based-signature-opcode-for-post-quantum-bitcoin/</link>
+      <guid isPermaLink="false">blockstream-q2-2026-op-checkshrincs-post-quantum</guid>
+      <description>Blockstream propone OP_CHECKSHRINCS: opcode para firmas hash-based resistentes a computacion cuantica (esquemas SHRINCS/SHRIMPS). Alternativa a BIP-361: migracion voluntaria sin freeze de coins. Ya testeado en Liquid Network el 3 de marzo. Jonas Nick lo presento en OP_NEXT en abril. Siguiente paso: formalizar BIP de especificacion. Categoria: Cuantica</description>
+      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
+      <category>Cuantica</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Regulacion] GENIUS Act: 6 agencias tienen hasta el 18 de julio para finalizar reglas de stablecoins</title>
+      <link>https://stablecoininsider.org/six-federal-agencies-have-35-days-to-finalize-genius-act-stablecoin-rules-by-july-18/</link>
+      <guid isPermaLink="false">genius-act-stablecoin-rules-july-18-deadline</guid>
+      <description>OCC, FDIC, NCUA, Treasury, FinCEN y OFAC deben publicar reglas finales en 14 dias. Capital minimo $5M para emisores; sin seguro FDIC para holders. Emisores tendran ~120 dias para cumplir (efectivo: fines de 2026). Impacto directo en Tether, Circle y emisores bancarios. Categoria: Regulacion/Stablecoins</description>
+      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
+      <category>Regulacion</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] [ACTUALIZACION] Metaplanet compra 2,823 BTC ($225M), llega a 43,000 BTC y es la 3ra corporacion mundial</title>
+      <link>https://news.bitcoin.com/metaplanet-buys-2823-bitcoins-for-225m-as-treasury-reaches-43000-btc-holdings/</link>
+      <guid isPermaLink="false">metaplanet-project-nova-siiibo-securities#upd-2026-07-04</guid>
+      <description>Actualizacion del 29/06. Primera compra desde abril 2026: 2,823 BTC por ~$225M. Metaplanet es ahora la tercera corporacion con mas BTC del mundo (tras Strategy y Twenty One Capital). BTC Yield Q2: 6.6% vs 2.8% en Q1. Meta a largo plazo: 170,000 BTC (1% del supply). Categoria: Ballenas</description>
+      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
+      <category>Ballenas</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Mercado] Glassnode: LTH vuelven a acumular — 78.3% del supply en manos fuertes</title>
+      <link>https://www.coindesk.com/markets/2026/07/02/bitcoin-long-term-holders-have-returned-to-accumulation</link>
+      <guid isPermaLink="false">glassnode-lth-accumulation-return-july-2026</guid>
+      <description>LTH controlan 78.3% del supply (vs 74.1% antes). El 43% del BTC total (~8.9M monedas) esta en perdida no realizada, nivel historicamente asociado a fondos de ciclo. Ballenas grandes (&gt;10,000 BTC) aun neutras. Categoria: On-chain</description>
+      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
+      <category>On-chain</category>
     </item>
 
   </channel>

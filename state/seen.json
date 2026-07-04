@@ -5,8 +5,8 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-03",
-      "updates": ["2026-06-30", "2026-07-02", "2026-07-03"]
+      "last_update": "2026-07-04",
+      "updates": ["2026-06-30", "2026-07-02", "2026-07-03", "2026-07-04"]
     },
     {
       "id": "ibit-etf-outflows-444m-seven-day-streak",
@@ -97,8 +97,8 @@
       "title": "Metaplanet adquiere Siiibo Securities y lanza Project Nova para productos BTC en Japón",
       "url": "https://news.bitcoin.com/metaplanet-to-launch-bitcoin-yield-products-in-japan-after-13-million-siiibo-securities-deal/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-06-29",
-      "updates": ["2026-06-29"]
+      "last_update": "2026-07-04",
+      "updates": ["2026-06-29", "2026-07-04"]
     },
     {
       "id": "binance-mica-failure-eu-exit-july-2026",
@@ -113,8 +113,8 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-01",
-      "updates": ["2026-06-29", "2026-07-01"]
+      "last_update": "2026-07-04",
+      "updates": ["2026-06-29", "2026-07-01", "2026-07-04"]
     },
     {
       "id": "bitcoin-core-31-privacy-bug-ip-leak",
@@ -225,6 +225,30 @@
       "title": "HashKey Capital lanza el primer Bitcoin Hashrate Fund con BITMAIN como proveedor de cómputo",
       "url": "https://group.hashkey.com/en/newsroom/hashkey-capital-launches-industry-s-first-bitcoin-hashrate-fund-with-bitmain-providing-computing-power-solutions",
       "first_seen": "2026-07-03"
+    },
+    {
+      "id": "us-strategic-bitcoin-reserve-blueprint-july-22",
+      "title": "Reserva Estratégica de Bitcoin de EE.UU.: blueprint detallado (BitBonds, minería federal, fees en BTC) previsto antes del 22 de julio",
+      "url": "https://bitcoinist.com/bitcoin-reserve-blueprint-in-short-order/",
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "blockstream-q2-2026-op-checkshrincs-post-quantum",
+      "title": "Blockstream Q2 2026: propone OP_CHECKSHRINCS, nuevo opcode post-cuántico para firmas hash-based sin freeze obligatorio",
+      "url": "https://blog.blockstream.com/op_checkshrincs-a-hash-based-signature-opcode-for-post-quantum-bitcoin/",
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "genius-act-stablecoin-rules-july-18-deadline",
+      "title": "GENIUS Act: 6 agencias (OCC, FDIC, NCUA, Treasury, FinCEN, OFAC) tienen hasta el 18 de julio para finalizar reglas de stablecoins",
+      "url": "https://stablecoininsider.org/six-federal-agencies-have-35-days-to-finalize-genius-act-stablecoin-rules-by-july-18/",
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "glassnode-lth-accumulation-return-july-2026",
+      "title": "Glassnode: holders de largo plazo vuelven a acumular — 78.3% del supply en LTH, 43% del BTC en pérdida no realizada",
+      "url": "https://www.coindesk.com/markets/2026/07/02/bitcoin-long-term-holders-have-returned-to-accumulation",
+      "first_seen": "2026-07-04"
     }
   ]
 }
