@@ -5,8 +5,8 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-04",
-      "updates": ["2026-06-30", "2026-07-02", "2026-07-03", "2026-07-04"]
+      "last_update": "2026-07-05",
+      "updates": ["2026-06-30", "2026-07-02", "2026-07-03", "2026-07-04", "2026-07-05"]
     },
     {
       "id": "ibit-etf-outflows-444m-seven-day-streak",
@@ -249,6 +249,24 @@
       "title": "Glassnode: holders de largo plazo vuelven a acumular — 78.3% del supply en LTH, 43% del BTC en pérdida no realizada",
       "url": "https://www.coindesk.com/markets/2026/07/02/bitcoin-long-term-holders-have-returned-to-accumulation",
       "first_seen": "2026-07-04"
+    },
+    {
+      "id": "btc-whale-accumulation-270k-largest-ever",
+      "title": "Ballenas acumulan 270,000 BTC en dos semanas — mayor spike on-chain registrado, supera fondos de COVID y FTX",
+      "url": "https://news.bitcoin.com/bitcoin-pushes-above-62000-after-whales-add-270000-btc-forcing-130m-in-short-losses/",
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "gomining-stratum-v2-first-block-june-2026",
+      "title": "GoMining mina el primer bloque de Bitcoin en producción usando Stratum V2 — los mineros controlan la selección de transacciones",
+      "url": "https://news.bitcoin.com/gomining-mines-first-live-stratum-v2-bitcoin-block-shifting-control-to-miners/",
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "jpmorgan-strategy-two-way-bitcoin-risk",
+      "title": "JPMorgan advierte: Strategy crea 'riesgo bidireccional' en BTC al habilitar ventas selectivas para pagar dividendos",
+      "url": "https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets",
+      "first_seen": "2026-07-05"
     }
   ]
 }

@@ -5,69 +5,42 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuantica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolitica/regulacion y mineria.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 04 Jul 2026 11:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 11:08:17 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Tecnico] [ACTUALIZACION] BIP-110 — Adam Back: Fork Off and Find Out; criticos advierten UTXOs potencialmente inespendibles</title>
-      <link>https://cryptobriefing.com/bip-110-fork-fail-activate-adam-back/</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-04</guid>
-      <description>Escalada concreta respecto del 03/07. Adam Back califica BIP-110 de literal downgrade intencional y advierte fork minoritario aislado. Analisis formales concluyen que UTXOs existentes podrian volverse inespendibles permanentemente. Bitcoin a menos de 10,000 bloques de la ventana de senalizacion obligatoria (~7 agosto). Senalizacion minera: menos del 1%, lejos del 55% requerido. Categoria: BIP/Fork</description>
-      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
+      <title>[ALTA][Tecnico] [ACTUALIZACION] BIP-110 &amp;mdash; periodo voluntario cerrado con 0.42% de apoyo; exchanges enfrentan deadline de agosto</title>
+      <link>https://cryptoslate.com/bitcoins-bip-110-fork-fight-gives-exchanges-an-august-deadline-before-miners-signal-support/</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-05</guid>
+      <description>El periodo voluntario de senalizacion cerro el 4 de julio con solo 38/9,066 bloques (0.42%). Exchanges, wallets y pools deben decidir antes del bloque 961,632 (~7 de agosto) como tratar el potencial chain split UASF. El conflicto trasciende del debate nodos/mineros a toda la infraestructura. Categoria: BIP/Fork</description>
+      <pubDate>Sun, 05 Jul 2026 11:08:17 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[ALTA][Geo] Reserva Estrategica de Bitcoin de EE.UU.: blueprint detallado previsto antes del 22 de julio</title>
-      <link>https://bitcoinist.com/bitcoin-reserve-blueprint-in-short-order/</link>
-      <guid isPermaLink="false">us-strategic-bitcoin-reserve-blueprint-july-22</guid>
-      <description>Bo Hines (White House Digital Assets Council) confirma que el diseno arquitectonico de la reserva esta circulando entre agencias y sera publicado antes del 22 de julio. Opciones: BitBonds, mineria federal con licencia, cobro de tarifas en BTC como adquisicion budget-neutral. Primer marco para adquisicion activa de nuevos BTC. Categoria: Geopolitica</description>
-      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
-      <category>Geopolitica</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Geo] [ACTUALIZACION] CLARITY Act — colapso de negociaciones bipartidistas; odds de aprobacion caen de 74% a 48%</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/senates-last-ditch-clarity-act-145216524.html</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-04</guid>
-      <description>Actualizacion del 01/07. Negociaciones bipartidistas sobre clausulas de etica y ley colapsaron. Senado en receso hasta el 13/julio, menos de 4 semanas antes del receso de agosto. Odds de aprobacion: 48% (desde 74% hace un mes). Casa Blanca habia fijado el 4 de julio como fecha simbolica. Categoria: Regulacion</description>
-      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
-      <category>Regulacion</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Tecnico] Blockstream Q2 2026: propone OP_CHECKSHRINCS, opcode post-cuantico sin congelar coins</title>
-      <link>https://blog.blockstream.com/op_checkshrincs-a-hash-based-signature-opcode-for-post-quantum-bitcoin/</link>
-      <guid isPermaLink="false">blockstream-q2-2026-op-checkshrincs-post-quantum</guid>
-      <description>Blockstream propone OP_CHECKSHRINCS: opcode para firmas hash-based resistentes a computacion cuantica (esquemas SHRINCS/SHRIMPS). Alternativa a BIP-361: migracion voluntaria sin freeze de coins. Ya testeado en Liquid Network el 3 de marzo. Jonas Nick lo presento en OP_NEXT en abril. Siguiente paso: formalizar BIP de especificacion. Categoria: Cuantica</description>
-      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
-      <category>Cuantica</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Regulacion] GENIUS Act: 6 agencias tienen hasta el 18 de julio para finalizar reglas de stablecoins</title>
-      <link>https://stablecoininsider.org/six-federal-agencies-have-35-days-to-finalize-genius-act-stablecoin-rules-by-july-18/</link>
-      <guid isPermaLink="false">genius-act-stablecoin-rules-july-18-deadline</guid>
-      <description>OCC, FDIC, NCUA, Treasury, FinCEN y OFAC deben publicar reglas finales en 14 dias. Capital minimo $5M para emisores; sin seguro FDIC para holders. Emisores tendran ~120 dias para cumplir (efectivo: fines de 2026). Impacto directo en Tether, Circle y emisores bancarios. Categoria: Regulacion/Stablecoins</description>
-      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
-      <category>Regulacion</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] [ACTUALIZACION] Metaplanet compra 2,823 BTC ($225M), llega a 43,000 BTC y es la 3ra corporacion mundial</title>
-      <link>https://news.bitcoin.com/metaplanet-buys-2823-bitcoins-for-225m-as-treasury-reaches-43000-btc-holdings/</link>
-      <guid isPermaLink="false">metaplanet-project-nova-siiibo-securities#upd-2026-07-04</guid>
-      <description>Actualizacion del 29/06. Primera compra desde abril 2026: 2,823 BTC por ~$225M. Metaplanet es ahora la tercera corporacion con mas BTC del mundo (tras Strategy y Twenty One Capital). BTC Yield Q2: 6.6% vs 2.8% en Q1. Meta a largo plazo: 170,000 BTC (1% del supply). Categoria: Ballenas</description>
-      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
-      <category>Ballenas</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Mercado] Glassnode: LTH vuelven a acumular — 78.3% del supply en manos fuertes</title>
-      <link>https://www.coindesk.com/markets/2026/07/02/bitcoin-long-term-holders-have-returned-to-accumulation</link>
-      <guid isPermaLink="false">glassnode-lth-accumulation-return-july-2026</guid>
-      <description>LTH controlan 78.3% del supply (vs 74.1% antes). El 43% del BTC total (~8.9M monedas) esta en perdida no realizada, nivel historicamente asociado a fondos de ciclo. Ballenas grandes (&gt;10,000 BTC) aun neutras. Categoria: On-chain</description>
-      <pubDate>Sat, 04 Jul 2026 11:09:56 +0000</pubDate>
+      <title>[ALTA][Mercado] Ballenas acumulan 270,000 BTC en dos semanas &amp;mdash; mayor spike on-chain registrado, supera fondos de COVID y FTX</title>
+      <link>https://news.bitcoin.com/bitcoin-pushes-above-62000-after-whales-add-270000-btc-forcing-130m-in-short-losses/</link>
+      <guid isPermaLink="false">btc-whale-accumulation-270k-largest-ever</guid>
+      <description>Wallets ballena acumularon 270,000 BTC (~$16.700M) a precios cercanos a $59K en dos semanas. Mayor pico de acumulacion on-chain jamas registrado segun CryptoQuant, superando COVID (2020) y FTX (2022). Diverge de la distribucion institucional (ETFs: -$4.510M en junio). Categoria: On-chain / Ballenas</description>
+      <pubDate>Sun, 05 Jul 2026 11:08:17 +0000</pubDate>
       <category>On-chain</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Tecnico] GoMining mina el primer bloque de Bitcoin en produccion usando Stratum V2</title>
+      <link>https://news.bitcoin.com/gomining-mines-first-live-stratum-v2-bitcoin-block-shifting-control-to-miners/</link>
+      <guid isPermaLink="false">gomining-stratum-v2-first-block-june-2026</guid>
+      <description>El 25 de junio, GoMining mino el primer bloque Bitcoin live con plantilla construida por el minero (no por el pool) usando Stratum V2 en DMND. Primer uso en produccion del protocolo que permite a mineros seleccionar transacciones, reduciendo el poder de los pools. Categoria: Mineria</description>
+      <pubDate>Sun, 05 Jul 2026 11:08:17 +0000</pubDate>
+      <category>Mineria</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] JPMorgan advierte: Strategy crea riesgo bidireccional en BTC al habilitar ventas selectivas</title>
+      <link>https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets</link>
+      <guid isPermaLink="false">jpmorgan-strategy-two-way-bitcoin-risk</guid>
+      <description>JPMorgan (Panigirtzoglou) advierte que la nueva politica de Strategy de vender BTC para financiar dividendos preferentes introduce riesgo evitable y bidireccional. Strategy representa ~70% de los flujos netos de capital digital en 2026; su venta sostenida eliminaria al mayor comprador individual del mercado. Categoria: Figuras</description>
+      <pubDate>Sun, 05 Jul 2026 11:08:17 +0000</pubDate>
+      <category>Figuras</category>
     </item>
 
   </channel>
