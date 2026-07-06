@@ -5,8 +5,8 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-05",
-      "updates": ["2026-06-30", "2026-07-02", "2026-07-03", "2026-07-04", "2026-07-05"]
+      "last_update": "2026-07-06",
+      "updates": ["2026-06-30", "2026-07-02", "2026-07-03", "2026-07-04", "2026-07-05", "2026-07-06"]
     },
     {
       "id": "ibit-etf-outflows-444m-seven-day-streak",
@@ -267,6 +267,12 @@
       "title": "JPMorgan advierte: Strategy crea 'riesgo bidireccional' en BTC al habilitar ventas selectivas para pagar dividendos",
       "url": "https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets",
       "first_seen": "2026-07-05"
+    },
+    {
+      "id": "warsh-fed-chair-hawkish-ecb-forum-july-2026",
+      "title": "Kevin Warsh (Fed Chair) en el Foro del BCE: elimina guía de recortes, 9/18 FOMC proyectan suba de tasas en 2026",
+      "url": "https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html",
+      "first_seen": "2026-07-06"
     }
   ]
 }

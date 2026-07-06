@@ -3,44 +3,26 @@
   <channel>
     <title>Bitcoin Daily Digest</title>
     <link>https://rrepetto.github.io/btc-news/</link>
-    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuantica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolitica/regulacion y mineria.</description>
+    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 05 Jul 2026 11:08:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 11:08:40 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Tecnico] [ACTUALIZACION] BIP-110 &amp;mdash; periodo voluntario cerrado con 0.42% de apoyo; exchanges enfrentan deadline de agosto</title>
-      <link>https://cryptoslate.com/bitcoins-bip-110-fork-fight-gives-exchanges-an-august-deadline-before-miners-signal-support/</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-05</guid>
-      <description>El periodo voluntario de senalizacion cerro el 4 de julio con solo 38/9,066 bloques (0.42%). Exchanges, wallets y pools deben decidir antes del bloque 961,632 (~7 de agosto) como tratar el potencial chain split UASF. El conflicto trasciende del debate nodos/mineros a toda la infraestructura. Categoria: BIP/Fork</description>
-      <pubDate>Sun, 05 Jul 2026 11:08:17 +0000</pubDate>
+      <title>[ALTA][Técnico][ACTUALIZACIÓN] BIP-110 cancelado: Dathon Ohm retira la propuesta; Saylor y Bailey celebran "intento de hostile takeover fallido"</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-survived-hostile-takeover-100211243.html</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-06</guid>
+      <description>BIP-110 fue retirado oficialmente por Dathon Ohm (autor de la propuesta) tras obtener menos del 1% de señalización minera y menos del 10% de soporte de nodos. David Bailey (Nakamoto) y Michael Saylor lo califican como "intento de hostile takeover fallido". No habrá ventana UASF ni riesgo de chain split en agosto. Categoría: BIP/Fork</description>
+      <pubDate>Mon, 06 Jul 2026 11:08:40 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[ALTA][Mercado] Ballenas acumulan 270,000 BTC en dos semanas &amp;mdash; mayor spike on-chain registrado, supera fondos de COVID y FTX</title>
-      <link>https://news.bitcoin.com/bitcoin-pushes-above-62000-after-whales-add-270000-btc-forcing-130m-in-short-losses/</link>
-      <guid isPermaLink="false">btc-whale-accumulation-270k-largest-ever</guid>
-      <description>Wallets ballena acumularon 270,000 BTC (~$16.700M) a precios cercanos a $59K en dos semanas. Mayor pico de acumulacion on-chain jamas registrado segun CryptoQuant, superando COVID (2020) y FTX (2022). Diverge de la distribucion institucional (ETFs: -$4.510M en junio). Categoria: On-chain / Ballenas</description>
-      <pubDate>Sun, 05 Jul 2026 11:08:17 +0000</pubDate>
-      <category>On-chain</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Tecnico] GoMining mina el primer bloque de Bitcoin en produccion usando Stratum V2</title>
-      <link>https://news.bitcoin.com/gomining-mines-first-live-stratum-v2-bitcoin-block-shifting-control-to-miners/</link>
-      <guid isPermaLink="false">gomining-stratum-v2-first-block-june-2026</guid>
-      <description>El 25 de junio, GoMining mino el primer bloque Bitcoin live con plantilla construida por el minero (no por el pool) usando Stratum V2 en DMND. Primer uso en produccion del protocolo que permite a mineros seleccionar transacciones, reduciendo el poder de los pools. Categoria: Mineria</description>
-      <pubDate>Sun, 05 Jul 2026 11:08:17 +0000</pubDate>
-      <category>Mineria</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] JPMorgan advierte: Strategy crea riesgo bidireccional en BTC al habilitar ventas selectivas</title>
-      <link>https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets</link>
-      <guid isPermaLink="false">jpmorgan-strategy-two-way-bitcoin-risk</guid>
-      <description>JPMorgan (Panigirtzoglou) advierte que la nueva politica de Strategy de vender BTC para financiar dividendos preferentes introduce riesgo evitable y bidireccional. Strategy representa ~70% de los flujos netos de capital digital en 2026; su venta sostenida eliminaria al mayor comprador individual del mercado. Categoria: Figuras</description>
-      <pubDate>Sun, 05 Jul 2026 11:08:17 +0000</pubDate>
-      <category>Figuras</category>
+      <title>[ALTA][Geo] Kevin Warsh (Fed Chair) en el Foro del BCE: elimina guía de recortes, 9/18 FOMC proyectan suba de tasas en 2026</title>
+      <link>https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html</link>
+      <guid isPermaLink="false">warsh-fed-chair-hawkish-ecb-forum-july-2026</guid>
+      <description>El nuevo Presidente de la Fed Kevin Warsh (asumió el 22 de mayo de 2026) declaró en el Foro del BCE que la inflación está "demasiado alta" y que "hemos fallado en inflación cinco años y vamos a corregirlo". Reescribió el comunicado del FOMC a 130 palabras eliminando toda referencia a recortes futuros. 9 de 18 miembros del FOMC proyectan al menos una suba de tasas en 2026. Ambiente macro hostil para BTC en el corto plazo. Categoría: Macro</description>
+      <pubDate>Mon, 06 Jul 2026 11:08:40 +0000</pubDate>
+      <category>Macro</category>
     </item>
 
   </channel>
