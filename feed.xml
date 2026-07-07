@@ -5,24 +5,51 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 06 Jul 2026 11:08:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 11:07:09 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico][ACTUALIZACIÓN] BIP-110 cancelado: Dathon Ohm retira la propuesta; Saylor y Bailey celebran "intento de hostile takeover fallido"</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-survived-hostile-takeover-100211243.html</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-06</guid>
-      <description>BIP-110 fue retirado oficialmente por Dathon Ohm (autor de la propuesta) tras obtener menos del 1% de señalización minera y menos del 10% de soporte de nodos. David Bailey (Nakamoto) y Michael Saylor lo califican como "intento de hostile takeover fallido". No habrá ventana UASF ni riesgo de chain split en agosto. Categoría: BIP/Fork</description>
-      <pubDate>Mon, 06 Jul 2026 11:08:40 +0000</pubDate>
-      <category>BIP/Fork</category>
+      <title>[ALTA][Mercado] ACTUALIZACION: Strategy vende 3,588 BTC ($216M) bajo nuevo Digital Credit Capital Framework</title>
+      <link>https://www.theblock.co/post/407217/strategy-bitcoin-digital-energy</link>
+      <guid isPermaLink="false">strategy-saylor-sells-32-btc-first-time-2022#upd-2026-07-07</guid>
+      <description>Primera venta sistematizada bajo el framework adoptado el 29 de junio, que autoriza hasta $1.25B en ventas de BTC para financiar dividendos de deuda preferente. Strategy vendio 3,588 BTC a precio inferior a su costo promedio de $75,476/BTC. Holdings: 843,775 BTC; reserva USD: $2.55B. El modelo &quot;acumula y nunca vende&quot; muta a monetizacion activa del balance. Categoria: Figuras</description>
+      <pubDate>Tue, 07 Jul 2026 11:07:09 +0000</pubDate>
+      <category>Figuras</category>
     </item>
 
     <item>
-      <title>[ALTA][Geo] Kevin Warsh (Fed Chair) en el Foro del BCE: elimina guía de recortes, 9/18 FOMC proyectan suba de tasas en 2026</title>
-      <link>https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html</link>
-      <guid isPermaLink="false">warsh-fed-chair-hawkish-ecb-forum-july-2026</guid>
-      <description>El nuevo Presidente de la Fed Kevin Warsh (asumió el 22 de mayo de 2026) declaró en el Foro del BCE que la inflación está "demasiado alta" y que "hemos fallado en inflación cinco años y vamos a corregirlo". Reescribió el comunicado del FOMC a 130 palabras eliminando toda referencia a recortes futuros. 9 de 18 miembros del FOMC proyectan al menos una suba de tasas en 2026. Ambiente macro hostil para BTC en el corto plazo. Categoría: Macro</description>
-      <pubDate>Mon, 06 Jul 2026 11:08:40 +0000</pubDate>
-      <category>Macro</category>
+      <title>[ALTA][Mercado] ACTUALIZACION: ETFs spot BTC revierten tendencia — IBIT ingresa $209M el 6-jul; total $266M en el dia</title>
+      <link>https://www.cryptotimes.io/2026/07/07/bitcoin-swiftly-rebounds-above-63000-with-266m-spot-etf-inflow-boost/</link>
+      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-07</guid>
+      <description>BlackRock IBIT registro $209.4M en entradas el 6 de julio, primer dia positivo significativo tras 11 sesiones de salidas netas. Total ETFs spot BTC en EE.UU.: $265.7M — el mejor dia en semanas. BTC rebota por encima de $63,000. Fin del ciclo de salidas de ~$4B durante junio. Categoria: ETF</description>
+      <pubDate>Tue, 07 Jul 2026 11:07:09 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+
+    <item>
+      <title>[ALTA][Geo] ACTUALIZACION: Reserva Estrategica de BTC de EE.UU. frenada por disputa Treasury-Commerce; DOJ revisa legalidad de custodia</title>
+      <link>https://news.bitcoin.com/strategic-bitcoin-reserve-treasury-commerce-turf-war/</link>
+      <guid isPermaLink="false">us-strategic-bitcoin-reserve-blueprint-july-22#upd-2026-07-07</guid>
+      <description>Bloomberg revela que Treasury y Commerce compiten por la custodia de +300,000 BTC (~$21B); el OLC del DOJ revisa si el Tesoro tiene autoridad legal para custodiar BTC indefinidamente. Blueprint previsto para antes del 22 de julio en riesgo. En el Congreso compiten BITCOIN Act (compras en Q4 2026) y ARMA Act (1M BTC en 5 anos, lockup 20 anos). Categoria: Geopolitica</description>
+      <pubDate>Tue, 07 Jul 2026 11:07:09 +0000</pubDate>
+      <category>Geopolitica</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] Mt. Gox transfiere 47,228 BTC (~$2.9B) a Bitstamp: repagos a acreedores se aceleran</title>
+      <link>https://cryptonews.net/news/bitcoin/33110495/</link>
+      <guid isPermaLink="false">mtgox-47228-btc-bitstamp-creditor-repayments</guid>
+      <description>La billetera de Mt. Gox envio ~47,228 BTC a direcciones vinculadas a Bitstamp el 6 de julio; senal on-chain de repagos a acreedores en marcha. El mercado observa si los acreedores venden o retienen, dado que una ola de ventas podria presionar el precio a corto plazo. Categoria: On-chain</description>
+      <pubDate>Tue, 07 Jul 2026 11:07:09 +0000</pubDate>
+      <category>On-chain</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Mercado] Bernstein mantiene target $150K para BTC pese a caida del 54% desde pico 2025</title>
+      <link>https://www.theblock.co/post/407212/any-signs-of-life-bernstein-holds-ambitious-150k-year-end-bitcoin-target-despite-54-drawdown</link>
+      <guid isPermaLink="false">bernstein-bitcoin-150k-target-54pct-drawdown</guid>
+      <description>El banco de inversion mantiene su objetivo &quot;ambicioso&quot; de fin de ano citando acumulacion de ballenas, reinicio potencial de flujos institucionales y ~50% de probabilidad de aprobacion del CLARITY Act. BTC cotiza a ~$63,200; requeriria +135% para alcanzar el target. Categoria: Figuras</description>
+      <pubDate>Tue, 07 Jul 2026 11:07:09 +0000</pubDate>
+      <category>Figuras</category>
     </item>
 
   </channel>
