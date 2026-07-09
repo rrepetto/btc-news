@@ -5,24 +5,33 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 08 Jul 2026 11:12:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:07:36 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] Tether relanza USDT nativo en Bitcoin vía protocolo RGB v0.11.1 — regresa 12 años después</title>
-      <link>https://en.cryptonomist.ch/2026/07/07/tether-usdt-bitcoin-launch/</link>
-      <guid isPermaLink="false">tether-usdt-rgb-protocol-bitcoin-launch</guid>
-      <description>Tether inició el despliegue comercial de USDT nativamente en Bitcoin a través del protocolo RGB (v0.11.1), con UTEXO liderando la distribución. Regreso de USDT a Bitcoin 12 años después (Omni/Mastercoin 2014). A diferencia de Taproot Assets, RGB permite activos nativos en la cadena + transferencias vía Lightning privadas y sin custodia. Podría desafiar la dominancia de Tron en USDT; ocurre mientras Tether enfrenta presión regulatoria en Europa (MiCA). Categoría: Stablecoins.</description>
-      <pubDate>Wed, 08 Jul 2026 11:12:24 +0000</pubDate>
-      <category>Stablecoins</category>
+      <title>[ALTA][Geo] EE.UU. ataca Irán: BTC cae ~5% hasta $61,600 y genera $450M en liquidaciones</title>
+      <link>https://cryptonews.com/news/crypto-news-july-9-iran-market-fears-bitcoin-ethereum-price-panic/</link>
+      <guid isPermaLink="false">us-iran-airstrikes-btc-drop-july-2026</guid>
+      <description>EE.UU. ejecutó ataques aéreos sobre más de 80 objetivos iraníes en Bandar Abbas y el Estrecho de Ormuz. Irán respondió con contra-golpes. BTC cayó ~5% a ~$61,600, con $450M en liquidaciones en 24hs. El mercado recuperó terreno cuando Irán señaló apertura a negociar. Categoría: Geopolítica</description>
+      <pubDate>Thu, 09 Jul 2026 11:07:36 +0000</pubDate>
+      <category>Geopolítica</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] Coinbase Premium Index negativo 50 días consecutivos — récord histórico absoluto</title>
-      <link>https://en.bloomingbit.io/feed/news/115754</link>
-      <guid isPermaLink="false">coinbase-premium-negative-50-days-record</guid>
-      <description>El índice de diferencia de precio BTC entre Coinbase y Binance lleva 50 días consecutivos en negativo desde el 19 de mayo de 2026, récord histórico absoluto. Señal de demanda institucional estructuralmente débil en EE.UU. incluso con la reversión reciente de flujos ETF. Analistas alertan que el rebote de julio corre sobre liquidez fina de verano. Categoría: On-chain.</description>
-      <pubDate>Wed, 08 Jul 2026 11:12:24 +0000</pubDate>
-      <category>On-chain</category>
+      <title>[ALTA][Técnico][ACTUALIZACIÓN] BIP-110: Luke Dashjr rechaza la cancelación — conflicto sigue activo con 0.78% de señalización</title>
+      <link>https://u.today/bitcoin-developer-dashir-its-too-late-to-cancel-bip110</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-09</guid>
+      <description>El digest del 6/7 reportó que Dathon Ohm (autor original) retiró BIP-110. Actualización sustancial: Luke Dashjr (mantenedor de Bitcoin Knots) rechazó la cancelación: "ya es demasiado tarde para cancelar BIP-110". La señalización continúa al 0.78%. El deadline UASF de agosto (bloque 961,632, ~7 de agosto) puede aún materializarse vía Bitcoin Knots. Categoría: BIP/Fork</description>
+      <pubDate>Thu, 09 Jul 2026 11:07:36 +0000</pubDate>
+      <category>BIP/Fork</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Geo] SEC publica agenda "Regulation Crypto" 2026 — BTC podría cotizar junto a acciones en plataformas registradas</title>
+      <link>https://www.sec.gov/newsroom/speeches-statements/atkins-statement-2026-regulatory-agenda-070726</link>
+      <guid isPermaLink="false">sec-regulation-crypto-agenda-july-2026</guid>
+      <description>SEC Chair Paul Atkins publicó el 7 de julio la agenda regulatoria formal 2026 con tres NPRMs: emisión de criptoactivos, custodia institucional y estructura de mercado (que permitiría que BTC cotice junto a acciones en plataformas SEC). Marca un giro histórico respecto a la era Gensler: regulación proactiva en lugar de enforcement. Categoría: Regulación</description>
+      <pubDate>Thu, 09 Jul 2026 11:07:36 +0000</pubDate>
+      <category>Regulación</category>
     </item>
 
   </channel>

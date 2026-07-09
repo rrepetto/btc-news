@@ -5,8 +5,8 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-06",
-      "updates": ["2026-06-30", "2026-07-02", "2026-07-03", "2026-07-04", "2026-07-05", "2026-07-06"]
+      "last_update": "2026-07-09",
+      "updates": ["2026-06-30", "2026-07-02", "2026-07-03", "2026-07-04", "2026-07-05", "2026-07-06", "2026-07-09"]
     },
     {
       "id": "ibit-etf-outflows-444m-seven-day-streak",
@@ -299,6 +299,18 @@
       "title": "Coinbase Premium Index negativo 50 días consecutivos — récord histórico absoluto",
       "url": "https://en.bloomingbit.io/feed/news/115754",
       "first_seen": "2026-07-08"
+    },
+    {
+      "id": "us-iran-airstrikes-btc-drop-july-2026",
+      "title": "EE.UU. ataca Irán: BTC cae ~5% hasta $61,600 y genera $450M en liquidaciones",
+      "url": "https://cryptonews.com/news/crypto-news-july-9-iran-market-fears-bitcoin-ethereum-price-panic/",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "id": "sec-regulation-crypto-agenda-july-2026",
+      "title": "SEC publica agenda 'Regulation Crypto' 2026 — BTC podría cotizar junto a acciones en plataformas registradas",
+      "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-statement-2026-regulatory-agenda-070726",
+      "first_seen": "2026-07-09"
     }
   ]
 }
