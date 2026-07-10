@@ -5,33 +5,51 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 09 Jul 2026 11:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 11:06:51 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Geo] EE.UU. ataca Irán: BTC cae ~5% hasta $61,600 y genera $450M en liquidaciones</title>
-      <link>https://cryptonews.com/news/crypto-news-july-9-iran-market-fears-bitcoin-ethereum-price-panic/</link>
-      <guid isPermaLink="false">us-iran-airstrikes-btc-drop-july-2026</guid>
-      <description>EE.UU. ejecutó ataques aéreos sobre más de 80 objetivos iraníes en Bandar Abbas y el Estrecho de Ormuz. Irán respondió con contra-golpes. BTC cayó ~5% a ~$61,600, con $450M en liquidaciones en 24hs. El mercado recuperó terreno cuando Irán señaló apertura a negociar. Categoría: Geopolítica</description>
-      <pubDate>Thu, 09 Jul 2026 11:07:36 +0000</pubDate>
-      <category>Geopolítica</category>
+      <title>[ALTA][Geo] ACTUALIZACIÓN: CLARITY Act — nueva versión combinada puede presentarse la semana del 14/7</title>
+      <link>https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-10</guid>
+      <description>Fuentes indican que el texto combinado de los comités de Banca y Agricultura del Senado podría presentarse la semana del 14 de julio, con voto en pleno la semana del 20. Ventana crítica: solo ~3 semanas antes del receso de agosto. Pendientes: ética (exigencia demócrata), preemption federal y jurisdicciones SEC/CFTC. Categoría: Regulación</description>
+      <pubDate>Fri, 10 Jul 2026 11:06:51 +0000</pubDate>
+      <category>Regulación</category>
     </item>
 
     <item>
-      <title>[ALTA][Técnico][ACTUALIZACIÓN] BIP-110: Luke Dashjr rechaza la cancelación — conflicto sigue activo con 0.78% de señalización</title>
-      <link>https://u.today/bitcoin-developer-dashir-its-too-late-to-cancel-bip110</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-09</guid>
-      <description>El digest del 6/7 reportó que Dathon Ohm (autor original) retiró BIP-110. Actualización sustancial: Luke Dashjr (mantenedor de Bitcoin Knots) rechazó la cancelación: "ya es demasiado tarde para cancelar BIP-110". La señalización continúa al 0.78%. El deadline UASF de agosto (bloque 961,632, ~7 de agosto) puede aún materializarse vía Bitcoin Knots. Categoría: BIP/Fork</description>
-      <pubDate>Thu, 09 Jul 2026 11:07:36 +0000</pubDate>
+      <title>[ALTA][Técnico] ACTUALIZACIÓN: Dos forks de Bitcoin en agosto — exchanges ante plazo concreto (BIP-110 + eCash)</title>
+      <link>https://news.bitcoin.com/2-bitcoin-forks-are-coming-in-august-everything-you-need-to-know/</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-10</guid>
+      <description>BIP-110 (límite de datos Ordinals/Runes) y eCash de Paul Sztorc (bloque 964.000, ~21 ago) avanzan simultáneamente. BIP-110 tiene menos del 1% de señalización minera pero su UASF activa señalización obligatoria en bloque ~961.632: desde ahí nodos que lo soporten rechazarán bloques sin señal. Exchanges deben decidir qué cadena(s) reconocerán. F2Pool rechazó explícitamente. Categoría: BIP/Fork</description>
+      <pubDate>Fri, 10 Jul 2026 11:06:51 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[MEDIA][Geo] SEC publica agenda "Regulation Crypto" 2026 — BTC podría cotizar junto a acciones en plataformas registradas</title>
-      <link>https://www.sec.gov/newsroom/speeches-statements/atkins-statement-2026-regulatory-agenda-070726</link>
-      <guid isPermaLink="false">sec-regulation-crypto-agenda-july-2026</guid>
-      <description>SEC Chair Paul Atkins publicó el 7 de julio la agenda regulatoria formal 2026 con tres NPRMs: emisión de criptoactivos, custodia institucional y estructura de mercado (que permitiría que BTC cotice junto a acciones en plataformas SEC). Marca un giro histórico respecto a la era Gensler: regulación proactiva en lugar de enforcement. Categoría: Regulación</description>
-      <pubDate>Thu, 09 Jul 2026 11:07:36 +0000</pubDate>
+      <title>[MEDIA][Mercado] ACTUALIZACIÓN: ETF spot BTC — flujos se revierten con $510M en 3 sesiones</title>
+      <link>https://www.techtimes.com/articles/319974/20260709/bitcoin-etf-inflows-hit-510m-over-3-days-when-blackrock-leads-bitcoin-follows.htm</link>
+      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-10</guid>
+      <description>Tras una racha de salidas de $2,73B en 10 días, los ETF spot BTC registraron $510M en ingresos netos en 3 sesiones (5-7 julio). BlackRock IBIT lideró con $209M el 6/7 rompiendo 11 días de ventas; Fidelity FBTC sumó $61,5M el 7/7. IBIT es el proxy del capital institucional de escala. Categoría: ETF</description>
+      <pubDate>Fri, 10 Jul 2026 11:06:51 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Geo] ACTUALIZACIÓN: GENIUS Act — 8 días para el plazo del 18/7, OCC ya emitió charters</title>
+      <link>https://coinpaprika.com/news/july-18-stablecoin-deadline-banks/</link>
+      <guid isPermaLink="false">genius-act-stablecoin-rules-july-18-deadline#upd-2026-07-10</guid>
+      <description>Las seis agencias federales (OCC, FDIC, NCUA, Treasury, FinCEN, OFAC) deben publicar reglas finales de stablecoins antes del 18/7 o el GENIUS Act queda sin marco legal. La OCC ya emitió charters de banco-fiduciario a firmas cripto y adoptó estándares 1:1. Si se cumplen los plazos, grandes bancos quedarían habilitados para emitir stablecoins propias. Categoría: Regulación</description>
+      <pubDate>Fri, 10 Jul 2026 11:06:51 +0000</pubDate>
       <category>Regulación</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Técnico] ACTUALIZACIÓN: Bitcoin Core 31.1 RC — parche para fuga de IP en -privatebroadcast</title>
+      <link>https://bitcoincore.org/en/releases/</link>
+      <guid isPermaLink="false">bitcoin-core-31-privacy-bug-ip-leak#upd-2026-07-10</guid>
+      <description>El 30 de junio se publicó el release candidate de Bitcoin Core 31.1, que corrige la vulnerabilidad en -privatebroadcast de v31.0: bajo ciertas condiciones un handshake BIP324 fallido revertía a conexión v1 sin proxy Tor, exponiendo la IP del nodo. Nodos en v31.0 deben actualizar cuando salga la versión estable. Categoría: Core/Release</description>
+      <pubDate>Fri, 10 Jul 2026 11:06:51 +0000</pubDate>
+      <category>Core/Release</category>
     </item>
 
   </channel>

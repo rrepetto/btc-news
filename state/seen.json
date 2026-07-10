@@ -5,16 +5,33 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-09",
-      "updates": ["2026-06-30", "2026-07-02", "2026-07-03", "2026-07-04", "2026-07-05", "2026-07-06", "2026-07-09"]
+      "last_update": "2026-07-10",
+      "updates": [
+        "2026-06-30",
+        "2026-07-02",
+        "2026-07-03",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-06",
+        "2026-07-09",
+        "2026-07-10"
+      ]
     },
     {
       "id": "ibit-etf-outflows-444m-seven-day-streak",
       "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
       "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-07",
-      "updates": ["2026-06-28", "2026-06-29", "2026-06-30", "2026-07-01", "2026-07-03", "2026-07-07"]
+      "last_update": "2026-07-10",
+      "updates": [
+        "2026-06-28",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-03",
+        "2026-07-07",
+        "2026-07-10"
+      ]
     },
     {
       "id": "taproot-assets-v08-sdk-stablecoins",
@@ -82,7 +99,11 @@
       "url": "https://www.coindesk.com/markets/2026/06/01/strategy-sold-32-btc-for-usd2-5-million-in-late-may-filing-shows",
       "first_seen": "2026-06-28",
       "last_update": "2026-07-07",
-      "updates": ["2026-06-29", "2026-06-30", "2026-07-07"]
+      "updates": [
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-07"
+      ]
     },
     {
       "id": "bitcoin-mining-difficulty-drop-10pct-ai-pivot",
@@ -90,7 +111,10 @@
       "url": "https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026",
       "first_seen": "2026-06-28",
       "last_update": "2026-06-29",
-      "updates": ["2026-06-28", "2026-06-29"]
+      "updates": [
+        "2026-06-28",
+        "2026-06-29"
+      ]
     },
     {
       "id": "metaplanet-project-nova-siiibo-securities",
@@ -98,7 +122,10 @@
       "url": "https://news.bitcoin.com/metaplanet-to-launch-bitcoin-yield-products-in-japan-after-13-million-siiibo-securities-deal/",
       "first_seen": "2026-06-28",
       "last_update": "2026-07-04",
-      "updates": ["2026-06-29", "2026-07-04"]
+      "updates": [
+        "2026-06-29",
+        "2026-07-04"
+      ]
     },
     {
       "id": "binance-mica-failure-eu-exit-july-2026",
@@ -106,23 +133,33 @@
       "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license/",
       "first_seen": "2026-06-28",
       "last_update": "2026-07-01",
-      "updates": ["2026-07-01"]
+      "updates": [
+        "2026-07-01"
+      ]
     },
     {
       "id": "clarity-act-senate-calendar-crypto-market-structure",
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-04",
-      "updates": ["2026-06-29", "2026-07-01", "2026-07-04"]
+      "last_update": "2026-07-10",
+      "updates": [
+        "2026-06-29",
+        "2026-07-01",
+        "2026-07-04",
+        "2026-07-10"
+      ]
     },
     {
       "id": "bitcoin-core-31-privacy-bug-ip-leak",
       "title": "Bitcoin Core 31.0: vulnerabilidad de privacidad expone IP real de nodos",
       "url": "https://bitcoincore.org/en/2026/06/06/privatebroadcast-ip-leak/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-01",
-      "updates": ["2026-07-01"]
+      "last_update": "2026-07-10",
+      "updates": [
+        "2026-07-01",
+        "2026-07-10"
+      ]
     },
     {
       "id": "tether-gold-23b-bullion-backed-loans-ledn",
@@ -232,7 +269,9 @@
       "url": "https://bitcoinist.com/bitcoin-reserve-blueprint-in-short-order/",
       "first_seen": "2026-07-04",
       "last_update": "2026-07-07",
-      "updates": ["2026-07-07"]
+      "updates": [
+        "2026-07-07"
+      ]
     },
     {
       "id": "blockstream-q2-2026-op-checkshrincs-post-quantum",
@@ -244,7 +283,11 @@
       "id": "genius-act-stablecoin-rules-july-18-deadline",
       "title": "GENIUS Act: 6 agencias (OCC, FDIC, NCUA, Treasury, FinCEN, OFAC) tienen hasta el 18 de julio para finalizar reglas de stablecoins",
       "url": "https://stablecoininsider.org/six-federal-agencies-have-35-days-to-finalize-genius-act-stablecoin-rules-by-july-18/",
-      "first_seen": "2026-07-04"
+      "first_seen": "2026-07-04",
+      "updates": [
+        "2026-07-10"
+      ],
+      "last_update": "2026-07-10"
     },
     {
       "id": "glassnode-lth-accumulation-return-july-2026",
