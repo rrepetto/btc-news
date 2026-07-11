@@ -5,51 +5,51 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 10 Jul 2026 11:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 11:10:43 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Geo] ACTUALIZACIÓN: CLARITY Act — nueva versión combinada puede presentarse la semana del 14/7</title>
-      <link>https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-10</guid>
-      <description>Fuentes indican que el texto combinado de los comités de Banca y Agricultura del Senado podría presentarse la semana del 14 de julio, con voto en pleno la semana del 20. Ventana crítica: solo ~3 semanas antes del receso de agosto. Pendientes: ética (exigencia demócrata), preemption federal y jurisdicciones SEC/CFTC. Categoría: Regulación</description>
-      <pubDate>Fri, 10 Jul 2026 11:06:51 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[ALTA][Geo] Circle obtiene charter bancario nacional de la OCC — primera emisora de stablecoin en EE.UU.</title>
+      <link>https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion</link>
+      <guid isPermaLink="false">circle-occ-national-trust-bank-charter</guid>
+      <description>Circle, emisora del USDC ($73B en circulación), recibió aprobación final de la OCC para operar como banco de fideicomiso nacional (Circle National Trust). Primera empresa de stablecoins en obtener un charter bancario federal en EE.UU. Habilita custodia fiduciaria de activos digitales; acciones CRCL subieron hasta 16%. Llega 7 días antes del plazo GENIUS Act del 18/7. Categoría: Stablecoins/Regulación.</description>
+      <pubDate>Sat, 11 Jul 2026 11:10:43 +0000</pubDate>
+      <category>Stablecoins/Regulación</category>
     </item>
 
     <item>
-      <title>[ALTA][Técnico] ACTUALIZACIÓN: Dos forks de Bitcoin en agosto — exchanges ante plazo concreto (BIP-110 + eCash)</title>
-      <link>https://news.bitcoin.com/2-bitcoin-forks-are-coming-in-august-everything-you-need-to-know/</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-10</guid>
-      <description>BIP-110 (límite de datos Ordinals/Runes) y eCash de Paul Sztorc (bloque 964.000, ~21 ago) avanzan simultáneamente. BIP-110 tiene menos del 1% de señalización minera pero su UASF activa señalización obligatoria en bloque ~961.632: desde ahí nodos que lo soporten rechazarán bloques sin señal. Exchanges deben decidir qué cadena(s) reconocerán. F2Pool rechazó explícitamente. Categoría: BIP/Fork</description>
-      <pubDate>Fri, 10 Jul 2026 11:06:51 +0000</pubDate>
-      <category>BIP/Fork</category>
+      <title>[ALTA][Minería/AI] TeraWulf firma contrato de 20 años con Anthropic por $19B para campus de AI en Kentucky</title>
+      <link>https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack</link>
+      <guid isPermaLink="false">terawulf-anthropic-19b-ai-datacenter</guid>
+      <description>TeraWulf (WULF) firma un arriendo de 20 años con Anthropic para un campus de AI de 401 MW en Hawesville, Kentucky, generando ~$19B en revenue contratado. Simultáneamente vende su 50.1% en el JV de Abernathy (Texas) a Fluidstack por $530M. Mayor contrato individual en la transición mineros-AI; el sector supera los $70B en contratos HPC. Categoría: Minería/AI.</description>
+      <pubDate>Sat, 11 Jul 2026 11:10:43 +0000</pubDate>
+      <category>Minería/AI</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] ACTUALIZACIÓN: ETF spot BTC — flujos se revierten con $510M en 3 sesiones</title>
-      <link>https://www.techtimes.com/articles/319974/20260709/bitcoin-etf-inflows-hit-510m-over-3-days-when-blackrock-leads-bitcoin-follows.htm</link>
-      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-10</guid>
-      <description>Tras una racha de salidas de $2,73B en 10 días, los ETF spot BTC registraron $510M en ingresos netos en 3 sesiones (5-7 julio). BlackRock IBIT lideró con $209M el 6/7 rompiendo 11 días de ventas; Fidelity FBTC sumó $61,5M el 7/7. IBIT es el proxy del capital institucional de escala. Categoría: ETF</description>
-      <pubDate>Fri, 10 Jul 2026 11:06:51 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Geo] ACTUALIZACIÓN: GENIUS Act — 8 días para el plazo del 18/7, OCC ya emitió charters</title>
-      <link>https://coinpaprika.com/news/july-18-stablecoin-deadline-banks/</link>
-      <guid isPermaLink="false">genius-act-stablecoin-rules-july-18-deadline#upd-2026-07-10</guid>
-      <description>Las seis agencias federales (OCC, FDIC, NCUA, Treasury, FinCEN, OFAC) deben publicar reglas finales de stablecoins antes del 18/7 o el GENIUS Act queda sin marco legal. La OCC ya emitió charters de banco-fiduciario a firmas cripto y adoptó estándares 1:1. Si se cumplen los plazos, grandes bancos quedarían habilitados para emitir stablecoins propias. Categoría: Regulación</description>
-      <pubDate>Fri, 10 Jul 2026 11:06:51 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Técnico] ACTUALIZACIÓN: Bitcoin Core 31.1 RC — parche para fuga de IP en -privatebroadcast</title>
-      <link>https://bitcoincore.org/en/releases/</link>
-      <guid isPermaLink="false">bitcoin-core-31-privacy-bug-ip-leak#upd-2026-07-10</guid>
-      <description>El 30 de junio se publicó el release candidate de Bitcoin Core 31.1, que corrige la vulnerabilidad en -privatebroadcast de v31.0: bajo ciertas condiciones un handshake BIP324 fallido revertía a conexión v1 sin proxy Tor, exponiendo la IP del nodo. Nodos en v31.0 deben actualizar cuando salga la versión estable. Categoría: Core/Release</description>
-      <pubDate>Fri, 10 Jul 2026 11:06:51 +0000</pubDate>
+      <title>[MEDIA][Técnico][ACTUALIZACIÓN] Bitcoin Core 31.1 lanzado — versión estable corrige fuga de IP y bug de uso de disco</title>
+      <link>https://bitcoincore.org/bin/bitcoin-core-31.1/</link>
+      <guid isPermaLink="false">bitcoin-core-31-privacy-bug-ip-leak#upd-2026-07-11</guid>
+      <description>El 8 de julio se publicó Bitcoin Core 31.1 estable (antes solo RC), que corrige la fuga de IP en -privatebroadcast y un bug de uso excesivo de disco. Nodos en v31.0 deben actualizar de inmediato. Categoría: Core/Release.</description>
+      <pubDate>Sat, 11 Jul 2026 11:10:43 +0000</pubDate>
       <category>Core/Release</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Geo][ACTUALIZACIÓN] EE.UU.-Irán: Trump confirma conversaciones — BTC recupera $64K con short squeeze de $96M</title>
+      <link>https://www.interactivecrypto.com/bitcoin-breaks-64-000-amid-us-iran-talks-and-96m-short-squeeze-what-s-next-for-btc-jul-2026</link>
+      <guid isPermaLink="false">us-iran-airstrikes-btc-drop-july-2026#upd-2026-07-11</guid>
+      <description>Trump confirmó el 10/7 que Irán contactó a Washington para un acuerdo. BTC superó $64K con short squeeze de $96M. El mercado ahora correlaciona más con el calendario regulatorio que con titulares geopolíticos. Categoría: Macro/Geopolítica.</description>
+      <pubDate>Sat, 11 Jul 2026 11:10:43 +0000</pubDate>
+      <category>Macro</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] Glassnode: formación del fondo de BTC en curso pero no confirmada — 3 señales clave pendientes</title>
+      <link>https://www.benzinga.com/crypto/cryptocurrency/26/07/60356781/the-bitcoin-bottom-is-forming-watch-these-3-signals-to-know-when-its-complete-glassnode-says</link>
+      <guid isPermaLink="false">glassnode-bitcoin-bottom-signals-july-2026</guid>
+      <description>Glassnode: BTC lleva ~5 meses en zona de &quot;deep value&quot;; LTH realizan pérdidas a $280M/día (máx. desde dic-2022). Tres señales para confirmar fondo: enfriamiento pérdidas LTH, flujos ETF positivos sostenidos, recuperación de $72,200 y $76,600 con volumen. BTC cotiza ~$64K, aún por debajo de ambos umbrales. Categoría: On-chain.</description>
+      <pubDate>Sat, 11 Jul 2026 11:10:43 +0000</pubDate>
+      <category>On-chain</category>
     </item>
 
   </channel>

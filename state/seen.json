@@ -155,10 +155,11 @@
       "title": "Bitcoin Core 31.0: vulnerabilidad de privacidad expone IP real de nodos",
       "url": "https://bitcoincore.org/en/2026/06/06/privatebroadcast-ip-leak/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-10",
+      "last_update": "2026-07-11",
       "updates": [
         "2026-07-01",
-        "2026-07-10"
+        "2026-07-10",
+        "2026-07-11"
       ]
     },
     {
@@ -347,13 +348,35 @@
       "id": "us-iran-airstrikes-btc-drop-july-2026",
       "title": "EE.UU. ataca Irán: BTC cae ~5% hasta $61,600 y genera $450M en liquidaciones",
       "url": "https://cryptonews.com/news/crypto-news-july-9-iran-market-fears-bitcoin-ethereum-price-panic/",
-      "first_seen": "2026-07-09"
+      "first_seen": "2026-07-09",
+      "last_update": "2026-07-11",
+      "updates": [
+        "2026-07-11"
+      ]
     },
     {
       "id": "sec-regulation-crypto-agenda-july-2026",
       "title": "SEC publica agenda 'Regulation Crypto' 2026 — BTC podría cotizar junto a acciones en plataformas registradas",
       "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-statement-2026-regulatory-agenda-070726",
       "first_seen": "2026-07-09"
+    },
+    {
+      "id": "circle-occ-national-trust-bank-charter",
+      "title": "Circle obtiene charter bancario nacional de la OCC — primera emisora de stablecoin en EE.UU.",
+      "url": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
+      "first_seen": "2026-07-11"
+    },
+    {
+      "id": "terawulf-anthropic-19b-ai-datacenter",
+      "title": "TeraWulf firma contrato de 20 años con Anthropic por $19B para campus de AI en Kentucky",
+      "url": "https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack",
+      "first_seen": "2026-07-11"
+    },
+    {
+      "id": "glassnode-bitcoin-bottom-signals-july-2026",
+      "title": "Glassnode: formación del fondo de BTC en curso pero no confirmada — 3 señales clave pendientes",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60356781/the-bitcoin-bottom-is-forming-watch-these-3-signals-to-know-when-its-complete-glassnode-says",
+      "first_seen": "2026-07-11"
     }
   ]
 }
