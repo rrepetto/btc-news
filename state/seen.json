@@ -5,7 +5,7 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-10",
+      "last_update": "2026-07-12",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -14,7 +14,8 @@
         "2026-07-05",
         "2026-07-06",
         "2026-07-09",
-        "2026-07-10"
+        "2026-07-10",
+        "2026-07-12"
       ]
     },
     {
@@ -22,7 +23,7 @@
       "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
       "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-10",
+      "last_update": "2026-07-12",
       "updates": [
         "2026-06-28",
         "2026-06-29",
@@ -30,7 +31,8 @@
         "2026-07-01",
         "2026-07-03",
         "2026-07-07",
-        "2026-07-10"
+        "2026-07-10",
+        "2026-07-12"
       ]
     },
     {
@@ -377,6 +379,12 @@
       "title": "Glassnode: formación del fondo de BTC en curso pero no confirmada — 3 señales clave pendientes",
       "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60356781/the-bitcoin-bottom-is-forming-watch-these-3-signals-to-know-when-its-complete-glassnode-says",
       "first_seen": "2026-07-11"
+    },
+    {
+      "id": "us-cbdc-ban-housing-act-2030",
+      "title": "EE.UU. prohíbe el dólar digital hasta 2030 — CBDC ban entra en vigor sin firma de Trump",
+      "url": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature",
+      "first_seen": "2026-07-12"
     }
   ]
 }
