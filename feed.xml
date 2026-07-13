@@ -3,36 +3,40 @@
   <channel>
     <title>Bitcoin Daily Digest</title>
     <link>https://rrepetto.github.io/btc-news/</link>
-    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuantica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolitica/regulacion y mineria.</description>
+    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 12 Jul 2026 11:09:28 +0000</lastBuildDate>
-
+    <lastBuildDate>Mon, 13 Jul 2026 11:11:52 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][Geo] EE.UU. prohibe el dolar digital hasta 2030 — CBDC ban entra en vigor sin firma de Trump</title>
-      <link>https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature</link>
-      <guid isPermaLink="false">us-cbdc-ban-housing-act-2030</guid>
-      <description>La Ley de Vivienda "21st Century ROAD to Housing Act" se convirtio en ley automaticamente el 10-11 de julio: el Congreso seguia en sesion y Trump no la firmo (protesta por el fracaso del SAVE America Act). Prohibe a la Fed emitir una CBDC hasta fin de 2030. Paso el Senado 85-5 y la Camara 358-32. Elimina la posibilidad de un competidor digital estatal por cuatro anos, despejando terreno para stablecoins y BTC. Categoria: Regulacion</description>
-      <pubDate>Sun, 12 Jul 2026 11:09:28 +0000</pubDate>
-      <category>Regulacion</category>
+      <title>[ALTA][Geo] ACTUALIZACIÓN: EE.UU.-Irán: 4ª ronda de ataques (Jul 12-13) — BTC cae a $62.5K pero resiste mejor que activos tradicionales</title>
+      <link>https://www.coindesk.com/markets/2026/07/13/bitcoin-holds-near-usd63-800-as-war-driven-selloff-hits-everything-but-crypto</link>
+      <guid isPermaLink="false">us-iran-airstrikes-btc-drop-july-2026#upd-2026-07-13</guid>
+      <description>ACTUALIZACIÓN — EE.UU. lanzó una 4ª ronda de ataques contra Irán el 12 de julio apuntando a defensas aéreas y capacidad de misiles/drones en el Estrecho de Ormuz. El CGRI iraní retalió con misiles y drones hacia bases en Jordania, Baréin, Kuwait, Qatar y la Quinta Flota. BTC cayó hasta $62,478 (−2.6%) con $73.15M en liquidaciones. Sin embargo, BTC mostró resiliencia relativa: ya no opera el titular geopolítico sino la liquidez del dólar y el ciclo chips/IA. Categoría: Geopolítica/Macro.</description>
+      <pubDate>Mon, 13 Jul 2026 11:11:52 +0000</pubDate>
+      <category>Geopolítica</category>
     </item>
-
     <item>
-      <title>[ALTA][Tecnico][ACTUALIZACION] BIP-110: soporte minero cae a CERO — Saylor interviene publicamente</title>
-      <link>https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-12</guid>
-      <description>CoinDesk reporta el 12/7 que la senalizacion minera para BIP-110 es efectivamente cero (desde 0.78% el 9/7). Michael Saylor (Strategy) publico su oposicion: "Hay 110 cosas mas peligrosas para Bitcoin que el spam. BIP-110 convierte una disputa sobre spam en un cambio de consenso que invalidaria transacciones actualmente validas que pagan fees." UASF deadline en ~26 dias (bloque 961,632, ~7 ago). Sin soporte minero, activacion en cadena principal es practicamente imposible. Categoria: BIP/Fork</description>
-      <pubDate>Sun, 12 Jul 2026 11:09:28 +0000</pubDate>
-      <category>BIP/Fork</category>
+      <title>[MEDIA][Minería] Bitcoin: 14° ajuste de dificultad de 2026 — −5% a 127.17T; hashrate cae 7.9% en 10 días a 908 EH/s</title>
+      <link>https://news.bitcoin.com/bitcoins-14th-difficulty-reset-slashes-mining-pressure-by-6-7-trillion/</link>
+      <guid isPermaLink="false">bitcoin-difficulty-14th-adjustment-july-2026</guid>
+      <description>El bloque 957,600 del 11 de julio activó el 14° ajuste negativo de dificultad del año: de 133.87T a 127.17T (−6.7T, −5%). Hashrate cayó de ~986 EH/s (1° jul) a ~908 EH/s, −7.9% en 10 días. Acumulado: hashrate 14.8% por debajo del inicio de año y 21.3% bajo el pico de octubre 2025. Dificultad de 127.17T = tercera más baja de 2026. Refleja presión sobre mineros por BTC deprimido y salida hacia HPC/IA. Categoría: Minería/AI.</description>
+      <pubDate>Mon, 13 Jul 2026 11:11:52 +0000</pubDate>
+      <category>Minería/AI</category>
     </item>
-
     <item>
-      <title>[MEDIA][Mercado][ACTUALIZACION] ETFs spot BTC confirman quiebre de racha de 8 semanas de salidas — $9.46B drenados</title>
-      <link>https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow</link>
-      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-12</guid>
-      <description>Datos consolidados semana 7-11 julio: $282M en entradas netas combinadas BTC+ETH, poniendo fin a 8 semanas consecutivas de salidas, la racha mas larga en la historia de ETFs spot de BTC en EE.UU. En esas 8 semanas se drenaron $9.46B; pico fue la semana del 26/6 con $1.79B de salidas. AUM total recupero $77.42B al 10/7. Categoria: ETF</description>
-      <pubDate>Sun, 12 Jul 2026 11:09:28 +0000</pubDate>
-      <category>ETF</category>
+      <title>[MEDIA][Macro] CPI de junio mañana (14 Jul) + FOMC 28-29 Jul: punto de inflexión clave para BTC</title>
+      <link>https://www.cryptotimes.io/2026/07/13/crypto-week-ahead-clarity-act-fed-chair-warsh-inflation-data/</link>
+      <guid isPermaLink="false">june-cpi-fomc-july-2026-macro-pivot</guid>
+      <description>El dato de inflación de junio se publica mañana y el Fed se reúne el 28-29 de julio. Contexto: mayo CPI +4.2% interanual (máximo en 3 años), energía = 60% del aumento mensual. Fed mantiene 3.5-3.75% pero 9/18 miembros del FOMC proyectan suba de tasas en 2026. El spike de petróleo de hoy (Brent +4.7%) aviva temores inflacionarios. Un CPI caliente presionaría a BTC; uno suave lo aliviaría. La Fed es ahora el factor dominante sobre el precio de BTC. Categoría: Macro.</description>
+      <pubDate>Mon, 13 Jul 2026 11:11:52 +0000</pubDate>
+      <category>Macro</category>
     </item>
-
+    <item>
+      <title>[MEDIA][Regulación] ACTUALIZACIÓN: CLARITY Act: semana crítica — texto combinado esta semana, Galaxy Research baja odds a 50%</title>
+      <link>https://www.theblock.co/post/406497/galaxy-cuts-clarity-act-passage-odds-50</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-13</guid>
+      <description>ACTUALIZACIÓN — La semana del 14 de julio es la ventana de ahora o nunca para el CLARITY Act: texto combinado esperado esta semana, voto en pleno semana del 20. Galaxy Research bajó la probabilidad de aprobación en 2026 del 60% al 50%, citando agenda saturada del Senado y sin confirmación de agenda de Thune. Warsh testifica en el Congreso esta semana. Si no hay voto antes del receso de agosto, vuelve en septiembre con foco en midterms. Categoría: Regulación.</description>
+      <pubDate>Mon, 13 Jul 2026 11:11:52 +0000</pubDate>
+      <category>Regulación</category>
+    </item>
   </channel>
 </rss>

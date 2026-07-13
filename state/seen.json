@@ -144,12 +144,13 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-10",
+      "last_update": "2026-07-13",
       "updates": [
         "2026-06-29",
         "2026-07-01",
         "2026-07-04",
-        "2026-07-10"
+        "2026-07-10",
+        "2026-07-13"
       ]
     },
     {
@@ -351,9 +352,10 @@
       "title": "EE.UU. ataca Irán: BTC cae ~5% hasta $61,600 y genera $450M en liquidaciones",
       "url": "https://cryptonews.com/news/crypto-news-july-9-iran-market-fears-bitcoin-ethereum-price-panic/",
       "first_seen": "2026-07-09",
-      "last_update": "2026-07-11",
+      "last_update": "2026-07-13",
       "updates": [
-        "2026-07-11"
+        "2026-07-11",
+        "2026-07-13"
       ]
     },
     {
@@ -385,6 +387,18 @@
       "title": "EE.UU. prohíbe el dólar digital hasta 2030 — CBDC ban entra en vigor sin firma de Trump",
       "url": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature",
       "first_seen": "2026-07-12"
+    },
+    {
+      "id": "bitcoin-difficulty-14th-adjustment-july-2026",
+      "title": "Bitcoin: 14° ajuste de dificultad de 2026 — −5% a 127.17T; hashrate cae 7.9% en 10 días a 908 EH/s",
+      "url": "https://news.bitcoin.com/bitcoins-14th-difficulty-reset-slashes-mining-pressure-by-6-7-trillion/",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "june-cpi-fomc-july-2026-macro-pivot",
+      "title": "CPI de junio (14 Jul) y FOMC 28-29 Jul: punto de inflexión macro para BTC con inflación en máximos de 3 años",
+      "url": "https://www.cryptotimes.io/2026/07/13/crypto-week-ahead-clarity-act-fed-chair-warsh-inflation-data/",
+      "first_seen": "2026-07-13"
     }
   ]
 }
