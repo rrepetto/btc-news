@@ -5,38 +5,52 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 13 Jul 2026 11:11:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:06:00 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Geo] ACTUALIZACIÓN: EE.UU.-Irán: 4ª ronda de ataques (Jul 12-13) — BTC cae a $62.5K pero resiste mejor que activos tradicionales</title>
-      <link>https://www.coindesk.com/markets/2026/07/13/bitcoin-holds-near-usd63-800-as-war-driven-selloff-hits-everything-but-crypto</link>
-      <guid isPermaLink="false">us-iran-airstrikes-btc-drop-july-2026#upd-2026-07-13</guid>
-      <description>ACTUALIZACIÓN — EE.UU. lanzó una 4ª ronda de ataques contra Irán el 12 de julio apuntando a defensas aéreas y capacidad de misiles/drones en el Estrecho de Ormuz. El CGRI iraní retalió con misiles y drones hacia bases en Jordania, Baréin, Kuwait, Qatar y la Quinta Flota. BTC cayó hasta $62,478 (−2.6%) con $73.15M en liquidaciones. Sin embargo, BTC mostró resiliencia relativa: ya no opera el titular geopolítico sino la liquidez del dólar y el ciclo chips/IA. Categoría: Geopolítica/Macro.</description>
-      <pubDate>Mon, 13 Jul 2026 11:11:52 +0000</pubDate>
+      <title>[ALTA][Geo] [ACTUALIZACION] Trump reinstituye bloqueo activo del Estrecho de Hormuz</title>
+      <link>https://crypto.news/trump-revives-hormuz-blockade-bitcoin-slips-to-62k/</link>
+      <guid isPermaLink="false">us-iran-airstrikes-btc-drop-july-2026#upd-2026-07-14</guid>
+      <description>El 14 de julio comenzó el enforcement militar de la prohibición a buques iraníes, revirtiendo el acuerdo de junio. El petróleo sube y crypto pierde ~$20B; BTC cae a ~$62K. Nueva escalada que suma presión inflacionaria y complica los recortes de tasas del FOMC. Categoría: Geopolítica.</description>
+      <pubDate>Tue, 14 Jul 2026 11:06:00 +0000</pubDate>
       <category>Geopolítica</category>
     </item>
+
     <item>
-      <title>[MEDIA][Minería] Bitcoin: 14° ajuste de dificultad de 2026 — −5% a 127.17T; hashrate cae 7.9% en 10 días a 908 EH/s</title>
-      <link>https://news.bitcoin.com/bitcoins-14th-difficulty-reset-slashes-mining-pressure-by-6-7-trillion/</link>
-      <guid isPermaLink="false">bitcoin-difficulty-14th-adjustment-july-2026</guid>
-      <description>El bloque 957,600 del 11 de julio activó el 14° ajuste negativo de dificultad del año: de 133.87T a 127.17T (−6.7T, −5%). Hashrate cayó de ~986 EH/s (1° jul) a ~908 EH/s, −7.9% en 10 días. Acumulado: hashrate 14.8% por debajo del inicio de año y 21.3% bajo el pico de octubre 2025. Dificultad de 127.17T = tercera más baja de 2026. Refleja presión sobre mineros por BTC deprimido y salida hacia HPC/IA. Categoría: Minería/AI.</description>
-      <pubDate>Mon, 13 Jul 2026 11:11:52 +0000</pubDate>
-      <category>Minería/AI</category>
+      <title>[ALTA][Mercado] Gobierno de EE.UU. mueve $297M en BTC/ETH confiscados a Coinbase Prime</title>
+      <link>https://beincrypto.com/us-government-297-million-crypto-coinbase-prime/</link>
+      <guid isPermaLink="false">us-govt-seized-btc-297m-coinbase-prime-july-2026</guid>
+      <description>El DOJ transfirió 3,940 BTC (~$244M, de BTC-e y casos criminales) y 30,014 ETH (~$53M) a Coinbase Prime. El movimiento genera tensión con la executive order de Trump que ordena retener el BTC confiscado para la reserva estratégica. Coinbase Prime también ofrece ejecución de ventas, lo que genera incertidumbre sobre el destino final. Categoría: On-chain.</description>
+      <pubDate>Tue, 14 Jul 2026 11:06:00 +0000</pubDate>
+      <category>On-chain</category>
     </item>
+
     <item>
-      <title>[MEDIA][Macro] CPI de junio mañana (14 Jul) + FOMC 28-29 Jul: punto de inflexión clave para BTC</title>
-      <link>https://www.cryptotimes.io/2026/07/13/crypto-week-ahead-clarity-act-fed-chair-warsh-inflation-data/</link>
-      <guid isPermaLink="false">june-cpi-fomc-july-2026-macro-pivot</guid>
-      <description>El dato de inflación de junio se publica mañana y el Fed se reúne el 28-29 de julio. Contexto: mayo CPI +4.2% interanual (máximo en 3 años), energía = 60% del aumento mensual. Fed mantiene 3.5-3.75% pero 9/18 miembros del FOMC proyectan suba de tasas en 2026. El spike de petróleo de hoy (Brent +4.7%) aviva temores inflacionarios. Un CPI caliente presionaría a BTC; uno suave lo aliviaría. La Fed es ahora el factor dominante sobre el precio de BTC. Categoría: Macro.</description>
-      <pubDate>Mon, 13 Jul 2026 11:11:52 +0000</pubDate>
+      <title>[ALTA][Macro] [ACTUALIZACION] CPI de junio publicado: 3.9% headline, core sticky en 2.9%</title>
+      <link>https://www.interactivecrypto.com/bitcoin-s-july-14-reaction-cpi-dip-masks-core-inflation-risks-amid-fed-rate-speculation-jul-2026</link>
+      <guid isPermaLink="false">june-cpi-fomc-july-2026-macro-pivot#upd-2026-07-14</guid>
+      <description>El dato real del CPI de junio supera levemente la expectativa de 3.8%. La baja fue impulsada por gasolina (-10%) pero el core se mantiene en 2.9%, muy por encima del objetivo del 2% de la Fed. BTC sube cautelosamente a ~$63K. El FOMC de julio 28-29 probablemente no recorte tasas. Categoría: Macro.</description>
+      <pubDate>Tue, 14 Jul 2026 11:06:00 +0000</pubDate>
       <category>Macro</category>
     </item>
+
     <item>
-      <title>[MEDIA][Regulación] ACTUALIZACIÓN: CLARITY Act: semana crítica — texto combinado esta semana, Galaxy Research baja odds a 50%</title>
-      <link>https://www.theblock.co/post/406497/galaxy-cuts-clarity-act-passage-odds-50</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-13</guid>
-      <description>ACTUALIZACIÓN — La semana del 14 de julio es la ventana de ahora o nunca para el CLARITY Act: texto combinado esperado esta semana, voto en pleno semana del 20. Galaxy Research bajó la probabilidad de aprobación en 2026 del 60% al 50%, citando agenda saturada del Senado y sin confirmación de agenda de Thune. Warsh testifica en el Congreso esta semana. Si no hay voto antes del receso de agosto, vuelve en septiembre con foco en midterms. Categoría: Regulación.</description>
-      <pubDate>Mon, 13 Jul 2026 11:11:52 +0000</pubDate>
+      <title>[MEDIA][Mercado] [ACTUALIZACION] ETFs BTC: $424.7M de salidas netas el 13 de julio</title>
+      <link>https://blockchain.news/flashnews/bitcoin-etf-424-7m-net-outflow-hits-july-13</link>
+      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-14</guid>
+      <description>FBTC (Fidelity) lideró con -$245.6M e IBIT (BlackRock) con -$185.5M; GBTC aportó -$53.1M. Revierte la racha positiva de principios de julio ($510M en 3 días) ante tensiones geopolíticas y la incertidumbre macro previa al CPI. Categoría: ETF.</description>
+      <pubDate>Tue, 14 Jul 2026 11:06:00 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Geo] [ACTUALIZACION] CLARITY Act: probabilidades de aprobacion 2026 caen al 48%</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/clarity-act-stalls-senate-three-100403007.html</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-14</guid>
+      <description>El Senado regresó el 13/7 con ~20 días hábiles antes del receso de agosto; Polymarket reduce las odds de 74% a 48%. Tres obstáculos concretos bloquean los 60 votos: disclosure de Trump ($1.4B en cripto en 2025), sección de enforcement para fiscales, y debate sobre yield en stablecoins. Nueva versión del texto esperada esta semana. Categoría: Regulación.</description>
+      <pubDate>Tue, 14 Jul 2026 11:06:00 +0000</pubDate>
       <category>Regulación</category>
     </item>
+
   </channel>
 </rss>
