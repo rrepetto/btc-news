@@ -5,52 +5,54 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:06:00 +0000</lastBuildDate>
-
+    <lastBuildDate>Thu, 16 Jul 2026 11:13:11 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACION] Trump reinstituye bloqueo activo del Estrecho de Hormuz</title>
-      <link>https://crypto.news/trump-revives-hormuz-blockade-bitcoin-slips-to-62k/</link>
-      <guid isPermaLink="false">us-iran-airstrikes-btc-drop-july-2026#upd-2026-07-14</guid>
-      <description>El 14 de julio comenzó el enforcement militar de la prohibición a buques iraníes, revirtiendo el acuerdo de junio. El petróleo sube y crypto pierde ~$20B; BTC cae a ~$62K. Nueva escalada que suma presión inflacionaria y complica los recortes de tasas del FOMC. Categoría: Geopolítica.</description>
-      <pubDate>Tue, 14 Jul 2026 11:06:00 +0000</pubDate>
-      <category>Geopolítica</category>
+      <title>[ALTA][Técnico] BIP-110: Saylor y Adam Back se oponen formalmente; lucha abierta sobre gobernanza de Bitcoin</title>
+      <link>https://www.coindesk.com/tech/2026/07/14/bitcoin-s-bip-110-sparked-a-fight-over-who-gets-to-decide-the-future-of-bitcoin</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-16</guid>
+      <description>[ACTUALIZACIÓN] Con señalización minera en &lt;1%, Saylor y Adam Back rechazaron BIP-110. CoinDesk expone la lucha de gobernanza: quién decide el futuro de Bitcoin. El BIP sigue activo hacia agosto vía UASF pese a que los opositores lo dan por fallido. Actualiza cobertura del 2026-07-12. Categoría: BIP/Fork</description>
+      <pubDate>Thu, 16 Jul 2026 11:13:11 +0000</pubDate>
+      <category>BIP/Fork</category>
     </item>
-
     <item>
-      <title>[ALTA][Mercado] Gobierno de EE.UU. mueve $297M en BTC/ETH confiscados a Coinbase Prime</title>
-      <link>https://beincrypto.com/us-government-297-million-crypto-coinbase-prime/</link>
-      <guid isPermaLink="false">us-govt-seized-btc-297m-coinbase-prime-july-2026</guid>
-      <description>El DOJ transfirió 3,940 BTC (~$244M, de BTC-e y casos criminales) y 30,014 ETH (~$53M) a Coinbase Prime. El movimiento genera tensión con la executive order de Trump que ordena retener el BTC confiscado para la reserva estratégica. Coinbase Prime también ofrece ejecución de ventas, lo que genera incertidumbre sobre el destino final. Categoría: On-chain.</description>
-      <pubDate>Tue, 14 Jul 2026 11:06:00 +0000</pubDate>
-      <category>On-chain</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Macro] [ACTUALIZACION] CPI de junio publicado: 3.9% headline, core sticky en 2.9%</title>
-      <link>https://www.interactivecrypto.com/bitcoin-s-july-14-reaction-cpi-dip-masks-core-inflation-risks-amid-fed-rate-speculation-jul-2026</link>
-      <guid isPermaLink="false">june-cpi-fomc-july-2026-macro-pivot#upd-2026-07-14</guid>
-      <description>El dato real del CPI de junio supera levemente la expectativa de 3.8%. La baja fue impulsada por gasolina (-10%) pero el core se mantiene en 2.9%, muy por encima del objetivo del 2% de la Fed. BTC sube cautelosamente a ~$63K. El FOMC de julio 28-29 probablemente no recorte tasas. Categoría: Macro.</description>
-      <pubDate>Tue, 14 Jul 2026 11:06:00 +0000</pubDate>
-      <category>Macro</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] [ACTUALIZACION] ETFs BTC: $424.7M de salidas netas el 13 de julio</title>
-      <link>https://blockchain.news/flashnews/bitcoin-etf-424-7m-net-outflow-hits-july-13</link>
-      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-14</guid>
-      <description>FBTC (Fidelity) lideró con -$245.6M e IBIT (BlackRock) con -$185.5M; GBTC aportó -$53.1M. Revierte la racha positiva de principios de julio ($510M en 3 días) ante tensiones geopolíticas y la incertidumbre macro previa al CPI. Categoría: ETF.</description>
-      <pubDate>Tue, 14 Jul 2026 11:06:00 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Geo] [ACTUALIZACION] CLARITY Act: probabilidades de aprobacion 2026 caen al 48%</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/clarity-act-stalls-senate-three-100403007.html</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-14</guid>
-      <description>El Senado regresó el 13/7 con ~20 días hábiles antes del receso de agosto; Polymarket reduce las odds de 74% a 48%. Tres obstáculos concretos bloquean los 60 votos: disclosure de Trump ($1.4B en cripto en 2025), sección de enforcement para fiscales, y debate sobre yield en stablecoins. Nueva versión del texto esperada esta semana. Categoría: Regulación.</description>
-      <pubDate>Tue, 14 Jul 2026 11:06:00 +0000</pubDate>
+      <title>[ALTA][Geo] Japón: Cámara Alta aprueba en comité la ley que habilita ETFs de Bitcoin y baja impuestos al 20%</title>
+      <link>https://www.cryptotimes.io/2026/07/15/japan-is-one-vote-from-bitcoin-etfs-and-a-20-crypto-tax-cap/</link>
+      <guid isPermaLink="false">japan-crypto-financial-instrument-fiea-2026#upd-2026-07-16</guid>
+      <description>[ACTUALIZACIÓN] La Cámara de Consejeros de Japón aprobó en comité (15 Jul) la reclasificación de BTC bajo la FIEA. Voto de sala es formalidad. Habilita ETFs de Bitcoin en Tokio en 2027-2028 e impuesto plano del 20% desde enero 2028. Actualiza cobertura del 2026-07-03. Categoría: Regulación</description>
+      <pubDate>Thu, 16 Jul 2026 11:13:11 +0000</pubDate>
       <category>Regulación</category>
     </item>
-
+    <item>
+      <title>[ALTA][Geo] CLARITY Act: Trump convoca reunión personal con senadores para desbloquear la ley de estructura de mercado crypto</title>
+      <link>https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-16</guid>
+      <description>[ACTUALIZACIÓN] El 15 de julio Trump reunió senadores en la Casa Blanca para resolver el bloqueo sobre la sección de ética (sus propios intereses crypto). Si no pasa antes de agosto, el calendario legislativo cierra. Actualiza cobertura del 2026-07-14. Categoría: Regulación</description>
+      <pubDate>Thu, 16 Jul 2026 11:13:11 +0000</pubDate>
+      <category>Regulación</category>
+    </item>
+    <item>
+      <title>[ALTA][Mercado] Mt. Gox transfiere 48,641 BTC (~$3.1B) a Kraken para distribución a acreedores</title>
+      <link>https://u.today/kraken-secures-48641-bitcoin-from-mt-gox-what-comes-next</link>
+      <guid isPermaLink="false">mtgox-kraken-48641-btc-july-2026</guid>
+      <description>La trustee de Mt. Gox envió el 16 de julio el mayor lote de fondos hasta ahora a Kraken, que distribuirá en 7-14 días. Quedan ~35,000 BTC por repartir. Presión potencial de venta en el corto plazo. Categoría: On-chain</description>
+      <pubDate>Thu, 16 Jul 2026 11:13:11 +0000</pubDate>
+      <category>On-chain</category>
+    </item>
+    <item>
+      <title>[ALTA][Geo] Reserva Estratégica de Bitcoin de EE.UU.: paralizada por guerra de territorio entre Treasury y Commerce</title>
+      <link>https://bitcoinmagazine.com/news/u-s-bitcoin-reserve-stalls-control-report</link>
+      <guid isPermaLink="false">us-strategic-bitcoin-reserve-blueprint-july-22#upd-2026-07-16</guid>
+      <description>[ACTUALIZACIÓN] Más de un año después de la orden ejecutiva de Trump, el proyecto sigue sin estructura: Treasury y Commerce disputan el control del trove de ~328,000 BTC (~$25B). El OLC del DOJ define la legalidad. Blueprint previsto para julio 22 en riesgo. Actualiza cobertura del 2026-07-07. Categoría: Geopolítica</description>
+      <pubDate>Thu, 16 Jul 2026 11:13:11 +0000</pubDate>
+      <category>Geopolítica</category>
+    </item>
+    <item>
+      <title>[MEDIA][Geo] GENIUS Act: las 6 agencias van a incumplir el deadline del 18 de julio; entrada en vigor pasa al 18 de enero de 2027</title>
+      <link>https://cryptoslate.com/genius-act-deadline-puts-stablecoin-issuers-on-the-clock/</link>
+      <guid isPermaLink="false">genius-act-stablecoin-rules-july-18-deadline#upd-2026-07-16</guid>
+      <description>[ACTUALIZACIÓN] Ninguna de las 6 agencias publicó reglas finales. Sin fallback en la ley, la fecha de vigencia pasa al 18 de enero de 2027. Afecta a nuevos emisores federales, extranjeros y calificados por estados. Actualiza cobertura del 2026-07-10. Categoría: Regulación</description>
+      <pubDate>Thu, 16 Jul 2026 11:13:11 +0000</pubDate>
+      <category>Regulación</category>
+    </item>
   </channel>
 </rss>

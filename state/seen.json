@@ -5,7 +5,7 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-12",
+      "last_update": "2026-07-16",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -15,7 +15,8 @@
         "2026-07-06",
         "2026-07-09",
         "2026-07-10",
-        "2026-07-12"
+        "2026-07-12",
+        "2026-07-16"
       ]
     },
     {
@@ -145,14 +146,15 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-14",
+      "last_update": "2026-07-16",
       "updates": [
         "2026-06-29",
         "2026-07-01",
         "2026-07-04",
         "2026-07-10",
         "2026-07-13",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-16"
       ]
     },
     {
@@ -261,7 +263,11 @@
       "id": "japan-crypto-financial-instrument-fiea-2026",
       "title": "Japón reclasifica Bitcoin y 104 criptos como instrumentos financieros — insider trading prohibido, impuesto flat al 20% en 2028",
       "url": "https://news.bitcoin.com/japan-passes-bill-reclassifying-crypto-as-financial-instruments/",
-      "first_seen": "2026-07-03"
+      "first_seen": "2026-07-03",
+      "last_update": "2026-07-16",
+      "updates": [
+        "2026-07-16"
+      ]
     },
     {
       "id": "hashkey-capital-bitcoin-hashrate-fund-bitmain",
@@ -274,9 +280,10 @@
       "title": "Reserva Estratégica de Bitcoin de EE.UU.: blueprint detallado (BitBonds, minería federal, fees en BTC) previsto antes del 22 de julio",
       "url": "https://bitcoinist.com/bitcoin-reserve-blueprint-in-short-order/",
       "first_seen": "2026-07-04",
-      "last_update": "2026-07-07",
+      "last_update": "2026-07-16",
       "updates": [
-        "2026-07-07"
+        "2026-07-07",
+        "2026-07-16"
       ]
     },
     {
@@ -290,10 +297,11 @@
       "title": "GENIUS Act: 6 agencias (OCC, FDIC, NCUA, Treasury, FinCEN, OFAC) tienen hasta el 18 de julio para finalizar reglas de stablecoins",
       "url": "https://stablecoininsider.org/six-federal-agencies-have-35-days-to-finalize-genius-act-stablecoin-rules-by-july-18/",
       "first_seen": "2026-07-04",
+      "last_update": "2026-07-16",
       "updates": [
-        "2026-07-10"
-      ],
-      "last_update": "2026-07-10"
+        "2026-07-10",
+        "2026-07-16"
+      ]
     },
     {
       "id": "glassnode-lth-accumulation-return-july-2026",
@@ -412,6 +420,12 @@
       "title": "Gobierno de EE.UU. mueve $297M en BTC/ETH confiscados a Coinbase Prime, en aparente conflicto con la reserva estratégica",
       "url": "https://beincrypto.com/us-government-297-million-crypto-coinbase-prime/",
       "first_seen": "2026-07-14"
+    },
+    {
+      "id": "mtgox-kraken-48641-btc-july-2026",
+      "title": "Mt. Gox transfiere 48,641 BTC (~$3.1B) a Kraken para distribución a acreedores",
+      "url": "https://u.today/kraken-secures-48641-bitcoin-from-mt-gox-what-comes-next",
+      "first_seen": "2026-07-16"
     }
   ]
 }
