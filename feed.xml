@@ -5,54 +5,52 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 11:08:50 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Técnico] BIP-110: Saylor y Adam Back se oponen formalmente; lucha abierta sobre gobernanza de Bitcoin</title>
-      <link>https://www.coindesk.com/tech/2026/07/14/bitcoin-s-bip-110-sparked-a-fight-over-who-gets-to-decide-the-future-of-bitcoin</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-16</guid>
-      <description>[ACTUALIZACIÓN] Con señalización minera en &lt;1%, Saylor y Adam Back rechazaron BIP-110. CoinDesk expone la lucha de gobernanza: quién decide el futuro de Bitcoin. El BIP sigue activo hacia agosto vía UASF pese a que los opositores lo dan por fallido. Actualiza cobertura del 2026-07-12. Categoría: BIP/Fork</description>
-      <pubDate>Thu, 16 Jul 2026 11:13:11 +0000</pubDate>
-      <category>BIP/Fork</category>
-    </item>
-    <item>
-      <title>[ALTA][Geo] Japón: Cámara Alta aprueba en comité la ley que habilita ETFs de Bitcoin y baja impuestos al 20%</title>
-      <link>https://www.cryptotimes.io/2026/07/15/japan-is-one-vote-from-bitcoin-etfs-and-a-20-crypto-tax-cap/</link>
-      <guid isPermaLink="false">japan-crypto-financial-instrument-fiea-2026#upd-2026-07-16</guid>
-      <description>[ACTUALIZACIÓN] La Cámara de Consejeros de Japón aprobó en comité (15 Jul) la reclasificación de BTC bajo la FIEA. Voto de sala es formalidad. Habilita ETFs de Bitcoin en Tokio en 2027-2028 e impuesto plano del 20% desde enero 2028. Actualiza cobertura del 2026-07-03. Categoría: Regulación</description>
-      <pubDate>Thu, 16 Jul 2026 11:13:11 +0000</pubDate>
+      <title>[ALTA][Geo] CLARITY Act: audiencia de campo en Wall Street el 17/jul presiona al Senado a votar antes del receso</title>
+      <link>https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=411176</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-17</guid>
+      <description>[ACTUALIZACIÓN] La House Financial Services Committee realizó hoy en Federal Hall (NYC) la audiencia &quot;Building the Future of Finance: How the CLARITY Act Unlocks Innovation&quot;, llevando el debate directamente a las bolsas, bancos e instituciones. Odds de Polymarket entre 43-48%; si el Senado no vota antes del 7 de agosto, la ley se pospone a 2027. Texto fusionado esperado esta semana. Actualiza cobertura del 2026-07-16. Categoría: Regulación.</description>
+      <pubDate>Fri, 17 Jul 2026 11:08:50 +0000</pubDate>
       <category>Regulación</category>
     </item>
+
     <item>
-      <title>[ALTA][Geo] CLARITY Act: Trump convoca reunión personal con senadores para desbloquear la ley de estructura de mercado crypto</title>
-      <link>https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-16</guid>
-      <description>[ACTUALIZACIÓN] El 15 de julio Trump reunió senadores en la Casa Blanca para resolver el bloqueo sobre la sección de ética (sus propios intereses crypto). Si no pasa antes de agosto, el calendario legislativo cierra. Actualiza cobertura del 2026-07-14. Categoría: Regulación</description>
-      <pubDate>Thu, 16 Jul 2026 11:13:11 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[ALTA][Mercado] Morgan Stanley completa rollout de trading spot BTC/ETH/SOL en E*Trade para 8.6M clientes</title>
+      <link>https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade</link>
+      <guid isPermaLink="false">morgan-stanley-etrade-spot-crypto-trading</guid>
+      <description>Morgan Stanley habilitó la compra, venta y tenencia de Bitcoin, Ethereum y Solana en E*Trade via Zero Hash, con comisión de 50 puntos básicos. Primer banco de wealth management de EE.UU. en ofrecer spot crypto directo en plataforma retail (8.6M usuarios, ~$1.3T en activos). Planea además wallet propia como &quot;fase dos&quot;. Categoría: Figuras.</description>
+      <pubDate>Fri, 17 Jul 2026 11:08:50 +0000</pubDate>
+      <category>Figuras</category>
     </item>
+
     <item>
-      <title>[ALTA][Mercado] Mt. Gox transfiere 48,641 BTC (~$3.1B) a Kraken para distribución a acreedores</title>
-      <link>https://u.today/kraken-secures-48641-bitcoin-from-mt-gox-what-comes-next</link>
-      <guid isPermaLink="false">mtgox-kraken-48641-btc-july-2026</guid>
-      <description>La trustee de Mt. Gox envió el 16 de julio el mayor lote de fondos hasta ahora a Kraken, que distribuirá en 7-14 días. Quedan ~35,000 BTC por repartir. Presión potencial de venta en el corto plazo. Categoría: On-chain</description>
-      <pubDate>Thu, 16 Jul 2026 11:13:11 +0000</pubDate>
-      <category>On-chain</category>
+      <title>[MEDIA][Mercado] ETFs BTC: flujos positivos por dos dias ($108M el 15/jul, $79M el 16/jul) tras colapso del 13/jul</title>
+      <link>https://themarketperiodical.com/2026/07/16/crypto-etfs-bitcoin-etfs-hit-108m-inflow-led-by-blackrocks-ibit/</link>
+      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-17</guid>
+      <description>[ACTUALIZACIÓN] Tras la salida masiva de -$424.7M del 13 de julio, los ETFs spot de BTC revirtieron con entradas netas de $108M el 15 y $79M el 16; IBIT de BlackRock absorbe ~75% del flujo diario y acumula mas de 733,000 BTC (~$60B en AUM). Actualiza cobertura del 2026-07-14. Categoría: ETF.</description>
+      <pubDate>Fri, 17 Jul 2026 11:08:50 +0000</pubDate>
+      <category>ETF</category>
     </item>
+
     <item>
-      <title>[ALTA][Geo] Reserva Estratégica de Bitcoin de EE.UU.: paralizada por guerra de territorio entre Treasury y Commerce</title>
-      <link>https://bitcoinmagazine.com/news/u-s-bitcoin-reserve-stalls-control-report</link>
-      <guid isPermaLink="false">us-strategic-bitcoin-reserve-blueprint-july-22#upd-2026-07-16</guid>
-      <description>[ACTUALIZACIÓN] Más de un año después de la orden ejecutiva de Trump, el proyecto sigue sin estructura: Treasury y Commerce disputan el control del trove de ~328,000 BTC (~$25B). El OLC del DOJ define la legalidad. Blueprint previsto para julio 22 en riesgo. Actualiza cobertura del 2026-07-07. Categoría: Geopolítica</description>
-      <pubDate>Thu, 16 Jul 2026 11:13:11 +0000</pubDate>
-      <category>Geopolítica</category>
+      <title>[MEDIA][Técnico] Visa lanza Visa Stablecoin Platform (VSP) en beta con Open USD, USDC y USDG</title>
+      <link>https://decrypt.co/373668/visa-stablecoin-platform-banks-fintech-open-usd</link>
+      <guid isPermaLink="false">visa-stablecoin-platform-openusd-banks</guid>
+      <description>El 16 de julio Visa lanzo la Visa Stablecoin Platform, permitiendo a bancos y fintechs acunar, quemar y transferir stablecoins sobre su red global sin construir infraestructura propia. Disponible con Open USD, USDC (Circle) y USDG (Paxos); potencial alcance a 200M comercios y 15,000 instituciones financieras. Llega un dia antes del deadline del GENIUS Act. Categoría: Stablecoins.</description>
+      <pubDate>Fri, 17 Jul 2026 11:08:50 +0000</pubDate>
+      <category>Stablecoins</category>
     </item>
+
     <item>
-      <title>[MEDIA][Geo] GENIUS Act: las 6 agencias van a incumplir el deadline del 18 de julio; entrada en vigor pasa al 18 de enero de 2027</title>
-      <link>https://cryptoslate.com/genius-act-deadline-puts-stablecoin-issuers-on-the-clock/</link>
-      <guid isPermaLink="false">genius-act-stablecoin-rules-july-18-deadline#upd-2026-07-16</guid>
-      <description>[ACTUALIZACIÓN] Ninguna de las 6 agencias publicó reglas finales. Sin fallback en la ley, la fecha de vigencia pasa al 18 de enero de 2027. Afecta a nuevos emisores federales, extranjeros y calificados por estados. Actualiza cobertura del 2026-07-10. Categoría: Regulación</description>
-      <pubDate>Thu, 16 Jul 2026 11:13:11 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[BAJA][Mercado] Strategy lanza Bitcoin Banking Adoption Index: 25 bancos con promedio de 32%</title>
+      <link>https://www.cryptotimes.io/2026/07/14/strategy-unveils-bitcoin-banking-adoption-index-with-32-score/</link>
+      <guid isPermaLink="false">strategy-bitcoin-banking-adoption-index-32pct</guid>
+      <description>Strategy publico un indice propio (metodologia aun sin publicar) que mide la adopcion de Bitcoin en 25 grandes bancos globales; Fidelity lidera con 71%, seguida de BNY (46%) y Goldman Sachs (45%). Strategy mantiene 843,775 BTC y $3B en efectivo, sin compras de BTC en las ultimas semanas. Categoría: Figuras.</description>
+      <pubDate>Fri, 17 Jul 2026 11:08:50 +0000</pubDate>
+      <category>Figuras</category>
     </item>
+
   </channel>
 </rss>

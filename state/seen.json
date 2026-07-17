@@ -24,7 +24,7 @@
       "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
       "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-14",
+      "last_update": "2026-07-17",
       "updates": [
         "2026-06-28",
         "2026-06-29",
@@ -34,7 +34,8 @@
         "2026-07-07",
         "2026-07-10",
         "2026-07-12",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-17"
       ]
     },
     {
@@ -146,7 +147,7 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-16",
+      "last_update": "2026-07-17",
       "updates": [
         "2026-06-29",
         "2026-07-01",
@@ -154,7 +155,8 @@
         "2026-07-10",
         "2026-07-13",
         "2026-07-14",
-        "2026-07-16"
+        "2026-07-16",
+        "2026-07-17"
       ]
     },
     {
@@ -426,6 +428,24 @@
       "title": "Mt. Gox transfiere 48,641 BTC (~$3.1B) a Kraken para distribución a acreedores",
       "url": "https://u.today/kraken-secures-48641-bitcoin-from-mt-gox-what-comes-next",
       "first_seen": "2026-07-16"
+    },
+    {
+      "id": "morgan-stanley-etrade-spot-crypto-trading",
+      "title": "Morgan Stanley completa el rollout de trading spot de BTC/ETH/SOL en E*Trade para 8.6M clientes",
+      "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "visa-stablecoin-platform-openusd-banks",
+      "title": "Visa lanza Visa Stablecoin Platform (VSP) en beta con Open USD, USDC y USDG",
+      "url": "https://decrypt.co/373668/visa-stablecoin-platform-banks-fintech-open-usd",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "strategy-bitcoin-banking-adoption-index-32pct",
+      "title": "Strategy lanza Bitcoin Banking Adoption Index: 25 bancos con promedio de 32%",
+      "url": "https://www.cryptotimes.io/2026/07/14/strategy-unveils-bitcoin-banking-adoption-index-with-32-score/",
+      "first_seen": "2026-07-17"
     }
   ]
 }
