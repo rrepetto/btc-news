@@ -3,53 +3,53 @@
   <channel>
     <title>Bitcoin Daily Digest</title>
     <link>https://rrepetto.github.io/btc-news/</link>
-    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
+    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuantica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolitica/regulacion y mineria.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 17 Jul 2026 11:08:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 11:09:32 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Geo] CLARITY Act: audiencia de campo en Wall Street el 17/jul presiona al Senado a votar antes del receso</title>
-      <link>https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=411176</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-17</guid>
-      <description>[ACTUALIZACIÓN] La House Financial Services Committee realizó hoy en Federal Hall (NYC) la audiencia &quot;Building the Future of Finance: How the CLARITY Act Unlocks Innovation&quot;, llevando el debate directamente a las bolsas, bancos e instituciones. Odds de Polymarket entre 43-48%; si el Senado no vota antes del 7 de agosto, la ley se pospone a 2027. Texto fusionado esperado esta semana. Actualiza cobertura del 2026-07-16. Categoría: Regulación.</description>
-      <pubDate>Fri, 17 Jul 2026 11:08:50 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[ALTA][Geo][ACTUALIZACION] Iran ataca bases de EE.UU. en Bahrein y Kuwait — BTC retrocede del maximo mensual de $65,500</title>
+      <link>https://cryptonews.com/news/crypto-news-july-9-iran-market-fears-bitcoin-ethereum-price-panic/</link>
+      <guid isPermaLink="false">us-iran-airstrikes-btc-drop-july-2026#upd-2026-07-18</guid>
+      <description>El 15-16 de julio, Iran lanzo ataques con drones y misiles contra instalaciones militares estadounidenses en Bahrein y Kuwait, en respuesta a los strikes de EE.UU. sobre Bushehr y Bandar Abbas (14-15 jul). La escalada envio a BTC de su maximo mensual de $65,500 a menos de $64,000. Primera vez que Iran ataca directamente bases de EE.UU. en la region. Categoria: Geopolitica. Actualizacion del conflicto cubierto desde el 2026-07-09.</description>
+      <pubDate>Sat, 18 Jul 2026 11:09:32 +0000</pubDate>
+      <category>Geopolitica</category>
     </item>
 
     <item>
-      <title>[ALTA][Mercado] Morgan Stanley completa rollout de trading spot BTC/ETH/SOL en E*Trade para 8.6M clientes</title>
-      <link>https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade</link>
-      <guid isPermaLink="false">morgan-stanley-etrade-spot-crypto-trading</guid>
-      <description>Morgan Stanley habilitó la compra, venta y tenencia de Bitcoin, Ethereum y Solana en E*Trade via Zero Hash, con comisión de 50 puntos básicos. Primer banco de wealth management de EE.UU. en ofrecer spot crypto directo en plataforma retail (8.6M usuarios, ~$1.3T en activos). Planea además wallet propia como &quot;fase dos&quot;. Categoría: Figuras.</description>
-      <pubDate>Fri, 17 Jul 2026 11:08:50 +0000</pubDate>
-      <category>Figuras</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] ETFs BTC: flujos positivos por dos dias ($108M el 15/jul, $79M el 16/jul) tras colapso del 13/jul</title>
-      <link>https://themarketperiodical.com/2026/07/16/crypto-etfs-bitcoin-etfs-hit-108m-inflow-led-by-blackrocks-ibit/</link>
-      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-17</guid>
-      <description>[ACTUALIZACIÓN] Tras la salida masiva de -$424.7M del 13 de julio, los ETFs spot de BTC revirtieron con entradas netas de $108M el 15 y $79M el 16; IBIT de BlackRock absorbe ~75% del flujo diario y acumula mas de 733,000 BTC (~$60B en AUM). Actualiza cobertura del 2026-07-14. Categoría: ETF.</description>
-      <pubDate>Fri, 17 Jul 2026 11:08:50 +0000</pubDate>
+      <title>[MEDIA][Mercado] T. Rowe Price lanza TKNZ: primer ETF spot activo multi-token (BTC 41%, ETH, SOL, XRP) en NYSE Arca</title>
+      <link>https://news.bitcoin.com/t-rowe-price-launches-active-spot-crypto-etf-with-btc-eth-xrp-among-top-holdings/</link>
+      <guid isPermaLink="false">t-rowe-price-tknz-active-crypto-etf</guid>
+      <description>El 16 de julio, T. Rowe Price ($1.5T en activos gestionados) debuto en crypto con el TKNZ en NYSE Arca: primer ETF de gestion activa con exposicion spot a multiples tokens. BTC representa el 41.13% de la cartera; el resto incluye ETH, BNB, SOL y XRP. Comision neta del 0.75% hasta mayo 2027. Entrada mas relevante de un gestor tradicional al mercado crypto spot desde el lanzamiento de IBIT. Categoria: ETF.</description>
+      <pubDate>Sat, 18 Jul 2026 11:09:32 +0000</pubDate>
       <category>ETF</category>
     </item>
 
     <item>
-      <title>[MEDIA][Técnico] Visa lanza Visa Stablecoin Platform (VSP) en beta con Open USD, USDC y USDG</title>
-      <link>https://decrypt.co/373668/visa-stablecoin-platform-banks-fintech-open-usd</link>
-      <guid isPermaLink="false">visa-stablecoin-platform-openusd-banks</guid>
-      <description>El 16 de julio Visa lanzo la Visa Stablecoin Platform, permitiendo a bancos y fintechs acunar, quemar y transferir stablecoins sobre su red global sin construir infraestructura propia. Disponible con Open USD, USDC (Circle) y USDG (Paxos); potencial alcance a 200M comercios y 15,000 instituciones financieras. Llega un dia antes del deadline del GENIUS Act. Categoría: Stablecoins.</description>
-      <pubDate>Fri, 17 Jul 2026 11:08:50 +0000</pubDate>
-      <category>Stablecoins</category>
+      <title>[MEDIA][Mercado] Citadel Securities invierte $400M en Crypto.com en primera ronda institucional — valoracion $20B</title>
+      <link>https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion</link>
+      <guid isPermaLink="false">cryptocom-citadel-securities-400m-investment</guid>
+      <description>El 16 de julio, Citadel Securities (mayor market maker global) cerro una inversion de $400M en Crypto.com, primera ronda institucional en los 10 anos de historia del exchange. Valoracion: $20B. Citadel ya tenia $200M en Kraken. Los fondos se destinaran a tokenizacion de valores y derivados en ecosistemas 24/7. Categoria: Figuras.</description>
+      <pubDate>Sat, 18 Jul 2026 11:09:32 +0000</pubDate>
+      <category>Figuras</category>
     </item>
 
     <item>
-      <title>[BAJA][Mercado] Strategy lanza Bitcoin Banking Adoption Index: 25 bancos con promedio de 32%</title>
-      <link>https://www.cryptotimes.io/2026/07/14/strategy-unveils-bitcoin-banking-adoption-index-with-32-score/</link>
-      <guid isPermaLink="false">strategy-bitcoin-banking-adoption-index-32pct</guid>
-      <description>Strategy publico un indice propio (metodologia aun sin publicar) que mide la adopcion de Bitcoin en 25 grandes bancos globales; Fidelity lidera con 71%, seguida de BNY (46%) y Goldman Sachs (45%). Strategy mantiene 843,775 BTC y $3B en efectivo, sin compras de BTC en las ultimas semanas. Categoría: Figuras.</description>
-      <pubDate>Fri, 17 Jul 2026 11:08:50 +0000</pubDate>
-      <category>Figuras</category>
+      <title>[MEDIA][Tecnico] CryptoQuant: miner shutdowns +2,150% en una semana; LTH acumula record historico de 14.85M BTC</title>
+      <link>https://thecryptobasic.com/2026/07/18/bitcoin-sees-2150-miner-stress-surge-long-term-holders-hit-record-14-85m-btc-bullish-or-bearish/</link>
+      <guid isPermaLink="false">bitcoin-miner-stress-2150pct-lth-record-july-2026</guid>
+      <description>CryptoQuant reporta apagados de mineras +2,150% sobre el baseline de 90 dias y transferencias miner-&gt;Binance +470%, indicando capitulacion extrema del sector. Al mismo tiempo, los holders de largo plazo (LTH) alcanzaron record historico de 14.85M BTC acumulados, absorbiendo la presion vendedora. Patron similar a la base post-FTX (2022). Categoria: Mineria/AI y On-chain.</description>
+      <pubDate>Sat, 18 Jul 2026 11:09:32 +0000</pubDate>
+      <category>Mineria/AI</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Mercado] Ballena dormida 8.6 anos mueve 5,908 BTC ($383M) a wallet SegWit — sin envio a exchange</title>
+      <link>https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years</link>
+      <guid isPermaLink="false">bitcoin-dormant-whale-5908-btc-july-2026</guid>
+      <description>Una direccion inactiva desde diciembre 2017 (compra original a ~$16,800/BTC) transfirio el 16-17 de julio sus 5,908 BTC a una nueva wallet nativa SegWit (bc1q). Sin movimiento a exchanges. La misma ballena no vendio en el ATH de $126,198 (octubre 2025). El movimiento apunta a reorganizacion de custodia. Categoria: Ballenas.</description>
+      <pubDate>Sat, 18 Jul 2026 11:09:32 +0000</pubDate>
+      <category>Ballenas</category>
     </item>
 
   </channel>
