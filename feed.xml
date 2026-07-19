@@ -3,53 +3,35 @@
   <channel>
     <title>Bitcoin Daily Digest</title>
     <link>https://rrepetto.github.io/btc-news/</link>
-    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuantica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolitica/regulacion y mineria.</description>
+    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 18 Jul 2026 11:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 11:07:57 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Geo][ACTUALIZACION] Iran ataca bases de EE.UU. en Bahrein y Kuwait — BTC retrocede del maximo mensual de $65,500</title>
-      <link>https://cryptonews.com/news/crypto-news-july-9-iran-market-fears-bitcoin-ethereum-price-panic/</link>
-      <guid isPermaLink="false">us-iran-airstrikes-btc-drop-july-2026#upd-2026-07-18</guid>
-      <description>El 15-16 de julio, Iran lanzo ataques con drones y misiles contra instalaciones militares estadounidenses en Bahrein y Kuwait, en respuesta a los strikes de EE.UU. sobre Bushehr y Bandar Abbas (14-15 jul). La escalada envio a BTC de su maximo mensual de $65,500 a menos de $64,000. Primera vez que Iran ataca directamente bases de EE.UU. en la region. Categoria: Geopolitica. Actualizacion del conflicto cubierto desde el 2026-07-09.</description>
-      <pubDate>Sat, 18 Jul 2026 11:09:32 +0000</pubDate>
-      <category>Geopolitica</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] T. Rowe Price lanza TKNZ: primer ETF spot activo multi-token (BTC 41%, ETH, SOL, XRP) en NYSE Arca</title>
-      <link>https://news.bitcoin.com/t-rowe-price-launches-active-spot-crypto-etf-with-btc-eth-xrp-among-top-holdings/</link>
-      <guid isPermaLink="false">t-rowe-price-tknz-active-crypto-etf</guid>
-      <description>El 16 de julio, T. Rowe Price ($1.5T en activos gestionados) debuto en crypto con el TKNZ en NYSE Arca: primer ETF de gestion activa con exposicion spot a multiples tokens. BTC representa el 41.13% de la cartera; el resto incluye ETH, BNB, SOL y XRP. Comision neta del 0.75% hasta mayo 2027. Entrada mas relevante de un gestor tradicional al mercado crypto spot desde el lanzamiento de IBIT. Categoria: ETF.</description>
-      <pubDate>Sat, 18 Jul 2026 11:09:32 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] Citadel Securities invierte $400M en Crypto.com en primera ronda institucional — valoracion $20B</title>
-      <link>https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion</link>
-      <guid isPermaLink="false">cryptocom-citadel-securities-400m-investment</guid>
-      <description>El 16 de julio, Citadel Securities (mayor market maker global) cerro una inversion de $400M en Crypto.com, primera ronda institucional en los 10 anos de historia del exchange. Valoracion: $20B. Citadel ya tenia $200M en Kraken. Los fondos se destinaran a tokenizacion de valores y derivados en ecosistemas 24/7. Categoria: Figuras.</description>
-      <pubDate>Sat, 18 Jul 2026 11:09:32 +0000</pubDate>
+      <title>[ALTA][Geo] Larry Fink (BlackRock): "very bullish" en Bitcoin, apunta a $500K-$700K en adopción masiva</title>
+      <link>https://www.ccn.com/news/crypto/bitcoin-500000-larry-fink-very-bullish-blackrock-clients-139m-btc/</link>
+      <guid isPermaLink="false">larry-fink-blackrock-very-bullish-btc-2026</guid>
+      <description>El CEO de BlackRock declaró en CNBC el 15 de julio ser "very bullish" sobre Bitcoin en los próximos 12 meses, atribuyendo la estabilidad al lavado de apalancamiento y proyectando $500K-$700K en adopción masiva. BlackRock Q2: $15.3T AUM récord. Categoría: Figuras.</description>
+      <pubDate>Sun, 19 Jul 2026 11:07:57 +0000</pubDate>
       <category>Figuras</category>
     </item>
 
     <item>
-      <title>[MEDIA][Tecnico] CryptoQuant: miner shutdowns +2,150% en una semana; LTH acumula record historico de 14.85M BTC</title>
-      <link>https://thecryptobasic.com/2026/07/18/bitcoin-sees-2150-miner-stress-surge-long-term-holders-hit-record-14-85m-btc-bullish-or-bearish/</link>
-      <guid isPermaLink="false">bitcoin-miner-stress-2150pct-lth-record-july-2026</guid>
-      <description>CryptoQuant reporta apagados de mineras +2,150% sobre el baseline de 90 dias y transferencias miner-&gt;Binance +470%, indicando capitulacion extrema del sector. Al mismo tiempo, los holders de largo plazo (LTH) alcanzaron record historico de 14.85M BTC acumulados, absorbiendo la presion vendedora. Patron similar a la base post-FTX (2022). Categoria: Mineria/AI y On-chain.</description>
-      <pubDate>Sat, 18 Jul 2026 11:09:32 +0000</pubDate>
-      <category>Mineria/AI</category>
+      <title>[ALTA][Mercado][ACTUALIZACIÓN] ETFs BTC: $1.2B en inflows semanales — mayor flujo desde marzo 2026; BTC recupera $65K</title>
+      <link>https://cryptobriefing.com/bitcoin-reclaims-65000-amid-1b-etf-inflows/</link>
+      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-19</guid>
+      <description>Los ETFs spot de BTC acumularon ~$1.2B en entradas netas en la semana del 18 de julio — el mayor flujo semanal desde marzo 2026. IBIT absorbió casi la mitad; BTC alcanzó $65K y capitalización supera $1.28T. Flujo diario promedio: $170M vs $80M el mes previo. Categoría: ETF.</description>
+      <pubDate>Sun, 19 Jul 2026 11:07:57 +0000</pubDate>
+      <category>ETF</category>
     </item>
 
     <item>
-      <title>[BAJA][Mercado] Ballena dormida 8.6 anos mueve 5,908 BTC ($383M) a wallet SegWit — sin envio a exchange</title>
-      <link>https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years</link>
-      <guid isPermaLink="false">bitcoin-dormant-whale-5908-btc-july-2026</guid>
-      <description>Una direccion inactiva desde diciembre 2017 (compra original a ~$16,800/BTC) transfirio el 16-17 de julio sus 5,908 BTC a una nueva wallet nativa SegWit (bc1q). Sin movimiento a exchanges. La misma ballena no vendio en el ATH de $126,198 (octubre 2025). El movimiento apunta a reorganizacion de custodia. Categoria: Ballenas.</description>
-      <pubDate>Sat, 18 Jul 2026 11:09:32 +0000</pubDate>
-      <category>Ballenas</category>
+      <title>[MEDIA][Geo][ACTUALIZACIÓN] CFTC vs. Michigan: regulador federal bloquea orden judicial estatal sobre contratos perpetuos de Kalshi</title>
+      <link>https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-michigan-trades/</link>
+      <guid isPermaLink="false">cftc-approves-bitcoin-perpetual-futures-kalshi#upd-2026-07-19</guid>
+      <description>El 14 de julio el CFTC ordenó a Kalshi ignorar una resolución de un tribunal de Michigan que exigía cancelar contratos deportivos de usuarios del estado. El chairman Selig declaró que no tolerará que estados intimiden a entidades registradas. Primer conflicto federal-estatal sobre jurisdicción en BTC perps; Kalshi acumula $16.1B en volumen. Categoría: Regulación.</description>
+      <pubDate>Sun, 19 Jul 2026 11:07:57 +0000</pubDate>
+      <category>Regulación</category>
     </item>
 
   </channel>

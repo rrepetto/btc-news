@@ -16,23 +16,23 @@ Compatible con cualquier lector RSS (Feedly, Inoreader, Miniflux, etc.).
 
 | Fecha | Items |
 |-------|-------|
+| [2026-07-19](digests/2026-07-19.md) | 1 nuevos |
 | [2026-07-18](digests/2026-07-18.md) | 4 nuevos |
 | [2026-07-17](digests/2026-07-17.md) | 3 nuevos |
-| [2026-07-16](digests/2026-07-16.md) | 1 nuevo |
-| [2026-07-14](digests/2026-07-14.md) | 1 nuevo |
+| [2026-07-16](digests/2026-07-16.md) | 1 nuevos |
+| [2026-07-14](digests/2026-07-14.md) | 1 nuevos |
 | [2026-07-13](digests/2026-07-13.md) | 2 nuevos |
-| [2026-07-12](digests/2026-07-12.md) | 1 nuevo |
+| [2026-07-12](digests/2026-07-12.md) | 1 nuevos |
 | [2026-07-11](digests/2026-07-11.md) | 3 nuevos |
-| [2026-07-10](digests/2026-07-10.md) | 0 nuevos |
 | [2026-07-09](digests/2026-07-09.md) | 2 nuevos |
 | [2026-07-08](digests/2026-07-08.md) | 2 nuevos |
 | [2026-07-07](digests/2026-07-07.md) | 2 nuevos |
-| [2026-07-06](digests/2026-07-06.md) | 1 nuevo |
+| [2026-07-06](digests/2026-07-06.md) | 1 nuevos |
 | [2026-07-05](digests/2026-07-05.md) | 3 nuevos |
 | [2026-07-04](digests/2026-07-04.md) | 4 nuevos |
 | [2026-07-03](digests/2026-07-03.md) | 3 nuevos |
 | [2026-07-02](digests/2026-07-02.md) | 2 nuevos |
-| [2026-07-01](digests/2026-07-01.md) | 1 nuevo |
-| [2026-06-30](digests/2026-06-30.md) | 1 nuevo |
+| [2026-07-01](digests/2026-07-01.md) | 1 nuevos |
+| [2026-06-30](digests/2026-06-30.md) | 1 nuevos |
 | [2026-06-29](digests/2026-06-29.md) | 7 nuevos |
 | [2026-06-28](digests/2026-06-28.md) | 21 nuevos |

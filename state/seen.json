@@ -24,7 +24,7 @@
       "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
       "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-17",
+      "last_update": "2026-07-19",
       "updates": [
         "2026-06-28",
         "2026-06-29",
@@ -35,7 +35,8 @@
         "2026-07-10",
         "2026-07-12",
         "2026-07-14",
-        "2026-07-17"
+        "2026-07-17",
+        "2026-07-19"
       ]
     },
     {
@@ -96,7 +97,11 @@
       "id": "cftc-approves-bitcoin-perpetual-futures-kalshi",
       "title": "CFTC aprueba futuros perpetuos de Bitcoin en EE.UU. por primera vez (Kalshi)",
       "url": "https://www.cftc.gov/PressRoom/PressReleases/9240-26",
-      "first_seen": "2026-06-28"
+      "first_seen": "2026-06-28",
+      "last_update": "2026-07-19",
+      "updates": [
+        "2026-07-19"
+      ]
     },
     {
       "id": "strategy-saylor-sells-32-btc-first-time-2022",
@@ -471,6 +476,12 @@
       "title": "Ballena dormida 8.6 años mueve 5,908 BTC ($383M) a wallet SegWit — sin envío a exchange",
       "url": "https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years",
       "first_seen": "2026-07-18"
+    },
+    {
+      "id": "larry-fink-blackrock-very-bullish-btc-2026",
+      "title": "Larry Fink (BlackRock): 'very bullish' en Bitcoin, proyecta $500K-$700K en adopción masiva",
+      "url": "https://www.ccn.com/news/crypto/bitcoin-500000-larry-fink-very-bullish-blackrock-clients-139m-btc/",
+      "first_seen": "2026-07-19"
     }
   ]
 }
