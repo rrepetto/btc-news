@@ -152,7 +152,7 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-17",
+      "last_update": "2026-07-20",
       "updates": [
         "2026-06-29",
         "2026-07-01",
@@ -161,7 +161,8 @@
         "2026-07-13",
         "2026-07-14",
         "2026-07-16",
-        "2026-07-17"
+        "2026-07-17",
+        "2026-07-20"
       ]
     },
     {
@@ -304,10 +305,11 @@
       "title": "GENIUS Act: 6 agencias (OCC, FDIC, NCUA, Treasury, FinCEN, OFAC) tienen hasta el 18 de julio para finalizar reglas de stablecoins",
       "url": "https://stablecoininsider.org/six-federal-agencies-have-35-days-to-finalize-genius-act-stablecoin-rules-by-july-18/",
       "first_seen": "2026-07-04",
-      "last_update": "2026-07-16",
+      "last_update": "2026-07-20",
       "updates": [
         "2026-07-10",
-        "2026-07-16"
+        "2026-07-16",
+        "2026-07-20"
       ]
     },
     {
@@ -482,6 +484,18 @@
       "title": "Larry Fink (BlackRock): 'very bullish' en Bitcoin, proyecta $500K-$700K en adopción masiva",
       "url": "https://www.ccn.com/news/crypto/bitcoin-500000-larry-fink-very-bullish-blackrock-clients-139m-btc/",
       "first_seen": "2026-07-19"
+    },
+    {
+      "id": "dog-mode-bitcoin-client-ordinals-relay-july-2026",
+      "title": "DOG Mode: cliente alternativo Bitcoin desafía relay policy de Core para habilitar transacciones grandes de Ordinals/Runes",
+      "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "cryptoquant-bitcoin-spot-demand-minus-170k-july-2026",
+      "title": "CryptoQuant: demanda spot de BTC cae a -170K BTC — precio aguanta en $64K por short-covering, no por demanda real",
+      "url": "https://thecryptobasic.com/2026/07/20/bitcoin-spot-demand-slides-toward-170k-btc-is-a-massive-bitcoin-dip-ahead/",
+      "first_seen": "2026-07-20"
     }
   ]
 }

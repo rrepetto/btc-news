@@ -5,33 +5,42 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 19 Jul 2026 11:07:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 11:07:02 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Geo] Larry Fink (BlackRock): "very bullish" en Bitcoin, apunta a $500K-$700K en adopción masiva</title>
-      <link>https://www.ccn.com/news/crypto/bitcoin-500000-larry-fink-very-bullish-blackrock-clients-139m-btc/</link>
-      <guid isPermaLink="false">larry-fink-blackrock-very-bullish-btc-2026</guid>
-      <description>El CEO de BlackRock declaró en CNBC el 15 de julio ser "very bullish" sobre Bitcoin en los próximos 12 meses, atribuyendo la estabilidad al lavado de apalancamiento y proyectando $500K-$700K en adopción masiva. BlackRock Q2: $15.3T AUM récord. Categoría: Figuras.</description>
-      <pubDate>Sun, 19 Jul 2026 11:07:57 +0000</pubDate>
-      <category>Figuras</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Mercado][ACTUALIZACIÓN] ETFs BTC: $1.2B en inflows semanales — mayor flujo desde marzo 2026; BTC recupera $65K</title>
-      <link>https://cryptobriefing.com/bitcoin-reclaims-65000-amid-1b-etf-inflows/</link>
-      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-19</guid>
-      <description>Los ETFs spot de BTC acumularon ~$1.2B en entradas netas en la semana del 18 de julio — el mayor flujo semanal desde marzo 2026. IBIT absorbió casi la mitad; BTC alcanzó $65K y capitalización supera $1.28T. Flujo diario promedio: $170M vs $80M el mes previo. Categoría: ETF.</description>
-      <pubDate>Sun, 19 Jul 2026 11:07:57 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Geo][ACTUALIZACIÓN] CFTC vs. Michigan: regulador federal bloquea orden judicial estatal sobre contratos perpetuos de Kalshi</title>
-      <link>https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-michigan-trades/</link>
-      <guid isPermaLink="false">cftc-approves-bitcoin-perpetual-futures-kalshi#upd-2026-07-19</guid>
-      <description>El 14 de julio el CFTC ordenó a Kalshi ignorar una resolución de un tribunal de Michigan que exigía cancelar contratos deportivos de usuarios del estado. El chairman Selig declaró que no tolerará que estados intimiden a entidades registradas. Primer conflicto federal-estatal sobre jurisdicción en BTC perps; Kalshi acumula $16.1B en volumen. Categoría: Regulación.</description>
-      <pubDate>Sun, 19 Jul 2026 11:07:57 +0000</pubDate>
+      <title>[ALTA][Geo] [ACTUALIZACIÓN] GENIUS Act: los 6 reguladores incumplen el deadline — reglas de stablecoins se posponen hasta 2027</title>
+      <link>https://stablecoininsider.org/the-genius-act-july-18-rulemaking-deadline-has-arrived-the-rules-are-not-ready/</link>
+      <guid isPermaLink="false">genius-act-stablecoin-rules-july-18-deadline#upd-2026-07-20</guid>
+      <description>El 18 de julio pasó sin que la OCC, FDIC, NCUA, Treasury, FinCEN ni OFAC publicaran ninguna regla final. El mercado de stablecoins ($309.5B) opera en limbo: implementación postergada hasta enero 2027 como mínimo. No existe sanción por el incumplimiento del deadline regulatorio. Categoría: Regulación. Actualiza cobertura del 2026-07-04.</description>
+      <pubDate>Mon, 20 Jul 2026 11:07:02 +0000</pubDate>
       <category>Regulación</category>
+    </item>
+
+    <item>
+      <title>[ALTA][Geo] [ACTUALIZACIÓN] CLARITY Act: semana del 20 de julio es la última ventana — odds de aprobación caen al 35%</title>
+      <link>https://www.cryptotimes.io/2026/07/20/crypto-week-ahead-clarity-act-deadline-big-tech-earnings-the-pre-fomc-calm/</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-20</guid>
+      <description>La semana del 20 de julio es la última oportunidad antes del receso de agosto. Odds de aprobación en 2026 caen al 35% (vs &gt;80% en febrero). Tres bloqueos sin resolver: ethics provision, preemción federal, rendimientos de stablecoins. Si no pasa, la legislación se postergará hasta 2027. Categoría: Regulación. Actualiza cobertura del 2026-06-28.</description>
+      <pubDate>Mon, 20 Jul 2026 11:07:02 +0000</pubDate>
+      <category>Regulación</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Técnico] DOG Mode: cliente alternativo Bitcoin desafía relay policy de Core para habilitar Ordinals/Runes</title>
+      <link>https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight</link>
+      <guid isPermaLink="false">dog-mode-bitcoin-client-ordinals-relay-july-2026</guid>
+      <description>Desarrollador "Leonidas" lanzó el 17 de julio DOG Mode, cliente alternativo que eleva el tamaño máximo de tx de 400K a 3.9M weight units y baja el dust limit a 1 sat, liberando ~$25M en padding. Contraataque directo a BIP-110. Sin cambios de consenso, pero podría fragmentar el mempool. Categoría: Ordinals/BIP/Fork.</description>
+      <pubDate>Mon, 20 Jul 2026 11:07:02 +0000</pubDate>
+      <category>Ordinals/BIP/Fork</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Mercado] CryptoQuant: demanda spot de BTC cae a -170K BTC — precio aguanta en $64K por short-covering</title>
+      <link>https://thecryptobasic.com/2026/07/20/bitcoin-spot-demand-slides-toward-170k-btc-is-a-massive-bitcoin-dip-ahead/</link>
+      <guid isPermaLink="false">cryptoquant-bitcoin-spot-demand-minus-170k-july-2026</guid>
+      <description>CryptoQuant reporta demanda spot neta de BTC en -170,000 BTC. El precio se mantiene cerca de $64,722 por short-covering en derivados, no por compra real. Fear &amp; Greed Index en 22 ("Extreme Fear"). Entorno pre-FOMC (28-29 jul) añade incertidumbre. Categoría: On-chain.</description>
+      <pubDate>Mon, 20 Jul 2026 11:07:02 +0000</pubDate>
+      <category>On-chain</category>
     </item>
 
   </channel>
