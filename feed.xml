@@ -5,41 +5,59 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 20 Jul 2026 11:07:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 11:08:43 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACIÓN] GENIUS Act: los 6 reguladores incumplen el deadline — reglas de stablecoins se posponen hasta 2027</title>
-      <link>https://stablecoininsider.org/the-genius-act-july-18-rulemaking-deadline-has-arrived-the-rules-are-not-ready/</link>
-      <guid isPermaLink="false">genius-act-stablecoin-rules-july-18-deadline#upd-2026-07-20</guid>
-      <description>El 18 de julio pasó sin que la OCC, FDIC, NCUA, Treasury, FinCEN ni OFAC publicaran ninguna regla final. El mercado de stablecoins ($309.5B) opera en limbo: implementación postergada hasta enero 2027 como mínimo. No existe sanción por el incumplimiento del deadline regulatorio. Categoría: Regulación. Actualiza cobertura del 2026-07-04.</description>
-      <pubDate>Mon, 20 Jul 2026 11:07:02 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[ALTA][ACTUALIZACIÓN][Mercado] ETFs de Bitcoin: primera racha de 5 días consecutivos de entradas desde abril — ~$727M</title>
+      <link>https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april</link>
+      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-21</guid>
+      <description>Los ETFs spot de BTC acumularon entradas netas durante 5 días seguidos (16-21 de julio), totalizando ~$727M, primera racha de este calibre desde finales de abril. Revierte la tendencia de más de 8 semanas de salidas que acumuló más de $2.7B. Categoría: ETF</description>
+      <pubDate>Tue, 21 Jul 2026 11:08:43 +0000</pubDate>
+      <category>ETF</category>
     </item>
 
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACIÓN] CLARITY Act: semana del 20 de julio es la última ventana — odds de aprobación caen al 35%</title>
-      <link>https://www.cryptotimes.io/2026/07/20/crypto-week-ahead-clarity-act-deadline-big-tech-earnings-the-pre-fomc-calm/</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-20</guid>
-      <description>La semana del 20 de julio es la última oportunidad antes del receso de agosto. Odds de aprobación en 2026 caen al 35% (vs &gt;80% en febrero). Tres bloqueos sin resolver: ethics provision, preemción federal, rendimientos de stablecoins. Si no pasa, la legislación se postergará hasta 2027. Categoría: Regulación. Actualiza cobertura del 2026-06-28.</description>
-      <pubDate>Mon, 20 Jul 2026 11:07:02 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[ALTA][ACTUALIZACIÓN][Geo] Reserva Estratégica Bitcoin EE.UU.: blueprint vence mañana (22 Jul) y está paralizado — disputa Treasury vs. Commerce</title>
+      <link>https://news.bitcoin.com/strategic-bitcoin-reserve-treasury-commerce-turf-war/</link>
+      <guid isPermaLink="false">us-strategic-bitcoin-reserve-blueprint-july-22#upd-2026-07-21</guid>
+      <description>La fecha límite del 22 de julio llega sin un plan publicado. Disputa territorial entre Treasury y Commerce sobre quién administra legalmente ~328,372 BTC confiscados (~$20B). El OLC del DOJ revisa opciones. Sin resolución legislativa no hay compras de mercado abierto. Categoría: Geopolítica</description>
+      <pubDate>Tue, 21 Jul 2026 11:08:43 +0000</pubDate>
+      <category>Geopolítica</category>
     </item>
 
     <item>
-      <title>[MEDIA][Técnico] DOG Mode: cliente alternativo Bitcoin desafía relay policy de Core para habilitar Ordinals/Runes</title>
-      <link>https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight</link>
-      <guid isPermaLink="false">dog-mode-bitcoin-client-ordinals-relay-july-2026</guid>
-      <description>Desarrollador "Leonidas" lanzó el 17 de julio DOG Mode, cliente alternativo que eleva el tamaño máximo de tx de 400K a 3.9M weight units y baja el dust limit a 1 sat, liberando ~$25M en padding. Contraataque directo a BIP-110. Sin cambios de consenso, pero podría fragmentar el mempool. Categoría: Ordinals/BIP/Fork.</description>
-      <pubDate>Mon, 20 Jul 2026 11:07:02 +0000</pubDate>
-      <category>Ordinals/BIP/Fork</category>
+      <title>[MEDIA][Técnico] Saylor publica 110 razones contra BIP-110 mientras se acerca la ventana de lock-in de agosto</title>
+      <link>https://decrypt.co/373819/strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110</link>
+      <guid isPermaLink="false">saylor-110-reasons-against-bip110-july-2026</guid>
+      <description>Michael Saylor publicó en X el argumento más detallado contra el soft fork BIP-110. Argumenta que invalida transacciones válidas, que Bitcoin no puede inferir intención de datos, y que el mecanismo de activación al 55% es manipulable. Señalización actual: ~0.83%, ventana de lock-in en bloque ~961,542 (principios de agosto). Categoría: BIP/Fork</description>
+      <pubDate>Tue, 21 Jul 2026 11:08:43 +0000</pubDate>
+      <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[BAJA][Mercado] CryptoQuant: demanda spot de BTC cae a -170K BTC — precio aguanta en $64K por short-covering</title>
-      <link>https://thecryptobasic.com/2026/07/20/bitcoin-spot-demand-slides-toward-170k-btc-is-a-massive-bitcoin-dip-ahead/</link>
-      <guid isPermaLink="false">cryptoquant-bitcoin-spot-demand-minus-170k-july-2026</guid>
-      <description>CryptoQuant reporta demanda spot neta de BTC en -170,000 BTC. El precio se mantiene cerca de $64,722 por short-covering en derivados, no por compra real. Fear &amp; Greed Index en 22 ("Extreme Fear"). Entorno pre-FOMC (28-29 jul) añade incertidumbre. Categoría: On-chain.</description>
-      <pubDate>Mon, 20 Jul 2026 11:07:02 +0000</pubDate>
+      <title>[MEDIA][Mercado] SEC y NYSE Arca elevan límites de opciones sobre IBIT de 250K a 1 millón de contratos (4x)</title>
+      <link>https://www.federalregister.gov/documents/2026/07/20/2026-14527/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed</link>
+      <guid isPermaLink="false">ibit-options-limit-1m-contracts-nyse-arca-july-2026</guid>
+      <description>NYSE Arca notificó efectividad inmediata de regla SR-NYSEARCA-2026-76 elevando los límites de posición/ejercicio para opciones del iShares Bitcoin Trust de 250,000 a 1,000,000 contratos por lado. Segunda cuadruplicación en menos de 12 meses; cambios replicados en Nasdaq PHLX y BOX. Amplía espacio para cobertura institucional a gran escala. Categoría: ETF</description>
+      <pubDate>Tue, 21 Jul 2026 11:08:43 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Técnico] Minería Bitcoin: 4 pools concentran más del 70% del hashrate — coeficiente de Nakamoto cae a 3</title>
+      <link>https://d-central.tech/reports/state-of-bitcoin-mining-2026-h1/</link>
+      <guid isPermaLink="false">bitcoin-mining-pool-nakamoto-coefficient-3-july-2026</guid>
+      <description>Informe H1 2026 de D-Central: Foundry USA (27%), AntPool (18%), ViaBTC (13%) y F2Pool (10%) controlan más del 70% del hashrate. Coeficiente de Nakamoto = 3, sólo tres pools bastan para controlar la mayoría de los bloques. Mercado bifurcado entre pools institucionales y miners independientes bajo presión. Categoría: Minería/AI</description>
+      <pubDate>Tue, 21 Jul 2026 11:08:43 +0000</pubDate>
+      <category>Minería/AI</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Mercado] $686M en Bitcoin retirados de Binance, Coinbase y Bybit en un solo día</title>
+      <link>https://thecryptobasic.com/2026/07/21/686m-in-bitcoin-withdrawn-from-binance-coinbase-bybit-in-one-day-as-btc-targets-66k/</link>
+      <guid isPermaLink="false">bitcoin-686m-exchange-outflows-july-21-2026</guid>
+      <description>El 21 de julio se registraron salidas masivas de BTC desde los tres mayores exchanges, indicador on-chain asociado a acumulación off-exchange o transferencias a custodia propia mientras BTC cotizaba ~$65,800. Categoría: On-chain</description>
+      <pubDate>Tue, 21 Jul 2026 11:08:43 +0000</pubDate>
       <category>On-chain</category>
     </item>
 

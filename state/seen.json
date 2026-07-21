@@ -24,7 +24,7 @@
       "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
       "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-19",
+      "last_update": "2026-07-21",
       "updates": [
         "2026-06-28",
         "2026-06-29",
@@ -36,7 +36,8 @@
         "2026-07-12",
         "2026-07-14",
         "2026-07-17",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-21"
       ]
     },
     {
@@ -288,10 +289,11 @@
       "title": "Reserva Estratégica de Bitcoin de EE.UU.: blueprint detallado (BitBonds, minería federal, fees en BTC) previsto antes del 22 de julio",
       "url": "https://bitcoinist.com/bitcoin-reserve-blueprint-in-short-order/",
       "first_seen": "2026-07-04",
-      "last_update": "2026-07-16",
+      "last_update": "2026-07-21",
       "updates": [
         "2026-07-07",
-        "2026-07-16"
+        "2026-07-16",
+        "2026-07-21"
       ]
     },
     {
@@ -496,6 +498,30 @@
       "title": "CryptoQuant: demanda spot de BTC cae a -170K BTC — precio aguanta en $64K por short-covering, no por demanda real",
       "url": "https://thecryptobasic.com/2026/07/20/bitcoin-spot-demand-slides-toward-170k-btc-is-a-massive-bitcoin-dip-ahead/",
       "first_seen": "2026-07-20"
+    },
+    {
+      "id": "saylor-110-reasons-against-bip110-july-2026",
+      "title": "Saylor publica 110 razones contra BIP-110 mientras se acerca la ventana de lock-in de agosto",
+      "url": "https://decrypt.co/373819/strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "ibit-options-limit-1m-contracts-nyse-arca-july-2026",
+      "title": "SEC y NYSE Arca elevan los límites de opciones sobre IBIT de 250K a 1 millón de contratos (4x)",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14527/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "bitcoin-mining-pool-nakamoto-coefficient-3-july-2026",
+      "title": "Minería Bitcoin: 4 pools concentran más del 70% del hashrate — coeficiente de Nakamoto cae a 3",
+      "url": "https://d-central.tech/reports/state-of-bitcoin-mining-2026-h1/",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "bitcoin-686m-exchange-outflows-july-21-2026",
+      "title": "$686M en Bitcoin retirados de Binance, Coinbase y Bybit en un solo día",
+      "url": "https://thecryptobasic.com/2026/07/21/686m-in-bitcoin-withdrawn-from-binance-coinbase-bybit-in-one-day-as-btc-targets-66k/",
+      "first_seen": "2026-07-21"
     }
   ]
 }
