@@ -153,7 +153,7 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-20",
+      "last_update": "2026-07-22",
       "updates": [
         "2026-06-29",
         "2026-07-01",
@@ -163,7 +163,8 @@
         "2026-07-14",
         "2026-07-16",
         "2026-07-17",
-        "2026-07-20"
+        "2026-07-20",
+        "2026-07-22"
       ]
     },
     {
@@ -522,6 +523,24 @@
       "title": "$686M en Bitcoin retirados de Binance, Coinbase y Bybit en un solo día",
       "url": "https://thecryptobasic.com/2026/07/21/686m-in-bitcoin-withdrawn-from-binance-coinbase-bybit-in-one-day-as-btc-targets-66k/",
       "first_seen": "2026-07-21"
+    },
+    {
+      "id": "russia-crypto-law-duma-july-2026",
+      "title": "Rusia aprueba ley que reconoce Bitcoin como propiedad y legaliza uso en comercio exterior",
+      "url": "https://www.themoscowtimes.com/2026/07/22/russia-passes-crypto-law-to-legalize-trading-under-tight-central-bank-oversight-a93307",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "bitcoin-lth-supply-ath-1664m-coinglass-july-2026",
+      "title": "Bitcoin long-term holders alcanzan máximo histórico: 16.64M BTC (83% del supply circulante)",
+      "url": "https://news.bitcoin.com/bitcoin-long-term-holder-supply-all-time-high-2026/",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "lm-funding-powercompute-ai-hpc-pivot-july-2026",
+      "title": "LM Funding se rebautiza PowerCompute (PWCM) y pivota de minería Bitcoin a HPC/AI",
+      "url": "https://www.globenewswire.com/news-release/2026/07/20/3329683/0/en/lm-funding-announces-corporate-name-change-to-powercompute-inc-reflecting-strategic-focus-on-high-performance-computing-and-ai-infrastructure-and-btc-mining.html",
+      "first_seen": "2026-07-22"
     }
   ]
 }

@@ -5,60 +5,42 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 21 Jul 2026 11:08:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 11:09:34 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][ACTUALIZACIÓN][Mercado] ETFs de Bitcoin: primera racha de 5 días consecutivos de entradas desde abril — ~$727M</title>
-      <link>https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april</link>
-      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-21</guid>
-      <description>Los ETFs spot de BTC acumularon entradas netas durante 5 días seguidos (16-21 de julio), totalizando ~$727M, primera racha de este calibre desde finales de abril. Revierte la tendencia de más de 8 semanas de salidas que acumuló más de $2.7B. Categoría: ETF</description>
-      <pubDate>Tue, 21 Jul 2026 11:08:43 +0000</pubDate>
-      <category>ETF</category>
+      <title>[ALTA][Geo] [ACTUALIZACION] CLARITY Act: Trump acepta provisiones eticas -- voto en Senado podria darse antes del receso del 7 de agosto</title>
+      <link>https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-22</guid>
+      <description>El 21 de julio, la Casa Blanca presiono a senadores democratas para firmar provisiones eticas que prohíben al presidente tener o beneficiarse de activos digitales que regula. Es la concesion clave que los democratas exigian. El Senado debe votar antes del receso del 7 de agosto. Si pasa, seria la primera ley federal de estructura de mercado para activos digitales en EE.UU. Categoria: Regulacion</description>
+      <pubDate>Wed, 22 Jul 2026 11:09:34 +0000</pubDate>
+      <category>Regulación</category>
     </item>
 
     <item>
-      <title>[ALTA][ACTUALIZACIÓN][Geo] Reserva Estratégica Bitcoin EE.UU.: blueprint vence mañana (22 Jul) y está paralizado — disputa Treasury vs. Commerce</title>
-      <link>https://news.bitcoin.com/strategic-bitcoin-reserve-treasury-commerce-turf-war/</link>
-      <guid isPermaLink="false">us-strategic-bitcoin-reserve-blueprint-july-22#upd-2026-07-21</guid>
-      <description>La fecha límite del 22 de julio llega sin un plan publicado. Disputa territorial entre Treasury y Commerce sobre quién administra legalmente ~328,372 BTC confiscados (~$20B). El OLC del DOJ revisa opciones. Sin resolución legislativa no hay compras de mercado abierto. Categoría: Geopolítica</description>
-      <pubDate>Tue, 21 Jul 2026 11:08:43 +0000</pubDate>
+      <title>[ALTA][Geo] Rusia aprueba ley historica que reconoce Bitcoin y criptoactivos como propiedad y legaliza uso en comercio exterior</title>
+      <link>https://www.themoscowtimes.com/2026/07/22/russia-passes-crypto-law-to-legalize-trading-under-tight-central-bank-oversight-a93307</link>
+      <guid isPermaLink="false">russia-crypto-law-duma-july-2026</guid>
+      <description>El 21 de julio, la Duma Estatal rusa aprobo la ley "Sobre Divisas Digitales y Derechos Digitales": reconoce BTC como propiedad civil, legaliza uso en comercio exterior y establece marco de custodia bajo el Banco Central. Mantiene prohibicion de pagos domesticos. Falta firma de Putin; entrada en vigor estimada: 1 de septiembre 2026. Categoria: Geopolitica</description>
+      <pubDate>Wed, 22 Jul 2026 11:09:34 +0000</pubDate>
       <category>Geopolítica</category>
     </item>
 
     <item>
-      <title>[MEDIA][Técnico] Saylor publica 110 razones contra BIP-110 mientras se acerca la ventana de lock-in de agosto</title>
-      <link>https://decrypt.co/373819/strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110</link>
-      <guid isPermaLink="false">saylor-110-reasons-against-bip110-july-2026</guid>
-      <description>Michael Saylor publicó en X el argumento más detallado contra el soft fork BIP-110. Argumenta que invalida transacciones válidas, que Bitcoin no puede inferir intención de datos, y que el mecanismo de activación al 55% es manipulable. Señalización actual: ~0.83%, ventana de lock-in en bloque ~961,542 (principios de agosto). Categoría: BIP/Fork</description>
-      <pubDate>Tue, 21 Jul 2026 11:08:43 +0000</pubDate>
-      <category>BIP/Fork</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] SEC y NYSE Arca elevan límites de opciones sobre IBIT de 250K a 1 millón de contratos (4x)</title>
-      <link>https://www.federalregister.gov/documents/2026/07/20/2026-14527/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed</link>
-      <guid isPermaLink="false">ibit-options-limit-1m-contracts-nyse-arca-july-2026</guid>
-      <description>NYSE Arca notificó efectividad inmediata de regla SR-NYSEARCA-2026-76 elevando los límites de posición/ejercicio para opciones del iShares Bitcoin Trust de 250,000 a 1,000,000 contratos por lado. Segunda cuadruplicación en menos de 12 meses; cambios replicados en Nasdaq PHLX y BOX. Amplía espacio para cobertura institucional a gran escala. Categoría: ETF</description>
-      <pubDate>Tue, 21 Jul 2026 11:08:43 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Técnico] Minería Bitcoin: 4 pools concentran más del 70% del hashrate — coeficiente de Nakamoto cae a 3</title>
-      <link>https://d-central.tech/reports/state-of-bitcoin-mining-2026-h1/</link>
-      <guid isPermaLink="false">bitcoin-mining-pool-nakamoto-coefficient-3-july-2026</guid>
-      <description>Informe H1 2026 de D-Central: Foundry USA (27%), AntPool (18%), ViaBTC (13%) y F2Pool (10%) controlan más del 70% del hashrate. Coeficiente de Nakamoto = 3, sólo tres pools bastan para controlar la mayoría de los bloques. Mercado bifurcado entre pools institucionales y miners independientes bajo presión. Categoría: Minería/AI</description>
-      <pubDate>Tue, 21 Jul 2026 11:08:43 +0000</pubDate>
-      <category>Minería/AI</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Mercado] $686M en Bitcoin retirados de Binance, Coinbase y Bybit en un solo día</title>
-      <link>https://thecryptobasic.com/2026/07/21/686m-in-bitcoin-withdrawn-from-binance-coinbase-bybit-in-one-day-as-btc-targets-66k/</link>
-      <guid isPermaLink="false">bitcoin-686m-exchange-outflows-july-21-2026</guid>
-      <description>El 21 de julio se registraron salidas masivas de BTC desde los tres mayores exchanges, indicador on-chain asociado a acumulación off-exchange o transferencias a custodia propia mientras BTC cotizaba ~$65,800. Categoría: On-chain</description>
-      <pubDate>Tue, 21 Jul 2026 11:08:43 +0000</pubDate>
+      <title>[MEDIA][Mercado] Bitcoin long-term holders alcanzan maximo historico: 16.64M BTC (83% del supply circulante)</title>
+      <link>https://news.bitcoin.com/bitcoin-long-term-holder-supply-all-time-high-2026/</link>
+      <guid isPermaLink="false">bitcoin-lth-supply-ath-1664m-coinglass-july-2026</guid>
+      <description>Al 21 de julio, el supply en manos de long-term holders (sin movimiento por mas de 155 dias) alcanzo record absoluto de 16,64 millones de BTC (83% del circulante), segun CoinGlass. Mayor concentracion de Bitcoin inactivo registrada: senal de acumulacion con precio muy por debajo de maximos 2025. Categoria: On-chain</description>
+      <pubDate>Wed, 22 Jul 2026 11:09:34 +0000</pubDate>
       <category>On-chain</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Mineria/AI] LM Funding se rebautiza PowerCompute (PWCM) y abandona mineria pura para pivotar a HPC/AI</title>
+      <link>https://www.globenewswire.com/news-release/2026/07/20/3329683/0/en/lm-funding-announces-corporate-name-change-to-powercompute-inc-reflecting-strategic-focus-on-high-performance-computing-and-ai-infrastructure-and-btc-mining.html</link>
+      <guid isPermaLink="false">lm-funding-powercompute-ai-hpc-pivot-july-2026</guid>
+      <description>Efectivo 22 de julio, LM Funding cambio su nombre a PowerCompute Inc. (PWCM en Nasdaq) y redirige sus 26 MW de infraestructura hacia HPC e inteligencia artificial, manteniendo solo mineria BTC residual. Otro ejemplo del exodo de mineros Bitcoin hacia contratos de AI. Categoria: Mineria/AI</description>
+      <pubDate>Wed, 22 Jul 2026 11:09:34 +0000</pubDate>
+      <category>Minería/AI</category>
     </item>
 
   </channel>
