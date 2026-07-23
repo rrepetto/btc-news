@@ -5,42 +5,60 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 22 Jul 2026 11:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 11:03:41 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACION] CLARITY Act: Trump acepta provisiones eticas -- voto en Senado podria darse antes del receso del 7 de agosto</title>
-      <link>https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-22</guid>
-      <description>El 21 de julio, la Casa Blanca presiono a senadores democratas para firmar provisiones eticas que prohíben al presidente tener o beneficiarse de activos digitales que regula. Es la concesion clave que los democratas exigian. El Senado debe votar antes del receso del 7 de agosto. Si pasa, seria la primera ley federal de estructura de mercado para activos digitales en EE.UU. Categoria: Regulacion</description>
-      <pubDate>Wed, 22 Jul 2026 11:09:34 +0000</pubDate>
+      <title>[ALTA][Técnico] [ACTUALIZACIÓN] BIP-110 entra en ventana de señalización obligatoria ~7 agosto con apenas 0.86% de soporte minero</title>
+      <link>https://www.tftc.io/bip-110-mandatory-signaling-window-miner-support-bitcoin-consensus</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-23</guid>
+      <description>Al 20 de julio, el soporte hashrate de BIP-110 permanece en 0.86-0.89%, y la ventana de señalización obligatoria arranca en el bloque 961,632 (estimado ~7 de agosto, en aproximadamente 15 días). Los nodos enforcing rechazarán cualquier bloque que no señalice el bit 4, creando riesgo real de chain split con menos del 1% de soporte minero. Sin un giro radical, BIP-110 activaría únicamente en una cadena minoritaria. Actualiza cobertura desde 2026-07-16. Categoría: BIP/Fork</description>
+      <pubDate>Thu, 23 Jul 2026 11:03:41 +0000</pubDate>
+      <category>BIP/Fork</category>
+    </item>
+
+    <item>
+      <title>[ALTA][Geo] [ACTUALIZACIÓN] CLARITY Act: enforcement estatal vs. DOJ emerge como nuevo impasse tras aceptación de Trump</title>
+      <link>https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-23</guid>
+      <description>El 22 de julio, la senadora Lummis (R-WY) declaró que permitir a fiscales estatales (state AGs) aplicar provisiones éticas es "línea roja" para los republicanos. Los demócratas rechazan limitar el enforcement al Fiscal General federal (DOJ) por considerarlo estructuralmente circular. El impasse surge tras la aceptación previa de Trump de las provisiones éticas. El Senado entra en receso el 10 de agosto. Actualiza cobertura desde 2026-07-22. Categoría: Regulación</description>
+      <pubDate>Thu, 23 Jul 2026 11:03:41 +0000</pubDate>
       <category>Regulación</category>
     </item>
 
     <item>
-      <title>[ALTA][Geo] Rusia aprueba ley historica que reconoce Bitcoin y criptoactivos como propiedad y legaliza uso en comercio exterior</title>
-      <link>https://www.themoscowtimes.com/2026/07/22/russia-passes-crypto-law-to-legalize-trading-under-tight-central-bank-oversight-a93307</link>
-      <guid isPermaLink="false">russia-crypto-law-duma-july-2026</guid>
-      <description>El 21 de julio, la Duma Estatal rusa aprobo la ley "Sobre Divisas Digitales y Derechos Digitales": reconoce BTC como propiedad civil, legaliza uso en comercio exterior y establece marco de custodia bajo el Banco Central. Mantiene prohibicion de pagos domesticos. Falta firma de Putin; entrada en vigor estimada: 1 de septiembre 2026. Categoria: Geopolitica</description>
-      <pubDate>Wed, 22 Jul 2026 11:09:34 +0000</pubDate>
-      <category>Geopolítica</category>
+      <title>[MEDIA][Mercado] Satsuma Technology liquida 668 BTC y se desliga de la Bolsa de Londres tras colapso del 99% en sus acciones</title>
+      <link>https://beincrypto.com/satsuma-bitcoin-treasury-liquidation-vote/</link>
+      <guid isPermaLink="false">satsuma-technology-btc-liquidation-july-2026</guid>
+      <description>La empresa UK Satsuma Technology (LSE) recibió aprobación del 90.63% de sus accionistas para vender sus 668 BTC (~$43.5M) y deslistarse en septiembre 2026. Compró BTC por encima de $113,000; con precio actual bajo $68,000 las pérdidas son cuantiosas y las acciones colapsaron más del 99%. Otro caso de empresa de tesorería Bitcoin que fracasa en el bear market de 2025-26. Categoría: Ballenas</description>
+      <pubDate>Thu, 23 Jul 2026 11:03:41 +0000</pubDate>
+      <category>Ballenas</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] Bitcoin long-term holders alcanzan maximo historico: 16.64M BTC (83% del supply circulante)</title>
-      <link>https://news.bitcoin.com/bitcoin-long-term-holder-supply-all-time-high-2026/</link>
-      <guid isPermaLink="false">bitcoin-lth-supply-ath-1664m-coinglass-july-2026</guid>
-      <description>Al 21 de julio, el supply en manos de long-term holders (sin movimiento por mas de 155 dias) alcanzo record absoluto de 16,64 millones de BTC (83% del circulante), segun CoinGlass. Mayor concentracion de Bitcoin inactivo registrada: senal de acumulacion con precio muy por debajo de maximos 2025. Categoria: On-chain</description>
-      <pubDate>Wed, 22 Jul 2026 11:09:34 +0000</pubDate>
-      <category>On-chain</category>
+      <title>[MEDIA][Mercado] Strategy acumula 4 semanas sin comprar BTC -- vende $263.5M en acciones MSTR, reserva USD sube a $3.225B</title>
+      <link>https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion</link>
+      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026</guid>
+      <description>Strategy (ex-MicroStrategy) vendió 2.73M de acciones MSTR por $263.5M sin adquirir ningún bitcoin entre el 13 y 19 de julio: cuarta semana consecutiva de pausa en compras. La reserva USD subió a $3.225B. La pausa prolongada contrasta con el historial de acumulación agresiva de Saylor y sugiere un cambio de postura. Categoría: Figuras</description>
+      <pubDate>Thu, 23 Jul 2026 11:03:41 +0000</pubDate>
+      <category>Figuras</category>
     </item>
 
     <item>
-      <title>[BAJA][Mineria/AI] LM Funding se rebautiza PowerCompute (PWCM) y abandona mineria pura para pivotar a HPC/AI</title>
-      <link>https://www.globenewswire.com/news-release/2026/07/20/3329683/0/en/lm-funding-announces-corporate-name-change-to-powercompute-inc-reflecting-strategic-focus-on-high-performance-computing-and-ai-infrastructure-and-btc-mining.html</link>
-      <guid isPermaLink="false">lm-funding-powercompute-ai-hpc-pivot-july-2026</guid>
-      <description>Efectivo 22 de julio, LM Funding cambio su nombre a PowerCompute Inc. (PWCM en Nasdaq) y redirige sus 26 MW de infraestructura hacia HPC e inteligencia artificial, manteniendo solo mineria BTC residual. Otro ejemplo del exodo de mineros Bitcoin hacia contratos de AI. Categoria: Mineria/AI</description>
-      <pubDate>Wed, 22 Jul 2026 11:09:34 +0000</pubDate>
-      <category>Minería/AI</category>
+      <title>[BAJA][Técnico] Tres exploits a bridges cripto en un día causan $35.55M en pérdidas</title>
+      <link>https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart</link>
+      <guid isPermaLink="false">crypto-bridge-hacks-35m-july-23-2026</guid>
+      <description>El 23 de julio, tres ataques a protocolos cross-chain: AFX Trade (-$24.15M, Arbitrum), puente Ethereum de VerusCoin (-$7.55M) y B2 Network (-$3.86M). Vulnerabilidad compartida en gestión de claves de validadores de puentes; no afecta el protocolo Bitcoin directamente pero impacta protocolos con activos vinculados a BTC. Categoría: Seguridad</description>
+      <pubDate>Thu, 23 Jul 2026 11:03:41 +0000</pubDate>
+      <category>Seguridad</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Macro] FOMC 28-29 julio: mercados dan 82-93% de probabilidad a un hold de la Fed con tasas en 3.5-3.75%</title>
+      <link>https://blog.kraken.com/economic-brief/july-15-2026</link>
+      <guid isPermaLink="false">fomc-july-28-29-2026-rate-decision-btc</guid>
+      <description>La próxima reunión del FOMC (presidida por Kevin Warsh) es el 28-29 de julio, con tasa actual en 3.5-3.75%. CME FedWatch y mercados de predicción coinciden en alta probabilidad de hold, tras dato de inflación de mediados de julio más frío de lo esperado. La decisión llega con BTC cotizando cerca de máximos de 2 semanas; un hold confirmaría el entorno de liquidez actual. Categoría: Macro</description>
+      <pubDate>Thu, 23 Jul 2026 11:03:41 +0000</pubDate>
+      <category>Macro</category>
     </item>
 
   </channel>

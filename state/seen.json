@@ -5,7 +5,7 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-16",
+      "last_update": "2026-07-23",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -16,7 +16,8 @@
         "2026-07-09",
         "2026-07-10",
         "2026-07-12",
-        "2026-07-16"
+        "2026-07-16",
+        "2026-07-23"
       ]
     },
     {
@@ -153,7 +154,7 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-22",
+      "last_update": "2026-07-23",
       "updates": [
         "2026-06-29",
         "2026-07-01",
@@ -164,7 +165,8 @@
         "2026-07-16",
         "2026-07-17",
         "2026-07-20",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-23"
       ]
     },
     {
@@ -541,6 +543,30 @@
       "title": "LM Funding se rebautiza PowerCompute (PWCM) y pivota de minería Bitcoin a HPC/AI",
       "url": "https://www.globenewswire.com/news-release/2026/07/20/3329683/0/en/lm-funding-announces-corporate-name-change-to-powercompute-inc-reflecting-strategic-focus-on-high-performance-computing-and-ai-infrastructure-and-btc-mining.html",
       "first_seen": "2026-07-22"
+    },
+    {
+      "id": "satsuma-technology-btc-liquidation-july-2026",
+      "title": "Satsuma Technology liquida 668 BTC y se desliga de la Bolsa de Londres tras colapso del 99% en sus acciones",
+      "url": "https://beincrypto.com/satsuma-bitcoin-treasury-liquidation-vote/",
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "strategy-no-btc-purchase-four-weeks-july-2026",
+      "title": "Strategy acumula 4 semanas sin comprar BTC — vende $263.5M en acciones MSTR, reserva USD sube a $3.225B",
+      "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion",
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "crypto-bridge-hacks-35m-july-23-2026",
+      "title": "Tres exploits a bridges cripto en un día causan $35.55M en pérdidas (AFX Trade, VerusCoin, B² Network)",
+      "url": "https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart",
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "fomc-july-28-29-2026-rate-decision-btc",
+      "title": "FOMC 28-29 julio: mercados dan 82-93% de probabilidad a un hold de la Fed con tasas en 3.5-3.75%",
+      "url": "https://blog.kraken.com/economic-brief/july-15-2026",
+      "first_seen": "2026-07-23"
     }
   ]
 }
