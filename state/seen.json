@@ -25,7 +25,7 @@
       "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
       "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-21",
+      "last_update": "2026-07-24",
       "updates": [
         "2026-06-28",
         "2026-06-29",
@@ -38,7 +38,8 @@
         "2026-07-14",
         "2026-07-17",
         "2026-07-19",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-24"
       ]
     },
     {
@@ -567,6 +568,24 @@
       "title": "FOMC 28-29 julio: mercados dan 82-93% de probabilidad a un hold de la Fed con tasas en 3.5-3.75%",
       "url": "https://blog.kraken.com/economic-brief/july-15-2026",
       "first_seen": "2026-07-23"
+    },
+    {
+      "id": "bitcoin-quantum-security-consortium-15m-july-2026",
+      "title": "BlackRock, Coinbase, Strategy y 6 firmas más crean consorcio de $15M para post-cuántica en Bitcoin",
+      "url": "https://www.coindesk.com/business/2026/07/23/blackrock-coinbase-strategy-in-group-pledging-usd15-million-to-prepare-bitcoin-for-quantum-threats",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "argentina-deregulation-bitcoin-investment-funds-2026",
+      "title": "Argentina: borrador de ley de desregulación permitiría a fondos de inversión tener Bitcoin y usarlo como colateral",
+      "url": "https://news.bitcoin.com/argentina-proposes-sweeping-deregulation-bill-to-modernize-capital-markets-with-crypto-and-blockchain/",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "tesla-q2-2026-bitcoin-112m-paper-loss",
+      "title": "Tesla Q2 2026: $112M en pérdida no realizada en BTC; 11,509 monedas intactas desde 2022",
+      "url": "https://blockonomi.com/tesla-tsla-reports-112m-bitcoin-loss-in-q2-2026-despite-holding-steady",
+      "first_seen": "2026-07-24"
     }
   ]
 }

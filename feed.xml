@@ -5,60 +5,42 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 23 Jul 2026 11:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:03:28 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] [ACTUALIZACIÓN] BIP-110 entra en ventana de señalización obligatoria ~7 agosto con apenas 0.86% de soporte minero</title>
-      <link>https://www.tftc.io/bip-110-mandatory-signaling-window-miner-support-bitcoin-consensus</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-23</guid>
-      <description>Al 20 de julio, el soporte hashrate de BIP-110 permanece en 0.86-0.89%, y la ventana de señalización obligatoria arranca en el bloque 961,632 (estimado ~7 de agosto, en aproximadamente 15 días). Los nodos enforcing rechazarán cualquier bloque que no señalice el bit 4, creando riesgo real de chain split con menos del 1% de soporte minero. Sin un giro radical, BIP-110 activaría únicamente en una cadena minoritaria. Actualiza cobertura desde 2026-07-16. Categoría: BIP/Fork</description>
-      <pubDate>Thu, 23 Jul 2026 11:03:41 +0000</pubDate>
-      <category>BIP/Fork</category>
+      <title>[ALTA][Técnico] BlackRock, Coinbase, Strategy y 6 firmas más crean consorcio de $15M para post-cuántica en Bitcoin</title>
+      <link>https://www.coindesk.com/business/2026/07/23/blackrock-coinbase-strategy-in-group-pledging-usd15-million-to-prepare-bitcoin-for-quantum-threats</link>
+      <guid isPermaLink="false">bitcoin-quantum-security-consortium-15m-july-2026</guid>
+      <description>Nueve empresas (Anchorage Digital, ARK Invest, BlackRock, Block, Blockstream, Coinbase, Fidelity Digital Assets, Galaxy y Strategy) lanzaron el Bitcoin Security Consortium comprometiendo $15M en tres años para investigación de criptografía post-cuántica y desarrollo open-source. No intervienen en gobernanza del protocolo; coordinado por Mike Schmidt de Brink. Categoría: Cuántica.</description>
+      <pubDate>Fri, 24 Jul 2026 11:03:28 +0000</pubDate>
+      <category>Cuántica</category>
     </item>
 
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACIÓN] CLARITY Act: enforcement estatal vs. DOJ emerge como nuevo impasse tras aceptación de Trump</title>
-      <link>https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-23</guid>
-      <description>El 22 de julio, la senadora Lummis (R-WY) declaró que permitir a fiscales estatales (state AGs) aplicar provisiones éticas es "línea roja" para los republicanos. Los demócratas rechazan limitar el enforcement al Fiscal General federal (DOJ) por considerarlo estructuralmente circular. El impasse surge tras la aceptación previa de Trump de las provisiones éticas. El Senado entra en receso el 10 de agosto. Actualiza cobertura desde 2026-07-22. Categoría: Regulación</description>
-      <pubDate>Thu, 23 Jul 2026 11:03:41 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[MEDIA][Mercado][ACTUALIZACIÓN] ETFs spot de BTC: tras $981M en 7 días positivos, $225M en salidas el 23 Jul</title>
+      <link>https://www.cryptotimes.io/2026/07/24/bitcoin-etfs-shed-225m-to-snap-7-day-winning-streak-eth-etfs-gain-26m/</link>
+      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-24</guid>
+      <description>La racha positiva más larga del año terminó el miércoles 23 Jul: IBIT de BlackRock lideró las salidas con $202M, seguido de BITB, FBTC y ARKB. En el año el saldo neto sigue en -$4.84B. Actualización de la cobertura de flujos ETF (última: 2026-07-21). Categoría: ETF.</description>
+      <pubDate>Fri, 24 Jul 2026 11:03:28 +0000</pubDate>
+      <category>ETF</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] Satsuma Technology liquida 668 BTC y se desliga de la Bolsa de Londres tras colapso del 99% en sus acciones</title>
-      <link>https://beincrypto.com/satsuma-bitcoin-treasury-liquidation-vote/</link>
-      <guid isPermaLink="false">satsuma-technology-btc-liquidation-july-2026</guid>
-      <description>La empresa UK Satsuma Technology (LSE) recibió aprobación del 90.63% de sus accionistas para vender sus 668 BTC (~$43.5M) y deslistarse en septiembre 2026. Compró BTC por encima de $113,000; con precio actual bajo $68,000 las pérdidas son cuantiosas y las acciones colapsaron más del 99%. Otro caso de empresa de tesorería Bitcoin que fracasa en el bear market de 2025-26. Categoría: Ballenas</description>
-      <pubDate>Thu, 23 Jul 2026 11:03:41 +0000</pubDate>
+      <title>[MEDIA][Geo] Argentina: borrador de ley de desregulación permitiría a fondos de inversión tener Bitcoin y usarlo como colateral</title>
+      <link>https://news.bitcoin.com/argentina-proposes-sweeping-deregulation-bill-to-modernize-capital-markets-with-crypto-and-blockchain/</link>
+      <guid isPermaLink="false">argentina-deregulation-bitcoin-investment-funds-2026</guid>
+      <description>El ministro Federico Sturzenegger preparó un borrador que habilita a los fondos de inversión a incorporar activos digitales a sus carteras, reconoce a Bitcoin como garantía para préstamos y otorga validez legal plena a contratos inteligentes. Requiere aprobación presidencial y del Congreso. Categoría: Geopolítica.</description>
+      <pubDate>Fri, 24 Jul 2026 11:03:28 +0000</pubDate>
+      <category>Geopolítica</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Mercado] Tesla Q2 2026: $112M en pérdida no realizada en BTC; 11,509 monedas intactas desde 2022</title>
+      <link>https://blockonomi.com/tesla-tsla-reports-112m-bitcoin-loss-in-q2-2026-despite-holding-steady</link>
+      <guid isPermaLink="false">tesla-q2-2026-bitcoin-112m-paper-loss</guid>
+      <description>Tesla reportó una pérdida de valor razonable de $112M bajo las nuevas reglas FASB: BTC cayó de ~$83K a ~$58K durante el trimestre. Los 11,509 BTC ($674M valuados al cierre del Q2) permanecen sin vender desde 2022. Categoría: Ballenas.</description>
+      <pubDate>Fri, 24 Jul 2026 11:03:28 +0000</pubDate>
       <category>Ballenas</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] Strategy acumula 4 semanas sin comprar BTC -- vende $263.5M en acciones MSTR, reserva USD sube a $3.225B</title>
-      <link>https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion</link>
-      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026</guid>
-      <description>Strategy (ex-MicroStrategy) vendió 2.73M de acciones MSTR por $263.5M sin adquirir ningún bitcoin entre el 13 y 19 de julio: cuarta semana consecutiva de pausa en compras. La reserva USD subió a $3.225B. La pausa prolongada contrasta con el historial de acumulación agresiva de Saylor y sugiere un cambio de postura. Categoría: Figuras</description>
-      <pubDate>Thu, 23 Jul 2026 11:03:41 +0000</pubDate>
-      <category>Figuras</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Técnico] Tres exploits a bridges cripto en un día causan $35.55M en pérdidas</title>
-      <link>https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart</link>
-      <guid isPermaLink="false">crypto-bridge-hacks-35m-july-23-2026</guid>
-      <description>El 23 de julio, tres ataques a protocolos cross-chain: AFX Trade (-$24.15M, Arbitrum), puente Ethereum de VerusCoin (-$7.55M) y B2 Network (-$3.86M). Vulnerabilidad compartida en gestión de claves de validadores de puentes; no afecta el protocolo Bitcoin directamente pero impacta protocolos con activos vinculados a BTC. Categoría: Seguridad</description>
-      <pubDate>Thu, 23 Jul 2026 11:03:41 +0000</pubDate>
-      <category>Seguridad</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Macro] FOMC 28-29 julio: mercados dan 82-93% de probabilidad a un hold de la Fed con tasas en 3.5-3.75%</title>
-      <link>https://blog.kraken.com/economic-brief/july-15-2026</link>
-      <guid isPermaLink="false">fomc-july-28-29-2026-rate-decision-btc</guid>
-      <description>La próxima reunión del FOMC (presidida por Kevin Warsh) es el 28-29 de julio, con tasa actual en 3.5-3.75%. CME FedWatch y mercados de predicción coinciden en alta probabilidad de hold, tras dato de inflación de mediados de julio más frío de lo esperado. La decisión llega con BTC cotizando cerca de máximos de 2 semanas; un hold confirmaría el entorno de liquidez actual. Categoría: Macro</description>
-      <pubDate>Thu, 23 Jul 2026 11:03:41 +0000</pubDate>
-      <category>Macro</category>
     </item>
 
   </channel>
