@@ -5,7 +5,7 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-25",
+      "last_update": "2026-07-26",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -18,7 +18,8 @@
         "2026-07-12",
         "2026-07-16",
         "2026-07-23",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-26"
       ]
     },
     {
@@ -600,6 +601,12 @@
       "title": "Hut 8 completa campus de 1 GW con contrato de $19.6B; IREN firma $2.8B en AI cloud — miners Bitcoin lideran mayor transición del sector",
       "url": "https://www.theblock.co/post/408920/hut-8-fully-commercializes-1-gw-texas-ai-campus-with-second-9-8b-lease-as-iren-signs-2-8b-in-contracts-shares-climb-double-digits",
       "first_seen": "2026-07-25"
+    },
+    {
+      "id": "bitcoin-difficulty-16pct-july-26-2026",
+      "title": "Bitcoin ejecuta ajuste de dificultad −16% el 26 de julio — mayor caída negativa del año, hashrate en mínimos de 2026",
+      "url": "https://cryptoslate.com/bitcoin-is-about-to-give-miners-a-16-lifeline-but-19-billion-in-ai-deals-is-luring-them-away-anyway/",
+      "first_seen": "2026-07-26"
     }
   ]
 }

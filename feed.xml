@@ -5,60 +5,24 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 25 Jul 2026 11:09:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 11:02:56 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] BIP-110 alcanza 1.09% de señalización minera a 13 días de la ventana obligatoria (~7 de agosto)</title>
-      <link>https://bip110.org/monitor</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-25</guid>
-      <description>[ACTUALIZACIÓN] La señalización subió de ~0% el 12 de julio a 1.09% al 24 de julio. A partir del bloque 961,632 (~7 de agosto), nodos UASF rechazarán bloques sin señalización del bit 4. Con miner support bajo 1% y sin respaldo de Bitcoin Core ni exchanges, BIP-110 apunta a crear una cadena minoritaria. Categoría: BIP/Fork</description>
-      <pubDate>Sat, 25 Jul 2026 11:09:18 +0000</pubDate>
+      <title>[ALTA][Técnico] [ACTUALIZACIÓN] Foundry USA (33% del hashrate global) convoca voto formal ponderado sobre BIP-110</title>
+      <link>https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-26</guid>
+      <description>[ACTUALIZACIÓN] El mayor pool de minería lanzó el 22 de julio un voto ponderado por hashrate para sus mineros sobre si señalizar BIP-110. Solo activa señalización si votos favorables superan el 51% del hashrate participante. Con ~33% del hashrate global, un resultado positivo llevaría la señalización de ~1% a ~33%+, acercándola al umbral del 55% para lock-in. Voto cierra al bloque 961,632 (~7 de agosto). Categoría: BIP/Fork</description>
+      <pubDate>Sun, 26 Jul 2026 11:02:56 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[ALTA][Geo] Conflicto Irán día 14+: Estrecho de Ormuz cerrado, Brent supera $100, Bitcoin sube 1.1% desafiando correlación histórica</title>
-      <link>https://www.coindesk.com/markets/2026/07/24/bitcoin-settles-near-usd65-000-as-oil-s-march-toward-usd100-fails-to-spook-the-market</link>
-      <guid isPermaLink="false">us-iran-airstrikes-btc-drop-july-2026#upd-2026-07-25</guid>
-      <description>[ACTUALIZACIÓN] Estrecho de Ormuz de facto cerrado; tráfico de petróleo cayó de 6M a 2.5M barriles/día; SPR de EE.UU. en mínimo desde 1983 (311M barriles). Brent supera $100. Bitcoin sube 1.1% a $65,760 mientras mercados de riesgo caen. Posible desconexión estructural. Categoría: Geopolítica</description>
-      <pubDate>Sat, 25 Jul 2026 11:09:18 +0000</pubDate>
-      <category>Geopolítica</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Macro] FOMC 28-29 julio: probabilidad de suba de tasas salta al 35% en 72 horas</title>
-      <link>https://coingape.com/prediction-markets/fomc-meeting-next-week-will-the-fed-cut-raise-or-hold-interest-rates/</link>
-      <guid isPermaLink="false">fomc-july-28-29-2026-rate-decision-btc#upd-2026-07-25</guid>
-      <description>[ACTUALIZACIÓN] Futuros de fondos federales asignan solo 63.5-65% a hold en 3.50-3.75% y 35-36.5% a una suba de 25 bp. Era 82-93% de hold el 23 de julio. La decisión de Warsh se anuncia el 29 de julio a las 14:00 ET. Categoría: Macro</description>
-      <pubDate>Sat, 25 Jul 2026 11:09:18 +0000</pubDate>
-      <category>Macro</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Minería/AI] Hut 8 completa campus 1 GW con $19.6B en contratos; IREN firma $2.8B en AI cloud</title>
-      <link>https://www.theblock.co/post/408920/hut-8-fully-commercializes-1-gw-texas-ai-campus-with-second-9-8b-lease-as-iren-signs-2-8b-in-contracts-shares-climb-double-digits</link>
-      <guid isPermaLink="false">hut8-iren-ai-contracts-19b-july-2026</guid>
-      <description>Hut 8 firma segundo arrendamiento de $9.8B (15 años, 352 MW) elevando el campus Beacon Point a $19.6B de valor base. IREN anuncia $2.8B en contratos AI cloud incluyendo deal con NVIDIA. Acciones de miners suben 11-17%. Mayor transición de infraestructura BTC a AI en la historia del sector. Categoría: Minería/AI</description>
-      <pubDate>Sat, 25 Jul 2026 11:09:18 +0000</pubDate>
+      <title>[MEDIA][Técnico] Bitcoin ejecuta ajuste de dificultad −16%: mayor caída negativa del año</title>
+      <link>https://cryptoslate.com/bitcoin-is-about-to-give-miners-a-16-lifeline-but-19-billion-in-ai-deals-is-luring-them-away-anyway/</link>
+      <guid isPermaLink="false">bitcoin-difficulty-16pct-july-26-2026</guid>
+      <description>La red Bitcoin ejecutó su 15° ajuste de dificultad de 2026 con una caída de ~16%, la más pronunciada del año. El período previo promedió bloques de 11 min 51 s (objetivo: 10 min). La dificultad acumula ~30% de caída compuesta desde enero 2026, reflejando la migración masiva de mineros hacia IA/HPC. Categoría: Minería/AI</description>
+      <pubDate>Sun, 26 Jul 2026 11:02:56 +0000</pubDate>
       <category>Minería/AI</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Geo] Reserva Estratégica de BTC de EE.UU. paralizada: guerra Treasury vs Commerce, DOJ OLC media</title>
-      <link>https://news.bitcoin.com/strategic-bitcoin-reserve-treasury-commerce-turf-war/</link>
-      <guid isPermaLink="false">us-strategic-bitcoin-reserve-blueprint-july-22#upd-2026-07-25</guid>
-      <description>[ACTUALIZACIÓN] Bloomberg revela: 16 meses después de la orden ejecutiva, sin agencia designada, sin compras, sin publicación de tenencias. Treasury y Commerce disputan control de ~328K BTC (~$25B); OLC del DOJ media en conflicto legal. Ningún proyecto de ley aprobado. Categoría: Geopolítica</description>
-      <pubDate>Sat, 25 Jul 2026 11:09:18 +0000</pubDate>
-      <category>Geopolítica</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Regulación] CLARITY Act a 9 votos del quórum: Murphy, Van Hollen y Merkley se oponen formalmente; deadline 7 de agosto</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/clarity-act-stalls-senate-three-100403007.html</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-25</guid>
-      <description>[ACTUALIZACIÓN] 3 senadores demócratas formalizan oposición tras omisión de cláusula ética. La ley tiene 51/60 votos; deadline práctico: 7 de agosto (último día antes del receso). Si no pasa ahora, espera hasta otoño. Categoría: Regulación</description>
-      <pubDate>Sat, 25 Jul 2026 11:09:18 +0000</pubDate>
-      <category>Regulación</category>
     </item>
 
   </channel>
