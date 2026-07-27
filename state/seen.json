@@ -27,7 +27,7 @@
       "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
       "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-24",
+      "last_update": "2026-07-27",
       "updates": [
         "2026-06-28",
         "2026-06-29",
@@ -41,7 +41,8 @@
         "2026-07-17",
         "2026-07-19",
         "2026-07-21",
-        "2026-07-24"
+        "2026-07-24",
+        "2026-07-27"
       ]
     },
     {
@@ -157,7 +158,7 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-25",
+      "last_update": "2026-07-27",
       "updates": [
         "2026-06-29",
         "2026-07-01",
@@ -170,7 +171,8 @@
         "2026-07-20",
         "2026-07-22",
         "2026-07-23",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-27"
       ]
     },
     {
@@ -219,7 +221,11 @@
       "id": "eu-21st-sanctions-package-crypto-russia-june-2026",
       "title": "UE propone 21° paquete de sanciones contra Rusia: prohíbe transacciones con 11 plataformas crypto",
       "url": "https://www.theblock.co/amp/post/404207/eu-proposes-russia-crypto-sanction",
-      "first_seen": "2026-06-29"
+      "first_seen": "2026-06-29",
+      "last_update": "2026-07-27",
+      "updates": [
+        "2026-07-27"
+      ]
     },
     {
       "id": "cz-binance-blames-2026-downturn-ai-geopolitics-cycle",
@@ -560,7 +566,11 @@
       "id": "strategy-no-btc-purchase-four-weeks-july-2026",
       "title": "Strategy acumula 4 semanas sin comprar BTC — vende $263.5M en acciones MSTR, reserva USD sube a $3.225B",
       "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion",
-      "first_seen": "2026-07-23"
+      "first_seen": "2026-07-23",
+      "last_update": "2026-07-27",
+      "updates": [
+        "2026-07-27"
+      ]
     },
     {
       "id": "crypto-bridge-hacks-35m-july-23-2026",
@@ -607,6 +617,24 @@
       "title": "Bitcoin ejecuta ajuste de dificultad −16% el 26 de julio — mayor caída negativa del año, hashrate en mínimos de 2026",
       "url": "https://cryptoslate.com/bitcoin-is-about-to-give-miners-a-16-lifeline-but-19-billion-in-ai-deals-is-luring-them-away-anyway/",
       "first_seen": "2026-07-26"
+    },
+    {
+      "id": "river-corporate-btc-q2-2026-110k-record",
+      "title": "Empresas públicas compraron 110.000–115.000 BTC en Q2 2026: mayor acumulación corporativa del año",
+      "url": "https://cryptobriefing.com/river-corporations-bought-115000-bitcoin-q2/",
+      "first_seen": "2026-07-27",
+      "eje": "Mercado",
+      "category": "Ballenas",
+      "relevancia": "Media"
+    },
+    {
+      "id": "coinbase-q2-earnings-july30-2026",
+      "title": "Coinbase reporta resultados Q2 el 30 de julio: analistas recortaron target 40% por trimestre débil",
+      "url": "https://www.marketbeat.com/earnings/reports/2026-7-30-coinbase-global-stock/",
+      "first_seen": "2026-07-27",
+      "eje": "Mercado",
+      "category": "Figuras",
+      "relevancia": "Baja"
     }
   ]
 }
