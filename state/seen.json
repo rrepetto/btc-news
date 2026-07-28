@@ -5,7 +5,7 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-26",
+      "last_update": "2026-07-28",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -19,7 +19,8 @@
         "2026-07-16",
         "2026-07-23",
         "2026-07-25",
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-28"
       ]
     },
     {
@@ -567,9 +568,10 @@
       "title": "Strategy acumula 4 semanas sin comprar BTC — vende $263.5M en acciones MSTR, reserva USD sube a $3.225B",
       "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion",
       "first_seen": "2026-07-23",
-      "last_update": "2026-07-27",
+      "last_update": "2026-07-28",
       "updates": [
-        "2026-07-27"
+        "2026-07-27",
+        "2026-07-28"
       ]
     },
     {
@@ -583,9 +585,10 @@
       "title": "FOMC 28-29 julio: mercados dan 82-93% de probabilidad a un hold de la Fed con tasas en 3.5-3.75%",
       "url": "https://blog.kraken.com/economic-brief/july-15-2026",
       "first_seen": "2026-07-23",
-      "last_update": "2026-07-25",
+      "last_update": "2026-07-28",
       "updates": [
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-28"
       ]
     },
     {
@@ -635,6 +638,15 @@
       "eje": "Mercado",
       "category": "Figuras",
       "relevancia": "Baja"
+    },
+    {
+      "id": "bitmart-shutdown-august-2026",
+      "title": "BitMart anuncia cierre tras 9 años: tercer exchange en cerrar en pocas semanas (tras AscendEX y BitMEX)",
+      "url": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+      "first_seen": "2026-07-28",
+      "eje": "Geo/Regulación",
+      "category": "Regulación",
+      "relevancia": "Media"
     }
   ]
 }

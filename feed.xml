@@ -5,60 +5,42 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 27 Jul 2026 11:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:04:43 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACION] EU adopta paquete 21 de sanciones: poder historico para bloquear paises enteros del cripto</title>
-      <link>https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network</link>
-      <guid isPermaLink="false">eu-21st-sanctions-package-crypto-russia-june-2026#upd-2026-07-27</guid>
-      <description>El Consejo de la UE adopto el 23-24 julio su paquete N.21 de sanciones contra Rusia, con un mecanismo sin precedentes: puede bloquear jurisdicciones enteras del acceso al mercado cripto europeo si facilitan evasion de sanciones. 14 plataformas cripto (en Georgia, Panama, EAU, Islas Marshall, Kirguistan y Bielorrusia) quedan prohibidas. Cambio sustancial: en junio se informo la propuesta; ahora es ley vigente con poderes de bloqueo geografico. Categoria: Regulacion.</description>
-      <pubDate>Mon, 27 Jul 2026 11:10:25 +0000</pubDate>
-      <category>Regulacion</category>
+      <title>[ALTA][Técnico] BIP-110 a menos de 2 semanas del mandatory signaling window</title>
+      <link>https://cryptonews.net/news/bitcoin/33211293/</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-28</guid>
+      <description>[ACTUALIZACIÓN] El bloque 961.632 (ventana de señalización obligatoria) está estimado para el 9 de agosto. bip110.org confirma 0,00% de señalización actual. Si los nodos rechazan bloques sin señal de bit 4, puede haber cadenas paralelas. Las bolsas tienen menos de dos semanas para planificar. Categoría: BIP/Fork</description>
+      <pubDate>Tue, 28 Jul 2026 11:04:43 +0000</pubDate>
+      <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACION] CLARITY Act: deadline August 10 con odds del 35% en mercados de prediccion</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/senate-august-deadline-puts-clarity-074823495.html</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-27</guid>
-      <description>El Senado de EE.UU. debe votar la Digital Asset Market Clarity Act antes del 7 de agosto o el proyecto muere hasta 2027. Los mercados de prediccion ubican las chances de aprobacion en ~35%. Dos senadores democratas siguen sin comprometerse por una disputa en la clausula de etica para funcionarios. Aprobacion = mayor catalizador regulatorio institucional del anno para Bitcoin. Categoria: Regulacion.</description>
-      <pubDate>Mon, 27 Jul 2026 11:10:25 +0000</pubDate>
-      <category>Regulacion</category>
+      <title>[ALTA][Geo] FOMC comienza hoy: la Fed decide tasas mañana 29 de julio</title>
+      <link>https://news.bitcoin.com/bitcoin-enters-volatility-trap-as-fed-decision-clarity-act-and-fork-drama-converge/</link>
+      <guid isPermaLink="false">fomc-july-28-29-2026-rate-decision-btc#upd-2026-07-28</guid>
+      <description>[ACTUALIZACIÓN] El Comité Federal de Mercado Abierto inicia hoy su reunión de dos días. Decisión mañana 14:00 ET. Hold en 3,50-3,75% esperado al 82-93%. Tono dovish apunta a $66-68K; hawkish podría reabrir los $61K. Categoría: Macro</description>
+      <pubDate>Tue, 28 Jul 2026 11:04:43 +0000</pubDate>
+      <category>Macro</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] [ACTUALIZACION] ETFs spot BTC rompen racha de 7 dias: $465M en salidas el 25-26 julio</title>
-      <link>https://www.cryptotimes.io/2026/07/26/crypto-etfs-end-week-positive-despite-465m-bitcoin-outflows/</link>
-      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-27</guid>
-      <description>Los ETFs spot de Bitcoin registraron salidas netas por $225M el 25 jul (IBIT perdio $202,5M) y ~$240M el 26 jul, totalizando $465M en dos dias y quebrando una racha de 7 sesiones de entradas (~$1.000M). Balance semanal: +$33,79M. Contexto: FOMC el martes 29 y drama BIP-110 generan tension. Categoria: ETF.</description>
-      <pubDate>Mon, 27 Jul 2026 11:10:25 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Figuras] [ACTUALIZACION] Saylor publica "We're gonna need another color": senal de posible nueva compra de BTC</title>
-      <link>https://news.bitcoin.com/were-gonna-need-another-color-michael-saylor-fuels-speculation-over-strategys-next-bitcoin-move/</link>
-      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-07-27</guid>
-      <description>El domingo 27 de julio, Michael Saylor publico en X el grafico de adquisiciones de BTC de Strategy con el caption "We're gonna need another color", frase que historicamente precede a anuncios de compra. Strategy lleva 4 semanas sin comprar BTC. Posicion: 843.775 BTC a costo promedio $75.476, con ~$9.300M en perdidas latentes. Cautela: el ultimo chart dominical precedió a la mayor venta de la historia. Categoria: Figuras.</description>
-      <pubDate>Mon, 27 Jul 2026 11:10:25 +0000</pubDate>
+      <title>[MEDIA][Figuras] Saylor publica defensa del marco de ventas de BTC de Strategy</title>
+      <link>https://news.bitcoin.com/strategy-opens-the-door-to-bitcoin-sales-michael-saylor-explains-why-it-makes-sense/</link>
+      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-07-28</guid>
+      <description>[ACTUALIZACIÓN] El 28 de julio Saylor publicó defensa del Marco de Crédito Digital (hasta $1.25B en ventas de BTC autorizadas) en contraste con el tweet del día anterior que sugería compra inminente. Strategy lleva más de 4 semanas sin comprar BTC. Categoría: Figuras</description>
+      <pubDate>Tue, 28 Jul 2026 11:04:43 +0000</pubDate>
       <category>Figuras</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] Empresas publicas compraron 110.000-115.000 BTC en Q2 2026: mayor acumulacion corporativa del anno</title>
-      <link>https://cryptobriefing.com/river-corporations-bought-115000-bitcoin-q2/</link>
-      <guid isPermaLink="false">river-corporate-btc-q2-2026-110k-record</guid>
-      <description>Segun reporte de River (~25 jul), las corporaciones cotizadas compraron ~115.000 BTC por $7.400M en Q2 2026, 1,8x mas que en los dos trimestres anteriores combinados. Holdings corporativos totales: 1,26 millones de BTC (~6% del supply total de 21M). La compra corporativa 2026 (166.984 BTC) supera en 2,1x la produccion minera del periodo (81.153 BTC). Categoria: Ballenas/On-chain.</description>
-      <pubDate>Mon, 27 Jul 2026 11:10:25 +0000</pubDate>
-      <category>Ballenas</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Mercado] Coinbase reporta Q2 el 30 de julio: analistas recortan target 40% por trimestre debil</title>
-      <link>https://www.marketbeat.com/earnings/reports/2026-7-30-coinbase-global-stock/</link>
-      <guid isPermaLink="false">coinbase-q2-earnings-july30-2026</guid>
-      <description>Coinbase presenta resultados Q2 el 30 de julio. Consenso: EPS $0,31, en un trimestre donde BTC cayo ~14% y ETH ~25%. Un analista recorto su target un 40%. Accion -36% en el anno. El reporte revelara el impacto del mercado bajista de Q2 en la principal exchange de EE.UU. Categoria: Figuras/Mercado.</description>
-      <pubDate>Mon, 27 Jul 2026 11:10:25 +0000</pubDate>
-      <category>Figuras</category>
+      <title>[MEDIA][Geo] BitMart anuncia cierre tras 9 años: tercer exchange en cerrar en pocas semanas</title>
+      <link>https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58</link>
+      <guid isPermaLink="false">bitmart-shutdown-august-2026</guid>
+      <description>BitMart cesa trading el 26 de agosto y cierra definitivamente el 31 de enero de 2027. Tercer exchange en anunciar cierre en semanas (tras AscendEX y BitMEX). BMX colapsó un 58%. Refleja presión regulatoria post-MiCA y contracción del mercado 2026. Categoría: Regulación</description>
+      <pubDate>Tue, 28 Jul 2026 11:04:43 +0000</pubDate>
+      <category>Regulación</category>
     </item>
 
   </channel>
