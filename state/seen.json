@@ -5,7 +5,7 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-28",
+      "last_update": "2026-07-29",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -20,7 +20,8 @@
         "2026-07-23",
         "2026-07-25",
         "2026-07-26",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     {
@@ -28,7 +29,7 @@
       "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
       "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-27",
+      "last_update": "2026-07-29",
       "updates": [
         "2026-06-28",
         "2026-06-29",
@@ -43,7 +44,8 @@
         "2026-07-19",
         "2026-07-21",
         "2026-07-24",
-        "2026-07-27"
+        "2026-07-27",
+        "2026-07-29"
       ]
     },
     {
@@ -159,7 +161,7 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-27",
+      "last_update": "2026-07-29",
       "updates": [
         "2026-06-29",
         "2026-07-01",
@@ -173,7 +175,8 @@
         "2026-07-22",
         "2026-07-23",
         "2026-07-25",
-        "2026-07-27"
+        "2026-07-27",
+        "2026-07-29"
       ]
     },
     {
@@ -585,10 +588,11 @@
       "title": "FOMC 28-29 julio: mercados dan 82-93% de probabilidad a un hold de la Fed con tasas en 3.5-3.75%",
       "url": "https://blog.kraken.com/economic-brief/july-15-2026",
       "first_seen": "2026-07-23",
-      "last_update": "2026-07-28",
+      "last_update": "2026-07-29",
       "updates": [
         "2026-07-25",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     {
@@ -647,6 +651,18 @@
       "eje": "Geo/Regulación",
       "category": "Regulación",
       "relevancia": "Media"
+    },
+    {
+      "id": "china-duv-chip-bitcoin-market-july-2026",
+      "title": "China inicia producción masiva de máquinas DUV propias: ASML −8%, KOSPI −10%, Bitcoin bajo presión",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/china-duv-chipmaking-how-machine-advances-could-reduce-reliance-on-asml-nvidia",
+      "first_seen": "2026-07-29"
+    },
+    {
+      "id": "illinois-digital-asset-tax-tdc-lawsuit-2026",
+      "title": "Illinois aprueba impuesto del 0.2% sobre activos digitales — Digital Chamber demanda antes de su vigencia (ene 2027)",
+      "url": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
+      "first_seen": "2026-07-29"
     }
   ]
 }
