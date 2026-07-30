@@ -29,7 +29,7 @@
       "title": "ETFs de Bitcoin spot acumulan 7 días consecutivos de salidas; IBIT pierde $444.5M en un solo día",
       "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-29",
+      "last_update": "2026-07-30",
       "updates": [
         "2026-06-28",
         "2026-06-29",
@@ -45,7 +45,8 @@
         "2026-07-21",
         "2026-07-24",
         "2026-07-27",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     {
@@ -522,7 +523,11 @@
       "id": "saylor-110-reasons-against-bip110-july-2026",
       "title": "Saylor publica 110 razones contra BIP-110 mientras se acerca la ventana de lock-in de agosto",
       "url": "https://decrypt.co/373819/strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110",
-      "first_seen": "2026-07-21"
+      "first_seen": "2026-07-21",
+      "last_update": "2026-07-30",
+      "updates": [
+        "2026-07-30"
+      ]
     },
     {
       "id": "ibit-options-limit-1m-contracts-nyse-arca-july-2026",
@@ -588,11 +593,12 @@
       "title": "FOMC 28-29 julio: mercados dan 82-93% de probabilidad a un hold de la Fed con tasas en 3.5-3.75%",
       "url": "https://blog.kraken.com/economic-brief/july-15-2026",
       "first_seen": "2026-07-23",
-      "last_update": "2026-07-29",
+      "last_update": "2026-07-30",
       "updates": [
         "2026-07-25",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     {
@@ -663,6 +669,12 @@
       "title": "Illinois aprueba impuesto del 0.2% sobre activos digitales — Digital Chamber demanda antes de su vigencia (ene 2027)",
       "url": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
       "first_seen": "2026-07-29"
+    },
+    {
+      "id": "foundry-usa-bip110-miner-vote-august-2026",
+      "title": "Foundry USA (23.8% del hashrate global) abre votación interna de mineros sobre BIP-110 antes del bloque 961.632",
+      "url": "https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110",
+      "first_seen": "2026-07-30"
     }
   ]
 }

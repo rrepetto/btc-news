@@ -5,59 +5,41 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 29 Jul 2026 11:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 11:10:29 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] BIP-110: señalización cae a 0% con ventana obligatoria a 9 días (7 agosto)</title>
-      <link>https://www.tftc.io/bip-110-mandatory-signaling-window-miner-support-bitcoin-consensus</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-07-29</guid>
-      <description>[ACTUALIZACIÓN] El monitor registra 0.00% de señalización en el período actual (antes 0.36%). Ventana mandatory signaling abre bloque ~961.632 (~7 agosto). Si mineros no alcanzan 55%, nodos BIP-110 rechazarán bloques no señalizadores — riesgo de cadena dividida inminente con soporte minero prácticamente nulo. Categoría: BIP/Fork.</description>
-      <pubDate>Wed, 29 Jul 2026 11:03:40 +0000</pubDate>
-      <category>BIP/Fork</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Geo] CLARITY Act "shelved": probabilidad de aprobación colapsa al 37% en Polymarket</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/u-senate-shelves-clarity-act-131900593.html</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-07-29</guid>
-      <description>[ACTUALIZACIÓN] El Senado de EE.UU. postergó indefinidamente la votación, priorizando sanciones a Rusia y nominaciones. Probabilidad en Polymarket colapsa al 37%, desencadenando $670M en liquidaciones BTC/ETH/XRP. Deadline: 10 de agosto antes del receso de verano; si no hay voto, pasa al otoño (con elecciones de medio término). Categoría: Regulación.</description>
-      <pubDate>Wed, 29 Jul 2026 11:03:40 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Geo] China inicia producción masiva de máquinas litografía DUV — ASML −8%, KOSPI −10%, BTC bajo presión</title>
-      <link>https://www.bloomberg.com/news/articles/2026-07-28/china-duv-chipmaking-how-machine-advances-could-reduce-reliance-on-asml-nvidia</link>
-      <guid isPermaLink="false">china-duv-chip-bitcoin-market-july-2026</guid>
-      <description>Una empresa estatal china comenzó la fabricación en serie de máquinas DUV (Deep Ultraviolet), primer rival doméstico de ASML. ASML cedió 8%, el KOSPI surcoreano cayó 10%. Bitcoin bajó 3% hasta mínimos de 11 días el 28 de julio, recuperándose hacia $64K el 29 de julio mostrando resiliencia frente al desplome de activos AI/tech. Categoría: Geopolítica.</description>
-      <pubDate>Wed, 29 Jul 2026 11:03:40 +0000</pubDate>
-      <category>Geopolítica</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Geo] FOMC hoy (29 Jul, 14:00 ET): Citadel apuesta por suba sorpresa de 25bp — probabilidad de hike salta al ~36%</title>
-      <link>https://www.coindesk.com/markets/2026/07/29/citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someone-will-be-wrong</link>
-      <guid isPermaLink="false">fomc-july-28-29-2026-rate-decision-btc#upd-2026-07-29</guid>
-      <description>[ACTUALIZACIÓN] La reunión FOMC concluye hoy (14:00 ET). Probabilidad de hike salta de 10.7% (15 Jul) a 35-38% — el mayor repricing de una reunión Fed en memoria reciente. Citadel apuesta públicamente por el alza; mayoría aún espera hold. Un hike sería la primera suba desde 2023 y un shock de liquidez relevante para BTC. Categoría: Macro.</description>
-      <pubDate>Wed, 29 Jul 2026 11:03:40 +0000</pubDate>
+      <title>[ALTA][Geo] [ACTUALIZACIÓN] FOMC decide: Fed mantiene tasas 9-3 con tres disidentes pidiendo suba — S&amp;P 500 tiene su peor "Fed Day" de la historia</title>
+      <link>https://cryptonews.com/news/crypto-news-july-30-fomc-bitcoin-etf-green-ethereum/</link>
+      <guid isPermaLink="false">fomc-july-28-29-2026-rate-decision-btc#upd-2026-07-30</guid>
+      <description>[ACTUALIZACIÓN] La reunión del 28-29 de julio cerró con un hold en 3.50-3.75% pero con giro hawkish marcado: tres miembros (Hammack, Kashkari y Logan) disintieron pidiendo suba de 25bp, la división más pronunciada desde septiembre de 2016. S&amp;P 500 registró su peor caída intradía en un día de decisión Fed de toda su historia. Bitcoin aguantó cerca de $64K. ETFs spot de BTC revirtieron racha negativa de 4 días: $32.1M en flujos netos positivos el 29 de julio, liderado por IBIT (+$89.8M). Categoría: Macro.</description>
+      <pubDate>Thu, 30 Jul 2026 11:10:29 +0000</pubDate>
       <category>Macro</category>
     </item>
 
     <item>
-      <title>[MEDIA][Geo] Illinois aprueba primer impuesto del 0.2% sobre activos digitales en EE.UU.; Digital Chamber demanda</title>
-      <link>https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax</link>
-      <guid isPermaLink="false">illinois-digital-asset-tax-tdc-lawsuit-2026</guid>
-      <description>El gobernador Pritzker firmó el Digital Asset Tax Act: 0.2% sobre transferencias de criptos y UTXOs, efectivo 1 enero 2027. La Digital Chamber demandó en tribunal estatal alegando violación constitucional e Internet Tax Freedom Act. Primer impuesto blockchain-específico de EE.UU., precedente peligroso para otros estados. Categoría: Regulación.</description>
-      <pubDate>Wed, 29 Jul 2026 11:03:40 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[ALTA][Técnico] Foundry USA (23.8% del hashrate global) abre votación interna de mineros sobre BIP-110 antes del bloque 961.632</title>
+      <link>https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110</link>
+      <guid isPermaLink="false">foundry-usa-bip110-miner-vote-august-2026</guid>
+      <description>Foundry USA, el mayor pool de Bitcoin, invitó a sus mineros a votar si señalar BIP-110 usando su hashrate histórico (6-15 jul) como peso del voto. La votación cierra en el bloque 961.632 (~9 de agosto). Si el "sí" supera el 51% del hashrate participante, Foundry activará su señal y podría empujar la señalización del ~2.64% actual al ~25%. Ocean (2.25% hashrate) es actualmente el único pool señalizando; Antpool, ViaBTC y F2Pool permanecen en "no". El resultado de Foundry es el factor más importante antes del deadline de activación. Categoría: BIP/Fork.</description>
+      <pubDate>Thu, 30 Jul 2026 11:10:29 +0000</pubDate>
+      <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[BAJA][Mercado] ETFs de BTC: 4 días consecutivos de salidas ante incertidumbre Fed</title>
-      <link>https://cryptonews.net/news/bitcoin/33217757/</link>
-      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-29</guid>
-      <description>[ACTUALIZACIÓN] Los ETFs spot de Bitcoin acumulan 4 días de flujos negativos, revirtiendo la racha de 7 días en positivo. IBIT (BlackRock) lideró con −$54.8M el 28 de julio; total neto: −$49.7M. Posicionamiento defensivo pre-FOMC. Categoría: ETF.</description>
-      <pubDate>Wed, 29 Jul 2026 11:03:40 +0000</pubDate>
+      <title>[MEDIA][Figuras] [ACTUALIZACIÓN] Saylor declara el código de Bitcoin una "Constitución" — amplía la guerra de protocolo a covenants y bloques más grandes</title>
+      <link>https://decrypt.co/374588/michael-saylor-bitcoin-constitution-bip-110</link>
+      <guid isPermaLink="false">saylor-110-reasons-against-bip110-july-2026#upd-2026-07-30</guid>
+      <description>[ACTUALIZACIÓN] El 28 de julio Saylor publicó un hilo de 9 posts en X enmarcando las reglas de consenso de Bitcoin como una constitución: cualquier facción que las reescriba sin consenso aplastante comete "robo económico". Amplía el blanco previo (110 razones anti-BIP-110 del 21 de julio) para incluir covenants (OP_CTV/OP_CAT) y bloques más grandes. Adam Back (Blockstream) y Jameson Lopp también oponen BIP-110. Categoría: Figuras.</description>
+      <pubDate>Thu, 30 Jul 2026 11:10:29 +0000</pubDate>
+      <category>Figuras</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Mercado] [ACTUALIZACIÓN] ETFs spot de BTC: $32.1M en flujos netos positivos el 29 de julio — fin de racha negativa de 4 días</title>
+      <link>https://en.bloomingbit.io/feed/news/117325</link>
+      <guid isPermaLink="false">ibit-etf-outflows-444m-seven-day-streak#upd-2026-07-30</guid>
+      <description>[ACTUALIZACIÓN] Los ETFs spot de Bitcoin registraron $32.1M en flujos netos positivos el 29 de julio, liderado por IBIT de BlackRock (+$89.8M), poniendo fin a cuatro días consecutivos de salidas previos al FOMC. Fidelity FBTC (-$43.1M) y ARK ARKB (-$14.6M) compensaron parcialmente. Acumulado neto de julio: +$699M (primer mes positivo desde abril), pero aún -$4.76B en el año. Categoría: ETF.</description>
+      <pubDate>Thu, 30 Jul 2026 11:10:29 +0000</pubDate>
       <category>ETF</category>
     </item>
 
