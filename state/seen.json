@@ -5,7 +5,7 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-29",
+      "last_update": "2026-07-31",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -21,7 +21,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-31"
       ]
     },
     {
@@ -576,10 +577,11 @@
       "title": "Strategy acumula 4 semanas sin comprar BTC — vende $263.5M en acciones MSTR, reserva USD sube a $3.225B",
       "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion",
       "first_seen": "2026-07-23",
-      "last_update": "2026-07-28",
+      "last_update": "2026-07-31",
       "updates": [
         "2026-07-27",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-31"
       ]
     },
     {
@@ -642,12 +644,16 @@
     },
     {
       "id": "coinbase-q2-earnings-july30-2026",
-      "title": "Coinbase reporta resultados Q2 el 30 de julio: analistas recortaron target 40% por trimestre débil",
-      "url": "https://www.marketbeat.com/earnings/reports/2026-7-30-coinbase-global-stock/",
+      "title": "Coinbase Q2 2026: miss de ingresos ($1.22B vs $1.29B est.), pérdida neta $359M, BTC cae al 12% del revenue",
+      "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
       "first_seen": "2026-07-27",
       "eje": "Mercado",
       "category": "Figuras",
-      "relevancia": "Baja"
+      "relevancia": "Baja",
+      "updates": [
+        "2026-07-31"
+      ],
+      "last_update": "2026-07-31"
     },
     {
       "id": "bitmart-shutdown-august-2026",
@@ -674,7 +680,20 @@
       "id": "foundry-usa-bip110-miner-vote-august-2026",
       "title": "Foundry USA (23.8% del hashrate global) abre votación interna de mineros sobre BIP-110 antes del bloque 961.632",
       "url": "https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110",
-      "first_seen": "2026-07-30"
+      "first_seen": "2026-07-30",
+      "updates": [
+        "2026-07-31"
+      ],
+      "last_update": "2026-07-31"
+    },
+    {
+      "id": "bitcoin-etf-july-2026-record-low-monthly-inflows",
+      "title": "ETFs spot de Bitcoin: julio 2026 registra el peor mes de flujos desde el lanzamiento ($205M en entradas netas)",
+      "url": "https://financefeeds.com/bitcoin-etf-inflows-record-low-july-2026/",
+      "first_seen": "2026-07-31",
+      "eje": "Mercado",
+      "category": "ETF",
+      "relevancia": "Media"
     }
   ]
 }
