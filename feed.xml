@@ -5,38 +5,43 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 31 Jul 2026 11:06:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 11:10:46 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Figuras] Coinbase Q2 2026: miss de ingresos, pérdida neta $359M y Bitcoin cae al 12% del revenue</title>
-      <link>https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates</link>
-      <guid isPermaLink="false">coinbase-q2-earnings-july30-2026#upd-2026-07-31</guid>
-      <description>[ACTUALIZACIÓN] Ingresos $1.22B (miss de $1.29-1.31B esperado), pérdida neta GAAP $359.5M ($1.36/acción). Bitcoin bajó al 12% del revenue total (históricamente 50%+). Acción cayó 6.5% after hours. Actualiza cobertura del 2026-07-27. Categoría: Figuras</description>
-      <pubDate>Fri, 31 Jul 2026 11:06:50 +0000</pubDate>
-      <category>Figuras</category>
-    </item>
-    <item>
-      <title>[ALTA][Figuras] Strategy Q2 2026: pérdida de $8.22B por BTC, fin oficial del dogma "nunca vender"</title>
-      <link>https://www.thestreet.com/crypto/markets/strategy-misses-q2-earnings-estimates-by-a-wide-margin</link>
-      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-07-31</guid>
-      <description>[ACTUALIZACIÓN] Pérdida neta $8.22B en Q2, impulsada por $8.32B de pérdidas no realizadas en 843,775 BTC. Strategy formalizó ventas de BTC como herramienta de capital, terminando el dogma de 4 años de "nunca vender". Actualiza cobertura del 2026-07-23. Categoría: Figuras</description>
-      <pubDate>Fri, 31 Jul 2026 11:06:50 +0000</pubDate>
-      <category>Figuras</category>
-    </item>
-    <item>
-      <title>[ALTA][Técnico] BIP-110 llega al deadline (~9 agosto) con soporte estancado entre 2-3% y voto de Foundry pendiente</title>
-      <link>https://bitkan.com/news/detail/946837</link>
-      <guid isPermaLink="false">foundry-usa-bip110-miner-vote-august-2026#upd-2026-07-31</guid>
-      <description>[ACTUALIZACIÓN] A menos de 2 semanas del bloque 961.632 (~9 agosto), señalización de BIP-110 no supera el 3%. Voto de mineros de Foundry (23.8% hashrate) aún pendiente. Antpool, ViaBTC y F2Pool siguen sin señalizar. Se necesita 55%; fracaso de activación luce probable. Actualiza coberturas del 2026-07-30 y 2026-06-28. Categoría: BIP/Fork</description>
-      <pubDate>Fri, 31 Jul 2026 11:06:50 +0000</pubDate>
+      <title>[ALTA][Técnico] BIP-110: ventana de señalización obligatoria se abre en ~8 días (bloque 961.632, ~9 agosto)</title>
+      <link>https://www.kucoin.com/news/flash/bitcoin-bip-110-mandatory-signal-window-to-open-in-two-weeks-with-2-64-support</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-08-01</guid>
+      <description>[ACTUALIZACIÓN] Soporte minero sube de 1.29% a 2.64% pero sigue muy lejos del 55% requerido. Foundry USA cierra votación en ese bloque. Sin cambio de Antpool/ViaBTC/F2Pool (70%+ del hashrate), el escenario probable es cadena minoritaria con riesgo de chain split. Categoría: BIP/Fork</description>
+      <pubDate>Sat, 01 Aug 2026 11:10:46 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
+
     <item>
-      <title>[MEDIA][Mercado] ETFs spot de Bitcoin: julio 2026 registra el peor mes de flujos desde el lanzamiento ($205M)</title>
-      <link>https://financefeeds.com/bitcoin-etf-inflows-record-low-july-2026/</link>
-      <guid isPermaLink="false">bitcoin-etf-july-2026-record-low-monthly-inflows</guid>
-      <description>[NUEVO] Solo $205M en flujos netos en julio, el menor registro mensual desde el lanzamiento de los ETFs (enero 2024). Tras $2.43B en salidas en mayo y $4.52B en junio. Activos totales cayeron de pico $151B a ~$80.9B. Señal de que la demanda institucional aún no se recuperó. Categoría: ETF</description>
-      <pubDate>Fri, 31 Jul 2026 11:06:50 +0000</pubDate>
-      <category>ETF</category>
+      <title>[ALTA][Geo] CLARITY Act: deadline real del 7 de agosto — Thune aún no presentó cloture ni asignó tiempo en el pleno</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/clarity-act-fast-track-hinges-092548005.html</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-08-01</guid>
+      <description>[ACTUALIZACIÓN] Lummis reafirma voto antes del receso del 10 de agosto. Thune no ha presentado cloture al 31 de julio. Cláusula de ética revisada: prohíbe a funcionarios federales (incluso el presidente) emitir activos digitales y exige desinversión o fideicomiso ciego. Probabilidades de aprobación en 37%. Categoría: Regulación</description>
+      <pubDate>Sat, 01 Aug 2026 11:10:46 +0000</pubDate>
+      <category>Regulación</category>
     </item>
+
+    <item>
+      <title>[ALTA][Técnico] IBM demuestra Ventaja Cuántica Confiable: 70 qubits lógicos verificados; CEO proyecta ingresos comerciales para 2028-2029</title>
+      <link>https://www.intelligentcio.com/north-america/2026/07/31/ibm-and-university-of-chicago-demonstrate-quantum-advantage-with-trusted-error-corrected-computing-breakthrough/</link>
+      <guid isPermaLink="false">ibm-quantum-advantage-70-qubits-july-2026</guid>
+      <description>[NUEVO] IBM y U. de Chicago demostraron el 30 de julio un cálculo de 70 qubits lógicos tolerantes a errores que supera la simulación clásica verificable. CEO proyecta impacto comercial 2028-2029. Para Bitcoin: romper ECDSA requiere miles de qubits (muy arriba de 70), pero más de $437.000M en BTC tienen claves públicas expuestas sin plan de migración acordado. Categoría: Cuántica</description>
+      <pubDate>Sat, 01 Aug 2026 11:10:46 +0000</pubDate>
+      <category>Cuántica</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] Strategy Q2 2026: pérdida neta de $8.22B — 846.000 BTC comprados a $75.578 promedio, bajo el precio actual</title>
+      <link>https://qz.com/strategy-8-billion-loss-bitcoin-price-decline-073126</link>
+      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-08-01</guid>
+      <description>[ACTUALIZACIÓN] Primer balance bajo normas de fair value: pérdida no realizada de $8.32B (vs. ganancia de $10B en Q2 2025). 846.000 BTC intactos; pausa en compras extendida a 5 semanas; reserva USD $3.75B. Revenue +6.9% YoY a $122M; $17B levantados en el año. Categoría: Ballenas</description>
+      <pubDate>Sat, 01 Aug 2026 11:10:46 +0000</pubDate>
+      <category>Ballenas</category>
+    </item>
+
   </channel>
 </rss>

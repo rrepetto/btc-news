@@ -5,7 +5,7 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-31",
+      "last_update": "2026-08-01",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -22,7 +22,8 @@
         "2026-07-26",
         "2026-07-28",
         "2026-07-29",
-        "2026-07-31"
+        "2026-07-31",
+        "2026-08-01"
       ]
     },
     {
@@ -163,7 +164,7 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-07-29",
+      "last_update": "2026-08-01",
       "updates": [
         "2026-06-29",
         "2026-07-01",
@@ -178,7 +179,8 @@
         "2026-07-23",
         "2026-07-25",
         "2026-07-27",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-08-01"
       ]
     },
     {
@@ -577,11 +579,12 @@
       "title": "Strategy acumula 4 semanas sin comprar BTC — vende $263.5M en acciones MSTR, reserva USD sube a $3.225B",
       "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion",
       "first_seen": "2026-07-23",
-      "last_update": "2026-07-31",
+      "last_update": "2026-08-01",
       "updates": [
         "2026-07-27",
         "2026-07-28",
-        "2026-07-31"
+        "2026-07-31",
+        "2026-08-01"
       ]
     },
     {
@@ -694,6 +697,15 @@
       "eje": "Mercado",
       "category": "ETF",
       "relevancia": "Media"
+    },
+    {
+      "id": "ibm-quantum-advantage-70-qubits-july-2026",
+      "title": "IBM demuestra 'Ventaja Cuántica Confiable': 70 qubits lógicos verificados; CEO proyecta ingresos comerciales para 2028–2029",
+      "url": "https://www.intelligentcio.com/north-america/2026/07/31/ibm-and-university-of-chicago-demonstrate-quantum-advantage-with-trusted-error-corrected-computing-breakthrough/",
+      "first_seen": "2026-08-01",
+      "eje": "Técnico",
+      "category": "Cuántica",
+      "relevancia": "Alta"
     }
   ]
 }
