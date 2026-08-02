@@ -5,42 +5,42 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 01 Aug 2026 11:10:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 11:09:12 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] BIP-110: ventana de señalización obligatoria se abre en ~8 días (bloque 961.632, ~9 agosto)</title>
-      <link>https://www.kucoin.com/news/flash/bitcoin-bip-110-mandatory-signal-window-to-open-in-two-weeks-with-2-64-support</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-08-01</guid>
-      <description>[ACTUALIZACIÓN] Soporte minero sube de 1.29% a 2.64% pero sigue muy lejos del 55% requerido. Foundry USA cierra votación en ese bloque. Sin cambio de Antpool/ViaBTC/F2Pool (70%+ del hashrate), el escenario probable es cadena minoritaria con riesgo de chain split. Categoría: BIP/Fork</description>
-      <pubDate>Sat, 01 Aug 2026 11:10:46 +0000</pubDate>
-      <category>BIP/Fork</category>
+      <title>[ALTA][Técnico] Coldcard: bug de RNG en firmware desde 2021 drenó $70M+ — usuarios Mk3/Mk4/Mk5 deben mover fondos YA</title>
+      <link>https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html</link>
+      <guid isPermaLink="false">coldcard-rng-firmware-bug-exploit-july-2026</guid>
+      <description>Bug en firmware Coldcard (Mk3 desde 4.0.1, Mk4/Mk5 antes de 5.6.0, Q antes de 1.5.0Q) redujo entropía de seeds de 128 a 72 bits. Atacante drenó $70M+ en &lt;41 minutos el 31 de julio. Hotfixes de emergencia disponibles pero NO reparan seeds ya comprometidas: crear wallet nueva es obligatorio. Categoría: Core/Release, vulnerabilidad de custodia.</description>
+      <pubDate>Sun, 02 Aug 2026 11:09:12 +0000</pubDate>
+      <category>Core/Release</category>
     </item>
 
     <item>
-      <title>[ALTA][Geo] CLARITY Act: deadline real del 7 de agosto — Thune aún no presentó cloture ni asignó tiempo en el pleno</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/clarity-act-fast-track-hinges-092548005.html</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-08-01</guid>
-      <description>[ACTUALIZACIÓN] Lummis reafirma voto antes del receso del 10 de agosto. Thune no ha presentado cloture al 31 de julio. Cláusula de ética revisada: prohíbe a funcionarios federales (incluso el presidente) emitir activos digitales y exige desinversión o fideicomiso ciego. Probabilidades de aprobación en 37%. Categoría: Regulación</description>
-      <pubDate>Sat, 01 Aug 2026 11:10:46 +0000</pubDate>
+      <title>[ALTA][Geo] CLARITY Act definitivamente archivado: Thune confirma que no hay votos, Polymarket cae a 28%</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/u-senate-shelves-clarity-act-131900593.html</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-08-02</guid>
+      <description>[ACTUALIZACIÓN] Líder Thune confirmó que el CLARITY Act no tiene los 60 votos para cloture antes del receso del 7 de agosto. Polymarket cayó de 37% a 28%. Próxima ventana: septiembre, con perspectivas inciertas por mid-terms. Categoría: Regulación.</description>
+      <pubDate>Sun, 02 Aug 2026 11:09:12 +0000</pubDate>
       <category>Regulación</category>
     </item>
 
     <item>
-      <title>[ALTA][Técnico] IBM demuestra Ventaja Cuántica Confiable: 70 qubits lógicos verificados; CEO proyecta ingresos comerciales para 2028-2029</title>
-      <link>https://www.intelligentcio.com/north-america/2026/07/31/ibm-and-university-of-chicago-demonstrate-quantum-advantage-with-trusted-error-corrected-computing-breakthrough/</link>
-      <guid isPermaLink="false">ibm-quantum-advantage-70-qubits-july-2026</guid>
-      <description>[NUEVO] IBM y U. de Chicago demostraron el 30 de julio un cálculo de 70 qubits lógicos tolerantes a errores que supera la simulación clásica verificable. CEO proyecta impacto comercial 2028-2029. Para Bitcoin: romper ECDSA requiere miles de qubits (muy arriba de 70), pero más de $437.000M en BTC tienen claves públicas expuestas sin plan de migración acordado. Categoría: Cuántica</description>
-      <pubDate>Sat, 01 Aug 2026 11:10:46 +0000</pubDate>
-      <category>Cuántica</category>
+      <title>[ALTA][Técnico] eCash Hard Fork (Sztorc): 19 días para bloque 964,000 (~21 agosto) — ETFs y custodios deben declarar posición</title>
+      <link>https://news.bitcoin.com/bitcoins-august-hard-fork-may-dwarf-every-previous-split-combined-heres-why/</link>
+      <guid isPermaLink="false">sztorc-ecash-hard-fork-august-2026#upd-2026-08-02</guid>
+      <description>[ACTUALIZACIÓN] A &lt;3 semanas del fork de Drivechain/eCash, ETFs con +1M BTC y custodios institucionales deben pronunciarse sobre el tratamiento de los tokens. Strategy (818K BTC) también afectado. Controversia por reasignación propuesta de BTC de Satoshi. Potencialmente el fork de mayor valor monetario en la historia de Bitcoin. Categoría: BIP/Fork.</description>
+      <pubDate>Sun, 02 Aug 2026 11:09:12 +0000</pubDate>
+      <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] Strategy Q2 2026: pérdida neta de $8.22B — 846.000 BTC comprados a $75.578 promedio, bajo el precio actual</title>
-      <link>https://qz.com/strategy-8-billion-loss-bitcoin-price-decline-073126</link>
-      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-08-01</guid>
-      <description>[ACTUALIZACIÓN] Primer balance bajo normas de fair value: pérdida no realizada de $8.32B (vs. ganancia de $10B en Q2 2025). 846.000 BTC intactos; pausa en compras extendida a 5 semanas; reserva USD $3.75B. Revenue +6.9% YoY a $122M; $17B levantados en el año. Categoría: Ballenas</description>
-      <pubDate>Sat, 01 Aug 2026 11:10:46 +0000</pubDate>
-      <category>Ballenas</category>
+      <title>[MEDIA][Minería/AI] Capitulación minera documentada: dificultad 14% bajo máximo 2026, IA podría ser 70% de ingresos para diciembre</title>
+      <link>https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot</link>
+      <guid isPermaLink="false">bitcoin-difficulty-16pct-july-26-2026#upd-2026-08-02</guid>
+      <description>[ACTUALIZACIÓN] Dificultad en ~126T (14% bajo pico 2026; 19.9% bajo ATH noviembre 2025). Mineros públicos vendieron ~15.000 BTC desde enero para financiar IA. Próximo ajuste estimado 9 agosto (-2.58% proyectado). Proyecciones: 70% de ingresos de mineros públicos podría venir de IA para fin de 2026. Categoría: Minería/AI.</description>
+      <pubDate>Sun, 02 Aug 2026 11:09:12 +0000</pubDate>
+      <category>Minería/AI</category>
     </item>
 
   </channel>

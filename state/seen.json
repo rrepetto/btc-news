@@ -164,7 +164,7 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-01",
+      "last_update": "2026-08-02",
       "updates": [
         "2026-06-29",
         "2026-07-01",
@@ -180,7 +180,8 @@
         "2026-07-25",
         "2026-07-27",
         "2026-07-29",
-        "2026-08-01"
+        "2026-08-01",
+        "2026-08-02"
       ]
     },
     {
@@ -287,7 +288,11 @@
       "id": "sztorc-ecash-hard-fork-august-2026",
       "title": "Paul Sztorc anuncia hard fork 'eCash' de Bitcoin en agosto (bloque 964,000) — controversia por reasignar monedas de Satoshi",
       "url": "https://news.bitcoin.com/drivechain-architect-paul-sztorc-unveils-august-bitcoin-hard-fork-with-11-btc-coin-split/",
-      "first_seen": "2026-07-03"
+      "first_seen": "2026-07-03",
+      "updates": [
+        "2026-08-02"
+      ],
+      "last_update": "2026-08-02"
     },
     {
       "id": "japan-crypto-financial-instrument-fiea-2026",
@@ -634,7 +639,11 @@
       "id": "bitcoin-difficulty-16pct-july-26-2026",
       "title": "Bitcoin ejecuta ajuste de dificultad −16% el 26 de julio — mayor caída negativa del año, hashrate en mínimos de 2026",
       "url": "https://cryptoslate.com/bitcoin-is-about-to-give-miners-a-16-lifeline-but-19-billion-in-ai-deals-is-luring-them-away-anyway/",
-      "first_seen": "2026-07-26"
+      "first_seen": "2026-07-26",
+      "updates": [
+        "2026-08-02"
+      ],
+      "last_update": "2026-08-02"
     },
     {
       "id": "river-corporate-btc-q2-2026-110k-record",
@@ -706,6 +715,12 @@
       "eje": "Técnico",
       "category": "Cuántica",
       "relevancia": "Alta"
+    },
+    {
+      "id": "coldcard-rng-firmware-bug-exploit-july-2026",
+      "title": "Coldcard: bug de RNG en firmware desde 2021 drenó $70M+ — usuarios Mk3/Mk4/Mk5 deben mover fondos",
+      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+      "first_seen": "2026-08-02"
     }
   ]
 }
