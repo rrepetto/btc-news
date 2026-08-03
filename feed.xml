@@ -5,41 +5,50 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 02 Aug 2026 11:09:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 11:11:39 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] Coldcard: bug de RNG en firmware desde 2021 drenó $70M+ — usuarios Mk3/Mk4/Mk5 deben mover fondos YA</title>
-      <link>https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html</link>
-      <guid isPermaLink="false">coldcard-rng-firmware-bug-exploit-july-2026</guid>
-      <description>Bug en firmware Coldcard (Mk3 desde 4.0.1, Mk4/Mk5 antes de 5.6.0, Q antes de 1.5.0Q) redujo entropía de seeds de 128 a 72 bits. Atacante drenó $70M+ en &lt;41 minutos el 31 de julio. Hotfixes de emergencia disponibles pero NO reparan seeds ya comprometidas: crear wallet nueva es obligatorio. Categoría: Core/Release, vulnerabilidad de custodia.</description>
-      <pubDate>Sun, 02 Aug 2026 11:09:12 +0000</pubDate>
+      <title>[ALTA][Técnico] ACTUALIZACIÓN: Coldcard — tercera ola eleva pérdidas a $89M y 4.585 wallets; Coinkite paraliza envíos</title>
+      <link>https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million</link>
+      <guid isPermaLink="false">coldcard-rng-firmware-bug-exploit-july-2026#upd-2026-08-03</guid>
+      <description>Tres ondas de ataques totalizan 1.367 BTC (~$89M) drenados de 4.585 direcciones. Bloomberg portada 3 agosto. Coinkite paraliza envíos y destruye stock Mk3 no despachado. Inversores afectados moviendo BTC a exchanges masivamente. Categoría: seguridad/protocolo.</description>
+      <pubDate>Mon, 03 Aug 2026 11:11:39 +0000</pubDate>
       <category>Core/Release</category>
     </item>
 
     <item>
-      <title>[ALTA][Geo] CLARITY Act definitivamente archivado: Thune confirma que no hay votos, Polymarket cae a 28%</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/u-senate-shelves-clarity-act-131900593.html</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-08-02</guid>
-      <description>[ACTUALIZACIÓN] Líder Thune confirmó que el CLARITY Act no tiene los 60 votos para cloture antes del receso del 7 de agosto. Polymarket cayó de 37% a 28%. Próxima ventana: septiembre, con perspectivas inciertas por mid-terms. Categoría: Regulación.</description>
-      <pubDate>Sun, 02 Aug 2026 11:09:12 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Técnico] eCash Hard Fork (Sztorc): 19 días para bloque 964,000 (~21 agosto) — ETFs y custodios deben declarar posición</title>
-      <link>https://news.bitcoin.com/bitcoins-august-hard-fork-may-dwarf-every-previous-split-combined-heres-why/</link>
-      <guid isPermaLink="false">sztorc-ecash-hard-fork-august-2026#upd-2026-08-02</guid>
-      <description>[ACTUALIZACIÓN] A &lt;3 semanas del fork de Drivechain/eCash, ETFs con +1M BTC y custodios institucionales deben pronunciarse sobre el tratamiento de los tokens. Strategy (818K BTC) también afectado. Controversia por reasignación propuesta de BTC de Satoshi. Potencialmente el fork de mayor valor monetario en la historia de Bitcoin. Categoría: BIP/Fork.</description>
-      <pubDate>Sun, 02 Aug 2026 11:09:12 +0000</pubDate>
+      <title>[ALTA][Técnico] ACTUALIZACIÓN: BIP-110 — soporte minero colapsa a menos del 1% con ventana obligatoria a 6 días (bloque 961.632, ~9 agosto)</title>
+      <link>https://www.tftc.io/bip-110-fork-deadline-miner-support-zero</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-08-03</guid>
+      <description>Desde el reporte anterior (2.64%), el soporte minero cayó por debajo del 1%. Foundry USA, Antpool, ViaBTC y F2Pool siguen sin señalizar. La ventana se abrirá prácticamente vacía, creando un chain split menor con cadena minoritaria sin soporte económico. Categoría: BIP/Fork.</description>
+      <pubDate>Mon, 03 Aug 2026 11:11:39 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[MEDIA][Minería/AI] Capitulación minera documentada: dificultad 14% bajo máximo 2026, IA podría ser 70% de ingresos para diciembre</title>
-      <link>https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot</link>
-      <guid isPermaLink="false">bitcoin-difficulty-16pct-july-26-2026#upd-2026-08-02</guid>
-      <description>[ACTUALIZACIÓN] Dificultad en ~126T (14% bajo pico 2026; 19.9% bajo ATH noviembre 2025). Mineros públicos vendieron ~15.000 BTC desde enero para financiar IA. Próximo ajuste estimado 9 agosto (-2.58% proyectado). Proyecciones: 70% de ingresos de mineros públicos podría venir de IA para fin de 2026. Categoría: Minería/AI.</description>
-      <pubDate>Sun, 02 Aug 2026 11:09:12 +0000</pubDate>
+      <title>[ALTA][Mercado] NUEVO: Trump Media transfiere 2.628 BTC ($165M) a Crypto.com; saldo restante coincide con colateral de bonos convertibles</title>
+      <link>https://www.theblock.co/post/410360/trump-media-linked-wallets-move-165-million-in-bitcoin-to-crypto-com-leaving-4261-btc-in-tracked-wallets</link>
+      <guid isPermaLink="false">trump-media-bitcoin-collateral-crypto-com-august-2026</guid>
+      <description>Analistas de Arkham detectaron el movimiento on-chain el 2 de agosto: 4.261 BTC restantes coinciden con las 4.260,73 BTC pledgeadas como colateral (vencimiento mayo 2028). Total movido: 7.281 de 11.542 BTC adquiridos (~$1,37B), con pérdidas realizadas de $318M + $237M no realizadas. Categoría: Ballenas/On-chain.</description>
+      <pubDate>Mon, 03 Aug 2026 11:11:39 +0000</pubDate>
+      <category>On-chain</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] ACTUALIZACIÓN: Strategy — Saylor desmiente viral de nueva venta de $5B en BTC; 843.775 BTC con pérdida no realizada de ~$9B</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/michael-saylor-shuts-down-viral-094457046.html</link>
+      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-08-03</guid>
+      <description>Saylor desmintió el 1 agosto el viral sobre una supuesta nueva autorización de $5B en ventas: es el marco del 29 de junio. La empresa tiene 843.775 BTC a promedio $75.476, con ~$9B de pérdida no realizada a precios actuales. 6 semanas sin compras. Categoría: Figuras.</description>
+      <pubDate>Mon, 03 Aug 2026 11:11:39 +0000</pubDate>
+      <category>Figuras</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Minería/AI] NUEVO: American Bitcoin (ABTC) Q2 2026 — pérdida por acción de -$0.80 (miss 633%) pese a récord de producción y 8.002 BTC en reserva</title>
+      <link>https://www.prnewswire.com/news-releases/american-bitcoin-reports-second-quarter-2026-results-302840592.html</link>
+      <guid isPermaLink="false">american-bitcoin-abtc-q2-2026-earnings</guid>
+      <description>American Bitcoin (NASDAQ:ABTC, respaldada por Eric Trump) reportó Q2: EPS -$0.80 vs +$0.15 esperado (miss 633%), revenue $67M (+8% QoQ), producción récord 932 BTC (+14% QoQ), reserva crece a 8.002 BTC. Modelo de acumulación expone a pérdidas contables con BTC bajo precio de costo. Categoría: Minería/AI.</description>
+      <pubDate>Mon, 03 Aug 2026 11:11:39 +0000</pubDate>
       <category>Minería/AI</category>
     </item>
 

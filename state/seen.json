@@ -5,7 +5,7 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-01",
+      "last_update": "2026-08-03",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -23,7 +23,8 @@
         "2026-07-28",
         "2026-07-29",
         "2026-07-31",
-        "2026-08-01"
+        "2026-08-01",
+        "2026-08-03"
       ]
     },
     {
@@ -584,12 +585,13 @@
       "title": "Strategy acumula 4 semanas sin comprar BTC — vende $263.5M en acciones MSTR, reserva USD sube a $3.225B",
       "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion",
       "first_seen": "2026-07-23",
-      "last_update": "2026-08-01",
+      "last_update": "2026-08-03",
       "updates": [
         "2026-07-27",
         "2026-07-28",
         "2026-07-31",
-        "2026-08-01"
+        "2026-08-01",
+        "2026-08-03"
       ]
     },
     {
@@ -720,7 +722,23 @@
       "id": "coldcard-rng-firmware-bug-exploit-july-2026",
       "title": "Coldcard: bug de RNG en firmware desde 2021 drenó $70M+ — usuarios Mk3/Mk4/Mk5 deben mover fondos",
       "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-      "first_seen": "2026-08-02"
+      "first_seen": "2026-08-02",
+      "updates": [
+        "2026-08-03"
+      ],
+      "last_update": "2026-08-03"
+    },
+    {
+      "id": "trump-media-bitcoin-collateral-crypto-com-august-2026",
+      "title": "Trump Media transfiere 2.628 BTC ($165M) a Crypto.com; saldo restante coincide con colateral de bonos convertibles",
+      "url": "https://www.theblock.co/post/410360/trump-media-linked-wallets-move-165-million-in-bitcoin-to-crypto-com-leaving-4261-btc-in-tracked-wallets",
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "american-bitcoin-abtc-q2-2026-earnings",
+      "title": "American Bitcoin (ABTC) Q2 2026: pérdida por acción de -$0.80 (miss 633%) pese a récord de producción y 8.002 BTC en reserva",
+      "url": "https://www.prnewswire.com/news-releases/american-bitcoin-reports-second-quarter-2026-results-302840592.html",
+      "first_seen": "2026-08-03"
     }
   ]
 }
