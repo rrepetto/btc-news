@@ -5,51 +5,51 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 03 Aug 2026 11:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 11:14:49 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] ACTUALIZACIÓN: Coldcard — tercera ola eleva pérdidas a $89M y 4.585 wallets; Coinkite paraliza envíos</title>
-      <link>https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million</link>
-      <guid isPermaLink="false">coldcard-rng-firmware-bug-exploit-july-2026#upd-2026-08-03</guid>
-      <description>Tres ondas de ataques totalizan 1.367 BTC (~$89M) drenados de 4.585 direcciones. Bloomberg portada 3 agosto. Coinkite paraliza envíos y destruye stock Mk3 no despachado. Inversores afectados moviendo BTC a exchanges masivamente. Categoría: seguridad/protocolo.</description>
-      <pubDate>Mon, 03 Aug 2026 11:11:39 +0000</pubDate>
+      <title>[ALTA][Geo] ACTUALIZACIÓN: CLARITY Act desaparece del calendario del Senado — cuenta regresiva de 72h antes del receso del 10 de agosto</title>
+      <link>https://cryptoslate.com/cryptos-landmark-clarity-act-just-vanished-from-mondays-senate-schedule-triggering-a-desperate-72-hour-countdown-to-save-it-before-recess/</link>
+      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-08-04</guid>
+      <description>El proyecto desapareció hoy del calendario senatorial; solo quedan 3 días hábiles (hasta el 7) antes del receso del 10 agosto. Sin cloture presentado, faltan 7 votos demócratas, calendario presupuestario bloquea tiempo en pleno. Si no pasa esta semana, el marco regulatorio cripto de EE.UU. queda para el otoño con un Congreso aún más ocupado. Categoría: Regulación.</description>
+      <pubDate>Tue, 04 Aug 2026 11:14:49 +0000</pubDate>
+      <category>Regulación</category>
+    </item>
+
+    <item>
+      <title>[ALTA][Técnico] ACTUALIZACIÓN: Coldcard — 4ª ola eleva pérdidas a ~$116M / 1.755 BTC / 5.200+ wallets comprometidas</title>
+      <link>https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/</link>
+      <guid isPermaLink="false">coldcard-rng-firmware-bug-exploit-july-2026#upd-2026-08-04</guid>
+      <description>Cuarta oleada desde el 30 de julio: 1.755 BTC robados (~$116M) en más de 5.200 addresses. Mismo bug de RNG (firmware Mk3 2021), ahora apuntando a saldos menores. Galaxy Research rastrea movimientos on-chain. Actor aún no identificado. Todos los Mk3/Mk4/Mk5 sin semilla migrada son vulnerables. Categoría: seguridad/protocolo.</description>
+      <pubDate>Tue, 04 Aug 2026 11:14:49 +0000</pubDate>
       <category>Core/Release</category>
     </item>
 
     <item>
-      <title>[ALTA][Técnico] ACTUALIZACIÓN: BIP-110 — soporte minero colapsa a menos del 1% con ventana obligatoria a 6 días (bloque 961.632, ~9 agosto)</title>
-      <link>https://www.tftc.io/bip-110-fork-deadline-miner-support-zero</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-08-03</guid>
-      <description>Desde el reporte anterior (2.64%), el soporte minero cayó por debajo del 1%. Foundry USA, Antpool, ViaBTC y F2Pool siguen sin señalizar. La ventana se abrirá prácticamente vacía, creando un chain split menor con cadena minoritaria sin soporte económico. Categoría: BIP/Fork.</description>
-      <pubDate>Mon, 03 Aug 2026 11:11:39 +0000</pubDate>
-      <category>BIP/Fork</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Mercado] NUEVO: Trump Media transfiere 2.628 BTC ($165M) a Crypto.com; saldo restante coincide con colateral de bonos convertibles</title>
-      <link>https://www.theblock.co/post/410360/trump-media-linked-wallets-move-165-million-in-bitcoin-to-crypto-com-leaving-4261-btc-in-tracked-wallets</link>
-      <guid isPermaLink="false">trump-media-bitcoin-collateral-crypto-com-august-2026</guid>
-      <description>Analistas de Arkham detectaron el movimiento on-chain el 2 de agosto: 4.261 BTC restantes coinciden con las 4.260,73 BTC pledgeadas como colateral (vencimiento mayo 2028). Total movido: 7.281 de 11.542 BTC adquiridos (~$1,37B), con pérdidas realizadas de $318M + $237M no realizadas. Categoría: Ballenas/On-chain.</description>
-      <pubDate>Mon, 03 Aug 2026 11:11:39 +0000</pubDate>
-      <category>On-chain</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] ACTUALIZACIÓN: Strategy — Saylor desmiente viral de nueva venta de $5B en BTC; 843.775 BTC con pérdida no realizada de ~$9B</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/michael-saylor-shuts-down-viral-094457046.html</link>
-      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-08-03</guid>
-      <description>Saylor desmintió el 1 agosto el viral sobre una supuesta nueva autorización de $5B en ventas: es el marco del 29 de junio. La empresa tiene 843.775 BTC a promedio $75.476, con ~$9B de pérdida no realizada a precios actuales. 6 semanas sin compras. Categoría: Figuras.</description>
-      <pubDate>Mon, 03 Aug 2026 11:11:39 +0000</pubDate>
+      <title>[MEDIA][Mercado] ACTUALIZACIÓN: Strategy confirma venta de 1.638 BTC ($104.7M) para fondear dividendos preferentes — tenencia baja a 842.138 BTC</title>
+      <link>https://www.gncrypto.news/news/strategy-sells-1638-btc-retains-842138-btc-raises-4b/</link>
+      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-08-04</guid>
+      <description>SEC Form 8-K confirma venta del 27 julio al 2 agosto a promedio $63.957: ~$52.4M en dividendos preferentes, ~$52.3M en recompra STRC. Tenencia: 842.138 BTC (costo promedio $75.419, pérdida no realizada ~$10B). Reserva en efectivo: $4B. Saylor reafirma estrategia de "net buyer" a largo plazo. Categoría: Figuras/Ballenas.</description>
+      <pubDate>Tue, 04 Aug 2026 11:14:49 +0000</pubDate>
       <category>Figuras</category>
     </item>
 
     <item>
-      <title>[MEDIA][Minería/AI] NUEVO: American Bitcoin (ABTC) Q2 2026 — pérdida por acción de -$0.80 (miss 633%) pese a récord de producción y 8.002 BTC en reserva</title>
-      <link>https://www.prnewswire.com/news-releases/american-bitcoin-reports-second-quarter-2026-results-302840592.html</link>
-      <guid isPermaLink="false">american-bitcoin-abtc-q2-2026-earnings</guid>
-      <description>American Bitcoin (NASDAQ:ABTC, respaldada por Eric Trump) reportó Q2: EPS -$0.80 vs +$0.15 esperado (miss 633%), revenue $67M (+8% QoQ), producción récord 932 BTC (+14% QoQ), reserva crece a 8.002 BTC. Modelo de acumulación expone a pérdidas contables con BTC bajo precio de costo. Categoría: Minería/AI.</description>
-      <pubDate>Mon, 03 Aug 2026 11:11:39 +0000</pubDate>
-      <category>Minería/AI</category>
+      <title>[MEDIA][Macro] NUEVO: Intervención coordinada EE.UU.-Japón en yen — primera desde 1998 / USD/JPY de 164 a 156.5 / riesgo carry trade para BTC</title>
+      <link>https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin</link>
+      <guid isPermaLink="false">us-japan-yen-intervention-august-2026</guid>
+      <description>Sec. del Tesoro Bessent confirmó acción conjunta con Japon (~$36.6B en compras de yen), primera desde 1998. USD/JPY revirtió de 164 a 156.5. En 2026, cada intervencion del BoJ coincidio con caidas de BTC (correlacion -0.90). BTC aguanta en $63-64K; riesgo de deprimir hacia $50K si hay unwinding de carry trades. Categoría: Macro.</description>
+      <pubDate>Tue, 04 Aug 2026 11:14:49 +0000</pubDate>
+      <category>Macro</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Técnico] NUEVO: Core Lightning — dos vulnerabilidades de DoS remotas divulgadas y parchadas en v26.06</title>
+      <link>https://bitcoinops.org/en/newsletters/2026/07/31/</link>
+      <guid isPermaLink="false">core-lightning-dos-vulnerabilities-august-2026</guid>
+      <description>Chandra Pratap (Summer of Bitcoin) descubrio dos fallas en el gateway de mensajes de peers: agotamiento de memoria remoto que colapsa el nodo sin perdida de fondos en cadena. Parchadas en CLN v26.06rc2. Divulgacion completa en Optech #416 (31 julio). Operadores deben actualizar a &gt;=v26.06. Categoría: Lightning.</description>
+      <pubDate>Tue, 04 Aug 2026 11:14:49 +0000</pubDate>
+      <category>Lightning</category>
     </item>
 
   </channel>

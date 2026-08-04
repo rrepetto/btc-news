@@ -165,7 +165,7 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-02",
+      "last_update": "2026-08-04",
       "updates": [
         "2026-06-29",
         "2026-07-01",
@@ -182,7 +182,8 @@
         "2026-07-27",
         "2026-07-29",
         "2026-08-01",
-        "2026-08-02"
+        "2026-08-02",
+        "2026-08-04"
       ]
     },
     {
@@ -585,13 +586,14 @@
       "title": "Strategy acumula 4 semanas sin comprar BTC — vende $263.5M en acciones MSTR, reserva USD sube a $3.225B",
       "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion",
       "first_seen": "2026-07-23",
-      "last_update": "2026-08-03",
+      "last_update": "2026-08-04",
       "updates": [
         "2026-07-27",
         "2026-07-28",
         "2026-07-31",
         "2026-08-01",
-        "2026-08-03"
+        "2026-08-03",
+        "2026-08-04"
       ]
     },
     {
@@ -724,9 +726,10 @@
       "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
       "first_seen": "2026-08-02",
       "updates": [
-        "2026-08-03"
+        "2026-08-03",
+        "2026-08-04"
       ],
-      "last_update": "2026-08-03"
+      "last_update": "2026-08-04"
     },
     {
       "id": "trump-media-bitcoin-collateral-crypto-com-august-2026",
@@ -739,6 +742,18 @@
       "title": "American Bitcoin (ABTC) Q2 2026: pérdida por acción de -$0.80 (miss 633%) pese a récord de producción y 8.002 BTC en reserva",
       "url": "https://www.prnewswire.com/news-releases/american-bitcoin-reports-second-quarter-2026-results-302840592.html",
       "first_seen": "2026-08-03"
+    },
+    {
+      "id": "us-japan-yen-intervention-august-2026",
+      "title": "Intervención coordinada EE.UU.-Japón en tipo de cambio yen — primera desde 1998 / USD/JPY de 164 a 156.5 / riesgo carry trade para BTC",
+      "url": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
+      "first_seen": "2026-08-04"
+    },
+    {
+      "id": "core-lightning-dos-vulnerabilities-august-2026",
+      "title": "Core Lightning: dos vulnerabilidades de DoS remotas divulgadas — nodos podían crashearse sin pérdida de fondos, parchadas en v26.06",
+      "url": "https://bitcoinops.org/en/newsletters/2026/07/31/",
+      "first_seen": "2026-08-04"
     }
   ]
 }
