@@ -5,51 +5,33 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 04 Aug 2026 11:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 11:11:29 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Geo] ACTUALIZACIÓN: CLARITY Act desaparece del calendario del Senado — cuenta regresiva de 72h antes del receso del 10 de agosto</title>
-      <link>https://cryptoslate.com/cryptos-landmark-clarity-act-just-vanished-from-mondays-senate-schedule-triggering-a-desperate-72-hour-countdown-to-save-it-before-recess/</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-08-04</guid>
-      <description>El proyecto desapareció hoy del calendario senatorial; solo quedan 3 días hábiles (hasta el 7) antes del receso del 10 agosto. Sin cloture presentado, faltan 7 votos demócratas, calendario presupuestario bloquea tiempo en pleno. Si no pasa esta semana, el marco regulatorio cripto de EE.UU. queda para el otoño con un Congreso aún más ocupado. Categoría: Regulación.</description>
-      <pubDate>Tue, 04 Aug 2026 11:14:49 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[ALTA][Técnico] ACTUALIZACIÓN: BIP-110 — ventana de señalización obligatoria abre el 9 de agosto con solo 2.64% de soporte hashrate</title>
+      <link>https://www.weex.com/news/detail/bitcoin-bip-110-mandatory-signaling-window-to-open-on-august-9-2026-with-support-rate-of-approximately-264-a71lsqpdrgc8rw1a2ujg7d64</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-08-05</guid>
+      <description>La ventana de señalización obligatoria del soft fork BIP-110 abre en el bloque 961.632, previsto para el 9 de agosto (4 días). El soporte actual es solo del 2.64% del hashrate global, muy por debajo del umbral del 55% necesario para lock-in. Foundry USA (≈25% del hashrate) tiene votación interna abierta donde la no-respuesta cuenta como No. Ningún pool relevante está señalando activamente. La activación es prácticamente imposible, pero persiste el riesgo de un fork minoritario si grupos activistas fuerzan señalización. Categoría: BIP/Fork.</description>
+      <pubDate>Wed, 05 Aug 2026 11:11:29 +0000</pubDate>
+      <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[ALTA][Técnico] ACTUALIZACIÓN: Coldcard — 4ª ola eleva pérdidas a ~$116M / 1.755 BTC / 5.200+ wallets comprometidas</title>
-      <link>https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/</link>
-      <guid isPermaLink="false">coldcard-rng-firmware-bug-exploit-july-2026#upd-2026-08-04</guid>
-      <description>Cuarta oleada desde el 30 de julio: 1.755 BTC robados (~$116M) en más de 5.200 addresses. Mismo bug de RNG (firmware Mk3 2021), ahora apuntando a saldos menores. Galaxy Research rastrea movimientos on-chain. Actor aún no identificado. Todos los Mk3/Mk4/Mk5 sin semilla migrada son vulnerables. Categoría: seguridad/protocolo.</description>
-      <pubDate>Tue, 04 Aug 2026 11:14:49 +0000</pubDate>
-      <category>Core/Release</category>
+      <title>[MEDIA][Mercado] NUEVO: Hashdex cierra el primer ETF spot de Bitcoin en EE.UU. — DEFI ($14.7M AUM), trading termina el 17 de agosto</title>
+      <link>https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns</link>
+      <guid isPermaLink="false">hashdex-defi-etf-closure-august-2026</guid>
+      <description>Hashdex anuncia el cierre y liquidación de su ETF spot de Bitcoin (NYSE Arca: DEFI, AUM $14.7M). Último día de trading: 17 de agosto; liquidación en efectivo ~28 de agosto (~225 BTC serán vendidos). Razón: incapacidad de competir con IBIT y FBTC en escala y tarifas, con flujos migrando hacia activos de IA. Es el primer ETF spot de BTC en ser liquidado desde la apertura del mercado en enero 2024. Categoría: ETF.</description>
+      <pubDate>Wed, 05 Aug 2026 11:11:29 +0000</pubDate>
+      <category>ETF</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] ACTUALIZACIÓN: Strategy confirma venta de 1.638 BTC ($104.7M) para fondear dividendos preferentes — tenencia baja a 842.138 BTC</title>
-      <link>https://www.gncrypto.news/news/strategy-sells-1638-btc-retains-842138-btc-raises-4b/</link>
-      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-08-04</guid>
-      <description>SEC Form 8-K confirma venta del 27 julio al 2 agosto a promedio $63.957: ~$52.4M en dividendos preferentes, ~$52.3M en recompra STRC. Tenencia: 842.138 BTC (costo promedio $75.419, pérdida no realizada ~$10B). Reserva en efectivo: $4B. Saylor reafirma estrategia de "net buyer" a largo plazo. Categoría: Figuras/Ballenas.</description>
-      <pubDate>Tue, 04 Aug 2026 11:14:49 +0000</pubDate>
-      <category>Figuras</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Macro] NUEVO: Intervención coordinada EE.UU.-Japón en yen — primera desde 1998 / USD/JPY de 164 a 156.5 / riesgo carry trade para BTC</title>
-      <link>https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin</link>
-      <guid isPermaLink="false">us-japan-yen-intervention-august-2026</guid>
-      <description>Sec. del Tesoro Bessent confirmó acción conjunta con Japon (~$36.6B en compras de yen), primera desde 1998. USD/JPY revirtió de 164 a 156.5. En 2026, cada intervencion del BoJ coincidio con caidas de BTC (correlacion -0.90). BTC aguanta en $63-64K; riesgo de deprimir hacia $50K si hay unwinding de carry trades. Categoría: Macro.</description>
-      <pubDate>Tue, 04 Aug 2026 11:14:49 +0000</pubDate>
-      <category>Macro</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Técnico] NUEVO: Core Lightning — dos vulnerabilidades de DoS remotas divulgadas y parchadas en v26.06</title>
-      <link>https://bitcoinops.org/en/newsletters/2026/07/31/</link>
-      <guid isPermaLink="false">core-lightning-dos-vulnerabilities-august-2026</guid>
-      <description>Chandra Pratap (Summer of Bitcoin) descubrio dos fallas en el gateway de mensajes de peers: agotamiento de memoria remoto que colapsa el nodo sin perdida de fondos en cadena. Parchadas en CLN v26.06rc2. Divulgacion completa en Optech #416 (31 julio). Operadores deben actualizar a &gt;=v26.06. Categoría: Lightning.</description>
-      <pubDate>Tue, 04 Aug 2026 11:14:49 +0000</pubDate>
-      <category>Lightning</category>
+      <title>[MEDIA][Mercado] ACTUALIZACIÓN: ETFs de BTC — $170M en un solo día el 4 de agosto, vs $205M en todo julio</title>
+      <link>https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-170m-as-blackrock-leads-gains-for-7-funds/</link>
+      <guid isPermaLink="false">bitcoin-etf-july-2026-record-low-monthly-inflows#upd-2026-08-05</guid>
+      <description>Tras julio 2026 con solo $205M de entradas netas en el mes completo (el peor desde el lanzamiento), el 4 de agosto los ETFs spot de BTC captaron $170M en un solo día, con IBIT de BlackRock aportando $111.4M (65%). Este único día equivale al 83% de todo lo captado en julio. Señal temprana de posible reversión de flujos al inicio de agosto. Categoría: ETF.</description>
+      <pubDate>Wed, 05 Aug 2026 11:11:29 +0000</pubDate>
+      <category>ETF</category>
     </item>
 
   </channel>

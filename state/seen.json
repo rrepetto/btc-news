@@ -5,7 +5,7 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-03",
+      "last_update": "2026-08-05",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -24,7 +24,8 @@
         "2026-07-29",
         "2026-07-31",
         "2026-08-01",
-        "2026-08-03"
+        "2026-08-03",
+        "2026-08-05"
       ]
     },
     {
@@ -709,7 +710,11 @@
       "first_seen": "2026-07-31",
       "eje": "Mercado",
       "category": "ETF",
-      "relevancia": "Media"
+      "relevancia": "Media",
+      "last_update": "2026-08-05",
+      "updates": [
+        "2026-08-05"
+      ]
     },
     {
       "id": "ibm-quantum-advantage-70-qubits-july-2026",
@@ -754,6 +759,15 @@
       "title": "Core Lightning: dos vulnerabilidades de DoS remotas divulgadas — nodos podían crashearse sin pérdida de fondos, parchadas en v26.06",
       "url": "https://bitcoinops.org/en/newsletters/2026/07/31/",
       "first_seen": "2026-08-04"
+    },
+    {
+      "id": "hashdex-defi-etf-closure-august-2026",
+      "title": "Hashdex cierra el primer ETF spot de Bitcoin en EE.UU. (DEFI, $14.7M AUM) — trading termina el 17 de agosto",
+      "url": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
+      "first_seen": "2026-08-05",
+      "eje": "Mercado",
+      "category": "ETF",
+      "relevancia": "Media"
     }
   ]
 }
