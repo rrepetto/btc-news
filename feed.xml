@@ -5,32 +5,41 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 05 Aug 2026 11:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 11:12:51 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] ACTUALIZACIÓN: BIP-110 — ventana de señalización obligatoria abre el 9 de agosto con solo 2.64% de soporte hashrate</title>
-      <link>https://www.weex.com/news/detail/bitcoin-bip-110-mandatory-signaling-window-to-open-on-august-9-2026-with-support-rate-of-approximately-264-a71lsqpdrgc8rw1a2ujg7d64</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-08-05</guid>
-      <description>La ventana de señalización obligatoria del soft fork BIP-110 abre en el bloque 961.632, previsto para el 9 de agosto (4 días). El soporte actual es solo del 2.64% del hashrate global, muy por debajo del umbral del 55% necesario para lock-in. Foundry USA (≈25% del hashrate) tiene votación interna abierta donde la no-respuesta cuenta como No. Ningún pool relevante está señalando activamente. La activación es prácticamente imposible, pero persiste el riesgo de un fork minoritario si grupos activistas fuerzan señalización. Categoría: BIP/Fork.</description>
-      <pubDate>Wed, 05 Aug 2026 11:11:29 +0000</pubDate>
+      <title>[ALTA][Técnico] BIP-110: ventana de señalización obligatoria se abre en ~48h con solo 2.6% de soporte minero</title>
+      <link>https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/</link>
+      <guid isPermaLink="false">bip110-mandatory-signaling-window-august-2026</guid>
+      <description>El bloque 961,632 (estimado para el 8-9 de agosto) abre la ventana de señalización obligatoria de BIP-110. Solo Ocean Mining señaliza (~2.6% del hashrate); F2Pool rechazó; Foundry y AntPool en silencio. Los nodos con BIP-110 rechazarán bloques de la mayoría de la red, con riesgo real de división de cadena. [ACTUALIZACIÓN — cobertura previa: 30 julio y 28 junio] Categoría: BIP/Fork</description>
+      <pubDate>Thu, 06 Aug 2026 11:12:51 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] NUEVO: Hashdex cierra el primer ETF spot de Bitcoin en EE.UU. — DEFI ($14.7M AUM), trading termina el 17 de agosto</title>
-      <link>https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns</link>
-      <guid isPermaLink="false">hashdex-defi-etf-closure-august-2026</guid>
-      <description>Hashdex anuncia el cierre y liquidación de su ETF spot de Bitcoin (NYSE Arca: DEFI, AUM $14.7M). Último día de trading: 17 de agosto; liquidación en efectivo ~28 de agosto (~225 BTC serán vendidos). Razón: incapacidad de competir con IBIT y FBTC en escala y tarifas, con flujos migrando hacia activos de IA. Es el primer ETF spot de BTC en ser liquidado desde la apertura del mercado en enero 2024. Categoría: ETF.</description>
-      <pubDate>Wed, 05 Aug 2026 11:11:29 +0000</pubDate>
-      <category>ETF</category>
+      <title>[ALTA][Mercado] Strategy vende 1,638 BTC ($105M) por debajo de su costo promedio — y mueve 1,030 BTC más</title>
+      <link>https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc</link>
+      <guid isPermaLink="false">strategy-btc-sale-below-cost-august-2026</guid>
+      <description>Strategy vendió 1,638 BTC entre el 27 de julio y el 2 de agosto a $63,957/BTC promedio (15% bajo su costo de $75,419). Tercera disposición de BTC en 2026. El 5 de agosto Lookonchain detectó transferencia de 1,030 BTC adicionales. Saylor publicó &quot;Bitcoin Drive engaged&quot; insinuando compras futuras. Holdings: 842,138 BTC con pérdida no realizada de ~$10.9B. Categoría: Ballenas</description>
+      <pubDate>Thu, 06 Aug 2026 11:12:51 +0000</pubDate>
+      <category>Ballenas</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] ACTUALIZACIÓN: ETFs de BTC — $170M en un solo día el 4 de agosto, vs $205M en todo julio</title>
-      <link>https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-170m-as-blackrock-leads-gains-for-7-funds/</link>
-      <guid isPermaLink="false">bitcoin-etf-july-2026-record-low-monthly-inflows#upd-2026-08-05</guid>
-      <description>Tras julio 2026 con solo $205M de entradas netas en el mes completo (el peor desde el lanzamiento), el 4 de agosto los ETFs spot de BTC captaron $170M en un solo día, con IBIT de BlackRock aportando $111.4M (65%). Este único día equivale al 83% de todo lo captado en julio. Señal temprana de posible reversión de flujos al inicio de agosto. Categoría: ETF.</description>
-      <pubDate>Wed, 05 Aug 2026 11:11:29 +0000</pubDate>
+      <title>[ALTA][Geo] CLARITY Act: Senado vota el 7 de agosto o el proyecto muere hasta 2027</title>
+      <link>https://crypto.news/clarity-act-faces-senate-vote-despite-60-vote-gap/</link>
+      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026</guid>
+      <description>Thune confirmó voto en el Senado antes del receso (último día hábil: 7 agosto). Se necesitan 60 votos; solo hay 53 republicanos. Demócratas amenazan bloquear la clotura sin acuerdo de ética. Si falla, el proyecto se resetea al próximo Congreso (~mediados 2027). Probabilidad de aprobación: 30-33% según mercados de predicción. [ACTUALIZACIÓN — cobertura previa: 28 junio] Categoría: Regulación</description>
+      <pubDate>Thu, 06 Aug 2026 11:12:51 +0000</pubDate>
+      <category>Regulación</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] ETFs spot de Bitcoin: $244.4M de entradas el 5 de agosto — 6 días consecutivos de flujos positivos</title>
+      <link>https://financefeeds.com/crypto-etfs-extend-recovery-on-august-5-as-bitcoin-funds-attract-244-million-and-ethereum-returns-to-inflows/</link>
+      <guid isPermaLink="false">bitcoin-etf-recovery-244m-august-5-2026</guid>
+      <description>ETFs spot de BTC registraron $244.4M en entradas netas el 5 de agosto. BlackRock IBIT lideró con $196.8M; ARKB aportó $37.6M; FBTC sumó $11.3M. Seis días consecutivos de flujos positivos — reversión tras el peor julio de flujos desde el lanzamiento de los ETFs. Categoría: ETF</description>
+      <pubDate>Thu, 06 Aug 2026 11:12:51 +0000</pubDate>
       <category>ETF</category>
     </item>
 

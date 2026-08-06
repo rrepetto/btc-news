@@ -166,7 +166,7 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-04",
+      "last_update": "2026-08-06",
       "updates": [
         "2026-06-29",
         "2026-07-01",
@@ -184,7 +184,8 @@
         "2026-07-29",
         "2026-08-01",
         "2026-08-02",
-        "2026-08-04"
+        "2026-08-04",
+        "2026-08-06"
       ]
     },
     {
@@ -699,9 +700,10 @@
       "url": "https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110",
       "first_seen": "2026-07-30",
       "updates": [
-        "2026-07-31"
+        "2026-07-31",
+        "2026-08-06"
       ],
-      "last_update": "2026-07-31"
+      "last_update": "2026-08-06"
     },
     {
       "id": "bitcoin-etf-july-2026-record-low-monthly-inflows",
@@ -768,6 +770,38 @@
       "eje": "Mercado",
       "category": "ETF",
       "relevancia": "Media"
+    },
+    {
+      "id": "bip110-mandatory-signaling-window-august-2026",
+      "title": "BIP-110: ventana de señalización obligatoria se abre en ~48h con solo 2.6% de soporte minero",
+      "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
+      "first_seen": "2026-08-06",
+      "eje": "Técnico",
+      "category": "BIP/Fork"
+    },
+    {
+      "id": "strategy-btc-sale-below-cost-august-2026",
+      "title": "Strategy vende 1,638 BTC ($105M) por debajo de su costo promedio — y mueve 1,030 BTC más",
+      "url": "https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc",
+      "first_seen": "2026-08-06",
+      "eje": "Mercado",
+      "category": "Ballenas"
+    },
+    {
+      "id": "clarity-act-senate-vote-deadline-august-7-2026",
+      "title": "CLARITY Act: Senado vota el 7 de agosto o el proyecto muere hasta 2027",
+      "url": "https://crypto.news/clarity-act-faces-senate-vote-despite-60-vote-gap/",
+      "first_seen": "2026-08-06",
+      "eje": "Geo/Regulación",
+      "category": "Regulación"
+    },
+    {
+      "id": "bitcoin-etf-recovery-244m-august-5-2026",
+      "title": "ETFs spot de Bitcoin: $244.4M de entradas el 5 de agosto — 6 días consecutivos de flujos positivos",
+      "url": "https://financefeeds.com/crypto-etfs-extend-recovery-on-august-5-as-bitcoin-funds-attract-244-million-and-ethereum-returns-to-inflows/",
+      "first_seen": "2026-08-06",
+      "eje": "Mercado",
+      "category": "ETF"
     }
   ]
 }
