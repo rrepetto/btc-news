@@ -5,42 +5,60 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 06 Aug 2026 11:12:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:10:29 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] BIP-110: ventana de señalización obligatoria se abre en ~48h con solo 2.6% de soporte minero</title>
-      <link>https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/</link>
-      <guid isPermaLink="false">bip110-mandatory-signaling-window-august-2026</guid>
-      <description>El bloque 961,632 (estimado para el 8-9 de agosto) abre la ventana de señalización obligatoria de BIP-110. Solo Ocean Mining señaliza (~2.6% del hashrate); F2Pool rechazó; Foundry y AntPool en silencio. Los nodos con BIP-110 rechazarán bloques de la mayoría de la red, con riesgo real de división de cadena. [ACTUALIZACIÓN — cobertura previa: 30 julio y 28 junio] Categoría: BIP/Fork</description>
-      <pubDate>Thu, 06 Aug 2026 11:12:51 +0000</pubDate>
+      <title>[ALTA][Técnico][ACTUALIZACIÓN] BIP-110 entra en la ventana de señalización obligatoria con menos del 1% de hashrate</title>
+      <link>https://www.tftc.io/bip-110-mandatory-signaling-window-miner-support-bitcoin-consensus</link>
+      <guid isPermaLink="false">bip110-mandatory-signaling-window-august-2026#upd-2026-08-07</guid>
+      <description>La ventana de señalización obligatoria de BIP-110 se abrió hoy (bloque ~961.632): los nodos enforcing rechazan bloques no señalizados. Solo Ocean pool y operaciones menores señalizan (&lt;1% del hashrate). Foundry USA cierra su votación sin alcanzar el 51%. BIP-110 no puede activarse este período (necesita 55%), pero genera un soft fork menor con el 99%+ de la red. Categoría: BIP/Fork.</description>
+      <pubDate>Fri, 07 Aug 2026 11:10:29 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[ALTA][Mercado] Strategy vende 1,638 BTC ($105M) por debajo de su costo promedio — y mueve 1,030 BTC más</title>
-      <link>https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc</link>
-      <guid isPermaLink="false">strategy-btc-sale-below-cost-august-2026</guid>
-      <description>Strategy vendió 1,638 BTC entre el 27 de julio y el 2 de agosto a $63,957/BTC promedio (15% bajo su costo de $75,419). Tercera disposición de BTC en 2026. El 5 de agosto Lookonchain detectó transferencia de 1,030 BTC adicionales. Saylor publicó &quot;Bitcoin Drive engaged&quot; insinuando compras futuras. Holdings: 842,138 BTC con pérdida no realizada de ~$10.9B. Categoría: Ballenas</description>
-      <pubDate>Thu, 06 Aug 2026 11:12:51 +0000</pubDate>
-      <category>Ballenas</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Geo] CLARITY Act: Senado vota el 7 de agosto o el proyecto muere hasta 2027</title>
-      <link>https://crypto.news/clarity-act-faces-senate-vote-despite-60-vote-gap/</link>
-      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026</guid>
-      <description>Thune confirmó voto en el Senado antes del receso (último día hábil: 7 agosto). Se necesitan 60 votos; solo hay 53 republicanos. Demócratas amenazan bloquear la clotura sin acuerdo de ética. Si falla, el proyecto se resetea al próximo Congreso (~mediados 2027). Probabilidad de aprobación: 30-33% según mercados de predicción. [ACTUALIZACIÓN — cobertura previa: 28 junio] Categoría: Regulación</description>
-      <pubDate>Thu, 06 Aug 2026 11:12:51 +0000</pubDate>
+      <title>[ALTA][Geo][ACTUALIZACIÓN] CLARITY Act: Senado entra en receso sin votar — el proyecto se posterga hasta septiembre</title>
+      <link>https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break</link>
+      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026#upd-2026-08-07</guid>
+      <description>El Senado de EE.UU. entró en receso de agosto sin votar la CLARITY Act (ley marco de activos digitales). Contrariamente al peor caso anticipado, el proyecto sigue vivo: el Senado regresa el 14 de septiembre con tres semanas para lograr los 60 votos necesarios. La demora deja sin catalizador regulatorio a los mercados crypto durante el verano boreal. Categoría: Regulación.</description>
+      <pubDate>Fri, 07 Aug 2026 11:10:29 +0000</pubDate>
       <category>Regulación</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] ETFs spot de Bitcoin: $244.4M de entradas el 5 de agosto — 6 días consecutivos de flujos positivos</title>
-      <link>https://financefeeds.com/crypto-etfs-extend-recovery-on-august-5-as-bitcoin-funds-attract-244-million-and-ethereum-returns-to-inflows/</link>
-      <guid isPermaLink="false">bitcoin-etf-recovery-244m-august-5-2026</guid>
-      <description>ETFs spot de BTC registraron $244.4M en entradas netas el 5 de agosto. BlackRock IBIT lideró con $196.8M; ARKB aportó $37.6M; FBTC sumó $11.3M. Seis días consecutivos de flujos positivos — reversión tras el peor julio de flujos desde el lanzamiento de los ETFs. Categoría: ETF</description>
-      <pubDate>Thu, 06 Aug 2026 11:12:51 +0000</pubDate>
+      <title>[MEDIA][Mercado][ACTUALIZACIÓN] ETFs spot de Bitcoin: 7 días consecutivos de entradas y $754M semanal — mejor semana desde abril</title>
+      <link>https://financefeeds.com/crypto-etfs-extend-winning-streak-on-august-6-as-bitcoin-funds-add-137-6-million/</link>
+      <guid isPermaLink="false">bitcoin-etf-recovery-244m-august-5-2026#upd-2026-08-07</guid>
+      <description>El 6 de agosto los ETFs spot de BTC sumaron $137.6M (IBIT lideró con $128.3M), extendiendo la racha positiva a 7 días y llevando el total semanal a ~$754M — la mejor semana desde abril 2026, fuerte reversión frente al mínimo histórico mensual de julio ($205M). Categoría: ETF.</description>
+      <pubDate>Fri, 07 Aug 2026 11:10:29 +0000</pubDate>
       <category>ETF</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] Ballenas acumulan 20.000 BTC ($1.2B) desde el 29 de julio — mayor compra whale registrada en agosto</title>
+      <link>https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million</link>
+      <guid isPermaLink="false">btc-whale-accumulation-12b-since-july29-august-2026</guid>
+      <description>Carteras con entre 10 y 10.000 BTC acumularon más de 20.000 BTC (~$1.2B) desde el 29 de julio por debajo de $65K, según Santiment. La confluencia con flujos positivos de ETFs ($754M semanal) marca renovada demanda institucional, aunque BTC no pudo cerrar decisivamente sobre $65K para confirmar recuperación. Categoría: Ballenas/On-chain.</description>
+      <pubDate>Fri, 07 Aug 2026 11:10:29 +0000</pubDate>
+      <category>Ballenas</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Geo] Bitdeer firma contrato AI/HPC de $4.7B por 16 años en Tydal, Noruega — acciones suben 23%</title>
+      <link>https://www.globenewswire.com/news-release/2026/08/04/3338255/0/en/bitdeer-announces-4-7-billion-16-year-ai-hpc-data-center-lease-for-tydal-norway-campus.html</link>
+      <guid isPermaLink="false">bitdeer-47b-ai-hpc-norway-tydal-august-2026</guid>
+      <description>Bitdeer Technologies (BTDR) anuncia arrendamiento de $4.7B a 16 años para data center AI/HPC en Tydal, Noruega: 121 MW de capacidad IT, 100% energía renovable, PUE 1.1. Primera fase operativa dic. 2026. Si se extiende 8 años, podría valer $8B. Acciones suben hasta 23%. Confirma la tendencia de mineros Bitcoin reconvirtiéndose en infraestructura AI. Categoría: Minería/AI.</description>
+      <pubDate>Fri, 07 Aug 2026 11:10:29 +0000</pubDate>
+      <category>Minería/AI</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Técnico] Tether lanza Hadron en Arabia Saudita para tokenización inmobiliaria institucional</title>
+      <link>https://tether.io/news/hadron-by-tether-launches-strategic-collaboration-with-first-data-and-bkn301-to-advance-institutional-tokenization-in-saudi-arabia/</link>
+      <guid isPermaLink="false">tether-hadron-saudi-arabia-tokenization-2026</guid>
+      <description>Hadron by Tether colabora con First Data y BKN301 para tokenizar activos inmobiliarios institucionales en Arabia Saudita (Vision 2030). Amplía el ecosistema Tether hacia RWA (Real World Assets) en mercados del Golfo con soporte para finanzas islámicas. Categoría: Stablecoins/RWA.</description>
+      <pubDate>Fri, 07 Aug 2026 11:10:29 +0000</pubDate>
+      <category>Stablecoins</category>
     </item>
 
   </channel>

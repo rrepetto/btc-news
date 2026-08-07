@@ -5,7 +5,7 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-05",
+      "last_update": "2026-08-07",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -25,7 +25,8 @@
         "2026-07-31",
         "2026-08-01",
         "2026-08-03",
-        "2026-08-05"
+        "2026-08-05",
+        "2026-08-07"
       ]
     },
     {
@@ -166,7 +167,7 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-06",
+      "last_update": "2026-08-07",
       "updates": [
         "2026-06-29",
         "2026-07-01",
@@ -185,7 +186,8 @@
         "2026-08-01",
         "2026-08-02",
         "2026-08-04",
-        "2026-08-06"
+        "2026-08-06",
+        "2026-08-07"
       ]
     },
     {
@@ -701,9 +703,10 @@
       "first_seen": "2026-07-30",
       "updates": [
         "2026-07-31",
-        "2026-08-06"
+        "2026-08-06",
+        "2026-08-07"
       ],
-      "last_update": "2026-08-06"
+      "last_update": "2026-08-07"
     },
     {
       "id": "bitcoin-etf-july-2026-record-low-monthly-inflows",
@@ -777,7 +780,11 @@
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-08-06",
       "eje": "Técnico",
-      "category": "BIP/Fork"
+      "category": "BIP/Fork",
+      "last_update": "2026-08-07",
+      "updates": [
+        "2026-08-07"
+      ]
     },
     {
       "id": "strategy-btc-sale-below-cost-august-2026",
@@ -793,7 +800,11 @@
       "url": "https://crypto.news/clarity-act-faces-senate-vote-despite-60-vote-gap/",
       "first_seen": "2026-08-06",
       "eje": "Geo/Regulación",
-      "category": "Regulación"
+      "category": "Regulación",
+      "last_update": "2026-08-07",
+      "updates": [
+        "2026-08-07"
+      ]
     },
     {
       "id": "bitcoin-etf-recovery-244m-august-5-2026",
@@ -801,7 +812,38 @@
       "url": "https://financefeeds.com/crypto-etfs-extend-recovery-on-august-5-as-bitcoin-funds-attract-244-million-and-ethereum-returns-to-inflows/",
       "first_seen": "2026-08-06",
       "eje": "Mercado",
-      "category": "ETF"
+      "category": "ETF",
+      "last_update": "2026-08-07",
+      "updates": [
+        "2026-08-07"
+      ]
+    },
+    {
+      "id": "bitdeer-47b-ai-hpc-norway-tydal-august-2026",
+      "title": "Bitdeer firma contrato AI/HPC de $4.7B por 16 años en Tydal, Noruega — acciones suben 23%",
+      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338255/0/en/bitdeer-announces-4-7-billion-16-year-ai-hpc-data-center-lease-for-tydal-norway-campus.html",
+      "first_seen": "2026-08-07",
+      "eje": "Geo/Regulación",
+      "category": "Minería/AI",
+      "relevancia": "Media"
+    },
+    {
+      "id": "btc-whale-accumulation-12b-since-july29-august-2026",
+      "title": "Ballenas acumulan 20.000 BTC ($1.2B) desde el 29 de julio — mayor compra whale registrada en agosto",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
+      "first_seen": "2026-08-07",
+      "eje": "Mercado",
+      "category": "Ballenas",
+      "relevancia": "Media"
+    },
+    {
+      "id": "tether-hadron-saudi-arabia-tokenization-2026",
+      "title": "Tether lanza Hadron en Arabia Saudita para tokenización inmobiliaria institucional (Vision 2030)",
+      "url": "https://tether.io/news/hadron-by-tether-launches-strategic-collaboration-with-first-data-and-bkn301-to-advance-institutional-tokenization-in-saudi-arabia/",
+      "first_seen": "2026-08-07",
+      "eje": "Técnico",
+      "category": "Stablecoins",
+      "relevancia": "Baja"
     }
   ]
 }
