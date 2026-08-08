@@ -5,7 +5,7 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-07",
+      "last_update": "2026-08-08",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -26,7 +26,8 @@
         "2026-08-01",
         "2026-08-03",
         "2026-08-05",
-        "2026-08-07"
+        "2026-08-07",
+        "2026-08-08"
       ]
     },
     {
@@ -167,7 +168,7 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-07",
+      "last_update": "2026-08-08",
       "updates": [
         "2026-06-29",
         "2026-07-01",
@@ -187,7 +188,8 @@
         "2026-08-02",
         "2026-08-04",
         "2026-08-06",
-        "2026-08-07"
+        "2026-08-07",
+        "2026-08-08"
       ]
     },
     {
@@ -737,9 +739,10 @@
       "first_seen": "2026-08-02",
       "updates": [
         "2026-08-03",
-        "2026-08-04"
+        "2026-08-04",
+        "2026-08-08"
       ],
-      "last_update": "2026-08-04"
+      "last_update": "2026-08-08"
     },
     {
       "id": "trump-media-bitcoin-collateral-crypto-com-august-2026",
@@ -781,9 +784,10 @@
       "first_seen": "2026-08-06",
       "eje": "Técnico",
       "category": "BIP/Fork",
-      "last_update": "2026-08-07",
+      "last_update": "2026-08-08",
       "updates": [
-        "2026-08-07"
+        "2026-08-07",
+        "2026-08-08"
       ]
     },
     {
@@ -801,9 +805,10 @@
       "first_seen": "2026-08-06",
       "eje": "Geo/Regulación",
       "category": "Regulación",
-      "last_update": "2026-08-07",
+      "last_update": "2026-08-08",
       "updates": [
-        "2026-08-07"
+        "2026-08-07",
+        "2026-08-08"
       ]
     },
     {
@@ -813,9 +818,10 @@
       "first_seen": "2026-08-06",
       "eje": "Mercado",
       "category": "ETF",
-      "last_update": "2026-08-07",
+      "last_update": "2026-08-08",
       "updates": [
-        "2026-08-07"
+        "2026-08-07",
+        "2026-08-08"
       ]
     },
     {
@@ -834,7 +840,11 @@
       "first_seen": "2026-08-07",
       "eje": "Mercado",
       "category": "Ballenas",
-      "relevancia": "Media"
+      "relevancia": "Media",
+      "updates": [
+        "2026-08-08"
+      ],
+      "last_update": "2026-08-08"
     },
     {
       "id": "tether-hadron-saudi-arabia-tokenization-2026",
@@ -844,6 +854,15 @@
       "eje": "Técnico",
       "category": "Stablecoins",
       "relevancia": "Baja"
+    },
+    {
+      "id": "bitcoin-red-team-ai-audit-4962-august-2026",
+      "title": "Bitcoin Red Team: auditoría AI sobre 390 proyectos open-source encuentra 4.962 vulnerabilidades en 27,5 horas",
+      "url": "https://cryptobriefing.com/bitcoin-red-team-audit-findings/",
+      "first_seen": "2026-08-08",
+      "eje": "Técnico",
+      "category": "Core/Release",
+      "relevancia": "Media"
     }
   ]
 }
