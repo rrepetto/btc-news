@@ -5,54 +5,22 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 08 Aug 2026 11:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 11:08:58 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][Técnico] BIP-110: ventana obligatoria abre este fin de semana y desarrolladores alistan código de hard fork PoW</title>
-      <link>https://www.tftc.io/bip-110-pow-hard-fork-dashjr-block-961632</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-08-08</guid>
-      <description>[ACTUALIZACIÓN] A horas del bloque 961.632 (~9 agosto), la ventana de señalización obligatoria de BIP-110 se abre con solo 2.56% de soporte minero. Desarrollador Chris Guida rebasó el código de hard fork proof-of-work de Luke Dashjr sobre Bitcoin Knots como &quot;último recurso&quot;: un cambio de algoritmo dejaría obsoleto el hardware minero actual. Riesgo real de chain split este fin de semana. Categoría: BIP/Fork</description>
-      <pubDate>Sat, 08 Aug 2026 11:03:23 +0000</pubDate>
+      <title>[ALTA][Técnico] [ACTUALIZACIÓN] BIP-110: cadena minoritaria se escinde en bloque 961.632, mina solo 2 bloques y se detiene — riesgo de replay activo</title>
+      <link>https://coinspectator.com/bitcoin-com/2026/08/09/bitcoins-splintered-bip-110-fork-falls-behind-by-18-blocks/</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-08-09</guid>
+      <description>La ventana obligatoria de BIP-110 se abrió en el bloque 961.632 generando un chain split real: nodos BIP-110 rechazaron el bloque de AntPool y comenzaron su cadena minoritaria. Solo 2 bloques minados antes de detenerse; ahora más de 48 bloques de rezago. Riesgo de replay activo hasta el bloque 965.664 (~septiembre): una transacción en la cadena BIP-110 puede ser válida también en la red principal. Recomendación: no mover monedas hasta que entre la protección anti-replay. Categoría: BIP/Fork</description>
+      <pubDate>Sun, 09 Aug 2026 11:08:58 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
     <item>
-      <title>[ALTA][Geo] CLARITY Act: Senado no votó antes del receso — postergado a septiembre con Polymarket al 14%</title>
-      <link>https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break</link>
-      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026#upd-2026-08-08</guid>
-      <description>[ACTUALIZACIÓN] El Senado de EE.UU. no votó el CLARITY Act antes del receso de agosto. Los demócratas retiraron el apoyo procedimental exigiendo más garantías de enforcement. Primera oportunidad: 15-16 septiembre. Polymarket colapsa al 14% de probabilidad de aprobación en 2026. Categoría: Regulación</description>
-      <pubDate>Sat, 08 Aug 2026 11:03:23 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-    <item>
-      <title>[ALTA][Técnico] Coldcard: pérdidas escalan a $130M+ con 15 atacantes independientes</title>
-      <link>https://www.cryptotimes.io/2026/08/04/coldcard-exploit-15-attackers-130m-losses-galaxy/</link>
-      <guid isPermaLink="false">coldcard-rng-firmware-bug-exploit-july-2026#upd-2026-08-08</guid>
-      <description>[ACTUALIZACIÓN] El hackeo al firmware de Coldcard (bug de RNG desde 2021) escaló de $70M+ a más de $130M (2.055 BTC) con al menos 15 actores independientes explotando wallets aún sin migrar. 4.585 direcciones drenadas; tercer robo cripto más grande del año. Todos los usuarios Mk3/Mk4/Mk5 deben mover fondos de inmediato. Categoría: Core/Release</description>
-      <pubDate>Sat, 08 Aug 2026 11:03:23 +0000</pubDate>
-      <category>Core/Release</category>
-    </item>
-    <item>
-      <title>[MEDIA][Técnico] Bitcoin Red Team: auditoría AI sobre 390 proyectos open-source encuentra 4.962 vulnerabilidades en 27,5 horas</title>
-      <link>https://cryptobriefing.com/bitcoin-red-team-audit-findings/</link>
-      <guid isPermaLink="false">bitcoin-red-team-ai-audit-4962-august-2026</guid>
-      <description>Un equipo voluntario de 16 investigadores financiado por OpenSats (~$40K) usó modelos de IA para revisar 390 repositorios Bitcoin el 4-5 de agosto. Resultado: 4.962 hallazgos, 85 críticos y 635 de alta severidad. Respuesta directa al hackeo de Coldcard. No compromete el protocolo base pero evidencia la fragilidad del ecosistema de herramientas y wallets. Categoría: Core/Release</description>
-      <pubDate>Sat, 08 Aug 2026 11:03:23 +0000</pubDate>
-      <category>Core/Release</category>
-    </item>
-    <item>
-      <title>[MEDIA][Mercado] Ballenas acumulan 40.100 BTC ($2.6B) en 9 días — el doble de la cifra del 07-ago</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-scooped-40-100-155946450.html</link>
-      <guid isPermaLink="false">btc-whale-accumulation-12b-since-july29-august-2026#upd-2026-08-08</guid>
-      <description>[ACTUALIZACIÓN] La acumulación de ballenas (wallets 10-10.000 BTC) desde fines de julio asciende a 40.100 BTC ($2.6B), el doble de los 20.000 BTC/$1.2B reportados el 07-ago. Reservas whale excluyendo exchanges y mining pools suben a 3.06M BTC (vs 2.87M en dic. 2025). Categoría: Ballenas</description>
-      <pubDate>Sat, 08 Aug 2026 11:03:23 +0000</pubDate>
-      <category>Ballenas</category>
-    </item>
-    <item>
-      <title>[BAJA][Mercado] ETFs spot de BTC: $754M en entradas netas semanales — mayor reversal del año</title>
-      <link>https://en.coinotag.com/bitcoin-etf-inflows-reach-754-69m-weekly-reversal</link>
-      <guid isPermaLink="false">bitcoin-etf-recovery-244m-august-5-2026#upd-2026-08-08</guid>
-      <description>[ACTUALIZACIÓN] La semana 31-jul–7-ago cerró con $754.69M en entradas netas y 6 días consecutivos positivos. BlackRock IBIT aportó $604M en 4 días (~80% del total semanal). Revierte las peores semanas de flujos desde el lanzamiento de los ETFs. Categoría: ETF</description>
-      <pubDate>Sat, 08 Aug 2026 11:03:23 +0000</pubDate>
-      <category>ETF</category>
+      <title>[ALTA][Técnico] BTCPay Server v2.4.2 parchea exploit activo de macaroon LND que drenó nodos Lightning de comercios</title>
+      <link>https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds</link>
+      <guid isPermaLink="false">btcpay-lnd-macaroon-exploit-lightning-august-2026</guid>
+      <description>Fallo crítico en BTCPay Server permitía acceso remoto no autenticado a archivos .macaroon de LND, drenando canales Lightning. Víctimas confirmadas: Foundation (Passport) y Citadel21. Parche v2.4.2 disponible, pero credenciales ya robadas siguen válidas: operadores deben rotar macaroons. Afecta solo a instalaciones con LND. Categoría: Lightning</description>
+      <pubDate>Sun, 09 Aug 2026 11:08:58 +0000</pubDate>
+      <category>Lightning</category>
     </item>
   </channel>
 </rss>
