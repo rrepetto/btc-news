@@ -5,7 +5,7 @@
       "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
       "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-09",
+      "last_update": "2026-08-10",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -28,7 +28,8 @@
         "2026-08-05",
         "2026-08-07",
         "2026-08-08",
-        "2026-08-09"
+        "2026-08-09",
+        "2026-08-10"
       ]
     },
     {
@@ -798,7 +799,11 @@
       "url": "https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc",
       "first_seen": "2026-08-06",
       "eje": "Mercado",
-      "category": "Ballenas"
+      "category": "Ballenas",
+      "updates": [
+        "2026-08-10"
+      ],
+      "last_update": "2026-08-10"
     },
     {
       "id": "clarity-act-senate-vote-deadline-august-7-2026",
@@ -871,6 +876,15 @@
       "title": "BTCPay Server v2.4.2 parchea exploit activo de macaroon LND que drenó nodos Lightning",
       "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds",
       "first_seen": "2026-08-09"
+    },
+    {
+      "id": "h100-bitcoin-ma-3506btc-august-2026",
+      "title": "H100 Group completa la primera M&A pública del mundo pagada en Bitcoin puro: triplica holdings a 3.506 BTC",
+      "url": "https://www.cryptotimes.io/2026/08/10/h100-triples-btc-holdings-in-worlds-first-bitcoin-for-bitcoin-public-ma/",
+      "first_seen": "2026-08-10",
+      "eje": "Mercado",
+      "category": "Ballenas",
+      "relevancia": "Media"
     }
   ]
 }

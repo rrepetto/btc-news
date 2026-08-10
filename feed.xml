@@ -3,24 +3,36 @@
   <channel>
     <title>Bitcoin Daily Digest</title>
     <link>https://rrepetto.github.io/btc-news/</link>
-    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
+    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo, mercado, geopolitica y regulacion.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 09 Aug 2026 11:08:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 11:15:59 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Técnico] [ACTUALIZACIÓN] BIP-110: cadena minoritaria se escinde en bloque 961.632, mina solo 2 bloques y se detiene — riesgo de replay activo</title>
-      <link>https://coinspectator.com/bitcoin-com/2026/08/09/bitcoins-splintered-bip-110-fork-falls-behind-by-18-blocks/</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-08-09</guid>
-      <description>La ventana obligatoria de BIP-110 se abrió en el bloque 961.632 generando un chain split real: nodos BIP-110 rechazaron el bloque de AntPool y comenzaron su cadena minoritaria. Solo 2 bloques minados antes de detenerse; ahora más de 48 bloques de rezago. Riesgo de replay activo hasta el bloque 965.664 (~septiembre): una transacción en la cadena BIP-110 puede ser válida también en la red principal. Recomendación: no mover monedas hasta que entre la protección anti-replay. Categoría: BIP/Fork</description>
-      <pubDate>Sun, 09 Aug 2026 11:08:58 +0000</pubDate>
+      <title>[ALTA][Técnico] BIP-110: cadena muerta al 0.15% hashrate y 80+ bloques de rezago — Saylor: Bitcoin funcionó como fue diseñado, fork necesita 25 años para primer ajuste</title>
+      <link>https://blockonomi.com/saylor-bip-110-fork-holds-just-0-15-of-bitcoins-hashpower-faces-25-year-wait/</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-08-10</guid>
+      <description>ACTUALIZACIÓN — La cadena BIP-110 colapsó de 2.53% a 0.15% del hashrate y acumula más de 80 bloques de rezago. Saylor declaró que "Bitcoin funcionó exactamente como fue diseñado" y calculó que al ritmo actual el fork necesitaría 25 años para su primer ajuste de dificultad. Categoría: BIP/Fork.</description>
+      <pubDate>Mon, 10 Aug 2026 11:00:00 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
+
     <item>
-      <title>[ALTA][Técnico] BTCPay Server v2.4.2 parchea exploit activo de macaroon LND que drenó nodos Lightning de comercios</title>
-      <link>https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds</link>
-      <guid isPermaLink="false">btcpay-lnd-macaroon-exploit-lightning-august-2026</guid>
-      <description>Fallo crítico en BTCPay Server permitía acceso remoto no autenticado a archivos .macaroon de LND, drenando canales Lightning. Víctimas confirmadas: Foundation (Passport) y Citadel21. Parche v2.4.2 disponible, pero credenciales ya robadas siguen válidas: operadores deben rotar macaroons. Afecta solo a instalaciones con LND. Categoría: Lightning</description>
-      <pubDate>Sun, 09 Aug 2026 11:08:58 +0000</pubDate>
-      <category>Lightning</category>
+      <title>[MEDIA][Mercado] H100 Group completa primera M&amp;A pública del mundo pagada en Bitcoin puro — triplica holdings a 3.506 BTC</title>
+      <link>https://www.cryptotimes.io/2026/08/10/h100-triples-btc-holdings-in-worlds-first-bitcoin-for-bitcoin-public-ma/</link>
+      <guid isPermaLink="false">h100-bitcoin-ma-3506btc-august-2026</guid>
+      <description>La empresa sueca H100 Group AB adquirió dos firmas noruegas en la primera M&amp;A pública de la historia denominada íntegramente en Bitcoin, sin conversión a fiat. Agrega 2.455 BTC al pasar de 1.051 a 3.506 BTC en reserva. H100 se convierte en el segundo mayor tesoro público de BTC en Europa. Categoría: Ballenas.</description>
+      <pubDate>Mon, 10 Aug 2026 11:00:00 +0000</pubDate>
+      <category>Ballenas</category>
     </item>
+
+    <item>
+      <title>[BAJA][Mercado] Saylor publica señal Doing Business — mercado anticipa posible compra de BTC por Strategy tras cuatro ventas consecutivas</title>
+      <link>https://coinspectator.com/bitcoin-com/2026/08/09/saylor-drops-doing-business-message-sparks-strategy-bitcoin-mystery/</link>
+      <guid isPermaLink="false">strategy-btc-sale-below-cost-august-2026#upd-2026-08-10</guid>
+      <description>ACTUALIZACIÓN — Saylor publicó "Doing Business" en X el 9 de agosto, señal que históricamente precede anuncios de compra de Bitcoin. Strategy lleva desde el 22 de junio sin adquirir BTC (4 ventas desde junio), tiene $4B en caja y 842.138 BTC en reserva. El mercado interpreta el teaser como posible giro hacia la acumulación. Categoría: Figuras.</description>
+      <pubDate>Mon, 10 Aug 2026 11:00:00 +0000</pubDate>
+      <category>Figuras</category>
+    </item>
+
   </channel>
 </rss>
