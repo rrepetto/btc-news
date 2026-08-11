@@ -2,10 +2,10 @@
   "items": [
     {
       "id": "bip-110-signaling-august-fork-deadline",
-      "title": "BIP-110 avanza hacia deadline de agosto con solo 0.36% de señalización minera",
-      "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
+      "title": "BIP-110 fracasa: Bitcoin se dividió en dos cadenas, la fork quedó 300 bloques atrás y tardará ~6 años en recuperarse",
+      "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-10",
+      "last_update": "2026-08-11",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -29,7 +29,8 @@
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
-        "2026-08-10"
+        "2026-08-10",
+        "2026-08-11"
       ]
     },
     {
@@ -736,15 +737,16 @@
     },
     {
       "id": "coldcard-rng-firmware-bug-exploit-july-2026",
-      "title": "Coldcard: bug de RNG en firmware desde 2021 drenó $70M+ — usuarios Mk3/Mk4/Mk5 deben mover fondos",
-      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+      "title": "Coldcard: pérdidas confirmadas en $130M — laundering limitado; TRM Labs documenta 1.816 BTC robados",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/damage-coldcard-hack-reaches-130-142500652.html",
       "first_seen": "2026-08-02",
       "updates": [
         "2026-08-03",
         "2026-08-04",
-        "2026-08-08"
+        "2026-08-08",
+        "2026-08-11"
       ],
-      "last_update": "2026-08-08"
+      "last_update": "2026-08-11"
     },
     {
       "id": "trump-media-bitcoin-collateral-crypto-com-august-2026",
@@ -807,15 +809,16 @@
     },
     {
       "id": "clarity-act-senate-vote-deadline-august-7-2026",
-      "title": "CLARITY Act: Senado vota el 7 de agosto o el proyecto muere hasta 2027",
-      "url": "https://crypto.news/clarity-act-faces-senate-vote-despite-60-vote-gap/",
+      "title": "CLARITY Act: Senado aprueba cloture el 8 agosto — voto final pospuesto a septiembre",
+      "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
       "first_seen": "2026-08-06",
       "eje": "Geo/Regulación",
       "category": "Regulación",
-      "last_update": "2026-08-08",
+      "last_update": "2026-08-11",
       "updates": [
         "2026-08-07",
-        "2026-08-08"
+        "2026-08-08",
+        "2026-08-11"
       ]
     },
     {
@@ -873,9 +876,13 @@
     },
     {
       "id": "btcpay-lnd-macaroon-exploit-lightning-august-2026",
-      "title": "BTCPay Server v2.4.2 parchea exploit activo de macaroon LND que drenó nodos Lightning",
-      "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds",
-      "first_seen": "2026-08-09"
+      "title": "BTCPay ofrece recompensa $190K por fondos robados — Foundation y Citadel21 entre las víctimas",
+      "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
+      "first_seen": "2026-08-09",
+      "last_update": "2026-08-11",
+      "updates": [
+        "2026-08-11"
+      ]
     },
     {
       "id": "h100-bitcoin-ma-3506btc-august-2026",
@@ -885,6 +892,42 @@
       "eje": "Mercado",
       "category": "Ballenas",
       "relevancia": "Media"
+    },
+    {
+      "id": "bitcoin-whale-wallets-10k-btc-six-month-high-august-2026",
+      "title": "Ballenas Bitcoin: 90 wallets con +10.000 BTC — máximo de 6 meses; retail vende al ritmo más rápido desde dic. 2024",
+      "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show",
+      "first_seen": "2026-08-11",
+      "eje": "Mercado",
+      "category": "On-chain",
+      "relevancia": "Media"
+    },
+    {
+      "id": "brazil-bcb-584-24h-delay-crypto-transfers-2027",
+      "title": "Brasil: espera de 24 horas para transferencias crypto superiores a $10K — Resolución BCB 584, vigente desde enero 2027",
+      "url": "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219",
+      "first_seen": "2026-08-11",
+      "eje": "Geo/Regulación",
+      "category": "Regulación",
+      "relevancia": "Baja"
+    },
+    {
+      "id": "south-korea-blocks-17-overseas-crypto-exchanges-google-play-2026",
+      "title": "Corea del Sur bloquea 17+ exchanges offshore en Google Play — más del 50% de plataformas externas inaccesibles",
+      "url": "https://cryptoslate.com/south-korea-blocks-17-overseas-crypto-exchange-apps-in-registration-crackdown/",
+      "first_seen": "2026-08-11",
+      "eje": "Geo/Regulación",
+      "category": "Regulación",
+      "relevancia": "Baja"
+    },
+    {
+      "id": "robinhood-uk-crypto-trading-bitstamp-august-2026",
+      "title": "Robinhood lanza crypto trading en el Reino Unido vía Bitstamp, con comisiones cero y 50+ activos",
+      "url": "https://www.theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140",
+      "first_seen": "2026-08-11",
+      "eje": "Geo/Regulación",
+      "category": "Regulación",
+      "relevancia": "Baja"
     }
   ]
 }
