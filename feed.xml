@@ -5,78 +5,69 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 11 Aug 2026 11:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 11:08:43 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] [ACTUALIZACIÓN] BIP-110 fracasa: Bitcoin se dividió en dos cadenas, la fork quedó 300 bloques atrás y tardará ~6 años en recuperarse</title>
-      <link>https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-08-11</guid>
-      <description>En el bloque 961.632 (8-9 agosto), la red Bitcoin se partió: el grupo Roughnecks (via Ocean pool) minó 2 bloques en la cadena BIP-110 antes de detenerse. El 99,85% del hashrate permaneció en la cadena principal; la fork acumula más de 300 bloques de retraso y tardaría ~6 años en ajustar su dificultad. El soft fork está efectivamente muerto. Categoría: BIP/Fork.</description>
-      <pubDate>Tue, 11 Aug 2026 11:07:36 +0000</pubDate>
+      <title>[ALTA][Técnico] [ACTUALIZACIÓN] BIP-110: backers proponen cambio de PoW para rescatar cadena minoritaria congelada</title>
+      <link>https://news.bitcoin.com/crypto-news/bip-110-backers-plot-minority-chains-pow-reset-to-fire-bitcoin-miners/</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-08-12</guid>
+      <description>La cadena BIP-110 produjo solo 2 bloques tras el split del 8 agosto y quedó inmóvil; el 99,85% del hashrate permaneció en Bitcoin. Los backers planean ahora cambiar el algoritmo PoW para &quot;despedir a los mineros&quot; SHA-256, con dificultad inicial 1 millón de veces más baja. Es la primera propuesta de cambio de PoW en Bitcoin como respuesta a un rechazo minero. Categoría: BIP/Fork</description>
+      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[MEDIA][Técnico] [ACTUALIZACIÓN] Coldcard: pérdidas confirmadas en $130M — laundering limitado; TRM Labs documenta 1.816 BTC robados</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/damage-coldcard-hack-reaches-130-142500652.html</link>
-      <guid isPermaLink="false">coldcard-rng-firmware-bug-exploit-july-2026#upd-2026-08-11</guid>
-      <description>Galaxy Research eleva la cifra a ~$130M (2.055 BTC); TRM Labs confirma 1.816 BTC ($116M) de más de 5.200 direcciones en 4 oleadas. Lavado registrado hasta ahora: 64,9 BTC en Wasabi y 200 ETH en Tornado Cash. Categoría: Core/Release.</description>
-      <pubDate>Tue, 11 Aug 2026 11:07:36 +0000</pubDate>
-      <category>Core/Release</category>
+      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] ETFs spot de Bitcoin: mejor semana desde abril con $853M — luego $144M de salidas el 11 agosto</title>
+      <link>https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk</link>
+      <guid isPermaLink="false">bitcoin-etf-recovery-244m-august-5-2026#upd-2026-08-12</guid>
+      <description>Semana del 4-8 agosto: $853,5M de entradas netas en ETFs spot de BTC, la mejor desde mediados de abril. IBIT (BlackRock) captó el 81% ($693M). El 11 agosto se revirtieron $144,7M, terminando la racha de 5 días de inflows. Categoría: ETF</description>
+      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
+      <category>ETF</category>
     </item>
 
     <item>
-      <title>[MEDIA][Geo] [ACTUALIZACIÓN] CLARITY Act: Senado aprueba cloture el 8 de agosto — voto final pospuesto a septiembre</title>
-      <link>https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month</link>
-      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026#upd-2026-08-11</guid>
-      <description>El plazo del 7 de agosto pasó sin voto, pero el Senado abrió moción de cloture el 8 de agosto. Thune confirmó el voto para septiembre. El proyecto no muere hasta 2027: hay una segunda oportunidad. Categoría: Regulación.</description>
-      <pubDate>Tue, 11 Aug 2026 11:07:36 +0000</pubDate>
+      <title>[MEDIA][Técnico] [ACTUALIZACIÓN] eCash de Sztorc: hard fork confirmado para bloque ~964.000, estimado 21 agosto ~15:00 UTC</title>
+      <link>https://aminagroup.com/research/bitcoin-fork-august-2026-bip-110-ecash-covenants-and-the-quantum-clock/</link>
+      <guid isPermaLink="false">sztorc-ecash-hard-fork-august-2026#upd-2026-08-12</guid>
+      <description>El hard fork eCash de Paul Sztorc tiene fecha tentativa firme: bloque 964.000, ~21 agosto 15:00 UTC. Los holders de BTC recibirán eCash 1:1. La cadena usa SHA-256 con dificultad reseteada al mínimo. Persiste controversia por reasignar ~500.000 monedas vinculadas a Satoshi. Categoría: BIP/Fork</description>
+      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
+      <category>BIP/Fork</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Geo] [ACTUALIZACIÓN] CLARITY Act: Galaxy Research recorta chances al 30%, voto en Senado fijado para el 15 de septiembre</title>
+      <link>https://www.disruptionbanking.com/2026/08/10/clarity-act-news-the-crypto-bill-just-slipped-to-a-september-15-senate-showdown/</link>
+      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026#upd-2026-08-12</guid>
+      <description>El voto de la moción de proceder está previsto para el 15 de septiembre. Galaxy Research rebajó sus odds de aprobación en 2026 de 50% a 30%; Polymarket los ubica cerca del 17%. Siguen sin resolverse las reglas de ética para funcionarios y la división SEC/CFTC. Categoría: Regulación</description>
+      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
       <category>Regulación</category>
     </item>
 
     <item>
-      <title>[MEDIA][Técnico] [ACTUALIZACIÓN] BTCPay ofrece recompensa de 3 BTC (~$190K) por recuperar fondos robados — Foundation y Citadel21 entre las víctimas</title>
-      <link>https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit</link>
-      <guid isPermaLink="false">btcpay-lnd-macaroon-exploit-lightning-august-2026#upd-2026-08-11</guid>
-      <description>BTCPay anuncia bounty del 10% de lo recuperado (máx. 3 BTC, ~$190K). Foundation y Citadel21 confirman pérdidas. Exchanges y analíticas blockchain ayudan a rastrear. Categoría: Lightning.</description>
-      <pubDate>Tue, 11 Aug 2026 11:07:36 +0000</pubDate>
+      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] Strategy CEO anuncia retorno a compras de BTC antes de fin de 2026; holdings superan 840.000 BTC</title>
+      <link>https://www.cryptotimes.io/2026/08/12/michael-saylors-strategy-to-resume-bitcoin-purchases-before-year-end-ceo-says/</link>
+      <guid isPermaLink="false">strategy-btc-sale-below-cost-august-2026#upd-2026-08-12</guid>
+      <description>El CEO Phong Le confirmó en FOX Business que Strategy reanudará compras de Bitcoin antes de fin de año. La empresa compró ~175.000 BTC en 2026 y vendió ~7.000 (25:1 neto comprador). La reserva cash alcanza ~$4.650M para cubrir 2,7 años de obligaciones preferentes. Categoría: Ballenas</description>
+      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
+      <category>Ballenas</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Macro] CPI de julio en EE.UU. supera estimaciones del consenso — sacude expectativas de recorte de tasas de la Fed</title>
+      <link>https://finance.yahoo.com/economy/policy/articles/hot-cpi-print-shakes-fed-123417127.html</link>
+      <guid isPermaLink="false">us-cpi-july-2026-hot-print-fed-rate-expectations</guid>
+      <description>El reporte CPI de julio 2026 superó las estimaciones del consenso (3,4% anual proyectado), endureciendo las apuestas sobre política monetaria de la Fed. La posibilidad de recorte de tasas para fin de año retrocede, presionando a BTC hacia $63.500 con correlación ~84,5% con el S&amp;P 500. Categoría: Macro</description>
+      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
+      <category>Macro</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Técnico] [ACTUALIZACIÓN] BTCPay Server 2.4.2 parchea el exploit crítico de macarones LND</title>
+      <link>https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353</link>
+      <guid isPermaLink="false">btcpay-lnd-macaroon-exploit-lightning-august-2026#upd-2026-08-12</guid>
+      <description>Se lanzó BTCPay Server 2.4.2 que cierra la vulnerabilidad de acceso no autenticado a archivos .macaroon de LND. La actualización regenera macarones automáticamente. El bounty de recuperación (hasta 3 BTC / 10% de lo devuelto) sigue activo. Nodos no actualizados permanecen expuestos. Categoría: Lightning</description>
+      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
       <category>Lightning</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] Ballenas Bitcoin: 90 wallets con +10.000 BTC — máximo de 6 meses; retail vende al ritmo más rápido desde dic. 2024</title>
-      <link>https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show</link>
-      <guid isPermaLink="false">bitcoin-whale-wallets-10k-btc-six-month-high-august-2026</guid>
-      <description>90 wallets con más de 10.000 BTC (máximo de 6 meses, +7,1% en 8 semanas). Wallets medianas acumularon ~$1,5B desde el 29 de julio mientras el retail redujo posiciones. Santiment: esta rotación históricamente precede a movimientos alcistas. Categoría: On-chain.</description>
-      <pubDate>Tue, 11 Aug 2026 11:07:36 +0000</pubDate>
-      <category>On-chain</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Geo] Brasil: espera de 24 horas para transferencias crypto superiores a $10K — Resolución BCB 584, vigente desde enero 2027</title>
-      <link>https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219</link>
-      <guid isPermaLink="false">brazil-bcb-584-24h-delay-crypto-transfers-2027</guid>
-      <description>El banco central de Brasil (Resolución BCB 584, 7 agosto 2026) impone espera de 24h en transferencias crypto superiores a $10K hacia wallets self-custody o exchanges extranjeros. Vigente desde enero 2027. Categoría: Regulación.</description>
-      <pubDate>Tue, 11 Aug 2026 11:07:36 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Geo] Corea del Sur bloquea 17+ exchanges offshore en Google Play — más del 50% de plataformas externas inaccesibles</title>
-      <link>https://cryptoslate.com/south-korea-blocks-17-overseas-crypto-exchange-apps-in-registration-crackdown/</link>
-      <guid isPermaLink="false">south-korea-blocks-17-overseas-crypto-exchanges-google-play-2026</guid>
-      <description>La KFIU bloqueó apps de OKX, Bybit, MEXC, KuCoin, Gemini y BitMEX en Google Play. Solo afecta instalaciones nuevas; los sitios web y App Store no están bloqueados. Corea planea gravar crypto desde enero 2027. Categoría: Regulación.</description>
-      <pubDate>Tue, 11 Aug 2026 11:07:36 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Geo] Robinhood lanza crypto trading en el Reino Unido vía Bitstamp, con comisiones cero y 50+ activos</title>
-      <link>https://www.theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140</link>
-      <guid isPermaLink="false">robinhood-uk-crypto-trading-bitstamp-august-2026</guid>
-      <description>Robinhood (registro FCA del 31 de julio) ofrece BTC, ETH, XRP y más de 50 tokens a usuarios UK sin comisiones, operando a través de Bitstamp UK Ltd. Primera app de inversión mainstream de EE.UU. en entrar al mercado crypto del RU antes del nuevo régimen FCA. Categoría: Regulación.</description>
-      <pubDate>Tue, 11 Aug 2026 11:07:36 +0000</pubDate>
-      <category>Regulación</category>
     </item>
 
   </channel>

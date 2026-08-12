@@ -5,7 +5,7 @@
       "title": "BIP-110 fracasa: Bitcoin se dividió en dos cadenas, la fork quedó 300 bloques atrás y tardará ~6 años en recuperarse",
       "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-11",
+      "last_update": "2026-08-12",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -30,7 +30,8 @@
         "2026-08-08",
         "2026-08-09",
         "2026-08-10",
-        "2026-08-11"
+        "2026-08-11",
+        "2026-08-12"
       ]
     },
     {
@@ -301,9 +302,10 @@
       "url": "https://news.bitcoin.com/drivechain-architect-paul-sztorc-unveils-august-bitcoin-hard-fork-with-11-btc-coin-split/",
       "first_seen": "2026-07-03",
       "updates": [
-        "2026-08-02"
+        "2026-08-02",
+        "2026-08-12"
       ],
-      "last_update": "2026-08-02"
+      "last_update": "2026-08-12"
     },
     {
       "id": "japan-crypto-financial-instrument-fiea-2026",
@@ -803,9 +805,10 @@
       "eje": "Mercado",
       "category": "Ballenas",
       "updates": [
-        "2026-08-10"
+        "2026-08-10",
+        "2026-08-12"
       ],
-      "last_update": "2026-08-10"
+      "last_update": "2026-08-12"
     },
     {
       "id": "clarity-act-senate-vote-deadline-august-7-2026",
@@ -814,11 +817,12 @@
       "first_seen": "2026-08-06",
       "eje": "Geo/Regulación",
       "category": "Regulación",
-      "last_update": "2026-08-11",
+      "last_update": "2026-08-12",
       "updates": [
         "2026-08-07",
         "2026-08-08",
-        "2026-08-11"
+        "2026-08-11",
+        "2026-08-12"
       ]
     },
     {
@@ -828,10 +832,11 @@
       "first_seen": "2026-08-06",
       "eje": "Mercado",
       "category": "ETF",
-      "last_update": "2026-08-08",
+      "last_update": "2026-08-12",
       "updates": [
         "2026-08-07",
-        "2026-08-08"
+        "2026-08-08",
+        "2026-08-12"
       ]
     },
     {
@@ -879,9 +884,10 @@
       "title": "BTCPay ofrece recompensa $190K por fondos robados — Foundation y Citadel21 entre las víctimas",
       "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
       "first_seen": "2026-08-09",
-      "last_update": "2026-08-11",
+      "last_update": "2026-08-12",
       "updates": [
-        "2026-08-11"
+        "2026-08-11",
+        "2026-08-12"
       ]
     },
     {
@@ -928,6 +934,15 @@
       "eje": "Geo/Regulación",
       "category": "Regulación",
       "relevancia": "Baja"
+    },
+    {
+      "id": "us-cpi-july-2026-hot-print-fed-rate-expectations",
+      "title": "CPI de julio en EE.UU. supera estimaciones del consenso — sacude expectativas de recorte de tasas de la Fed",
+      "url": "https://finance.yahoo.com/economy/policy/articles/hot-cpi-print-shakes-fed-123417127.html",
+      "first_seen": "2026-08-12",
+      "eje": "Macro",
+      "category": "Macro",
+      "relevancia": "Media"
     }
   ]
 }
