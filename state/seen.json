@@ -572,7 +572,11 @@
       "id": "russia-crypto-law-duma-july-2026",
       "title": "Rusia aprueba ley que reconoce Bitcoin como propiedad y legaliza uso en comercio exterior",
       "url": "https://www.themoscowtimes.com/2026/07/22/russia-passes-crypto-law-to-legalize-trading-under-tight-central-bank-oversight-a93307",
-      "first_seen": "2026-07-22"
+      "first_seen": "2026-07-22",
+      "updates": [
+        "2026-08-13"
+      ],
+      "last_update": "2026-08-13"
     },
     {
       "id": "bitcoin-lth-supply-ath-1664m-coinglass-july-2026",
@@ -943,6 +947,24 @@
       "eje": "Macro",
       "category": "Macro",
       "relevancia": "Media"
+    },
+    {
+      "id": "sec-regulation-crypto-assets-atkins-august-14-2026",
+      "title": "SEC vota 'Regulation Crypto Assets': primera reglamentación formal bajo Atkins con safe harbor de 4 años para proyectos crypto",
+      "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "us-ppi-july-2026-hot-august-13",
+      "title": "PPI de julio EE.UU. +0,9% mensual vs +0,2% esperado — máximo desde junio 2022, presiona tasas de la Fed",
+      "url": "https://www.xtb.com/en/market-analysis/economic-calendar-us-ppi-jobless-claims-and-fed-speeches-to-bring-more-insight-after-uneventful-cpi-13-08-2026",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "metaplanet-5014-btc-custody-transfer-august-2026",
+      "title": "Metaplanet CEO confirma que movimiento de 5.014 BTC fue transferencia de custodia interna, no una venta",
+      "url": "https://www.cryptotimes.io/2026/08/13/metaplanet-moves-5014-btc-for-8-in-fees-ceo-says-no-bitcoin-sold/",
+      "first_seen": "2026-08-13"
     }
   ]
 }

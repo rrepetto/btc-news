@@ -5,69 +5,42 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 12 Aug 2026 11:08:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:12:29 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] [ACTUALIZACIÓN] BIP-110: backers proponen cambio de PoW para rescatar cadena minoritaria congelada</title>
-      <link>https://news.bitcoin.com/crypto-news/bip-110-backers-plot-minority-chains-pow-reset-to-fire-bitcoin-miners/</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-08-12</guid>
-      <description>La cadena BIP-110 produjo solo 2 bloques tras el split del 8 agosto y quedó inmóvil; el 99,85% del hashrate permaneció en Bitcoin. Los backers planean ahora cambiar el algoritmo PoW para &quot;despedir a los mineros&quot; SHA-256, con dificultad inicial 1 millón de veces más baja. Es la primera propuesta de cambio de PoW en Bitcoin como respuesta a un rechazo minero. Categoría: BIP/Fork</description>
-      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
-      <category>BIP/Fork</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] ETFs spot de Bitcoin: mejor semana desde abril con $853M — luego $144M de salidas el 11 agosto</title>
-      <link>https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk</link>
-      <guid isPermaLink="false">bitcoin-etf-recovery-244m-august-5-2026#upd-2026-08-12</guid>
-      <description>Semana del 4-8 agosto: $853,5M de entradas netas en ETFs spot de BTC, la mejor desde mediados de abril. IBIT (BlackRock) captó el 81% ($693M). El 11 agosto se revirtieron $144,7M, terminando la racha de 5 días de inflows. Categoría: ETF</description>
-      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Técnico] [ACTUALIZACIÓN] eCash de Sztorc: hard fork confirmado para bloque ~964.000, estimado 21 agosto ~15:00 UTC</title>
-      <link>https://aminagroup.com/research/bitcoin-fork-august-2026-bip-110-ecash-covenants-and-the-quantum-clock/</link>
-      <guid isPermaLink="false">sztorc-ecash-hard-fork-august-2026#upd-2026-08-12</guid>
-      <description>El hard fork eCash de Paul Sztorc tiene fecha tentativa firme: bloque 964.000, ~21 agosto 15:00 UTC. Los holders de BTC recibirán eCash 1:1. La cadena usa SHA-256 con dificultad reseteada al mínimo. Persiste controversia por reasignar ~500.000 monedas vinculadas a Satoshi. Categoría: BIP/Fork</description>
-      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
-      <category>BIP/Fork</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Geo] [ACTUALIZACIÓN] CLARITY Act: Galaxy Research recorta chances al 30%, voto en Senado fijado para el 15 de septiembre</title>
-      <link>https://www.disruptionbanking.com/2026/08/10/clarity-act-news-the-crypto-bill-just-slipped-to-a-september-15-senate-showdown/</link>
-      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026#upd-2026-08-12</guid>
-      <description>El voto de la moción de proceder está previsto para el 15 de septiembre. Galaxy Research rebajó sus odds de aprobación en 2026 de 50% a 30%; Polymarket los ubica cerca del 17%. Siguen sin resolverse las reglas de ética para funcionarios y la división SEC/CFTC. Categoría: Regulación</description>
-      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
+      <title>[ALTA][Geo/Regulación] SEC vota "Regulation Crypto Assets": primera reglamentación formal bajo Atkins con safe harbor de 4 años</title>
+      <link>https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings</link>
+      <guid isPermaLink="false">sec-regulation-crypto-assets-atkins-august-14-2026</guid>
+      <description>La SEC convocó para el 14 de agosto su primera reunión abierta bajo Atkins para votar si propone nuevas reglas de oferta de activos digitales. "Regulation Crypto Assets" crearía un safe harbor de hasta 4 años para proyectos antes de cumplir requisitos de valores. Primera reglamentación crypto formal de la era Atkins. Categoría: Regulación.</description>
+      <pubDate>Thu, 13 Aug 2026 11:12:29 +0000</pubDate>
       <category>Regulación</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] Strategy CEO anuncia retorno a compras de BTC antes de fin de 2026; holdings superan 840.000 BTC</title>
-      <link>https://www.cryptotimes.io/2026/08/12/michael-saylors-strategy-to-resume-bitcoin-purchases-before-year-end-ceo-says/</link>
-      <guid isPermaLink="false">strategy-btc-sale-below-cost-august-2026#upd-2026-08-12</guid>
-      <description>El CEO Phong Le confirmó en FOX Business que Strategy reanudará compras de Bitcoin antes de fin de año. La empresa compró ~175.000 BTC en 2026 y vendió ~7.000 (25:1 neto comprador). La reserva cash alcanza ~$4.650M para cubrir 2,7 años de obligaciones preferentes. Categoría: Ballenas</description>
-      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
-      <category>Ballenas</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Macro] CPI de julio en EE.UU. supera estimaciones del consenso — sacude expectativas de recorte de tasas de la Fed</title>
-      <link>https://finance.yahoo.com/economy/policy/articles/hot-cpi-print-shakes-fed-123417127.html</link>
-      <guid isPermaLink="false">us-cpi-july-2026-hot-print-fed-rate-expectations</guid>
-      <description>El reporte CPI de julio 2026 superó las estimaciones del consenso (3,4% anual proyectado), endureciendo las apuestas sobre política monetaria de la Fed. La posibilidad de recorte de tasas para fin de año retrocede, presionando a BTC hacia $63.500 con correlación ~84,5% con el S&amp;P 500. Categoría: Macro</description>
-      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
+      <title>[ALTA][Macro] PPI julio EE.UU. +0,9% mensual vs +0,2% esperado — máximo desde junio 2022, presiona tasas Fed</title>
+      <link>https://www.xtb.com/en/market-analysis/economic-calendar-us-ppi-jobless-claims-and-fed-speeches-to-bring-more-insight-after-uneventful-cpi-13-08-2026</link>
+      <guid isPermaLink="false">us-ppi-july-2026-hot-august-13</guid>
+      <description>El PPI de julio resultó muy por encima del consenso: +0,9% mensual (vs +0,2% esperado), +3,3% interanual (vs +2,5%). Mayor suba mensual en 4 años. Complica el escenario de recorte de tasas de la Fed para septiembre; Bitcoin operaba cerca de $63.400. Categoría: Macro.</description>
+      <pubDate>Thu, 13 Aug 2026 11:12:29 +0000</pubDate>
       <category>Macro</category>
     </item>
 
     <item>
-      <title>[BAJA][Técnico] [ACTUALIZACIÓN] BTCPay Server 2.4.2 parchea el exploit crítico de macarones LND</title>
-      <link>https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353</link>
-      <guid isPermaLink="false">btcpay-lnd-macaroon-exploit-lightning-august-2026#upd-2026-08-12</guid>
-      <description>Se lanzó BTCPay Server 2.4.2 que cierra la vulnerabilidad de acceso no autenticado a archivos .macaroon de LND. La actualización regenera macarones automáticamente. El bounty de recuperación (hasta 3 BTC / 10% de lo devuelto) sigue activo. Nodos no actualizados permanecen expuestos. Categoría: Lightning</description>
-      <pubDate>Wed, 12 Aug 2026 11:08:43 +0000</pubDate>
-      <category>Lightning</category>
+      <title>[MEDIA][Geo/Regulación] [ACTUALIZACIÓN] Rusia: Putin firma Ley 282-FZ y Banco de Rusia autoriza BTC/ETH/USDT para minoristas con techo de ~$3.650/año</title>
+      <link>https://www.themoscowtimes.com/2026/08/11/russias-central-bank-proposes-framework-for-publicly-trading-major-cryptocurrencies-a93460</link>
+      <guid isPermaLink="false">russia-crypto-law-duma-july-2026#upd-2026-08-13</guid>
+      <description>Putin firmó el 4 agosto la Ley 282-FZ. El Banco de Rusia publicó el 11 agosto directiva que limita a minoristas a BTC, ETH y USDT con tope de 300.000 rublos (~$3.645) anuales por intermediario. Desde el 1° septiembre todos deberán pasar test de idoneidad. Categoría: Regulación.</description>
+      <pubDate>Thu, 13 Aug 2026 11:12:29 +0000</pubDate>
+      <category>Regulación</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Mercado] Metaplanet: CEO confirma que movimiento de 5.014 BTC fue transferencia de custodia interna</title>
+      <link>https://www.cryptotimes.io/2026/08/13/metaplanet-moves-5014-btc-for-8-in-fees-ceo-says-no-bitcoin-sold/</link>
+      <guid isPermaLink="false">metaplanet-5014-btc-custody-transfer-august-2026</guid>
+      <description>CEO Simon Gerovich confirmó que el movimiento de 5.014 BTC ($322M) fue un traslado rutinario de custodia interna (comisión: $8). Holdings en 43.000 BTC; aún necesita ~57.000 BTC para llegar a 100.000 BTC antes de fin de 2026. Categoría: Ballenas.</description>
+      <pubDate>Thu, 13 Aug 2026 11:12:29 +0000</pubDate>
+      <category>Ballenas</category>
     </item>
 
   </channel>
