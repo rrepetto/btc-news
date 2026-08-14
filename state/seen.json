@@ -950,9 +950,13 @@
     },
     {
       "id": "sec-regulation-crypto-assets-atkins-august-14-2026",
-      "title": "SEC vota 'Regulation Crypto Assets': primera reglamentación formal bajo Atkins con safe harbor de 4 años para proyectos crypto",
-      "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
-      "first_seen": "2026-08-13"
+      "title": "SEC cancela reunión de 'Regulation Crypto' sin nueva fecha — ambos carriles regulatorios crypto en EE.UU. quedan paralizados",
+      "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+      "first_seen": "2026-08-13",
+      "last_update": "2026-08-14",
+      "updates": [
+        "2026-08-14"
+      ]
     },
     {
       "id": "us-ppi-july-2026-hot-august-13",
@@ -965,6 +969,15 @@
       "title": "Metaplanet CEO confirma que movimiento de 5.014 BTC fue transferencia de custodia interna, no una venta",
       "url": "https://www.cryptotimes.io/2026/08/13/metaplanet-moves-5014-btc-for-8-in-fees-ceo-says-no-bitcoin-sold/",
       "first_seen": "2026-08-13"
+    },
+    {
+      "id": "jpmorgan-13f-q2-2026-ibit-stake-355m",
+      "title": "JPMorgan 13F Q2 2026: duplica stake en IBIT a $355.7M y añade ETH ETF y XRP",
+      "url": "https://news.bitcoin.com/bitcoin-etf/jpmorgan-bitcoin-etf-stake-356-million-xrp/",
+      "first_seen": "2026-08-14",
+      "eje": "Mercado",
+      "category": "Ballenas",
+      "relevancia": "Media"
     }
   ]
 }
