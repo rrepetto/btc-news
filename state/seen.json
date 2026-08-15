@@ -794,11 +794,12 @@
       "first_seen": "2026-08-06",
       "eje": "Técnico",
       "category": "BIP/Fork",
-      "last_update": "2026-08-09",
+      "last_update": "2026-08-15",
       "updates": [
         "2026-08-07",
         "2026-08-08",
-        "2026-08-09"
+        "2026-08-09",
+        "2026-08-15"
       ]
     },
     {
@@ -821,12 +822,13 @@
       "first_seen": "2026-08-06",
       "eje": "Geo/Regulación",
       "category": "Regulación",
-      "last_update": "2026-08-12",
+      "last_update": "2026-08-15",
       "updates": [
         "2026-08-07",
         "2026-08-08",
         "2026-08-11",
-        "2026-08-12"
+        "2026-08-12",
+        "2026-08-15"
       ]
     },
     {
@@ -978,6 +980,18 @@
       "eje": "Mercado",
       "category": "Ballenas",
       "relevancia": "Media"
+    },
+    {
+      "id": "ecash-hard-fork-sztorc-block-964000-august-2026",
+      "title": "eCash hard fork de Paul Sztorc — bloque 964.000 (~21 agosto)",
+      "url": "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
+      "first_seen": "2026-08-15"
+    },
+    {
+      "id": "bitcoin-etf-outflows-131m-57m-august-13-14-2026",
+      "title": "ETF spot BTC: $188.7M de salidas netas en dos días (13-14 agosto) tras semana récord",
+      "url": "https://cryptorank.io/news/feed/d8f5c-bitcoin-etf-outflows-august-13",
+      "first_seen": "2026-08-15"
     }
   ]
 }

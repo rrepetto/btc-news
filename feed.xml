@@ -5,22 +5,43 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 14 Aug 2026 11:17:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 11:06:41 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Geo/Regulación] [ACTUALIZACIÓN] SEC cancela reunión de "Regulation Crypto" sin nueva fecha — ambos carriles regulatorios crypto en EE.UU. quedan paralizados</title>
-      <link>https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date</link>
-      <guid isPermaLink="false">sec-regulation-crypto-assets-atkins-august-14-2026#upd-2026-08-14</guid>
-      <description>La SEC canceló sin nueva fecha la reunión del 14 agosto donde iba a votar la propuesta "Regulation Crypto" (safe harbor de 4 años para proyectos crypto). Razón oficial: problema imprevisto de agenda, contexto: el Senado entró a receso sin votar el CLARITY Act (30% de chances per Galaxy Research, voto previsto 15 sept). Ambos carriles regulatorios crypto en EE.UU. quedan simultáneamente paralizados. Categoría: Regulación. [ACTUALIZACIÓN: voto cancelado vs. anuncio previo del 13 ago de que el voto era inminente]</description>
-      <pubDate>Fri, 14 Aug 2026 11:17:01 +0000</pubDate>
+      <title>[ALTA][Técnico] [ACTUALIZACIÓN] BIP-110 definitivamente muerto — cadena minoritaria se detuvo en 2 bloques</title>
+      <link>https://crypto.news/bip-110-bitcoin-fork-failed-governance-2026/</link>
+      <guid isPermaLink="false">bip110-mandatory-signaling-window-august-2026#upd-2026-08-15</guid>
+      <description>El 8 de agosto, los nodos BIP-110 rechazaron el bloque 961.632 y construyeron una cadena alternativa que produjo apenas 2 bloques antes de estancarse. Con solo 2.53% del hashrate (vs. umbral de 55%), la cadena heredó la dificultad completa del mainnet y su próximo ajuste se estimó en ~350 días. La mainnet lleva 26+ bloques de ventaja; el soft fork antiinscripciones queda como experimento fallido. Categoría: BIP/Fork.</description>
+      <pubDate>Sat, 15 Aug 2026 11:06:41 +0000</pubDate>
+      <category>BIP/Fork</category>
+    </item>
+
+    <item>
+      <title>[ALTA][Técnico] eCash hard fork de Paul Sztorc — bloque 964.000 (~21 agosto)</title>
+      <link>https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft</link>
+      <guid isPermaLink="false">ecash-hard-fork-sztorc-block-964000-august-2026</guid>
+      <description>Hard fork inminente al bloque 964.000 (~21 agosto, ~15:00 UTC): activa Drivechain, resetea dificultad a mínimo y entrega a holders de BTC un balance 1:1 en la nueva cadena eCash. Punto más controvertido: reasigna ~500.000 monedas dormidas vinculadas a Satoshi en eCash (no toca el BTC original). La comunidad lo describe como "robo". Categoría: BIP/Fork.</description>
+      <pubDate>Sat, 15 Aug 2026 11:06:41 +0000</pubDate>
+      <category>BIP/Fork</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] ETF spot BTC: $188.7M de salidas netas en dos días tras semana récord</title>
+      <link>https://cryptorank.io/news/feed/d8f5c-bitcoin-etf-outflows-august-13</link>
+      <guid isPermaLink="false">bitcoin-etf-outflows-131m-57m-august-13-14-2026</guid>
+      <description>Tras una semana de $853M en entradas netas, los ETFs spot de BTC registraron $131.1M de salidas el 13/ago (ARKB -$58.8M, FBTC -$55.1M) y $57.6M adicionales el 14/ago (IBIT -$55.5M). Ruptura de la racha positiva, coincidiendo con datos de inflación que sacudieron expectativas de recorte de tasas. Categoría: ETF.</description>
+      <pubDate>Sat, 15 Aug 2026 11:06:41 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Geo] [ACTUALIZACIÓN] CLARITY Act: voto procedural agendado para el 15 de septiembre — demócratas se bajan</title>
+      <link>https://bitcoinfoundation.org/news/regulation/congress-crypto-bill-delay-clarity-act-vote-pushed-to-september-as-2026-passage-hopes-fade/</link>
+      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026#upd-2026-08-15</guid>
+      <description>Tras fallar el deadline de agosto, Thune agendó voto procedural para el 15 de septiembre. Los demócratas están "ghosting" activamente a la industria crypto. Necesita 60 votos; aprobación en 2026 muy incierta. Si falla en septiembre, pasaría a 2027. Categoría: Regulación.</description>
+      <pubDate>Sat, 15 Aug 2026 11:06:41 +0000</pubDate>
       <category>Regulación</category>
     </item>
-    <item>
-      <title>[MEDIA][Mercado] JPMorgan 13F Q2 2026: duplica stake en IBIT a $355.7M y añade ETH ETF y XRP</title>
-      <link>https://news.bitcoin.com/bitcoin-etf/jpmorgan-bitcoin-etf-stake-356-million-xrp/</link>
-      <guid isPermaLink="false">jpmorgan-13f-q2-2026-ibit-stake-355m</guid>
-      <description>El 13F-HR de JPMorgan Chase (presentado el 12 ago ante la SEC) muestra que el banco duplicó su exposición al IBIT de BlackRock: de ~$162M en Q1 a $355.7M en Q2 (10,4M acciones). El stake en ETHA creció 338% a $14,3M; retomó XRP vía Bitwise y Grayscale. Contrasta con las salidas retail de agosto: el movimiento es al 30 de junio. Categoría: Ballenas.</description>
-      <pubDate>Fri, 14 Aug 2026 11:17:01 +0000</pubDate>
-      <category>Ballenas</category>
-    </item>
+
   </channel>
 </rss>
