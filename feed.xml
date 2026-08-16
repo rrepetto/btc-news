@@ -5,43 +5,38 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 15 Aug 2026 11:06:41 +0000</lastBuildDate>
-
+    <lastBuildDate>Sun, 16 Aug 2026 11:09:57 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][Técnico] [ACTUALIZACIÓN] BIP-110 definitivamente muerto — cadena minoritaria se detuvo en 2 bloques</title>
-      <link>https://crypto.news/bip-110-bitcoin-fork-failed-governance-2026/</link>
-      <guid isPermaLink="false">bip110-mandatory-signaling-window-august-2026#upd-2026-08-15</guid>
-      <description>El 8 de agosto, los nodos BIP-110 rechazaron el bloque 961.632 y construyeron una cadena alternativa que produjo apenas 2 bloques antes de estancarse. Con solo 2.53% del hashrate (vs. umbral de 55%), la cadena heredó la dificultad completa del mainnet y su próximo ajuste se estimó en ~350 días. La mainnet lleva 26+ bloques de ventaja; el soft fork antiinscripciones queda como experimento fallido. Categoría: BIP/Fork.</description>
-      <pubDate>Sat, 15 Aug 2026 11:06:41 +0000</pubDate>
-      <category>BIP/Fork</category>
+      <title>[ALTA][Geo] Trump convoca cumbre crypto en la Casa Blanca el 19 agosto — CLARITY Act con 10% de chances en Polymarket</title>
+      <link>https://news.bitcoin.com/crypto-news/white-house-crypto-meeting-trump-coinbase-ripple-august-19/</link>
+      <guid isPermaLink="false">trump-white-house-crypto-summit-august-19-2026</guid>
+      <description>El presidente Trump recibirá el 19 de agosto a los CEOs de Coinbase, Ripple, Kraken, Gemini, Polymarket y Kalshi junto al secretario del Tesoro, Comercio, SEC Chair Atkins y CFTC. La reunión precede a la primera sesión del Comité Asesor de Innovación del CFTC el 20 agosto. Las probabilidades de aprobación de la CLARITY Act en 2026 colapsaron al 10% en Polymarket. Categoría: Geopolítica</description>
+      <pubDate>Sun, 16 Aug 2026 11:09:57 +0000</pubDate>
+      <category>Geopolítica</category>
     </item>
-
     <item>
-      <title>[ALTA][Técnico] eCash hard fork de Paul Sztorc — bloque 964.000 (~21 agosto)</title>
-      <link>https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft</link>
-      <guid isPermaLink="false">ecash-hard-fork-sztorc-block-964000-august-2026</guid>
-      <description>Hard fork inminente al bloque 964.000 (~21 agosto, ~15:00 UTC): activa Drivechain, resetea dificultad a mínimo y entrega a holders de BTC un balance 1:1 en la nueva cadena eCash. Punto más controvertido: reasigna ~500.000 monedas dormidas vinculadas a Satoshi en eCash (no toca el BTC original). La comunidad lo describe como "robo". Categoría: BIP/Fork.</description>
-      <pubDate>Sat, 15 Aug 2026 11:06:41 +0000</pubDate>
-      <category>BIP/Fork</category>
+      <title>[MEDIA][Mercado] MSCI reabre revisión de Strategy (MSTR) y Metaplanet: podrían ser excluidas de sus índices globales</title>
+      <link>https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal</link>
+      <guid isPermaLink="false">msci-strategy-mstr-index-exclusion-review-august-2026</guid>
+      <description>El 14 de agosto MSCI lanzó consulta pública sobre una regla que excluiría de sus índices a empresas con activo operativo menor al 50% del activo total. Afectaría a Strategy (MSTR) y Metaplanet. TD Cowen estima $1.8B-$2.5B del market cap de MSTR ligado a inclusión en MSCI. Decisión final el 16 de octubre. Strategy respondió: "Bitcoin doesn&apos;t need MSCI". Categoría: Ballenas</description>
+      <pubDate>Sun, 16 Aug 2026 11:09:57 +0000</pubDate>
+      <category>Ballenas</category>
     </item>
-
     <item>
-      <title>[MEDIA][Mercado] ETF spot BTC: $188.7M de salidas netas en dos días tras semana récord</title>
-      <link>https://cryptorank.io/news/feed/d8f5c-bitcoin-etf-outflows-august-13</link>
-      <guid isPermaLink="false">bitcoin-etf-outflows-131m-57m-august-13-14-2026</guid>
-      <description>Tras una semana de $853M en entradas netas, los ETFs spot de BTC registraron $131.1M de salidas el 13/ago (ARKB -$58.8M, FBTC -$55.1M) y $57.6M adicionales el 14/ago (IBIT -$55.5M). Ruptura de la racha positiva, coincidiendo con datos de inflación que sacudieron expectativas de recorte de tasas. Categoría: ETF.</description>
-      <pubDate>Sat, 15 Aug 2026 11:06:41 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Geo] [ACTUALIZACIÓN] CLARITY Act: voto procedural agendado para el 15 de septiembre — demócratas se bajan</title>
-      <link>https://bitcoinfoundation.org/news/regulation/congress-crypto-bill-delay-clarity-act-vote-pushed-to-september-as-2026-passage-hopes-fade/</link>
-      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026#upd-2026-08-15</guid>
-      <description>Tras fallar el deadline de agosto, Thune agendó voto procedural para el 15 de septiembre. Los demócratas están "ghosting" activamente a la industria crypto. Necesita 60 votos; aprobación en 2026 muy incierta. Si falla en septiembre, pasaría a 2027. Categoría: Regulación.</description>
-      <pubDate>Sat, 15 Aug 2026 11:06:41 +0000</pubDate>
+      <title>[MEDIA][Geo] Binance bloquea transacciones con HTX y 15 plataformas crypto por sanciones EU/EE.UU./UK</title>
+      <link>https://www.theblock.co/news/regulation/2026-08-14-binance-block-transactions-htx-10-other-exchanges-eu-russia-sanctions-411858</link>
+      <guid isPermaLink="false">binance-blocks-htx-15-platforms-eu-russia-sanctions-2026</guid>
+      <description>Desde el 7 de agosto Binance bloquea en fases transacciones con 16 entidades sancionadas por la UE, EE.UU. y UK en el marco de sanciones contra Rusia. HTX y EXMO quedan bloqueadas el 23 de agosto. Volumen de HTX cayó de $5B a $572M. Categoría: Regulación</description>
+      <pubDate>Sun, 16 Aug 2026 11:09:57 +0000</pubDate>
       <category>Regulación</category>
     </item>
-
+    <item>
+      <title>[BAJA][Mercado] [ACTUALIZACIÓN] ETF spot BTC: tercer día de salidas el 15 agosto, peor semana en 6 semanas (~$390M netos)</title>
+      <link>https://www.cryptotimes.io/2026/08/15/bitcoin-etfs-lose-390m-as-solana-funds-buck-broader-crypto-outflows/</link>
+      <guid isPermaLink="false">bitcoin-etf-outflows-131m-57m-august-13-14-2026#upd-2026-08-16</guid>
+      <description>Las salidas de ETFs spot de Bitcoin se extendieron a un tercer día consecutivo el 15 agosto, elevando el total semanal a ~$390M, el mayor retiro semanal en seis semanas. Los ETFs de Solana registraron sus mayores entradas desde mayo, apuntando a rotación. Categoría: ETF</description>
+      <pubDate>Sun, 16 Aug 2026 11:09:57 +0000</pubDate>
+      <category>ETF</category>
+    </item>
   </channel>
 </rss>

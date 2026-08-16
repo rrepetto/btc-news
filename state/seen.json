@@ -991,7 +991,38 @@
       "id": "bitcoin-etf-outflows-131m-57m-august-13-14-2026",
       "title": "ETF spot BTC: $188.7M de salidas netas en dos días (13-14 agosto) tras semana récord",
       "url": "https://cryptorank.io/news/feed/d8f5c-bitcoin-etf-outflows-august-13",
-      "first_seen": "2026-08-15"
+      "first_seen": "2026-08-15",
+      "last_update": "2026-08-16",
+      "updates": [
+        "2026-08-16"
+      ]
+    },
+    {
+      "id": "trump-white-house-crypto-summit-august-19-2026",
+      "title": "Trump convoca cumbre crypto en la Casa Blanca el 19 agosto — CLARITY Act con 10% de chances en Polymarket",
+      "url": "https://news.bitcoin.com/crypto-news/white-house-crypto-meeting-trump-coinbase-ripple-august-19/",
+      "first_seen": "2026-08-16",
+      "eje": "Geo/Regulación",
+      "category": "Geopolítica",
+      "relevancia": "Alta"
+    },
+    {
+      "id": "msci-strategy-mstr-index-exclusion-review-august-2026",
+      "title": "MSCI reabre revisión de Strategy (MSTR) y Metaplanet: podrían ser excluidas de sus índices globales",
+      "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
+      "first_seen": "2026-08-16",
+      "eje": "Mercado",
+      "category": "Ballenas",
+      "relevancia": "Media"
+    },
+    {
+      "id": "binance-blocks-htx-15-platforms-eu-russia-sanctions-2026",
+      "title": "Binance bloquea transacciones con HTX y 15 plataformas crypto por sanciones EU/EE.UU./UK",
+      "url": "https://www.theblock.co/news/regulation/2026-08-14-binance-block-transactions-htx-10-other-exchanges-eu-russia-sanctions-411858",
+      "first_seen": "2026-08-16",
+      "eje": "Geo/Regulación",
+      "category": "Regulación",
+      "relevancia": "Media"
     }
   ]
 }
