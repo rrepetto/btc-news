@@ -780,9 +780,13 @@
     },
     {
       "id": "hashdex-defi-etf-closure-august-2026",
-      "title": "Hashdex cierra el primer ETF spot de Bitcoin en EE.UU. (DEFI, $14.7M AUM) — trading termina el 17 de agosto",
+      "title": "Hashdex DEFI ETF: último día de trading el 17 agosto — primer cierre de un ETF spot BTC en EE.UU.; liquidación el 28 agosto",
       "url": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
       "first_seen": "2026-08-05",
+      "last_update": "2026-08-17",
+      "updates": [
+        "2026-08-17"
+      ],
       "eje": "Mercado",
       "category": "ETF",
       "relevancia": "Media"
@@ -817,18 +821,19 @@
     },
     {
       "id": "clarity-act-senate-vote-deadline-august-7-2026",
-      "title": "CLARITY Act: Senado aprueba cloture el 8 agosto — voto final pospuesto a septiembre",
+      "title": "CLARITY Act: Senado aprueba cloture el 8 agosto — voto formal fijado para 15 de septiembre; Polymarket al 16%",
       "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
       "first_seen": "2026-08-06",
       "eje": "Geo/Regulación",
       "category": "Regulación",
-      "last_update": "2026-08-15",
+      "last_update": "2026-08-17",
       "updates": [
         "2026-08-07",
         "2026-08-08",
         "2026-08-11",
         "2026-08-12",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-17"
       ]
     },
     {
@@ -992,16 +997,21 @@
       "title": "ETF spot BTC: $188.7M de salidas netas en dos días (13-14 agosto) tras semana récord",
       "url": "https://cryptorank.io/news/feed/d8f5c-bitcoin-etf-outflows-august-13",
       "first_seen": "2026-08-15",
-      "last_update": "2026-08-16",
+      "last_update": "2026-08-17",
       "updates": [
-        "2026-08-16"
+        "2026-08-16",
+        "2026-08-17"
       ]
     },
     {
       "id": "trump-white-house-crypto-summit-august-19-2026",
-      "title": "Trump convoca cumbre crypto en la Casa Blanca el 19 agosto — CLARITY Act con 10% de chances en Polymarket",
+      "title": "Trump convoca cumbre crypto en la Casa Blanca el 19 agosto — lista completa: SEC, CFTC, Treasury, Coinbase, Ripple, Gemini, NYSE, Nasdaq, a16z",
       "url": "https://news.bitcoin.com/crypto-news/white-house-crypto-meeting-trump-coinbase-ripple-august-19/",
       "first_seen": "2026-08-16",
+      "last_update": "2026-08-17",
+      "updates": [
+        "2026-08-17"
+      ],
       "eje": "Geo/Regulación",
       "category": "Geopolítica",
       "relevancia": "Alta"
@@ -1011,6 +1021,15 @@
       "title": "MSCI reabre revisión de Strategy (MSTR) y Metaplanet: podrían ser excluidas de sus índices globales",
       "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
       "first_seen": "2026-08-16",
+      "eje": "Mercado",
+      "category": "Ballenas",
+      "relevancia": "Media"
+    },
+    {
+      "id": "tudor-ubs-ibit-13f-q2-2026",
+      "title": "Tudor Investment y UBS revelan posiciones IBIT vía 13F Q2 2026: Tudor $22.9M (+109K acciones), UBS $90M (+230%)",
+      "url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
+      "first_seen": "2026-08-17",
       "eje": "Mercado",
       "category": "Ballenas",
       "relevancia": "Media"

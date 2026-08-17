@@ -5,38 +5,52 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 16 Aug 2026 11:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 11:15:14 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Geo] Trump convoca cumbre crypto en la Casa Blanca el 19 agosto — CLARITY Act con 10% de chances en Polymarket</title>
-      <link>https://news.bitcoin.com/crypto-news/white-house-crypto-meeting-trump-coinbase-ripple-august-19/</link>
-      <guid isPermaLink="false">trump-white-house-crypto-summit-august-19-2026</guid>
-      <description>El presidente Trump recibirá el 19 de agosto a los CEOs de Coinbase, Ripple, Kraken, Gemini, Polymarket y Kalshi junto al secretario del Tesoro, Comercio, SEC Chair Atkins y CFTC. La reunión precede a la primera sesión del Comité Asesor de Innovación del CFTC el 20 agosto. Las probabilidades de aprobación de la CLARITY Act en 2026 colapsaron al 10% en Polymarket. Categoría: Geopolítica</description>
-      <pubDate>Sun, 16 Aug 2026 11:09:57 +0000</pubDate>
+      <title>[ALTA][Geo] [ACTUALIZACIÓN] Cumbre crypto Casa Blanca (19 agosto): lista completa confirmada — SEC, CFTC, Treasury, Coinbase, Ripple, Gemini, NYSE, Nasdaq, a16z</title>
+      <link>https://www.forbes.com/sites/digital-assets/2026/08/16/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/</link>
+      <guid isPermaLink="false">trump-white-house-crypto-summit-august-19-2026#upd-2026-08-17</guid>
+      <description>Trump presidirá el encuentro en el Edificio Eisenhower el 19 agosto; SEC Chair Atkins y CFTC Chair Selig confirmados, más Treasury Sec. Bessent y Commerce Sec. Lutnick; empresas: Coinbase, Ripple, Kraken, Gemini, Robinhood, Polymarket, Kalshi, a16z, Chainlink, Paradigm, Digital Chamber, NYSE y Nasdaq. Precede al primer IAC del CFTC el 20 agosto. Categoría: Geopolítica.</description>
+      <pubDate>Mon, 17 Aug 2026 11:15:14 +0000</pubDate>
       <category>Geopolítica</category>
     </item>
+
     <item>
-      <title>[MEDIA][Mercado] MSCI reabre revisión de Strategy (MSTR) y Metaplanet: podrían ser excluidas de sus índices globales</title>
-      <link>https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal</link>
-      <guid isPermaLink="false">msci-strategy-mstr-index-exclusion-review-august-2026</guid>
-      <description>El 14 de agosto MSCI lanzó consulta pública sobre una regla que excluiría de sus índices a empresas con activo operativo menor al 50% del activo total. Afectaría a Strategy (MSTR) y Metaplanet. TD Cowen estima $1.8B-$2.5B del market cap de MSTR ligado a inclusión en MSCI. Decisión final el 16 de octubre. Strategy respondió: "Bitcoin doesn&apos;t need MSCI". Categoría: Ballenas</description>
-      <pubDate>Sun, 16 Aug 2026 11:09:57 +0000</pubDate>
+      <title>[MEDIA][Mercado] Tudor Investment y UBS revelan posiciones IBIT vía 13F Q2 2026</title>
+      <link>https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling</link>
+      <guid isPermaLink="false">tudor-ubs-ibit-13f-q2-2026</guid>
+      <description>Tudor Investment (Paul Tudor Jones) aumentó a 688.529 acciones de IBIT ($22,9M), sumando 109K acciones y reduciendo calls un 85%. UBS Group tiene $90M en IBIT (+230% desde fin 2025), vía cuentas de wealth management. Contrasta con los outflows en ETFs retail. Categoría: Ballenas.</description>
+      <pubDate>Mon, 17 Aug 2026 11:15:14 +0000</pubDate>
       <category>Ballenas</category>
     </item>
+
     <item>
-      <title>[MEDIA][Geo] Binance bloquea transacciones con HTX y 15 plataformas crypto por sanciones EU/EE.UU./UK</title>
-      <link>https://www.theblock.co/news/regulation/2026-08-14-binance-block-transactions-htx-10-other-exchanges-eu-russia-sanctions-411858</link>
-      <guid isPermaLink="false">binance-blocks-htx-15-platforms-eu-russia-sanctions-2026</guid>
-      <description>Desde el 7 de agosto Binance bloquea en fases transacciones con 16 entidades sancionadas por la UE, EE.UU. y UK en el marco de sanciones contra Rusia. HTX y EXMO quedan bloqueadas el 23 de agosto. Volumen de HTX cayó de $5B a $572M. Categoría: Regulación</description>
-      <pubDate>Sun, 16 Aug 2026 11:09:57 +0000</pubDate>
+      <title>[MEDIA][Regulación] [ACTUALIZACIÓN] CLARITY Act: voto formal del Senado fijado para el 15 de septiembre</title>
+      <link>https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month</link>
+      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026#upd-2026-08-17</guid>
+      <description>Majority Leader Thune presentó moción de clotura antes del receso, bloqueando la fecha del 15 de septiembre para el voto de procedimiento. Polymarket ubica las chances de aprobación en solo 16% (baja desde 25%). Si no pasa en septiembre, la ventana para 2026 se cierra. Categoría: Regulación.</description>
+      <pubDate>Mon, 17 Aug 2026 11:15:14 +0000</pubDate>
       <category>Regulación</category>
     </item>
+
     <item>
-      <title>[BAJA][Mercado] [ACTUALIZACIÓN] ETF spot BTC: tercer día de salidas el 15 agosto, peor semana en 6 semanas (~$390M netos)</title>
-      <link>https://www.cryptotimes.io/2026/08/15/bitcoin-etfs-lose-390m-as-solana-funds-buck-broader-crypto-outflows/</link>
-      <guid isPermaLink="false">bitcoin-etf-outflows-131m-57m-august-13-14-2026#upd-2026-08-16</guid>
-      <description>Las salidas de ETFs spot de Bitcoin se extendieron a un tercer día consecutivo el 15 agosto, elevando el total semanal a ~$390M, el mayor retiro semanal en seis semanas. Los ETFs de Solana registraron sus mayores entradas desde mayo, apuntando a rotación. Categoría: ETF</description>
-      <pubDate>Sun, 16 Aug 2026 11:09:57 +0000</pubDate>
+      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] Hashdex DEFI ETF: hoy es el último día de trading — primer cierre de un ETF spot BTC en EE.UU.</title>
+      <link>https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns</link>
+      <guid isPermaLink="false">hashdex-defi-etf-closure-august-2026#upd-2026-08-17</guid>
+      <description>El DEFI ETF de Hashdex (NYSE Arca) cierra operaciones hoy 17 agosto; holders que no vendan recibirán distribución en efectivo el 28 agosto. AUM al cierre: ~$14,7M; solo tuvo 6 días de entradas en su vida. Categoría: ETF.</description>
+      <pubDate>Mon, 17 Aug 2026 11:15:14 +0000</pubDate>
       <category>ETF</category>
     </item>
+
+    <item>
+      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] Bitcoin ETFs spot: $390M de salidas en la semana; futuros CME en mínimo de 23 meses</title>
+      <link>https://www.cryptotimes.io/2026/08/15/bitcoin-etfs-lose-390m-as-solana-funds-buck-broader-crypto-outflows/</link>
+      <guid isPermaLink="false">bitcoin-etf-outflows-131m-57m-august-13-14-2026#upd-2026-08-17</guid>
+      <description>Semana del 10-14 agosto: $390M de salidas netas, mayor outflow semanal desde el lanzamiento; el 15 agosto sumó $57,63M más. Open interest en futuros BTC de CME cayó a 123.000 BTC, mínimo desde febrero 2024. BTC cotiza en torno a $63.000. Categoría: ETF.</description>
+      <pubDate>Mon, 17 Aug 2026 11:15:14 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+
   </channel>
 </rss>
