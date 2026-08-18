@@ -5,51 +5,33 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 17 Aug 2026 11:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:09:58 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACIÓN] Cumbre crypto Casa Blanca (19 agosto): lista completa confirmada — SEC, CFTC, Treasury, Coinbase, Ripple, Gemini, NYSE, Nasdaq, a16z</title>
-      <link>https://www.forbes.com/sites/digital-assets/2026/08/16/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/</link>
-      <guid isPermaLink="false">trump-white-house-crypto-summit-august-19-2026#upd-2026-08-17</guid>
-      <description>Trump presidirá el encuentro en el Edificio Eisenhower el 19 agosto; SEC Chair Atkins y CFTC Chair Selig confirmados, más Treasury Sec. Bessent y Commerce Sec. Lutnick; empresas: Coinbase, Ripple, Kraken, Gemini, Robinhood, Polymarket, Kalshi, a16z, Chainlink, Paradigm, Digital Chamber, NYSE y Nasdaq. Precede al primer IAC del CFTC el 20 agosto. Categoría: Geopolítica.</description>
-      <pubDate>Mon, 17 Aug 2026 11:15:14 +0000</pubDate>
-      <category>Geopolítica</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] Tudor Investment y UBS revelan posiciones IBIT vía 13F Q2 2026</title>
-      <link>https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling</link>
-      <guid isPermaLink="false">tudor-ubs-ibit-13f-q2-2026</guid>
-      <description>Tudor Investment (Paul Tudor Jones) aumentó a 688.529 acciones de IBIT ($22,9M), sumando 109K acciones y reduciendo calls un 85%. UBS Group tiene $90M en IBIT (+230% desde fin 2025), vía cuentas de wealth management. Contrasta con los outflows en ETFs retail. Categoría: Ballenas.</description>
-      <pubDate>Mon, 17 Aug 2026 11:15:14 +0000</pubDate>
+      <title>[MEDIA][Mercado] Twenty One Capital Q2 2026: $413.5M en pérdidas — CEO Zagury pivota de tesoro BTC puro a empresa operativa al estilo Berkshire</title>
+      <link>https://crypto-economy.com/twenty-one-capital-posts-414m-q2-loss-as-new-ceo-eyes-bigger-role-beyond-bitcoin/</link>
+      <guid isPermaLink="false">twenty-one-capital-q2-2026-414m-loss-zagury-operating-company</guid>
+      <description>El segundo mayor tenedor corporativo público de Bitcoin (43.514 BTC / ~$2.78B) reportó una pérdida neta de $413.5M en Q2 2026, de los cuales $401.5M corresponden a devaluación del inventario de BTC. Raphael Zagury, nuevo CEO desde el 20 de julio, declara que &quot;solo HODL&quot; no alcanza: su plan incluye adquisiciones de empresas operativas, préstamos colateralizados en BTC y generación de flujo de caja propio. Categoría: Ballenas</description>
+      <pubDate>Tue, 18 Aug 2026 11:09:58 +0000</pubDate>
       <category>Ballenas</category>
     </item>
 
     <item>
-      <title>[MEDIA][Regulación] [ACTUALIZACIÓN] CLARITY Act: voto formal del Senado fijado para el 15 de septiembre</title>
-      <link>https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month</link>
-      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026#upd-2026-08-17</guid>
-      <description>Majority Leader Thune presentó moción de clotura antes del receso, bloqueando la fecha del 15 de septiembre para el voto de procedimiento. Polymarket ubica las chances de aprobación en solo 16% (baja desde 25%). Si no pasa en septiembre, la ventana para 2026 se cierra. Categoría: Regulación.</description>
-      <pubDate>Mon, 17 Aug 2026 11:15:14 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[MEDIA][Técnico] CleanSpark, Canaan y BitFuFu: segunda caída mensual consecutiva de producción en julio — CleanSpark firma $6.6B en contrato AI/HPC</title>
+      <link>https://crypto-economy.com/bitcoin-mining-output-falls-again-in-july-for-cleanspark-bitfufu-and-canaan/</link>
+      <guid isPermaLink="false">cleanspark-canaan-bitfufu-july-production-drop-ai-pivot-2026</guid>
+      <description>El sector minero sigue cediendo capacidad: CleanSpark produjo 586 BTC (−5% vs junio), Canaan apenas 46 BTC (−28%), y BitFuFu también reportó caída. Al mismo tiempo, CleanSpark firmó un arrendamiento de $6.6B a 20 años con una empresa tecnológica no identificada en su campus de Sandersville, Georgia, confirmando la transición estructural de minería BTC a infraestructura AI/HPC. Categoría: Minería/AI</description>
+      <pubDate>Tue, 18 Aug 2026 11:09:58 +0000</pubDate>
+      <category>Minería/AI</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] Hashdex DEFI ETF: hoy es el último día de trading — primer cierre de un ETF spot BTC en EE.UU.</title>
-      <link>https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns</link>
-      <guid isPermaLink="false">hashdex-defi-etf-closure-august-2026#upd-2026-08-17</guid>
-      <description>El DEFI ETF de Hashdex (NYSE Arca) cierra operaciones hoy 17 agosto; holders que no vendan recibirán distribución en efectivo el 28 agosto. AUM al cierre: ~$14,7M; solo tuvo 6 días de entradas en su vida. Categoría: ETF.</description>
-      <pubDate>Mon, 17 Aug 2026 11:15:14 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] Bitcoin ETFs spot: $390M de salidas en la semana; futuros CME en mínimo de 23 meses</title>
-      <link>https://www.cryptotimes.io/2026/08/15/bitcoin-etfs-lose-390m-as-solana-funds-buck-broader-crypto-outflows/</link>
-      <guid isPermaLink="false">bitcoin-etf-outflows-131m-57m-august-13-14-2026#upd-2026-08-17</guid>
-      <description>Semana del 10-14 agosto: $390M de salidas netas, mayor outflow semanal desde el lanzamiento; el 15 agosto sumó $57,63M más. Open interest en futuros BTC de CME cayó a 123.000 BTC, mínimo desde febrero 2024. BTC cotiza en torno a $63.000. Categoría: ETF.</description>
-      <pubDate>Mon, 17 Aug 2026 11:15:14 +0000</pubDate>
-      <category>ETF</category>
+      <title>[ACTUALIZACIÓN][MEDIA][Mercado] Strategy: 6ª semana consecutiva sin comprar BTC — vende $334M en MSTR (10-16 agosto), reserva USD sube a $4.8B</title>
+      <link>https://www.theblock.co/news/business/2026-08-17-michael-saylor-strategy-btc-411942</link>
+      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-08-18</guid>
+      <description>Strategy no ha comprado Bitcoin por sexta semana consecutiva (desde fines de junio). Entre el 10 y el 16 de agosto vendió $333.7M en acciones MSTR sin realizar ninguna transacción de BTC. La reserva en USD escaló de $3.225B (reportada el 23 de julio) a $4.8B — un 49% más en pocas semanas — con Saylor priorizando soporte al preferente STRC sobre la acumulación de BTC. Categoría: Ballenas</description>
+      <pubDate>Tue, 18 Aug 2026 11:09:58 +0000</pubDate>
+      <category>Ballenas</category>
     </item>
 
   </channel>

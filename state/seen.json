@@ -601,14 +601,15 @@
       "title": "Strategy acumula 4 semanas sin comprar BTC — vende $263.5M en acciones MSTR, reserva USD sube a $3.225B",
       "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion",
       "first_seen": "2026-07-23",
-      "last_update": "2026-08-04",
+      "last_update": "2026-08-18",
       "updates": [
         "2026-07-27",
         "2026-07-28",
         "2026-07-31",
         "2026-08-01",
         "2026-08-03",
-        "2026-08-04"
+        "2026-08-04",
+        "2026-08-18"
       ]
     },
     {
@@ -1041,6 +1042,24 @@
       "first_seen": "2026-08-16",
       "eje": "Geo/Regulación",
       "category": "Regulación",
+      "relevancia": "Media"
+    },
+    {
+      "id": "twenty-one-capital-q2-2026-414m-loss-zagury-operating-company",
+      "title": "Twenty One Capital Q2 2026: $413.5M en pérdidas — CEO Zagury pivota de tesoro BTC puro a empresa operativa al estilo Berkshire",
+      "url": "https://crypto-economy.com/twenty-one-capital-posts-414m-q2-loss-as-new-ceo-eyes-bigger-role-beyond-bitcoin/",
+      "first_seen": "2026-08-18",
+      "eje": "Mercado",
+      "category": "Ballenas",
+      "relevancia": "Media"
+    },
+    {
+      "id": "cleanspark-canaan-bitfufu-july-production-drop-ai-pivot-2026",
+      "title": "CleanSpark, Canaan y BitFuFu: segunda caída mensual consecutiva de producción en julio; CleanSpark firma $6.6B en contrato AI/HPC",
+      "url": "https://crypto-economy.com/bitcoin-mining-output-falls-again-in-july-for-cleanspark-bitfufu-and-canaan/",
+      "first_seen": "2026-08-18",
+      "eje": "Técnico",
+      "category": "Minería/AI",
       "relevancia": "Media"
     }
   ]
