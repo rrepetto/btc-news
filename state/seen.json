@@ -961,9 +961,10 @@
       "title": "SEC cancela reunión de 'Regulation Crypto' sin nueva fecha — ambos carriles regulatorios crypto en EE.UU. quedan paralizados",
       "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
       "first_seen": "2026-08-13",
-      "last_update": "2026-08-14",
+      "last_update": "2026-08-19",
       "updates": [
-        "2026-08-14"
+        "2026-08-14",
+        "2026-08-19"
       ]
     },
     {
@@ -998,10 +999,11 @@
       "title": "ETF spot BTC: $188.7M de salidas netas en dos días (13-14 agosto) tras semana récord",
       "url": "https://cryptorank.io/news/feed/d8f5c-bitcoin-etf-outflows-august-13",
       "first_seen": "2026-08-15",
-      "last_update": "2026-08-17",
+      "last_update": "2026-08-19",
       "updates": [
         "2026-08-16",
-        "2026-08-17"
+        "2026-08-17",
+        "2026-08-19"
       ]
     },
     {
@@ -1009,9 +1011,10 @@
       "title": "Trump convoca cumbre crypto en la Casa Blanca el 19 agosto — lista completa: SEC, CFTC, Treasury, Coinbase, Ripple, Gemini, NYSE, Nasdaq, a16z",
       "url": "https://news.bitcoin.com/crypto-news/white-house-crypto-meeting-trump-coinbase-ripple-august-19/",
       "first_seen": "2026-08-16",
-      "last_update": "2026-08-17",
+      "last_update": "2026-08-19",
       "updates": [
-        "2026-08-17"
+        "2026-08-17",
+        "2026-08-19"
       ],
       "eje": "Geo/Regulación",
       "category": "Geopolítica",
@@ -1024,7 +1027,11 @@
       "first_seen": "2026-08-16",
       "eje": "Mercado",
       "category": "Ballenas",
-      "relevancia": "Media"
+      "relevancia": "Media",
+      "updates": [
+        "2026-08-19"
+      ],
+      "last_update": "2026-08-19"
     },
     {
       "id": "tudor-ubs-ibit-13f-q2-2026",
@@ -1061,6 +1068,24 @@
       "eje": "Técnico",
       "category": "Minería/AI",
       "relevancia": "Media"
+    },
+    {
+      "id": "fasb-stablecoin-cash-equivalent-proposal-august-2026",
+      "title": "FASB propone clasificar stablecoins como equivalentes de efectivo bajo US GAAP",
+      "url": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
+      "first_seen": "2026-08-19",
+      "eje": "Técnico",
+      "category": "Stablecoins",
+      "relevancia": "Media"
+    },
+    {
+      "id": "cftc-iac-inaugural-meeting-crypto-ai-august-20-2026",
+      "title": "CFTC Innovation Advisory Committee: primera reunión el 20 agosto — crypto, IA y prediction markets",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9283-26",
+      "first_seen": "2026-08-19",
+      "eje": "Geo/Regulación",
+      "category": "Regulación",
+      "relevancia": "Baja"
     }
   ]
 }
