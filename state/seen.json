@@ -990,9 +990,13 @@
     },
     {
       "id": "ecash-hard-fork-sztorc-block-964000-august-2026",
-      "title": "eCash hard fork de Paul Sztorc — bloque 964.000 (~21 agosto)",
+      "title": "eCash hard fork de Paul Sztorc — bloque 964.000 el 21 agosto ~15:00 UTC (INMINENTE)",
       "url": "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
-      "first_seen": "2026-08-15"
+      "first_seen": "2026-08-15",
+      "last_update": "2026-08-20",
+      "updates": [
+        "2026-08-20"
+      ]
     },
     {
       "id": "bitcoin-etf-outflows-131m-57m-august-13-14-2026",
@@ -1085,7 +1089,38 @@
       "first_seen": "2026-08-19",
       "eje": "Geo/Regulación",
       "category": "Regulación",
-      "relevancia": "Baja"
+      "relevancia": "Baja",
+      "last_update": "2026-08-20",
+      "updates": [
+        "2026-08-20"
+      ]
+    },
+    {
+      "id": "btc-1-44b-short-squeeze-69k-august-2026",
+      "title": "Short squeeze histórico: $1.44B en posiciones cortas liquidadas — BTC toca $69.500",
+      "url": "https://ambcrypto.com/bitcoin-ethereum-surge-as-1-44b-short-squeeze-shakes-crypto-market/",
+      "first_seen": "2026-08-20",
+      "eje": "Mercado",
+      "category": "On-chain",
+      "relevancia": "Alta"
+    },
+    {
+      "id": "us-treasury-buyback-4b-long-bond-september-2026",
+      "title": "Tesoro de EE.UU. duplica recompras de bonos largos a mínimo $4B por operación desde el 9 de septiembre",
+      "url": "https://home.treasury.gov/news/press-releases/sb0607",
+      "first_seen": "2026-08-20",
+      "eje": "Mercado",
+      "category": "Macro",
+      "relevancia": "Media"
+    },
+    {
+      "id": "bitcoin-hashrate-17pct-drop-ai-hpc-70b-contracts-2026",
+      "title": "Hashrate de Bitcoin cae 17–21% desde el pico; contratos AI/HPC del sector superan $70B",
+      "url": "https://news.bitcoin.com/featured/bitcoin-hashrate-slips-17-off-record-as-miners-chase-ai/",
+      "first_seen": "2026-08-20",
+      "eje": "Geo/Regulación",
+      "category": "Minería/AI",
+      "relevancia": "Media"
     }
   ]
 }

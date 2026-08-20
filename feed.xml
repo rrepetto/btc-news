@@ -5,54 +5,52 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 19 Aug 2026 11:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:08:04 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACIÓN] Trump convoca cumbre crypto en la Casa Blanca el 19 agosto — lista completa: SEC, CFTC, Treasury, Coinbase, Ripple, Gemini, NYSE, Nasdaq, a16z</title>
-      <link>https://news.bitcoin.com/crypto-news/white-house-crypto-meeting-trump-coinbase-ripple-august-19/</link>
-      <guid isPermaLink="false">trump-white-house-crypto-summit-august-19-2026#upd-2026-08-19</guid>
-      <description>Trump convoca cumbre crypto en la Casa Blanca el 19 agosto — lista completa: SEC, CFTC, Treasury, Coinbase, Ripple, Gemini, NYSE, Nasdaq, a16z</description>
-      <pubDate>Wed, 19 Aug 2026 11:05:00 +0000</pubDate>
-      <category>Geopolítica</category>
+      <title>[ALTA][ACTUALIZACIÓN][Técnico] eCash hard fork de Sztorc a menos de 24 horas — bloque 964.000 el 21 agosto ~15:00 UTC</title>
+      <link>https://inbitcoinwetrust.substack.com/p/bitcoin-is-about-to-fork-again-the</link>
+      <guid isPermaLink="false">ecash-hard-fork-sztorc-block-964000-august-2026#upd-2026-08-20</guid>
+      <description>Hard fork de Paul Sztorc que crea la cadena eCash: se ejecuta mañana 21 agosto ~15:00 UTC en el bloque 964.000. Holders de BTC reciben 1:1 en eCash; controversia por reasignación de ~500.000 monedas dormidas de Satoshi. Activa Drivechain (BIP-300/301). La mayoría de custodios institucionales no reclamarán los activos forkeados. Categoría: BIP/Fork.</description>
+      <pubDate>Thu, 20 Aug 2026 11:08:04 +0000</pubDate>
+      <category>BIP/Fork</category>
     </item>
+
     <item>
-      <title>[MEDIA] [ACTUALIZACIÓN] SEC cancela reunión de 'Regulation Crypto' sin nueva fecha — ambos carriles regulatorios crypto en EE.UU. quedan paralizados</title>
-      <link>https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date</link>
-      <guid isPermaLink="false">sec-regulation-crypto-assets-atkins-august-14-2026#upd-2026-08-19</guid>
-      <description>SEC cancela reunión de 'Regulation Crypto' sin nueva fecha — ambos carriles regulatorios crypto en EE.UU. quedan paralizados</description>
-      <pubDate>Wed, 19 Aug 2026 11:05:00 +0000</pubDate>
-      <category></category>
+      <title>[ALTA][Mercado] Short squeeze histórico: $1.44B en posiciones cortas liquidadas — BTC toca $69.500</title>
+      <link>https://ambcrypto.com/bitcoin-ethereum-surge-as-1-44b-short-squeeze-shakes-crypto-market/</link>
+      <guid isPermaLink="false">btc-1-44b-short-squeeze-69k-august-2026</guid>
+      <description>El 19 de agosto se registró el mayor volumen de liquidaciones de shorts en la historia de Bitcoin: $1.44B en posiciones cortas forzadas, BTC sube ~8% hasta $69.500 (máximo desde principios de junio). Catalizador: anuncio del Tesoro de EE.UU. de duplicar recompras de bonos largos. Categoría: On-chain.</description>
+      <pubDate>Thu, 20 Aug 2026 11:08:04 +0000</pubDate>
+      <category>On-chain</category>
     </item>
+
     <item>
-      <title>[MEDIA] [ACTUALIZACIÓN] ETF spot BTC: $188.7M de salidas netas en dos días (13-14 agosto) tras semana récord</title>
-      <link>https://cryptorank.io/news/feed/d8f5c-bitcoin-etf-outflows-august-13</link>
-      <guid isPermaLink="false">bitcoin-etf-outflows-131m-57m-august-13-14-2026#upd-2026-08-19</guid>
-      <description>ETF spot BTC: $188.7M de salidas netas en dos días (13-14 agosto) tras semana récord</description>
-      <pubDate>Wed, 19 Aug 2026 11:05:00 +0000</pubDate>
-      <category></category>
+      <title>[MEDIA][Mercado] Tesoro de EE.UU. duplica recompras de bonos largos a mínimo $4B por operación desde el 9 de septiembre</title>
+      <link>https://home.treasury.gov/news/press-releases/sb0607</link>
+      <guid isPermaLink="false">us-treasury-buyback-4b-long-bond-september-2026</guid>
+      <description>El Tesoro eleva el techo de recompra de bonos nominales 10–30 años de $2.000M a al menos $4.000M por operación, vigente del 9 septiembre al 4 noviembre 2026. Yields cayeron (30 años -9 pb al 5.19%) e inyectó liquidez: detonante del short squeeze de BTC del mismo día. Categoría: Macro.</description>
+      <pubDate>Thu, 20 Aug 2026 11:08:04 +0000</pubDate>
+      <category>Macro</category>
     </item>
+
     <item>
-      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] MSCI reabre revisión de Strategy (MSTR) y Metaplanet: podrían ser excluidas de sus índices globales</title>
-      <link>https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal</link>
-      <guid isPermaLink="false">msci-strategy-mstr-index-exclusion-review-august-2026#upd-2026-08-19</guid>
-      <description>MSCI reabre revisión de Strategy (MSTR) y Metaplanet: podrían ser excluidas de sus índices globales</description>
-      <pubDate>Wed, 19 Aug 2026 11:05:00 +0000</pubDate>
-      <category>Ballenas</category>
+      <title>[MEDIA][Geo] Hashrate de Bitcoin cae 17–21% desde el pico; contratos AI/HPC del sector superan $70B</title>
+      <link>https://news.bitcoin.com/featured/bitcoin-hashrate-slips-17-off-record-as-miners-chase-ai/</link>
+      <guid isPermaLink="false">bitcoin-hashrate-17pct-drop-ai-hpc-70b-contracts-2026</guid>
+      <description>Hashrate de la red retrocede desde &gt;1 ZH/s al rango 850–920 EH/s. Mineros públicos: hashrate realizado -13.4% (Q4 2025 a Q2 2026). Contratos AI/HPC acumulados del sector superan $70.000M. CoinShares proyecta AI/HPC al 70% de ingresos de mineros cotizados para fines de 2026. Categoría: Minería/AI.</description>
+      <pubDate>Thu, 20 Aug 2026 11:08:04 +0000</pubDate>
+      <category>Minería/AI</category>
     </item>
+
     <item>
-      <title>[MEDIA][Técnico] FASB propone clasificar stablecoins como equivalentes de efectivo bajo US GAAP</title>
-      <link>https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent</link>
-      <guid isPermaLink="false">fasb-stablecoin-cash-equivalent-proposal-august-2026</guid>
-      <description>FASB propone clasificar stablecoins como equivalentes de efectivo bajo US GAAP</description>
-      <pubDate>Wed, 19 Aug 2026 11:05:00 +0000</pubDate>
-      <category>Stablecoins</category>
-    </item>
-    <item>
-      <title>[BAJA][Geo] CFTC Innovation Advisory Committee: primera reunión el 20 agosto — crypto, IA y prediction markets</title>
+      <title>[BAJA][ACTUALIZACIÓN][Geo] CFTC IAC: primera reunión celebrada hoy — sin recomendaciones formales aún</title>
       <link>https://www.cftc.gov/PressRoom/PressReleases/9283-26</link>
-      <guid isPermaLink="false">cftc-iac-inaugural-meeting-crypto-ai-august-20-2026</guid>
-      <description>CFTC Innovation Advisory Committee: primera reunión el 20 agosto — crypto, IA y prediction markets</description>
-      <pubDate>Wed, 19 Aug 2026 11:05:00 +0000</pubDate>
+      <guid isPermaLink="false">cftc-iac-inaugural-meeting-crypto-ai-august-20-2026#upd-2026-08-20</guid>
+      <description>El Innovation Advisory Committee del CFTC celebró hoy su sesión inaugural (1–4 PM EDT). Se discutió estructura del mercado crypto, IA y prediction markets. Sin recomendaciones formales; transcript pendiente en CFTC.gov. Reunión un día después de la cumbre crypto de la Casa Blanca (19 ago). Categoría: Regulación.</description>
+      <pubDate>Thu, 20 Aug 2026 11:08:04 +0000</pubDate>
       <category>Regulación</category>
     </item>
+
   </channel>
 </rss>
