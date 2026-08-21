@@ -5,52 +5,38 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:08:04 +0000</lastBuildDate>
-
+    <lastBuildDate>Fri, 21 Aug 2026 11:10:37 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][ACTUALIZACIÓN][Técnico] eCash hard fork de Sztorc a menos de 24 horas — bloque 964.000 el 21 agosto ~15:00 UTC</title>
-      <link>https://inbitcoinwetrust.substack.com/p/bitcoin-is-about-to-fork-again-the</link>
-      <guid isPermaLink="false">ecash-hard-fork-sztorc-block-964000-august-2026#upd-2026-08-20</guid>
-      <description>Hard fork de Paul Sztorc que crea la cadena eCash: se ejecuta mañana 21 agosto ~15:00 UTC en el bloque 964.000. Holders de BTC reciben 1:1 en eCash; controversia por reasignación de ~500.000 monedas dormidas de Satoshi. Activa Drivechain (BIP-300/301). La mayoría de custodios institucionales no reclamarán los activos forkeados. Categoría: BIP/Fork.</description>
-      <pubDate>Thu, 20 Aug 2026 11:08:04 +0000</pubDate>
+      <title>[ALTA][Mercado] BTC supera $79k: mayor rally semanal desde marzo 2024 (+20%) y ETF spot capturan $606M en un solo día</title>
+      <link>https://www.bloomberg.com/news/articles/2026-08-21/bitcoin-leaps-past-75-000-as-crypto-rally-continues-in-asia</link>
+      <guid isPermaLink="false">btc-1-44b-short-squeeze-69k-august-2026#upd-2026-08-21</guid>
+      <description>ACTUALIZACION: El short squeeze del 19-20 agosto extendio BTC de ~$69.5k a $79.241k (+14% adicional), mejor semana en dos anos (+20%). ETF spot capturaron $606M el 20 agosto (IBIT: $284.7M), el mayor ingreso diario desde el 1 de mayo. Fear &amp; Greed sube a 72. Categoria: On-chain/ETF</description>
+      <pubDate>Fri, 21 Aug 2026 11:10:37 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+    <item>
+      <title>[ALTA][Geo] Trump en cumbre crypto del 19 agosto: Clarity Act y compras "importantes" de BTC para la reserva estratégica</title>
+      <link>https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event</link>
+      <guid isPermaLink="false">trump-white-house-crypto-summit-august-19-2026#upd-2026-08-21</guid>
+      <description>ACTUALIZACION: La cumbre se realizo con CEOs de Coinbase, a16z, NYSE, Nasdaq, SEC y CFTC. Trump presiono la Clarity Act y confirmo planes de compras "sizable" de BTC para la reserva estrategica. Polymarket sube probabilidad al 19%; voto procedimental en el Senado: 15 de septiembre. Categoria: Geopolitica</description>
+      <pubDate>Fri, 21 Aug 2026 11:10:37 +0000</pubDate>
+      <category>Geopolítica</category>
+    </item>
+    <item>
+      <title>[ALTA][Mercado] Metaplanet adquiere Super League Enterprise por 2.100 BTC para crear "Superplanet", vehiculo de tesoreria BTC en EE.UU.</title>
+      <link>https://www.globenewswire.com/news-release/2026/08/18/3346825/0/en/metaplanet-to-invest-2100-bitcoin-in-super-league-to-launch-u-s-bitcoin-treasury-platform-superplanet.html</link>
+      <guid isPermaLink="false">metaplanet-superplanet-us-treasury-super-league-august-2026</guid>
+      <description>La firma japonesa con 43.000 BTC (tercer mayor tesoro corporativo del mundo) tomo el 95,7% de Super League (NASDAQ: SLE) transfiriendo 2.100 BTC ($132M) + $2,5M efectivo. La empresa se rebautizara "Superplanet, Inc." (ticker: SUPA) para operar como vehiculo BTC treasury en Wall Street, replicando el modelo Strategy/MicroStrategy. Categoria: Ballenas</description>
+      <pubDate>Fri, 21 Aug 2026 11:10:37 +0000</pubDate>
+      <category>Ballenas</category>
+    </item>
+    <item>
+      <title>[MEDIA][Tecnico] eCash hard fork de Sztorc: el bloque 964.000 se alcanza HOY ~15:00 UTC</title>
+      <link>https://www.kucoin.com/news/flash/bitcoin-to-undergo-ecash-hard-fork-on-august-21</link>
+      <guid isPermaLink="false">ecash-hard-fork-sztorc-block-964000-august-2026#upd-2026-08-21</guid>
+      <description>ACTUALIZACION: El fork que clona Bitcoin anadiendo Drivechain (BIP-300/BIP-301) y distribuye tokens eCash a todos los holders al momento del snapshot se ejecuta esta tarde. Incluye controversia por ~500.000 monedas dormidas de Satoshi reasignadas en la nueva cadena. No afecta el consenso de BTC principal. Categoria: BIP/Fork</description>
+      <pubDate>Fri, 21 Aug 2026 11:10:37 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
-
-    <item>
-      <title>[ALTA][Mercado] Short squeeze histórico: $1.44B en posiciones cortas liquidadas — BTC toca $69.500</title>
-      <link>https://ambcrypto.com/bitcoin-ethereum-surge-as-1-44b-short-squeeze-shakes-crypto-market/</link>
-      <guid isPermaLink="false">btc-1-44b-short-squeeze-69k-august-2026</guid>
-      <description>El 19 de agosto se registró el mayor volumen de liquidaciones de shorts en la historia de Bitcoin: $1.44B en posiciones cortas forzadas, BTC sube ~8% hasta $69.500 (máximo desde principios de junio). Catalizador: anuncio del Tesoro de EE.UU. de duplicar recompras de bonos largos. Categoría: On-chain.</description>
-      <pubDate>Thu, 20 Aug 2026 11:08:04 +0000</pubDate>
-      <category>On-chain</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] Tesoro de EE.UU. duplica recompras de bonos largos a mínimo $4B por operación desde el 9 de septiembre</title>
-      <link>https://home.treasury.gov/news/press-releases/sb0607</link>
-      <guid isPermaLink="false">us-treasury-buyback-4b-long-bond-september-2026</guid>
-      <description>El Tesoro eleva el techo de recompra de bonos nominales 10–30 años de $2.000M a al menos $4.000M por operación, vigente del 9 septiembre al 4 noviembre 2026. Yields cayeron (30 años -9 pb al 5.19%) e inyectó liquidez: detonante del short squeeze de BTC del mismo día. Categoría: Macro.</description>
-      <pubDate>Thu, 20 Aug 2026 11:08:04 +0000</pubDate>
-      <category>Macro</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Geo] Hashrate de Bitcoin cae 17–21% desde el pico; contratos AI/HPC del sector superan $70B</title>
-      <link>https://news.bitcoin.com/featured/bitcoin-hashrate-slips-17-off-record-as-miners-chase-ai/</link>
-      <guid isPermaLink="false">bitcoin-hashrate-17pct-drop-ai-hpc-70b-contracts-2026</guid>
-      <description>Hashrate de la red retrocede desde &gt;1 ZH/s al rango 850–920 EH/s. Mineros públicos: hashrate realizado -13.4% (Q4 2025 a Q2 2026). Contratos AI/HPC acumulados del sector superan $70.000M. CoinShares proyecta AI/HPC al 70% de ingresos de mineros cotizados para fines de 2026. Categoría: Minería/AI.</description>
-      <pubDate>Thu, 20 Aug 2026 11:08:04 +0000</pubDate>
-      <category>Minería/AI</category>
-    </item>
-
-    <item>
-      <title>[BAJA][ACTUALIZACIÓN][Geo] CFTC IAC: primera reunión celebrada hoy — sin recomendaciones formales aún</title>
-      <link>https://www.cftc.gov/PressRoom/PressReleases/9283-26</link>
-      <guid isPermaLink="false">cftc-iac-inaugural-meeting-crypto-ai-august-20-2026#upd-2026-08-20</guid>
-      <description>El Innovation Advisory Committee del CFTC celebró hoy su sesión inaugural (1–4 PM EDT). Se discutió estructura del mercado crypto, IA y prediction markets. Sin recomendaciones formales; transcript pendiente en CFTC.gov. Reunión un día después de la cumbre crypto de la Casa Blanca (19 ago). Categoría: Regulación.</description>
-      <pubDate>Thu, 20 Aug 2026 11:08:04 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-
   </channel>
 </rss>

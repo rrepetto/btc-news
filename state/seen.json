@@ -993,9 +993,10 @@
       "title": "eCash hard fork de Paul Sztorc — bloque 964.000 el 21 agosto ~15:00 UTC (INMINENTE)",
       "url": "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
       "first_seen": "2026-08-15",
-      "last_update": "2026-08-20",
+      "last_update": "2026-08-21",
       "updates": [
-        "2026-08-20"
+        "2026-08-20",
+        "2026-08-21"
       ]
     },
     {
@@ -1015,10 +1016,11 @@
       "title": "Trump convoca cumbre crypto en la Casa Blanca el 19 agosto — lista completa: SEC, CFTC, Treasury, Coinbase, Ripple, Gemini, NYSE, Nasdaq, a16z",
       "url": "https://news.bitcoin.com/crypto-news/white-house-crypto-meeting-trump-coinbase-ripple-august-19/",
       "first_seen": "2026-08-16",
-      "last_update": "2026-08-19",
+      "last_update": "2026-08-21",
       "updates": [
         "2026-08-17",
-        "2026-08-19"
+        "2026-08-19",
+        "2026-08-21"
       ],
       "eje": "Geo/Regulación",
       "category": "Geopolítica",
@@ -1102,7 +1104,11 @@
       "first_seen": "2026-08-20",
       "eje": "Mercado",
       "category": "On-chain",
-      "relevancia": "Alta"
+      "relevancia": "Alta",
+      "updates": [
+        "2026-08-21"
+      ],
+      "last_update": "2026-08-21"
     },
     {
       "id": "us-treasury-buyback-4b-long-bond-september-2026",
@@ -1121,6 +1127,15 @@
       "eje": "Geo/Regulación",
       "category": "Minería/AI",
       "relevancia": "Media"
+    },
+    {
+      "id": "metaplanet-superplanet-us-treasury-super-league-august-2026",
+      "title": "Metaplanet adquiere Super League Enterprise por 2.100 BTC para crear \"Superplanet\", vehículo de tesorería BTC en EE.UU.",
+      "url": "https://www.globenewswire.com/news-release/2026/08/18/3346825/0/en/metaplanet-to-invest-2100-bitcoin-in-super-league-to-launch-u-s-bitcoin-treasury-platform-superplanet.html",
+      "first_seen": "2026-08-21",
+      "eje": "Mercado",
+      "category": "Ballenas",
+      "relevancia": "Alta"
     }
   ]
 }
