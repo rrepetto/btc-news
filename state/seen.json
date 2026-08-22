@@ -993,10 +993,11 @@
       "title": "eCash hard fork de Paul Sztorc — bloque 964.000 el 21 agosto ~15:00 UTC (INMINENTE)",
       "url": "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
       "first_seen": "2026-08-15",
-      "last_update": "2026-08-21",
+      "last_update": "2026-08-22",
       "updates": [
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-22"
       ]
     },
     {
@@ -1117,7 +1118,11 @@
       "first_seen": "2026-08-20",
       "eje": "Mercado",
       "category": "Macro",
-      "relevancia": "Media"
+      "relevancia": "Media",
+      "updates": [
+        "2026-08-22"
+      ],
+      "last_update": "2026-08-22"
     },
     {
       "id": "bitcoin-hashrate-17pct-drop-ai-hpc-70b-contracts-2026",
@@ -1136,6 +1141,15 @@
       "eje": "Mercado",
       "category": "Ballenas",
       "relevancia": "Alta"
+    },
+    {
+      "id": "bitcoin-core-v32-feature-freeze-august-2026",
+      "title": "Bitcoin Core v32 entra en feature freeze el 20 agosto — rc1 el 10 sept, release final el 10 oct",
+      "url": "https://cryptoslate.com/merge-conflicts-and-unencrypted-traffic-risks-loom-as-bitcoin-core-prepares-to-lock-down-new-node-features-on-thursday/",
+      "first_seen": "2026-08-22",
+      "eje": "Técnico",
+      "category": "Core/Release",
+      "relevancia": "Baja"
     }
   ]
 }

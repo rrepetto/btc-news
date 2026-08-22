@@ -5,38 +5,34 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:08:04 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Mercado] BTC supera $79k: mayor rally semanal desde marzo 2024 (+20%) y ETF spot capturan $606M en un solo día</title>
-      <link>https://www.bloomberg.com/news/articles/2026-08-21/bitcoin-leaps-past-75-000-as-crypto-rally-continues-in-asia</link>
-      <guid isPermaLink="false">btc-1-44b-short-squeeze-69k-august-2026#upd-2026-08-21</guid>
-      <description>ACTUALIZACION: El short squeeze del 19-20 agosto extendio BTC de ~$69.5k a $79.241k (+14% adicional), mejor semana en dos anos (+20%). ETF spot capturaron $606M el 20 agosto (IBIT: $284.7M), el mayor ingreso diario desde el 1 de mayo. Fear &amp; Greed sube a 72. Categoria: On-chain/ETF</description>
-      <pubDate>Fri, 21 Aug 2026 11:10:37 +0000</pubDate>
-      <category>ETF</category>
+      <title>[ALTA][Geo] ACTUALIZACIÓN: Rally de bonos de Bessent duró 24 horas — el 30Y volvió al 5,25% y el Tesoro promete superar los $4B por operación</title>
+      <link>https://www.euronews.com/business/2026/08/21/bessent-vows-bigger-buybacks-after-bond-yields-erased-the-us-treasurys-relief-rally</link>
+      <guid isPermaLink="false">us-treasury-buyback-4b-long-bond-september-2026#upd-2026-08-22</guid>
+      <description>La intervención del 19 agosto (duplicación de buybacks a $4B) alivió el bono a 30 años hasta el 5,19%, pero el alivio se esfumó en menos de 24 horas: al cierre del 21 agosto el 30Y volvía al 5,25%. Bessent afirmó el 21 agosto que $4B es &quot;un piso, no un techo&quot; y prometió aumentar más. Si los yields siguen subiendo, el argumento macro que alimentó el short squeeze de BTC (+30% en 4 días) podría debilitarse. Categoría: Macro</description>
+      <pubDate>Sat, 22 Aug 2026 11:08:04 +0000</pubDate>
+      <category>Macro</category>
     </item>
+
     <item>
-      <title>[ALTA][Geo] Trump en cumbre crypto del 19 agosto: Clarity Act y compras "importantes" de BTC para la reserva estratégica</title>
-      <link>https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event</link>
-      <guid isPermaLink="false">trump-white-house-crypto-summit-august-19-2026#upd-2026-08-21</guid>
-      <description>ACTUALIZACION: La cumbre se realizo con CEOs de Coinbase, a16z, NYSE, Nasdaq, SEC y CFTC. Trump presiono la Clarity Act y confirmo planes de compras "sizable" de BTC para la reserva estrategica. Polymarket sube probabilidad al 19%; voto procedimental en el Senado: 15 de septiembre. Categoria: Geopolitica</description>
-      <pubDate>Fri, 21 Aug 2026 11:10:37 +0000</pubDate>
-      <category>Geopolítica</category>
-    </item>
-    <item>
-      <title>[ALTA][Mercado] Metaplanet adquiere Super League Enterprise por 2.100 BTC para crear "Superplanet", vehiculo de tesoreria BTC en EE.UU.</title>
-      <link>https://www.globenewswire.com/news-release/2026/08/18/3346825/0/en/metaplanet-to-invest-2100-bitcoin-in-super-league-to-launch-u-s-bitcoin-treasury-platform-superplanet.html</link>
-      <guid isPermaLink="false">metaplanet-superplanet-us-treasury-super-league-august-2026</guid>
-      <description>La firma japonesa con 43.000 BTC (tercer mayor tesoro corporativo del mundo) tomo el 95,7% de Super League (NASDAQ: SLE) transfiriendo 2.100 BTC ($132M) + $2,5M efectivo. La empresa se rebautizara "Superplanet, Inc." (ticker: SUPA) para operar como vehiculo BTC treasury en Wall Street, replicando el modelo Strategy/MicroStrategy. Categoria: Ballenas</description>
-      <pubDate>Fri, 21 Aug 2026 11:10:37 +0000</pubDate>
-      <category>Ballenas</category>
-    </item>
-    <item>
-      <title>[MEDIA][Tecnico] eCash hard fork de Sztorc: el bloque 964.000 se alcanza HOY ~15:00 UTC</title>
-      <link>https://www.kucoin.com/news/flash/bitcoin-to-undergo-ecash-hard-fork-on-august-21</link>
-      <guid isPermaLink="false">ecash-hard-fork-sztorc-block-964000-august-2026#upd-2026-08-21</guid>
-      <description>ACTUALIZACION: El fork que clona Bitcoin anadiendo Drivechain (BIP-300/BIP-301) y distribuye tokens eCash a todos los holders al momento del snapshot se ejecuta esta tarde. Incluye controversia por ~500.000 monedas dormidas de Satoshi reasignadas en la nueva cadena. No afecta el consenso de BTC principal. Categoria: BIP/Fork</description>
-      <pubDate>Fri, 21 Aug 2026 11:10:37 +0000</pubDate>
+      <title>[BAJA][Técnico] ACTUALIZACIÓN: eCash fork ejecutado — exchanges evitan listar ECX, XEC (Bitcoin Cash ABC) cae 14%, mainnet real postergada al 31 oct</title>
+      <link>https://cryptonews.net/news/bitcoin/32786595/</link>
+      <guid isPermaLink="false">ecash-hard-fork-sztorc-block-964000-august-2026#upd-2026-08-22</guid>
+      <description>El hard fork de Paul Sztorc se ejecutó el 21 agosto en bloque ~964.000. Ningún exchange grande se comprometió a listar ECX. XEC (Bitcoin Cash ABC) cayó 14% por confusión de nombres. Mainnet producción agendada para bloque ~973.728 (~31 oct). La cadena principal BTC no fue afectada. Categoría: BIP/Fork</description>
+      <pubDate>Sat, 22 Aug 2026 11:08:04 +0000</pubDate>
       <category>BIP/Fork</category>
     </item>
+
+    <item>
+      <title>[BAJA][Técnico] Bitcoin Core v32 entra en feature freeze el 20 agosto — rc1 el 10 sept, release final el 10 oct</title>
+      <link>https://cryptoslate.com/merge-conflicts-and-unencrypted-traffic-risks-loom-as-bitcoin-core-prepares-to-lock-down-new-node-features-on-thursday/</link>
+      <guid isPermaLink="false">bitcoin-core-v32-feature-freeze-august-2026</guid>
+      <description>Bitcoin Core cerró su ventana de nuevas funcionalidades para v32.0 el 20 agosto. Solo se aceptan bug fixes. Las 17 mejoras pendientes incluyen compatibilidad de wallets con Miniscript legacy, estimador de fees revisado y opción de rechazar conexiones clearnet sin cifrar. rc1 previsto el 10 sept, v32.0 final el 10 oct. Categoría: Core/Release</description>
+      <pubDate>Sat, 22 Aug 2026 11:08:04 +0000</pubDate>
+      <category>Core/Release</category>
+    </item>
+
   </channel>
 </rss>
