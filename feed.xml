@@ -5,34 +5,30 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 22 Aug 2026 11:08:04 +0000</lastBuildDate>
-
+    <lastBuildDate>Sun, 23 Aug 2026 11:08:56 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][Geo] ACTUALIZACIÓN: Rally de bonos de Bessent duró 24 horas — el 30Y volvió al 5,25% y el Tesoro promete superar los $4B por operación</title>
-      <link>https://www.euronews.com/business/2026/08/21/bessent-vows-bigger-buybacks-after-bond-yields-erased-the-us-treasurys-relief-rally</link>
-      <guid isPermaLink="false">us-treasury-buyback-4b-long-bond-september-2026#upd-2026-08-22</guid>
-      <description>La intervención del 19 agosto (duplicación de buybacks a $4B) alivió el bono a 30 años hasta el 5,19%, pero el alivio se esfumó en menos de 24 horas: al cierre del 21 agosto el 30Y volvía al 5,25%. Bessent afirmó el 21 agosto que $4B es &quot;un piso, no un techo&quot; y prometió aumentar más. Si los yields siguen subiendo, el argumento macro que alimentó el short squeeze de BTC (+30% en 4 días) podría debilitarse. Categoría: Macro</description>
-      <pubDate>Sat, 22 Aug 2026 11:08:04 +0000</pubDate>
-      <category>Macro</category>
+      <title>[ALTA][Mercado] [ACTUALIZACION] ETF spot de Bitcoin: semana de $2.6B netos (18-22 agosto) — mejor semana desde octubre 2025</title>
+      <link>https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531</link>
+      <guid isPermaLink="false">bitcoin-etf-outflows-131m-57m-august-13-14-2026#upd-2026-08-23</guid>
+      <description>ETFs spot BTC acumulan $1.9B en la semana del 18-22 agosto ($2.6B sumando ETH), mejor semana desde octubre 2025. IBIT capto $503M el miercoles 20 agosto (83% del dia). Activos netos combinados suben 25.4% a $96.1B. Actualiza: recuperacion de ETF post-13/14 agosto. Categoria: ETF</description>
+      <pubDate>Sun, 23 Aug 2026 11:08:56 +0000</pubDate>
+      <category>ETF</category>
     </item>
-
     <item>
-      <title>[BAJA][Técnico] ACTUALIZACIÓN: eCash fork ejecutado — exchanges evitan listar ECX, XEC (Bitcoin Cash ABC) cae 14%, mainnet real postergada al 31 oct</title>
-      <link>https://cryptonews.net/news/bitcoin/32786595/</link>
-      <guid isPermaLink="false">ecash-hard-fork-sztorc-block-964000-august-2026#upd-2026-08-22</guid>
-      <description>El hard fork de Paul Sztorc se ejecutó el 21 agosto en bloque ~964.000. Ningún exchange grande se comprometió a listar ECX. XEC (Bitcoin Cash ABC) cayó 14% por confusión de nombres. Mainnet producción agendada para bloque ~973.728 (~31 oct). La cadena principal BTC no fue afectada. Categoría: BIP/Fork</description>
-      <pubDate>Sat, 22 Aug 2026 11:08:04 +0000</pubDate>
-      <category>BIP/Fork</category>
+      <title>[MEDIA][Mercado] Harvard endowment 13F Q2: detiene racha vendedora, mantiene $101.4M en IBIT</title>
+      <link>https://www.tftc.io/harvard-management-ibit-bitcoin-etf-q2-2026</link>
+      <guid isPermaLink="false">harvard-endowment-ibit-q2-2026-holds-steady</guid>
+      <description>Harvard Management Company (HMC) mantiene 3.044.612 acciones IBIT (~$101.4M) en Q2 2026 sin cambios, deteniendo dos trimestres consecutivos de ventas (habia recortado 43% en Q1 2026 desde un pico de $443M en Q3 2025). Primera vez que la dotacion de Harvard no reduce su posicion en Bitcoin ETF. Categoria: Ballenas</description>
+      <pubDate>Sun, 23 Aug 2026 11:08:56 +0000</pubDate>
+      <category>Ballenas</category>
     </item>
-
     <item>
-      <title>[BAJA][Técnico] Bitcoin Core v32 entra en feature freeze el 20 agosto — rc1 el 10 sept, release final el 10 oct</title>
-      <link>https://cryptoslate.com/merge-conflicts-and-unencrypted-traffic-risks-loom-as-bitcoin-core-prepares-to-lock-down-new-node-features-on-thursday/</link>
-      <guid isPermaLink="false">bitcoin-core-v32-feature-freeze-august-2026</guid>
-      <description>Bitcoin Core cerró su ventana de nuevas funcionalidades para v32.0 el 20 agosto. Solo se aceptan bug fixes. Las 17 mejoras pendientes incluyen compatibilidad de wallets con Miniscript legacy, estimador de fees revisado y opción de rechazar conexiones clearnet sin cifrar. rc1 previsto el 10 sept, v32.0 final el 10 oct. Categoría: Core/Release</description>
-      <pubDate>Sat, 22 Aug 2026 11:08:04 +0000</pubDate>
-      <category>Core/Release</category>
+      <title>[BAJA][Tecnico] Bitcoin difficulty adjustment -3% el 23 agosto — hashrate estabiliza en ~860 EH/s</title>
+      <link>https://www.coinwarz.com/bitcoin-difficulty</link>
+      <guid isPermaLink="false">bitcoin-difficulty-adjustment-minus3pct-august23-2026</guid>
+      <description>El ajuste de dificultad del periodo (bloques 963.648-965.664) se proyecta en -3%, coherente con el hashrate en 850-870 EH/s y el pivot de mineros a AI/HPC. La dificultad quedaria en ~123-124T, cerca de los minimos del anio. Categoria: Mineria/AI</description>
+      <pubDate>Sun, 23 Aug 2026 11:08:56 +0000</pubDate>
+      <category>Mineria/AI</category>
     </item>
-
   </channel>
 </rss>

@@ -1005,11 +1005,12 @@
       "title": "ETF spot BTC: $188.7M de salidas netas en dos días (13-14 agosto) tras semana récord",
       "url": "https://cryptorank.io/news/feed/d8f5c-bitcoin-etf-outflows-august-13",
       "first_seen": "2026-08-15",
-      "last_update": "2026-08-19",
+      "last_update": "2026-08-23",
       "updates": [
         "2026-08-16",
         "2026-08-17",
-        "2026-08-19"
+        "2026-08-19",
+        "2026-08-23"
       ]
     },
     {
@@ -1149,6 +1150,24 @@
       "first_seen": "2026-08-22",
       "eje": "Técnico",
       "category": "Core/Release",
+      "relevancia": "Baja"
+    },
+    {
+      "id": "harvard-endowment-ibit-q2-2026-holds-steady",
+      "title": "Harvard endowment 13F Q2: detiene racha vendedora, mantiene $101.4M en IBIT — primera vez en dos trimestres",
+      "url": "https://www.tftc.io/harvard-management-ibit-bitcoin-etf-q2-2026",
+      "first_seen": "2026-08-23",
+      "eje": "Mercado",
+      "category": "Ballenas",
+      "relevancia": "Media"
+    },
+    {
+      "id": "bitcoin-difficulty-adjustment-minus3pct-august23-2026",
+      "title": "Bitcoin: ajuste de dificultad −3% el 23 agosto — hashrate estabiliza en ~860 EH/s",
+      "url": "https://www.coinwarz.com/bitcoin-difficulty",
+      "first_seen": "2026-08-23",
+      "eje": "Técnico",
+      "category": "Minería/AI",
       "relevancia": "Baja"
     }
   ]
