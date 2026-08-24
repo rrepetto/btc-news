@@ -1018,11 +1018,12 @@
       "title": "Trump convoca cumbre crypto en la Casa Blanca el 19 agosto — lista completa: SEC, CFTC, Treasury, Coinbase, Ripple, Gemini, NYSE, Nasdaq, a16z",
       "url": "https://news.bitcoin.com/crypto-news/white-house-crypto-meeting-trump-coinbase-ripple-august-19/",
       "first_seen": "2026-08-16",
-      "last_update": "2026-08-21",
+      "last_update": "2026-08-24",
       "updates": [
         "2026-08-17",
         "2026-08-19",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-24"
       ],
       "eje": "Geo/Regulación",
       "category": "Geopolítica",
@@ -1169,6 +1170,36 @@
       "eje": "Técnico",
       "category": "Minería/AI",
       "relevancia": "Baja"
+    },
+    {
+      "id": "standard-chartered-bitcoin-126k-year-end-forecast-august-2026",
+      "title": "Standard Chartered: objetivo $100K 'demasiado bajo' — BTC podría retestar ATH de $126K antes de fin de año",
+      "url": "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low",
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "mystery-whale-7700btc-576m-sale-august-2026",
+      "title": "Ballena misteriosa vende 7.700 BTC ($576M) durante el rally post-$79K — toma de ganancias on-chain",
+      "url": "https://news.bitcoin.com/crypto-news/bitcoin-whale-sells-576-million-btc-nears-80k/",
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "coinshares-wgmi-rename-bitcoin-mining-digital-power-etf-2026",
+      "title": "CoinShares renombra ETF WGMI a 'Bitcoin Mining and Digital Power ETF' — sello del pivote minería→AI",
+      "url": "https://www.globenewswire.com/news-release/2026/08/18/3346679/0/en/coinshares-renames-wgmi-as-bitcoin-mining-and-digital-power-etf-reflecting-the-convergence-of-bitcoin-mining-and-ai-infrastructure.html",
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "trump-cftc-hyperliquid-onshore-us-august-2026",
+      "title": "Trump anuncia CFTC trabaja para traer Hyperliquid a EE.UU. en forma regulada — HYPE +17%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/trump-opens-door-to-hyperliquid-as-us-pulls-crypto-trade-onshore",
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "coinbase-armstrong-clarity-act-60votes-september-2026",
+      "title": "Armstrong (Coinbase) predice >60 votos en cloture CLARITY Act del 15 septiembre",
+      "url": "https://www.cbsnews.com/news/coinbase-ceo-clarity-act-crypto-protection/",
+      "first_seen": "2026-08-24"
     }
   ]
 }

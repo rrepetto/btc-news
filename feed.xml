@@ -5,30 +5,46 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 23 Aug 2026 11:08:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:13:23 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][Mercado] [ACTUALIZACION] ETF spot de Bitcoin: semana de $2.6B netos (18-22 agosto) — mejor semana desde octubre 2025</title>
-      <link>https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531</link>
-      <guid isPermaLink="false">bitcoin-etf-outflows-131m-57m-august-13-14-2026#upd-2026-08-23</guid>
-      <description>ETFs spot BTC acumulan $1.9B en la semana del 18-22 agosto ($2.6B sumando ETH), mejor semana desde octubre 2025. IBIT capto $503M el miercoles 20 agosto (83% del dia). Activos netos combinados suben 25.4% a $96.1B. Actualiza: recuperacion de ETF post-13/14 agosto. Categoria: ETF</description>
-      <pubDate>Sun, 23 Aug 2026 11:08:56 +0000</pubDate>
-      <category>ETF</category>
+      <title>[MEDIA][Mercado] Standard Chartered: objetivo $100K "demasiado bajo" — BTC podría retestar ATH de $126K</title>
+      <link>https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low</link>
+      <guid isPermaLink="false">standard-chartered-bitcoin-126k-year-end-forecast-august-2026</guid>
+      <description>Geoff Kendrick (Standard Chartered) afirma que su pronóstico de $100K para fin de 2026 podría quedar corto y que BTC podría retestar su ATH de ~$126K, citando recuperación de flujos en ETF y bajo open interest. Categoría: Figuras/Mercado</description>
+      <pubDate>Mon, 24 Aug 2026 11:13:23 +0000</pubDate>
+      <category>Figuras</category>
     </item>
     <item>
-      <title>[MEDIA][Mercado] Harvard endowment 13F Q2: detiene racha vendedora, mantiene $101.4M en IBIT</title>
-      <link>https://www.tftc.io/harvard-management-ibit-bitcoin-etf-q2-2026</link>
-      <guid isPermaLink="false">harvard-endowment-ibit-q2-2026-holds-steady</guid>
-      <description>Harvard Management Company (HMC) mantiene 3.044.612 acciones IBIT (~$101.4M) en Q2 2026 sin cambios, deteniendo dos trimestres consecutivos de ventas (habia recortado 43% en Q1 2026 desde un pico de $443M en Q3 2025). Primera vez que la dotacion de Harvard no reduce su posicion en Bitcoin ETF. Categoria: Ballenas</description>
-      <pubDate>Sun, 23 Aug 2026 11:08:56 +0000</pubDate>
-      <category>Ballenas</category>
+      <title>[MEDIA][Mercado] Ballena misteriosa vende 7.700 BTC ($576M) durante el rally post-$79K</title>
+      <link>https://news.bitcoin.com/crypto-news/bitcoin-whale-sells-576-million-btc-nears-80k/</link>
+      <guid isPermaLink="false">mystery-whale-7700btc-576m-sale-august-2026</guid>
+      <description>Una wallet no identificada vendió 7.700 BTC (~$576,6M) entre el 19 y 22 de agosto, justo mientras BTC tocaba máximos de 2026 en ~$79.241. Toma de ganancias on-chain que contribuyó a frenar la ruptura de los $80K. Categoría: On-chain/Ballenas</description>
+      <pubDate>Mon, 24 Aug 2026 11:13:23 +0000</pubDate>
+      <category>On-chain</category>
     </item>
     <item>
-      <title>[BAJA][Tecnico] Bitcoin difficulty adjustment -3% el 23 agosto — hashrate estabiliza en ~860 EH/s</title>
-      <link>https://www.coinwarz.com/bitcoin-difficulty</link>
-      <guid isPermaLink="false">bitcoin-difficulty-adjustment-minus3pct-august23-2026</guid>
-      <description>El ajuste de dificultad del periodo (bloques 963.648-965.664) se proyecta en -3%, coherente con el hashrate en 850-870 EH/s y el pivot de mineros a AI/HPC. La dificultad quedaria en ~123-124T, cerca de los minimos del anio. Categoria: Mineria/AI</description>
-      <pubDate>Sun, 23 Aug 2026 11:08:56 +0000</pubDate>
-      <category>Mineria/AI</category>
+      <title>[MEDIA][Geo] ACTUALIZACIÓN: CFTC trabaja para traer Hyperliquid a EE.UU. — Trump lo anunció el 19 agosto</title>
+      <link>https://www.bloomberg.com/news/articles/2026-08-19/trump-opens-door-to-hyperliquid-as-us-pulls-crypto-trade-onshore</link>
+      <guid isPermaLink="false">trump-cftc-hyperliquid-onshore-us-august-2026</guid>
+      <description>Trump declaró el 19 de agosto que el CFTC trabaja para habilitar al DEX Hyperliquid (~$200B volumen) en EE.UU. en forma completamente regulada. HYPE subió 17%. Sin aprobación formal ni diseño KYC publicado aún. Categoría: Regulación</description>
+      <pubDate>Mon, 24 Aug 2026 11:13:23 +0000</pubDate>
+      <category>Regulación</category>
+    </item>
+    <item>
+      <title>[MEDIA][Geo] ACTUALIZACIÓN: Armstrong (Coinbase) predice &gt;60 votos en cloture CLARITY Act del 15 septiembre</title>
+      <link>https://www.cbsnews.com/news/coinbase-ceo-clarity-act-crypto-protection/</link>
+      <guid isPermaLink="false">coinbase-armstrong-clarity-act-60votes-september-2026</guid>
+      <description>Coinbase CEO Brian Armstrong dijo en CBS News (20 agosto) que la CLARITY Act recibirá más de 60 votos en el cloture del 15 de septiembre. Odds en Polymarket: ~19,5%. Categoría: Regulación/Figuras</description>
+      <pubDate>Mon, 24 Aug 2026 11:13:23 +0000</pubDate>
+      <category>Regulación</category>
+    </item>
+    <item>
+      <title>[BAJA][Geo] CoinShares renombra ETF WGMI a "Bitcoin Mining and Digital Power ETF"</title>
+      <link>https://www.globenewswire.com/news-release/2026/08/18/3346679/0/en/coinshares-renames-wgmi-as-bitcoin-mining-and-digital-power-etf-reflecting-the-convergence-of-bitcoin-mining-and-ai-infrastructure.html</link>
+      <guid isPermaLink="false">coinshares-wgmi-rename-bitcoin-mining-digital-power-etf-2026</guid>
+      <description>CoinShares rebautizó su ETF de minería WGMI el 18 agosto para reflejar el pivote del sector hacia AI/HPC. Señal cultural del cambio estructural: minería y datacenter AI compiten por la misma infraestructura eléctrica. Categoría: Minería/AI</description>
+      <pubDate>Mon, 24 Aug 2026 11:13:23 +0000</pubDate>
+      <category>Minería/AI</category>
     </item>
   </channel>
 </rss>
