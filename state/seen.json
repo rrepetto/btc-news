@@ -601,7 +601,7 @@
       "title": "Strategy acumula 4 semanas sin comprar BTC — vende $263.5M en acciones MSTR, reserva USD sube a $3.225B",
       "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion",
       "first_seen": "2026-07-23",
-      "last_update": "2026-08-18",
+      "last_update": "2026-08-25",
       "updates": [
         "2026-07-27",
         "2026-07-28",
@@ -609,7 +609,8 @@
         "2026-08-01",
         "2026-08-03",
         "2026-08-04",
-        "2026-08-18"
+        "2026-08-18",
+        "2026-08-25"
       ]
     },
     {
@@ -993,11 +994,12 @@
       "title": "eCash hard fork de Paul Sztorc — bloque 964.000 el 21 agosto ~15:00 UTC (INMINENTE)",
       "url": "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
       "first_seen": "2026-08-15",
-      "last_update": "2026-08-22",
+      "last_update": "2026-08-25",
       "updates": [
         "2026-08-20",
         "2026-08-21",
-        "2026-08-22"
+        "2026-08-22",
+        "2026-08-25"
       ]
     },
     {
@@ -1200,6 +1202,33 @@
       "title": "Armstrong (Coinbase) predice >60 votos en cloture CLARITY Act del 15 septiembre",
       "url": "https://www.cbsnews.com/news/coinbase-ceo-clarity-act-crypto-protection/",
       "first_seen": "2026-08-24"
+    },
+    {
+      "id": "bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026",
+      "title": "Bitcoin ETF acumula 7 días consecutivos de entradas — $2.5B+ y BTC en máximo de 3 meses ($80K)",
+      "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
+      "eje": "Mercado",
+      "category": "ETF",
+      "relevancia": "Alta",
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "cftc-chair-unilateral-crypto-rules-clarity-act-stall-2026",
+      "title": "CFTC amenaza con emitir reglas cripto propias si el CLARITY Act fracasa en el Congreso",
+      "url": "https://www.americanbanker.com/news/cftc-chair-to-issue-crypto-rules-if-congress-stalls-on-clarity",
+      "eje": "Geo/Regulación",
+      "category": "Regulación",
+      "relevancia": "Alta",
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "bitcoin-whale-40100-btc-2-6b-accumulation-nine-days-august-2026",
+      "title": "Ballenas acumulan 40,100 BTC ($2.6B) en 9 días — transferencia de manos de minoristas a grandes tenedores",
+      "url": "https://beincrypto.com/bitcoin-whales-233m-etf-august-analysis/",
+      "eje": "Mercado",
+      "category": "On-chain",
+      "relevancia": "Media",
+      "first_seen": "2026-08-25"
     }
   ]
 }
