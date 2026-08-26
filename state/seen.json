@@ -1144,7 +1144,11 @@
       "first_seen": "2026-08-21",
       "eje": "Mercado",
       "category": "Ballenas",
-      "relevancia": "Alta"
+      "relevancia": "Alta",
+      "last_update": "2026-08-26",
+      "updates": [
+        "2026-08-26"
+      ]
     },
     {
       "id": "bitcoin-core-v32-feature-freeze-august-2026",
@@ -1210,7 +1214,11 @@
       "eje": "Mercado",
       "category": "ETF",
       "relevancia": "Alta",
-      "first_seen": "2026-08-25"
+      "first_seen": "2026-08-25",
+      "last_update": "2026-08-26",
+      "updates": [
+        "2026-08-26"
+      ]
     },
     {
       "id": "cftc-chair-unilateral-crypto-rules-clarity-act-stall-2026",
@@ -1229,6 +1237,15 @@
       "category": "On-chain",
       "relevancia": "Media",
       "first_seen": "2026-08-25"
+    },
+    {
+      "id": "jackson-hole-2026-warsh-first-keynote-august-28",
+      "title": "Jackson Hole 2026: Warsh da su primer keynote como presidente de la Fed el viernes 28 — tema incluye criptomonedas y pagos digitales",
+      "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-traders-watch-jackson-hole-as-kevin-warsh-prepares-first-fed-keynote/",
+      "eje": "Geo/Regulación",
+      "category": "Macro",
+      "relevancia": "Alta",
+      "first_seen": "2026-08-26"
     }
   ]
 }

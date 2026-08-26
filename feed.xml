@@ -5,46 +5,34 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:15:43 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Mercado] Bitcoin ETF acumula 7 días consecutivos de entradas — $2.5B+ y BTC en máximo de 3 meses ($80K)</title>
-      <link>https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000</link>
-      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026</guid>
-      <description>Bitcoin ETF acumula 7 días consecutivos de entradas — $2.5B+ y BTC en máximo de 3 meses ($80K) | Categoría: ETF</description>
-      <pubDate>Tue, 25 Aug 2026 11:05:15 +0000</pubDate>
+      <title>[ALTA][Geo] Jackson Hole 2026: Warsh da su primer keynote como presidente de la Fed el viernes 28 — tema incluye criptomonedas y pagos digitales</title>
+      <link>https://www.newsbtc.com/news/bitcoin/bitcoin-traders-watch-jackson-hole-as-kevin-warsh-prepares-first-fed-keynote/</link>
+      <guid isPermaLink="false">jackson-hole-2026-warsh-first-keynote-august-28</guid>
+      <description>El Simposio de Jackson Hole (27-29 agosto) tiene como tema &quot;Financial Innovation: Implications for Payments and Policy&quot;, con mención explícita a criptomonedas y pagos digitales. Con inflación en 3,4%, BTC retrocediendo a $79K desde su pico de $81K, y odds de suba de tasas en el FOMC del 16 de septiembre al ~33%, el mercado crypto está en alerta máxima. Primer keynote de Warsh como Fed Chair. Categoría: Macro</description>
+      <pubDate>Wed, 26 Aug 2026 11:15:43 +0000</pubDate>
+      <category>Macro</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado][ACTUALIZACIÓN] ETF spot BTC — racha se extiende a 8 días, agosto supera $3B en entradas netas</title>
+      <link>https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion</link>
+      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-08-26</guid>
+      <description>El martes 25 de agosto se añadieron $314,37M adicionales, llevando la racha de ingresos consecutivos a al menos 8 días y el total neto de agosto a $3,03B, el mes más fuerte de 2026. AUM total: $99,05B; acumulado histórico: $54,36B. Cobertura previa: 25 agosto — 7 días consecutivos y $2,5B+ en entradas. Categoría: ETF</description>
+      <pubDate>Wed, 26 Aug 2026 11:15:43 +0000</pubDate>
       <category>ETF</category>
     </item>
+
     <item>
-      <title>[ALTA][Geo] CFTC amenaza con emitir reglas cripto propias si el CLARITY Act fracasa en el Congreso</title>
-      <link>https://www.americanbanker.com/news/cftc-chair-to-issue-crypto-rules-if-congress-stalls-on-clarity</link>
-      <guid isPermaLink="false">cftc-chair-unilateral-crypto-rules-clarity-act-stall-2026</guid>
-      <description>CFTC amenaza con emitir reglas cripto propias si el CLARITY Act fracasa en el Congreso | Categoría: Regulación</description>
-      <pubDate>Tue, 25 Aug 2026 11:05:15 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[BAJA][Mercado][ACTUALIZACIÓN] Metaplanet mueve 1.000 BTC a Coinbase Prime — sin venta confirmada</title>
+      <link>https://news.bitcoin.com/crypto-news/metaplanet-1000-btc-coinbase-prime-custody/</link>
+      <guid isPermaLink="false">metaplanet-superplanet-us-treasury-super-league-august-2026#upd-2026-08-26</guid>
+      <description>On-chain: Metaplanet depositó 1.000 BTC (~$79,77M) en Coinbase Prime el 25 de agosto. Sin venta confirmada; puede ser gestión de colateral para la adquisición de Super League Enterprise (2.100 BTC anunciados el 18 agosto) o custodia institucional. Holdings totales: 43.000 BTC. Cobertura previa: 21 agosto — Metaplanet adquiere Super League y lanza Superplanet en EE.UU. Categoría: Ballenas</description>
+      <pubDate>Wed, 26 Aug 2026 11:15:43 +0000</pubDate>
+      <category>Ballenas</category>
     </item>
-    <item>
-      <title>[MEDIA][Mercado] Ballenas acumulan 40,100 BTC ($2.6B) en 9 días — transferencia de manos de minoristas a grandes tenedores</title>
-      <link>https://beincrypto.com/bitcoin-whales-233m-etf-august-analysis/</link>
-      <guid isPermaLink="false">bitcoin-whale-40100-btc-2-6b-accumulation-nine-days-august-2026</guid>
-      <description>Ballenas acumulan 40,100 BTC ($2.6B) en 9 días — transferencia de manos de minoristas a grandes tenedores | Categoría: On-chain</description>
-      <pubDate>Tue, 25 Aug 2026 11:05:15 +0000</pubDate>
-      <category>On-chain</category>
-    </item>
-    <item>
-      <title>[MEDIA][Geo][ACTUALIZACIÓN] Strategy acumula 4 semanas sin comprar BTC — vende $263.5M en acciones MSTR, reserva USD sube a $3.225B</title>
-      <link>https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion</link>
-      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-08-25</guid>
-      <description>Strategy acumula 4 semanas sin comprar BTC — vende $263.5M en acciones MSTR, reserva USD sube a $3.225B</description>
-      <pubDate>Tue, 25 Aug 2026 11:05:15 +0000</pubDate>
-      <category></category>
-    </item>
-    <item>
-      <title>[MEDIA][Geo][ACTUALIZACIÓN] eCash hard fork de Paul Sztorc — bloque 964.000 el 21 agosto ~15:00 UTC (INMINENTE)</title>
-      <link>https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft</link>
-      <guid isPermaLink="false">ecash-hard-fork-sztorc-block-964000-august-2026#upd-2026-08-25</guid>
-      <description>eCash hard fork de Paul Sztorc — bloque 964.000 el 21 agosto ~15:00 UTC (INMINENTE)</description>
-      <pubDate>Tue, 25 Aug 2026 11:05:15 +0000</pubDate>
-      <category></category>
-    </item>
+
   </channel>
 </rss>
