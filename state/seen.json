@@ -1246,6 +1246,24 @@
       "category": "Macro",
       "relevancia": "Alta",
       "first_seen": "2026-08-26"
+    },
+    {
+      "id": "core-lightning-critical-vuln-shutdown-august-2026",
+      "title": "Core Lightning: vulnerabilidades críticas — operadores deben apagar nodos de inmediato; código embargado 14 días",
+      "url": "https://en.cryptonomist.ch/2026/08/27/bitcoin-lightning-security-alert/",
+      "first_seen": "2026-08-27",
+      "eje": "Técnico",
+      "category": "Core/Release",
+      "relevancia": "Alta"
+    },
+    {
+      "id": "lnd-reorg-channel-wipeout-vulnerability-august-2026",
+      "title": "LND: divulgada vulnerabilidad de wipeout total de canal vía reorganización de cadena — afecta versiones < 0.21.0",
+      "url": "https://cryptoslate.com/old-lightning-nodes-may-be-exposed-to-a-full-channel-wipeout-after-lnd-fix-lands-later-than-disclosed/",
+      "first_seen": "2026-08-27",
+      "eje": "Técnico",
+      "category": "Lightning",
+      "relevancia": "Media"
     }
   ]
 }

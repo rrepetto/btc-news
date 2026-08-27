@@ -5,34 +5,22 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:15:43 +0000</lastBuildDate>
-
+    <lastBuildDate>Thu, 27 Aug 2026 11:05:21 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][Geo] Jackson Hole 2026: Warsh da su primer keynote como presidente de la Fed el viernes 28 — tema incluye criptomonedas y pagos digitales</title>
-      <link>https://www.newsbtc.com/news/bitcoin/bitcoin-traders-watch-jackson-hole-as-kevin-warsh-prepares-first-fed-keynote/</link>
-      <guid isPermaLink="false">jackson-hole-2026-warsh-first-keynote-august-28</guid>
-      <description>El Simposio de Jackson Hole (27-29 agosto) tiene como tema &quot;Financial Innovation: Implications for Payments and Policy&quot;, con mención explícita a criptomonedas y pagos digitales. Con inflación en 3,4%, BTC retrocediendo a $79K desde su pico de $81K, y odds de suba de tasas en el FOMC del 16 de septiembre al ~33%, el mercado crypto está en alerta máxima. Primer keynote de Warsh como Fed Chair. Categoría: Macro</description>
-      <pubDate>Wed, 26 Aug 2026 11:15:43 +0000</pubDate>
-      <category>Macro</category>
+      <title>[ALTA][Técnico] Core Lightning: vulnerabilidades críticas — operadores deben apagar nodos de inmediato; código embargado 14 días</title>
+      <link>https://en.cryptonomist.ch/2026/08/27/bitcoin-lightning-security-alert/</link>
+      <guid isPermaLink="false">core-lightning-critical-vuln-shutdown-august-2026</guid>
+      <description>El equipo de Core Lightning confirmó vulnerabilidades críticas (CVEs generados con IA, validados desde el 13 de agosto) y pidió a todos los operadores apagar nodos o activar --offline hasta recibir binarios firmados (~48h). El código fuente del parche queda embargado 14 días para evitar que atacantes lo estudien antes de que la red migre. Segunda alerta crítica de Lightning en agosto. Categoría: Core/Release</description>
+      <pubDate>Thu, 27 Aug 2026 11:05:21 +0000</pubDate>
+      <category>Core/Release</category>
     </item>
-
     <item>
-      <title>[MEDIA][Mercado][ACTUALIZACIÓN] ETF spot BTC — racha se extiende a 8 días, agosto supera $3B en entradas netas</title>
-      <link>https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion</link>
-      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-08-26</guid>
-      <description>El martes 25 de agosto se añadieron $314,37M adicionales, llevando la racha de ingresos consecutivos a al menos 8 días y el total neto de agosto a $3,03B, el mes más fuerte de 2026. AUM total: $99,05B; acumulado histórico: $54,36B. Cobertura previa: 25 agosto — 7 días consecutivos y $2,5B+ en entradas. Categoría: ETF</description>
-      <pubDate>Wed, 26 Aug 2026 11:15:43 +0000</pubDate>
-      <category>ETF</category>
+      <title>[MEDIA][Técnico] LND: divulgada vulnerabilidad de wipeout total de canal vía reorganización de cadena — afecta versiones &lt; 0.21.0</title>
+      <link>https://cryptoslate.com/old-lightning-nodes-may-be-exposed-to-a-full-channel-wipeout-after-lnd-fix-lands-later-than-disclosed/</link>
+      <guid isPermaLink="false">lnd-reorg-channel-wipeout-vulnerability-august-2026</guid>
+      <description>Nodos LND anteriores a v0.21.0 son vulnerables a la pérdida total del saldo de un canal: un peer malicioso combina una reorg de un bloque con una transacción de cierre revocada para reclamar los fondos. Fix disponible en LND 0.21.0 (junio 2026); divulgación pública el 26 de agosto, más tarde de lo indicado en documentación original. No afecta CLN, LDK ni otras implementaciones. Categoría: Lightning</description>
+      <pubDate>Thu, 27 Aug 2026 11:05:21 +0000</pubDate>
+      <category>Lightning</category>
     </item>
-
-    <item>
-      <title>[BAJA][Mercado][ACTUALIZACIÓN] Metaplanet mueve 1.000 BTC a Coinbase Prime — sin venta confirmada</title>
-      <link>https://news.bitcoin.com/crypto-news/metaplanet-1000-btc-coinbase-prime-custody/</link>
-      <guid isPermaLink="false">metaplanet-superplanet-us-treasury-super-league-august-2026#upd-2026-08-26</guid>
-      <description>On-chain: Metaplanet depositó 1.000 BTC (~$79,77M) en Coinbase Prime el 25 de agosto. Sin venta confirmada; puede ser gestión de colateral para la adquisición de Super League Enterprise (2.100 BTC anunciados el 18 agosto) o custodia institucional. Holdings totales: 43.000 BTC. Cobertura previa: 21 agosto — Metaplanet adquiere Super League y lanza Superplanet en EE.UU. Categoría: Ballenas</description>
-      <pubDate>Wed, 26 Aug 2026 11:15:43 +0000</pubDate>
-      <category>Ballenas</category>
-    </item>
-
   </channel>
 </rss>
