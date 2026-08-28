@@ -5,22 +5,38 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 27 Aug 2026 11:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:08:11 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][Técnico] Core Lightning: vulnerabilidades críticas — operadores deben apagar nodos de inmediato; código embargado 14 días</title>
-      <link>https://en.cryptonomist.ch/2026/08/27/bitcoin-lightning-security-alert/</link>
-      <guid isPermaLink="false">core-lightning-critical-vuln-shutdown-august-2026</guid>
-      <description>El equipo de Core Lightning confirmó vulnerabilidades críticas (CVEs generados con IA, validados desde el 13 de agosto) y pidió a todos los operadores apagar nodos o activar --offline hasta recibir binarios firmados (~48h). El código fuente del parche queda embargado 14 días para evitar que atacantes lo estudien antes de que la red migre. Segunda alerta crítica de Lightning en agosto. Categoría: Core/Release</description>
-      <pubDate>Thu, 27 Aug 2026 11:05:21 +0000</pubDate>
+      <title>[ALTA][Técnico] Core Lightning: consejo revisado — NO apagar nodos, esperar patch firmado en ~48 horas [ACTUALIZACIÓN]</title>
+      <link>https://www.cryptopolitan.com/core-lightning-ai-bugs-nodes-stay-online/</link>
+      <guid isPermaLink="false">core-lightning-critical-vuln-shutdown-august-2026#upd-2026-08-28</guid>
+      <description>CLN aclaró hoy que apagar nodos NO es necesario: reiniciar con --offline o esperar el patch firmado (~48h). El embargo de 14 días levanta la semana del 9 de septiembre. Cambio sustancial respecto al aviso de emergencia del 27 de agosto. Categoría: Core/Release / Lightning</description>
+      <pubDate>Fri, 28 Aug 2026 11:08:11 +0000</pubDate>
       <category>Core/Release</category>
     </item>
     <item>
-      <title>[MEDIA][Técnico] LND: divulgada vulnerabilidad de wipeout total de canal vía reorganización de cadena — afecta versiones &lt; 0.21.0</title>
-      <link>https://cryptoslate.com/old-lightning-nodes-may-be-exposed-to-a-full-channel-wipeout-after-lnd-fix-lands-later-than-disclosed/</link>
-      <guid isPermaLink="false">lnd-reorg-channel-wipeout-vulnerability-august-2026</guid>
-      <description>Nodos LND anteriores a v0.21.0 son vulnerables a la pérdida total del saldo de un canal: un peer malicioso combina una reorg de un bloque con una transacción de cierre revocada para reclamar los fondos. Fix disponible en LND 0.21.0 (junio 2026); divulgación pública el 26 de agosto, más tarde de lo indicado en documentación original. No afecta CLN, LDK ni otras implementaciones. Categoría: Lightning</description>
-      <pubDate>Thu, 27 Aug 2026 11:05:21 +0000</pubDate>
-      <category>Lightning</category>
+      <title>[ALTA][Geo] Jackson Hole 2026: Warsh da hoy su primer keynote como presidente de la Fed — tema: innovación financiera y pagos digitales [ACTUALIZACIÓN]</title>
+      <link>https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold</link>
+      <guid isPermaLink="false">jackson-hole-2026-warsh-first-keynote-august-28#upd-2026-08-28</guid>
+      <description>Primera vez en la historia que Jackson Hole centra su simposio en pagos digitales y FinTech. Warsh habla hoy 28 de agosto con BTC en $80.000. Mercado busca señales sobre stablecoins y tasas (FOMC 16 sept, ~40% prob. de recorte). Categoría: Macro / Geopolítica</description>
+      <pubDate>Fri, 28 Aug 2026 11:08:11 +0000</pubDate>
+      <category>Macro</category>
+    </item>
+    <item>
+      <title>[MEDIA][Mercado] ETF spot BTC: 9 días consecutivos de entradas — agosto supera $3B, mejor mes del año 2026 [ACTUALIZACIÓN]</title>
+      <link>https://beincrypto.com/bitcoin-etf-inflow-streak-nine-days/</link>
+      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-08-28</guid>
+      <description>El 27 de agosto sumaron $242M (9° día consecutivo). Agosto acumula &gt;$3B en flujos netos — el mejor mes de 2026, casi el doble de abril. Categoría: ETF</description>
+      <pubDate>Fri, 28 Aug 2026 11:08:11 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+    <item>
+      <title>[BAJA][Mercado] Hashdex DEFI ETF: liquidación completada hoy (28 agosto) [ACTUALIZACIÓN]</title>
+      <link>https://primexbt.com/news/hashdex-to-liquidate-its-defi-bitcoin-etf-after-aug-17-deadline-cash-payout-due/</link>
+      <guid isPermaLink="false">hashdex-defi-etf-closure-august-2026#upd-2026-08-28</guid>
+      <description>Hoy vence el plazo final de pago en efectivo del primer ETF spot de Bitcoin que cerró en EE.UU. (AUM ~$14.7M). Cierra el ciclo del proceso iniciado el 17 de agosto. Categoría: ETF</description>
+      <pubDate>Fri, 28 Aug 2026 11:08:11 +0000</pubDate>
+      <category>ETF</category>
     </item>
   </channel>
 </rss>

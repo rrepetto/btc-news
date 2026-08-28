@@ -785,9 +785,10 @@
       "title": "Hashdex DEFI ETF: último día de trading el 17 agosto — primer cierre de un ETF spot BTC en EE.UU.; liquidación el 28 agosto",
       "url": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
       "first_seen": "2026-08-05",
-      "last_update": "2026-08-17",
+      "last_update": "2026-08-28",
       "updates": [
-        "2026-08-17"
+        "2026-08-17",
+        "2026-08-28"
       ],
       "eje": "Mercado",
       "category": "ETF",
@@ -1215,9 +1216,10 @@
       "category": "ETF",
       "relevancia": "Alta",
       "first_seen": "2026-08-25",
-      "last_update": "2026-08-26",
+      "last_update": "2026-08-28",
       "updates": [
-        "2026-08-26"
+        "2026-08-26",
+        "2026-08-28"
       ]
     },
     {
@@ -1245,7 +1247,11 @@
       "eje": "Geo/Regulación",
       "category": "Macro",
       "relevancia": "Alta",
-      "first_seen": "2026-08-26"
+      "first_seen": "2026-08-26",
+      "updates": [
+        "2026-08-28"
+      ],
+      "last_update": "2026-08-28"
     },
     {
       "id": "core-lightning-critical-vuln-shutdown-august-2026",
@@ -1254,7 +1260,11 @@
       "first_seen": "2026-08-27",
       "eje": "Técnico",
       "category": "Core/Release",
-      "relevancia": "Alta"
+      "relevancia": "Alta",
+      "updates": [
+        "2026-08-28"
+      ],
+      "last_update": "2026-08-28"
     },
     {
       "id": "lnd-reorg-channel-wipeout-vulnerability-august-2026",
