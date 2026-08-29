@@ -1216,10 +1216,11 @@
       "category": "ETF",
       "relevancia": "Alta",
       "first_seen": "2026-08-25",
-      "last_update": "2026-08-28",
+      "last_update": "2026-08-29",
       "updates": [
         "2026-08-26",
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ]
     },
     {
@@ -1229,7 +1230,11 @@
       "eje": "Geo/Regulación",
       "category": "Regulación",
       "relevancia": "Alta",
-      "first_seen": "2026-08-25"
+      "first_seen": "2026-08-25",
+      "updates": [
+        "2026-08-29"
+      ],
+      "last_update": "2026-08-29"
     },
     {
       "id": "bitcoin-whale-40100-btc-2-6b-accumulation-nine-days-august-2026",
@@ -1249,9 +1254,10 @@
       "relevancia": "Alta",
       "first_seen": "2026-08-26",
       "updates": [
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ],
-      "last_update": "2026-08-28"
+      "last_update": "2026-08-29"
     },
     {
       "id": "core-lightning-critical-vuln-shutdown-august-2026",
@@ -1262,9 +1268,10 @@
       "category": "Core/Release",
       "relevancia": "Alta",
       "updates": [
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ],
-      "last_update": "2026-08-28"
+      "last_update": "2026-08-29"
     },
     {
       "id": "lnd-reorg-channel-wipeout-vulnerability-august-2026",

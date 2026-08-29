@@ -5,38 +5,43 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 28 Aug 2026 11:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 11:07:26 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Técnico] Core Lightning: consejo revisado — NO apagar nodos, esperar patch firmado en ~48 horas [ACTUALIZACIÓN]</title>
-      <link>https://www.cryptopolitan.com/core-lightning-ai-bugs-nodes-stay-online/</link>
-      <guid isPermaLink="false">core-lightning-critical-vuln-shutdown-august-2026#upd-2026-08-28</guid>
-      <description>CLN aclaró hoy que apagar nodos NO es necesario: reiniciar con --offline o esperar el patch firmado (~48h). El embargo de 14 días levanta la semana del 9 de septiembre. Cambio sustancial respecto al aviso de emergencia del 27 de agosto. Categoría: Core/Release / Lightning</description>
-      <pubDate>Fri, 28 Aug 2026 11:08:11 +0000</pubDate>
-      <category>Core/Release</category>
-    </item>
-    <item>
-      <title>[ALTA][Geo] Jackson Hole 2026: Warsh da hoy su primer keynote como presidente de la Fed — tema: innovación financiera y pagos digitales [ACTUALIZACIÓN]</title>
-      <link>https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold</link>
-      <guid isPermaLink="false">jackson-hole-2026-warsh-first-keynote-august-28#upd-2026-08-28</guid>
-      <description>Primera vez en la historia que Jackson Hole centra su simposio en pagos digitales y FinTech. Warsh habla hoy 28 de agosto con BTC en $80.000. Mercado busca señales sobre stablecoins y tasas (FOMC 16 sept, ~40% prob. de recorte). Categoría: Macro / Geopolítica</description>
-      <pubDate>Fri, 28 Aug 2026 11:08:11 +0000</pubDate>
+      <title>[ALTA][Geo] [ACTUALIZACIÓN] Jackson Hole 2026: Warsh hawkish — rate hike sobre la mesa, BTC cae 3%</title>
+      <link>https://coinspectator.com/cryptonews/2026/08/28/warshs-jackson-hole-speech-puts-rate-hike-on-the-table/</link>
+      <guid isPermaLink="false">jackson-hole-2026-warsh-first-keynote-august-28#upd-2026-08-29</guid>
+      <description>Warsh entregó su primer keynote como presidente de la Fed: declaró que la inflación sigue bien por encima del 2%, rechazó usar declaraciones de la Fed como orientación anticipada y puso una suba de tasas en discusión para el FOMC del 16 de septiembre. Bitcoin cayó 3,23% y el mercado cripto 2,97% tras el discurso. Categoría: Macro</description>
+      <pubDate>Sat, 29 Aug 2026 11:07:26 +0000</pubDate>
       <category>Macro</category>
     </item>
+
     <item>
-      <title>[MEDIA][Mercado] ETF spot BTC: 9 días consecutivos de entradas — agosto supera $3B, mejor mes del año 2026 [ACTUALIZACIÓN]</title>
-      <link>https://beincrypto.com/bitcoin-etf-inflow-streak-nine-days/</link>
-      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-08-28</guid>
-      <description>El 27 de agosto sumaron $242M (9° día consecutivo). Agosto acumula &gt;$3B en flujos netos — el mejor mes de 2026, casi el doble de abril. Categoría: ETF</description>
-      <pubDate>Fri, 28 Aug 2026 11:08:11 +0000</pubDate>
+      <title>[ALTA][Técnico] [ACTUALIZACIÓN] Core Lightning 26.06.7: patch de emergencia publicado — binarios firmados disponibles, código fuente bajo embargo hasta el 11 de septiembre</title>
+      <link>https://blog.blockstream.com/core-lightning-26-06-7/</link>
+      <guid isPermaLink="false">core-lightning-critical-vuln-shutdown-august-2026#upd-2026-08-29</guid>
+      <description>Los mantenedores de CLN publicaron la versión 26.06.7 como respuesta de emergencia a las vulnerabilidades críticas reportadas por IA el 26 de agosto. Binarios firmados ya disponibles en GitHub de ElementsProject; código fuente bajo embargo hasta el 11 de septiembre. Versión 26.09 planificada para septiembre. Categoría: Core/Release</description>
+      <pubDate>Sat, 29 Aug 2026 11:07:26 +0000</pubDate>
+      <category>Core/Release</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] ETF spot BTC: racha de 9 días termina con $202M de salidas — activos totales vuelven a caer bajo $100B</title>
+      <link>https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k</link>
+      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-08-29</guid>
+      <description>El 28 de agosto los ETFs spot de BTC registraron $201,8M en salidas netas, poniendo fin a la racha de 9 días. ARKB lideró con $114,9M, BITB con $49,7M. Activos totales bajaron de $100B+ a $97,6B. Balance de agosto sigue positivo en ~$3,3B. Categoría: ETF</description>
+      <pubDate>Sat, 29 Aug 2026 11:07:26 +0000</pubDate>
       <category>ETF</category>
     </item>
+
     <item>
-      <title>[BAJA][Mercado] Hashdex DEFI ETF: liquidación completada hoy (28 agosto) [ACTUALIZACIÓN]</title>
-      <link>https://primexbt.com/news/hashdex-to-liquidate-its-defi-bitcoin-etf-after-aug-17-deadline-cash-payout-due/</link>
-      <guid isPermaLink="false">hashdex-defi-etf-closure-august-2026#upd-2026-08-28</guid>
-      <description>Hoy vence el plazo final de pago en efectivo del primer ETF spot de Bitcoin que cerró en EE.UU. (AUM ~$14.7M). Cierra el ciclo del proceso iniciado el 17 de agosto. Categoría: ETF</description>
-      <pubDate>Fri, 28 Aug 2026 11:08:11 +0000</pubDate>
-      <category>ETF</category>
+      <title>[MEDIA][Geo] [ACTUALIZACIÓN] Clarity Act: Senado aplaza voto a septiembre — cloture vote el 15 de septiembre, necesita 60 votos</title>
+      <link>https://www.cryptopolitan.com/senate-delays-clarity-act-vote-until-sept/</link>
+      <guid isPermaLink="false">cftc-chair-unilateral-crypto-rules-clarity-act-stall-2026#upd-2026-08-29</guid>
+      <description>El Senado levantó sesión sin votar el CLARITY Act. Thune presentó moción de cloture para el 15 de septiembre (requiere 60 votos). Ventana muy estrecha: 14 días hábiles antes del receso de campaña de octubre. Tres puntos conflictivos sin resolver: ética, stablecoins y protecciones a desarrolladores. Categoría: Regulación</description>
+      <pubDate>Sat, 29 Aug 2026 11:07:26 +0000</pubDate>
+      <category>Regulación</category>
     </item>
+
   </channel>
 </rss>
