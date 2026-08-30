@@ -5,43 +5,22 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 29 Aug 2026 11:07:26 +0000</lastBuildDate>
-
+    <lastBuildDate>Sun, 30 Aug 2026 11:11:01 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACIÓN] Jackson Hole 2026: Warsh hawkish — rate hike sobre la mesa, BTC cae 3%</title>
-      <link>https://coinspectator.com/cryptonews/2026/08/28/warshs-jackson-hole-speech-puts-rate-hike-on-the-table/</link>
-      <guid isPermaLink="false">jackson-hole-2026-warsh-first-keynote-august-28#upd-2026-08-29</guid>
-      <description>Warsh entregó su primer keynote como presidente de la Fed: declaró que la inflación sigue bien por encima del 2%, rechazó usar declaraciones de la Fed como orientación anticipada y puso una suba de tasas en discusión para el FOMC del 16 de septiembre. Bitcoin cayó 3,23% y el mercado cripto 2,97% tras el discurso. Categoría: Macro</description>
-      <pubDate>Sat, 29 Aug 2026 11:07:26 +0000</pubDate>
-      <category>Macro</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Técnico] [ACTUALIZACIÓN] Core Lightning 26.06.7: patch de emergencia publicado — binarios firmados disponibles, código fuente bajo embargo hasta el 11 de septiembre</title>
-      <link>https://blog.blockstream.com/core-lightning-26-06-7/</link>
-      <guid isPermaLink="false">core-lightning-critical-vuln-shutdown-august-2026#upd-2026-08-29</guid>
-      <description>Los mantenedores de CLN publicaron la versión 26.06.7 como respuesta de emergencia a las vulnerabilidades críticas reportadas por IA el 26 de agosto. Binarios firmados ya disponibles en GitHub de ElementsProject; código fuente bajo embargo hasta el 11 de septiembre. Versión 26.09 planificada para septiembre. Categoría: Core/Release</description>
-      <pubDate>Sat, 29 Aug 2026 11:07:26 +0000</pubDate>
-      <category>Core/Release</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] ETF spot BTC: racha de 9 días termina con $202M de salidas — activos totales vuelven a caer bajo $100B</title>
-      <link>https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k</link>
-      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-08-29</guid>
-      <description>El 28 de agosto los ETFs spot de BTC registraron $201,8M en salidas netas, poniendo fin a la racha de 9 días. ARKB lideró con $114,9M, BITB con $49,7M. Activos totales bajaron de $100B+ a $97,6B. Balance de agosto sigue positivo en ~$3,3B. Categoría: ETF</description>
-      <pubDate>Sat, 29 Aug 2026 11:07:26 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Geo] [ACTUALIZACIÓN] Clarity Act: Senado aplaza voto a septiembre — cloture vote el 15 de septiembre, necesita 60 votos</title>
-      <link>https://www.cryptopolitan.com/senate-delays-clarity-act-vote-until-sept/</link>
-      <guid isPermaLink="false">cftc-chair-unilateral-crypto-rules-clarity-act-stall-2026#upd-2026-08-29</guid>
-      <description>El Senado levantó sesión sin votar el CLARITY Act. Thune presentó moción de cloture para el 15 de septiembre (requiere 60 votos). Ventana muy estrecha: 14 días hábiles antes del receso de campaña de octubre. Tres puntos conflictivos sin resolver: ética, stablecoins y protecciones a desarrolladores. Categoría: Regulación</description>
-      <pubDate>Sat, 29 Aug 2026 11:07:26 +0000</pubDate>
+      <title>[MEDIA][Geo] Irlanda + Europol desbloquean 500 BTC más de Clifton Collins — ya recuperaron 2.000 BTC del caché de 6.000</title>
+      <link>https://news.bitcoin.com/featured/ireland-moves-38m-in-bitcoin-tied-to-drug-dealers-lost-fishing-rod/</link>
+      <guid isPermaLink="false">ireland-cab-500-btc-clifton-collins-aug28-2026</guid>
+      <description>CAB transfirió 500 BTC (~$39,5M) a Coinbase Prime desde wallet de 2016 ligada al narcotraficante Clifton Collins. Es la tercera recuperación de un caché de 6.000 BTC cuyas claves privadas se perdieron. Europol aportó descifrado de alto nivel. En 2026, Irlanda recuperó 1.500 BTC (~$92M); total histórico: 2.000 BTC. Categoría: Regulación</description>
+      <pubDate>Sun, 30 Aug 2026 11:02:26 +0000</pubDate>
       <category>Regulación</category>
     </item>
-
+    <item>
+      <title>[BAJA][Geo] Armstrong (Coinbase CEO) rebaja pronóstico: BTC a $300K–$400K para 2030, desde $1M previo</title>
+      <link>https://cryptorank.io/news/feed/3fb9c-coinbase-ceo-says-bitcoin-will-hit-300000</link>
+      <guid isPermaLink="false">armstrong-coinbase-btc-300k-400k-2030-august-2026</guid>
+      <description>Brian Armstrong declaró en Fox Business que BTC llegará a $300K–$400K para 2030, reduciendo su estimación de $1M de 2025. Cita mejora regulatoria (CLARITY Act) y adopción institucional. Categoría: Figuras</description>
+      <pubDate>Sun, 30 Aug 2026 11:02:26 +0000</pubDate>
+      <category>Figuras</category>
+    </item>
   </channel>
 </rss>

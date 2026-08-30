@@ -1281,6 +1281,24 @@
       "eje": "Técnico",
       "category": "Lightning",
       "relevancia": "Media"
+    },
+    {
+      "id": "ireland-cab-500-btc-clifton-collins-aug28-2026",
+      "title": "Irlanda + Europol recuperan 500 BTC de Clifton Collins — 2.000 BTC total del caché de 6.000",
+      "url": "https://news.bitcoin.com/featured/ireland-moves-38m-in-bitcoin-tied-to-drug-dealers-lost-fishing-rod/",
+      "first_seen": "2026-08-30",
+      "eje": "Geo/Regulación",
+      "category": "Regulación",
+      "relevancia": "Media"
+    },
+    {
+      "id": "armstrong-coinbase-btc-300k-400k-2030-august-2026",
+      "title": "Armstrong (Coinbase CEO) rebaja pronóstico: BTC a $300K–$400K para 2030, desde $1M previo",
+      "url": "https://cryptorank.io/news/feed/3fb9c-coinbase-ceo-says-bitcoin-will-hit-300000",
+      "first_seen": "2026-08-30",
+      "eje": "Geo/Regulación",
+      "category": "Figuras",
+      "relevancia": "Baja"
     }
   ]
 }
