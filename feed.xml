@@ -5,22 +5,38 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:11:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:07:53 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA][Geo] Irlanda + Europol desbloquean 500 BTC más de Clifton Collins — ya recuperaron 2.000 BTC del caché de 6.000</title>
-      <link>https://news.bitcoin.com/featured/ireland-moves-38m-in-bitcoin-tied-to-drug-dealers-lost-fishing-rod/</link>
-      <guid isPermaLink="false">ireland-cab-500-btc-clifton-collins-aug28-2026</guid>
-      <description>CAB transfirió 500 BTC (~$39,5M) a Coinbase Prime desde wallet de 2016 ligada al narcotraficante Clifton Collins. Es la tercera recuperación de un caché de 6.000 BTC cuyas claves privadas se perdieron. Europol aportó descifrado de alto nivel. En 2026, Irlanda recuperó 1.500 BTC (~$92M); total histórico: 2.000 BTC. Categoría: Regulación</description>
-      <pubDate>Sun, 30 Aug 2026 11:02:26 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[ALTA][Macro] Barclays y SocGen pronostican DOS subas de tasas Fed en 2026</title>
+      <link>https://www.investing.com/news/economy-news/barclays-sees-two-more-fed-rate-hikes-this-year-after-warsh-speech-4882134</link>
+      <guid isPermaLink="false">jackson-hole-2026-warsh-first-keynote-august-28#upd-2026-08-31</guid>
+      <description>[ACTUALIZACIÓN] Tras el discurso hawkish de Warsh en Jackson Hole, Barclays y SocGen esperan alzas de 25 pb en septiembre y diciembre 2026. Probabilidad implícita en CME FedWatch saltó al 60.4% para septiembre. Primer cambio concreto de pronóstico de grandes bancos: impacto directo en liquidez para activos de riesgo como Bitcoin. Categoría: Macro</description>
+      <pubDate>Mon, 31 Aug 2026 11:07:53 +0000</pubDate>
+      <category>Macro</category>
     </item>
     <item>
-      <title>[BAJA][Geo] Armstrong (Coinbase CEO) rebaja pronóstico: BTC a $300K–$400K para 2030, desde $1M previo</title>
-      <link>https://cryptorank.io/news/feed/3fb9c-coinbase-ceo-says-bitcoin-will-hit-300000</link>
-      <guid isPermaLink="false">armstrong-coinbase-btc-300k-400k-2030-august-2026</guid>
-      <description>Brian Armstrong declaró en Fox Business que BTC llegará a $300K–$400K para 2030, reduciendo su estimación de $1M de 2025. Cita mejora regulatoria (CLARITY Act) y adopción institucional. Categoría: Figuras</description>
-      <pubDate>Sun, 30 Aug 2026 11:02:26 +0000</pubDate>
-      <category>Figuras</category>
+      <title>[ALTA][Técnico] Core Lightning lanza parche v26.06.7: actualizar ya</title>
+      <link>https://blog.blockstream.com/core-lightning-26-06-7/</link>
+      <guid isPermaLink="false">core-lightning-critical-vuln-shutdown-august-2026#upd-2026-08-31</guid>
+      <description>[ACTUALIZACIÓN] El 28 ago se publicaron binarios firmados del parche v26.06.7 que cierra múltiples vulnerabilidades críticas halladas vía IA. Código fuente bajo embargo hasta el 11 de septiembre. Recomendación cambia de "apagar el nodo" a "actualizar a v26.06.7 o reiniciar con --offline". Categoría: Core/Release</description>
+      <pubDate>Mon, 31 Aug 2026 11:07:53 +0000</pubDate>
+      <category>Core/Release</category>
+    </item>
+    <item>
+      <title>[ALTA][Mercado] ETFs Bitcoin cortan racha de 9 días con salidas de $201.8M</title>
+      <link>https://en.coinotag.com/bitcoin-btc-etfs-201-9m-outflow-ends-nine-day-streak</link>
+      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-08-31</guid>
+      <description>[ACTUALIZACIÓN] El 28 ago los ETFs spot de BTC registraron $201.8M en salidas netas, cortando una racha de 9 días que acumuló $3.04B. Activos totales cayeron por debajo de $100B. Detonante: discurso hawkish de Warsh. Categoría: ETF</description>
+      <pubDate>Mon, 31 Aug 2026 11:07:53 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+    <item>
+      <title>[MEDIA][Minería] Luke Dashjr sale de Ocean y lanza Convoy</title>
+      <link>https://www.prnewswire.com/news-releases/joint-statement-of-ocean-and-luke-dashjr-302864347.html</link>
+      <guid isPermaLink="false">luke-dashjr-exits-ocean-convoy-mining-pool-august-2026</guid>
+      <description>El veterano desarrollador de Bitcoin y co-fundador de Ocean renunció como chairman y CTO; Mummolin recompró su equity. Salida ligada al fracaso de BIP-110. Planea lanzar pool Convoy. Podría redistribuir hashrate entre pools. Categoría: Minería/AI</description>
+      <pubDate>Mon, 31 Aug 2026 11:07:53 +0000</pubDate>
+      <category>Minería/AI</category>
     </item>
   </channel>
 </rss>

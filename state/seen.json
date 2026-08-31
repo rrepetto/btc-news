@@ -1216,11 +1216,12 @@
       "category": "ETF",
       "relevancia": "Alta",
       "first_seen": "2026-08-25",
-      "last_update": "2026-08-29",
+      "last_update": "2026-08-31",
       "updates": [
         "2026-08-26",
         "2026-08-28",
-        "2026-08-29"
+        "2026-08-29",
+        "2026-08-31"
       ]
     },
     {
@@ -1255,9 +1256,10 @@
       "first_seen": "2026-08-26",
       "updates": [
         "2026-08-28",
-        "2026-08-29"
+        "2026-08-29",
+        "2026-08-31"
       ],
-      "last_update": "2026-08-29"
+      "last_update": "2026-08-31"
     },
     {
       "id": "core-lightning-critical-vuln-shutdown-august-2026",
@@ -1269,9 +1271,10 @@
       "relevancia": "Alta",
       "updates": [
         "2026-08-28",
-        "2026-08-29"
+        "2026-08-29",
+        "2026-08-31"
       ],
-      "last_update": "2026-08-29"
+      "last_update": "2026-08-31"
     },
     {
       "id": "lnd-reorg-channel-wipeout-vulnerability-august-2026",
@@ -1299,6 +1302,12 @@
       "eje": "Geo/Regulación",
       "category": "Figuras",
       "relevancia": "Baja"
+    },
+    {
+      "id": "luke-dashjr-exits-ocean-convoy-mining-pool-august-2026",
+      "title": "Luke Dashjr sale de Ocean y lanza 'Convoy': la salida post-BIP-110 que redistribuye el hashrate de Bitcoin",
+      "url": "https://www.prnewswire.com/news-releases/joint-statement-of-ocean-and-luke-dashjr-302864347.html",
+      "first_seen": "2026-08-31"
     }
   ]
 }
