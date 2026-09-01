@@ -5,7 +5,7 @@
       "title": "BIP-110 fracasa: Bitcoin se dividió en dos cadenas, la fork quedó 300 bloques atrás y tardará ~6 años en recuperarse",
       "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-12",
+      "last_update": "2026-09-01",
       "updates": [
         "2026-06-30",
         "2026-07-02",
@@ -31,7 +31,8 @@
         "2026-08-09",
         "2026-08-10",
         "2026-08-11",
-        "2026-08-12"
+        "2026-08-12",
+        "2026-09-01"
       ]
     },
     {
@@ -601,7 +602,7 @@
       "title": "Strategy acumula 4 semanas sin comprar BTC — vende $263.5M en acciones MSTR, reserva USD sube a $3.225B",
       "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion",
       "first_seen": "2026-07-23",
-      "last_update": "2026-08-25",
+      "last_update": "2026-09-01",
       "updates": [
         "2026-07-27",
         "2026-07-28",
@@ -610,7 +611,8 @@
         "2026-08-03",
         "2026-08-04",
         "2026-08-18",
-        "2026-08-25"
+        "2026-08-25",
+        "2026-09-01"
       ]
     },
     {
@@ -1206,7 +1208,11 @@
       "id": "coinbase-armstrong-clarity-act-60votes-september-2026",
       "title": "Armstrong (Coinbase) predice >60 votos en cloture CLARITY Act del 15 septiembre",
       "url": "https://www.cbsnews.com/news/coinbase-ceo-clarity-act-crypto-protection/",
-      "first_seen": "2026-08-24"
+      "first_seen": "2026-08-24",
+      "updates": [
+        "2026-09-01"
+      ],
+      "last_update": "2026-09-01"
     },
     {
       "id": "bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026",

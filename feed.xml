@@ -5,38 +5,30 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 31 Aug 2026 11:07:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:09:49 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][Macro] Barclays y SocGen pronostican DOS subas de tasas Fed en 2026</title>
-      <link>https://www.investing.com/news/economy-news/barclays-sees-two-more-fed-rate-hikes-this-year-after-warsh-speech-4882134</link>
-      <guid isPermaLink="false">jackson-hole-2026-warsh-first-keynote-august-28#upd-2026-08-31</guid>
-      <description>[ACTUALIZACIÓN] Tras el discurso hawkish de Warsh en Jackson Hole, Barclays y SocGen esperan alzas de 25 pb en septiembre y diciembre 2026. Probabilidad implícita en CME FedWatch saltó al 60.4% para septiembre. Primer cambio concreto de pronóstico de grandes bancos: impacto directo en liquidez para activos de riesgo como Bitcoin. Categoría: Macro</description>
-      <pubDate>Mon, 31 Aug 2026 11:07:53 +0000</pubDate>
-      <category>Macro</category>
+      <title>[ALTA][Técnico] BLAKE2b hard fork de BIP-110 se lanza hoy: nueva cadena con PoW BLAKE2b, sin soporte de exchanges</title>
+      <link>https://beincrypto.com/bitcoin-hard-fork-september-dashjr-ocean/</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-09-01</guid>
+      <description>[ACTUALIZACIÓN] Tras el fracaso de BIP-110 (cadena original estancada más de 300 bloques atrás), Luke Dashjr y colaboradores activaron el 1 de septiembre una bifurcación dura con algoritmo BLAKE2b en reemplazo de SHA-256d, permitiendo minar con CPUs/GPUs. Ningún exchange, wallet ni implementación de Lightning confirmó soporte. Categoría: BIP/Fork</description>
+      <pubDate>Tue, 01 Sep 2026 11:09:49 +0000</pubDate>
+      <category>BIP/Fork</category>
     </item>
     <item>
-      <title>[ALTA][Técnico] Core Lightning lanza parche v26.06.7: actualizar ya</title>
-      <link>https://blog.blockstream.com/core-lightning-26-06-7/</link>
-      <guid isPermaLink="false">core-lightning-critical-vuln-shutdown-august-2026#upd-2026-08-31</guid>
-      <description>[ACTUALIZACIÓN] El 28 ago se publicaron binarios firmados del parche v26.06.7 que cierra múltiples vulnerabilidades críticas halladas vía IA. Código fuente bajo embargo hasta el 11 de septiembre. Recomendación cambia de "apagar el nodo" a "actualizar a v26.06.7 o reiniciar con --offline". Categoría: Core/Release</description>
-      <pubDate>Mon, 31 Aug 2026 11:07:53 +0000</pubDate>
-      <category>Core/Release</category>
+      <title>[ALTA][Mercado] Strategy reanuda compras de Bitcoin tras dos meses de pausa: 4.603 BTC por USD 370M</title>
+      <link>https://dailyhodl.com/2026/08/31/michael-saylors-strategy-resumes-bitcoin-purchases-adding-370000000-worth-of-btc/</link>
+      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-09-01</guid>
+      <description>[ACTUALIZACIÓN] Entre el 24 y 30 de agosto Strategy adquirió 4.603 BTC a un precio promedio de USD 80.318 por unidad (total USD 370M), financiado con ventas de acciones MSTR por USD 602,8M. Michael Saylor publicó "We're &#x42;ack." el 30 de agosto. La empresa acumula 845.050 BTC. Categoría: Figuras</description>
+      <pubDate>Tue, 01 Sep 2026 11:09:49 +0000</pubDate>
+      <category>Figuras</category>
     </item>
     <item>
-      <title>[ALTA][Mercado] ETFs Bitcoin cortan racha de 9 días con salidas de $201.8M</title>
-      <link>https://en.coinotag.com/bitcoin-btc-etfs-201-9m-outflow-ends-nine-day-streak</link>
-      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-08-31</guid>
-      <description>[ACTUALIZACIÓN] El 28 ago los ETFs spot de BTC registraron $201.8M en salidas netas, cortando una racha de 9 días que acumuló $3.04B. Activos totales cayeron por debajo de $100B. Detonante: discurso hawkish de Warsh. Categoría: ETF</description>
-      <pubDate>Mon, 31 Aug 2026 11:07:53 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-    <item>
-      <title>[MEDIA][Minería] Luke Dashjr sale de Ocean y lanza Convoy</title>
-      <link>https://www.prnewswire.com/news-releases/joint-statement-of-ocean-and-luke-dashjr-302864347.html</link>
-      <guid isPermaLink="false">luke-dashjr-exits-ocean-convoy-mining-pool-august-2026</guid>
-      <description>El veterano desarrollador de Bitcoin y co-fundador de Ocean renunció como chairman y CTO; Mummolin recompró su equity. Salida ligada al fracaso de BIP-110. Planea lanzar pool Convoy. Podría redistribuir hashrate entre pools. Categoría: Minería/AI</description>
-      <pubDate>Mon, 31 Aug 2026 11:07:53 +0000</pubDate>
-      <category>Minería/AI</category>
+      <title>[MEDIA][Geo] Senado de EE.UU.: Thune presenta moción de cloture sobre la Clarity Act — voto el 15 de septiembre</title>
+      <link>https://www.disruptionbanking.com/2026/08/10/clarity-act-news-the-crypto-bill-just-slipped-to-a-september-15-senate-showdown/</link>
+      <guid isPermaLink="false">coinbase-armstrong-clarity-act-60votes-september-2026#upd-2026-09-01</guid>
+      <description>[ACTUALIZACIÓN] El líder de mayoría John Thune presentó formalmente la moción para proceder con el debate de la Clarity Act, abriendo el proceso de cloture (60 votos necesarios). Voto pautado para las 14:15 ET del 15 de septiembre. Quedan sin resolver las cláusulas de ética, stablecoins y protección a desarrolladores. Categoría: Regulación</description>
+      <pubDate>Tue, 01 Sep 2026 11:09:49 +0000</pubDate>
+      <category>Regulación</category>
     </item>
   </channel>
 </rss>
