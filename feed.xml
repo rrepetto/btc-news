@@ -5,30 +5,70 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:10:00 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Técnico] BLAKE2b hard fork de BIP-110 se lanza hoy: nueva cadena con PoW BLAKE2b, sin soporte de exchanges</title>
-      <link>https://beincrypto.com/bitcoin-hard-fork-september-dashjr-ocean/</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-09-01</guid>
-      <description>[ACTUALIZACIÓN] Tras el fracaso de BIP-110 (cadena original estancada más de 300 bloques atrás), Luke Dashjr y colaboradores activaron el 1 de septiembre una bifurcación dura con algoritmo BLAKE2b en reemplazo de SHA-256d, permitiendo minar con CPUs/GPUs. Ningún exchange, wallet ni implementación de Lightning confirmó soporte. Categoría: BIP/Fork</description>
-      <pubDate>Tue, 01 Sep 2026 11:09:49 +0000</pubDate>
-      <category>BIP/Fork</category>
+      <title>[ALTA][Geo] Nuevas ofensivas EE.UU.–Irán: Brent a $94.50, Bitcoin resiste sobre $78K</title>
+      <link>https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil</link>
+      <guid isPermaLink="false">us-iran-new-strikes-oil-94-btc-78k-september-2026</guid>
+      <description>Nuevos ataques militares EE.UU.–Irán cerca del Estrecho de Ormuz (31 agosto–1 sept): Brent sube 7% a $94.50, Bitcoin mantiene $78K mientras el oro y las acciones caen. Contraste con julio cuando BTC cedió 5%. Categoría: Geopolítica/Macro.</description>
+      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
+      <category>Geopolítica</category>
     </item>
+
     <item>
-      <title>[ALTA][Mercado] Strategy reanuda compras de Bitcoin tras dos meses de pausa: 4.603 BTC por USD 370M</title>
-      <link>https://dailyhodl.com/2026/08/31/michael-saylors-strategy-resumes-bitcoin-purchases-adding-370000000-worth-of-btc/</link>
-      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-09-01</guid>
-      <description>[ACTUALIZACIÓN] Entre el 24 y 30 de agosto Strategy adquirió 4.603 BTC a un precio promedio de USD 80.318 por unidad (total USD 370M), financiado con ventas de acciones MSTR por USD 602,8M. Michael Saylor publicó "We're &#x42;ack." el 30 de agosto. La empresa acumula 845.050 BTC. Categoría: Figuras</description>
-      <pubDate>Tue, 01 Sep 2026 11:09:49 +0000</pubDate>
-      <category>Figuras</category>
+      <title>[ALTA][Técnico] ACTUALIZACIÓN: Core Lightning 26.06.7 — parche para vulnerabilidades críticas de agosto</title>
+      <link>https://www.kucoin.com/news/flash/core-lightning-confirms-security-flaws-urges-immediate-upgrade</link>
+      <guid isPermaLink="false">core-lightning-critical-vuln-shutdown-august-2026#upd-2026-09-02</guid>
+      <description>Blockstream publicó 26.06.7 con el parche para las vulnerabilidades críticas de agosto (nodos debían apagarse). Binarios disponibles ya; código fuente se publica el 11 de septiembre. Versiones anteriores a 26.06.7 sin soporte. Categoría: Core/Release.</description>
+      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
+      <category>Core/Release</category>
     </item>
+
     <item>
-      <title>[MEDIA][Geo] Senado de EE.UU.: Thune presenta moción de cloture sobre la Clarity Act — voto el 15 de septiembre</title>
-      <link>https://www.disruptionbanking.com/2026/08/10/clarity-act-news-the-crypto-bill-just-slipped-to-a-september-15-senate-showdown/</link>
-      <guid isPermaLink="false">coinbase-armstrong-clarity-act-60votes-september-2026#upd-2026-09-01</guid>
-      <description>[ACTUALIZACIÓN] El líder de mayoría John Thune presentó formalmente la moción para proceder con el debate de la Clarity Act, abriendo el proceso de cloture (60 votos necesarios). Voto pautado para las 14:15 ET del 15 de septiembre. Quedan sin resolver las cláusulas de ética, stablecoins y protección a desarrolladores. Categoría: Regulación</description>
-      <pubDate>Tue, 01 Sep 2026 11:09:49 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[MEDIA][Macro] Fed: 66% de probabilidad de suba de tasas el 16 de septiembre</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-faces-fresh-fed-131715670.html</link>
+      <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026</guid>
+      <description>CME FedWatch descuenta 66% de probabilidad de suba de 25 bps en la reunión FOMC del 16 de septiembre, up desde ~57% a fines de agosto. Headwind macro para Bitcoin, que el 16 de septiembre comparte calendario con el voto clave de la Clarity Act. Categoría: Macro.</description>
+      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
+      <category>Macro</category>
     </item>
+
+    <item>
+      <title>[MEDIA][Mercado] Kimchi Premium regresa a Corea del Sur: BTC 1% más caro en Upbit que en Binance</title>
+      <link>https://bitcoinmagazine.com/news/korea-bitcoin-premium-kimchi-returns</link>
+      <guid isPermaLink="false">bitcoin-kimchi-premium-korea-september-2026</guid>
+      <description>Bloomberg reporta que Bitcoin cotiza ~1% más caro en Upbit (Korea) vs. Binance, la racha positiva más larga desde mayo. Revierte el descuento de 3.1% de junio y señala retorno del retail coreano. Categoría: On-chain/Mercado.</description>
+      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
+      <category>On-chain</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] ACTUALIZACIÓN: ETF Bitcoin — $236M en salidas el 1 de septiembre, quiebra racha de 9 días</title>
+      <link>https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow</link>
+      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-09-02</guid>
+      <description>Primer día negativo tras 9 sesiones positivas y un agosto récord ($3.52B). IBIT de BlackRock lidera las salidas con $201M, FBTC de Fidelity $44M. Contexto: ataques a Irán + suba de probabilidades de alza de la Fed. Categoría: ETF.</description>
+      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Técnico] HWI (Hardware Wallet Interface) entra en modo mantenimiento — será archivado</title>
+      <link>https://bitcoinops.org/en/newsletters/2026/08/28/</link>
+      <guid isPermaLink="false">hwi-hardware-wallet-interface-maintenance-mode-2026</guid>
+      <description>Ava Chow anunció que HWI, la librería que conecta wallets hardware con Bitcoin Core, dejará de aceptar nuevos dispositivos. Completará soporte MuSig2 y luego será archivado. Afecta usuarios de Coldcard/Trezor/Ledger con Bitcoin Core. Categoría: Core/Release.</description>
+      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
+      <category>Core/Release</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Mercado] IBIT de BlackRock supera al VOO de Vanguard desde enero 2024: +71% vs +66%</title>
+      <link>https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard</link>
+      <guid isPermaLink="false">ibit-beats-vanguard-sp500-71pct-since-launch-2026</guid>
+      <description>Desde su debut en enero 2024, IBIT acumula +71% en retorno total vs. +66% del Vanguard S&amp;P 500 ETF (VOO), según Bloomberg/Balchunas. El outperformance existe con mayor volatilidad. Categoría: ETF.</description>
+      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+
   </channel>
 </rss>

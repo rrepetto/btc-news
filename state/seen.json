@@ -1222,12 +1222,13 @@
       "category": "ETF",
       "relevancia": "Alta",
       "first_seen": "2026-08-25",
-      "last_update": "2026-08-31",
+      "last_update": "2026-09-02",
       "updates": [
         "2026-08-26",
         "2026-08-28",
         "2026-08-29",
-        "2026-08-31"
+        "2026-08-31",
+        "2026-09-02"
       ]
     },
     {
@@ -1278,9 +1279,10 @@
       "updates": [
         "2026-08-28",
         "2026-08-29",
-        "2026-08-31"
+        "2026-08-31",
+        "2026-09-02"
       ],
-      "last_update": "2026-08-31"
+      "last_update": "2026-09-02"
     },
     {
       "id": "lnd-reorg-channel-wipeout-vulnerability-august-2026",
@@ -1314,6 +1316,36 @@
       "title": "Luke Dashjr sale de Ocean y lanza 'Convoy': la salida post-BIP-110 que redistribuye el hashrate de Bitcoin",
       "url": "https://www.prnewswire.com/news-releases/joint-statement-of-ocean-and-luke-dashjr-302864347.html",
       "first_seen": "2026-08-31"
+    },
+    {
+      "id": "us-iran-new-strikes-oil-94-btc-78k-september-2026",
+      "title": "Nuevas ofensivas EE.UU.–Irán: Brent a $94.50, Bitcoin resiste sobre $78K",
+      "url": "https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil",
+      "first_seen": "2026-09-02"
+    },
+    {
+      "id": "fed-september-hike-66pct-probability-september-2026",
+      "title": "Fed: 66% de probabilidad de suba de tasas el 16 de septiembre — macro headwind para BTC",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-faces-fresh-fed-131715670.html",
+      "first_seen": "2026-09-02"
+    },
+    {
+      "id": "bitcoin-kimchi-premium-korea-september-2026",
+      "title": "Kimchi Premium regresa a Corea del Sur: BTC cotiza 1% más caro en Upbit que en Binance",
+      "url": "https://bitcoinmagazine.com/news/korea-bitcoin-premium-kimchi-returns",
+      "first_seen": "2026-09-02"
+    },
+    {
+      "id": "hwi-hardware-wallet-interface-maintenance-mode-2026",
+      "title": "HWI (Hardware Wallet Interface) entra en modo mantenimiento y será archivado",
+      "url": "https://bitcoinops.org/en/newsletters/2026/08/28/",
+      "first_seen": "2026-09-02"
+    },
+    {
+      "id": "ibit-beats-vanguard-sp500-71pct-since-launch-2026",
+      "title": "IBIT de BlackRock supera a VOO (S&P 500 Vanguard) desde su lanzamiento: +71% vs +66%",
+      "url": "https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard",
+      "first_seen": "2026-09-02"
     }
   ]
 }
