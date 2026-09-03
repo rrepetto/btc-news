@@ -5,69 +5,51 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:08:39 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Geo] Nuevas ofensivas EE.UU.–Irán: Brent a $94.50, Bitcoin resiste sobre $78K</title>
-      <link>https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil</link>
-      <guid isPermaLink="false">us-iran-new-strikes-oil-94-btc-78k-september-2026</guid>
-      <description>Nuevos ataques militares EE.UU.–Irán cerca del Estrecho de Ormuz (31 agosto–1 sept): Brent sube 7% a $94.50, Bitcoin mantiene $78K mientras el oro y las acciones caen. Contraste con julio cuando BTC cedió 5%. Categoría: Geopolítica/Macro.</description>
-      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
-      <category>Geopolítica</category>
+      <title>[ALTA][Geo] Singapore MAS propone 100% de reservas y prohíbe el yield en stablecoins</title>
+      <link>https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers</link>
+      <guid isPermaLink="false">singapore-mas-stablecoin-100pct-reserve-yield-ban-2026</guid>
+      <description>La Autoridad Monetaria de Singapur (MAS) publicó el paper de consulta P015-2026: reservas del 100% segregadas, redención en 5 días hábiles y prohibición total de yield en stablecoins. Consulta abierta hasta el 16 de octubre. Singapur se suma a GENIUS Act y MiCA como tercer gran bloque regulatorio que prohíbe el yield. Afecta a Circle, Tether y otros emisores con operaciones en Asia. Categoría: Regulación.</description>
+      <pubDate>Thu, 03 Sep 2026 11:08:39 +0000</pubDate>
+      <category>Regulación</category>
     </item>
 
     <item>
-      <title>[ALTA][Técnico] ACTUALIZACIÓN: Core Lightning 26.06.7 — parche para vulnerabilidades críticas de agosto</title>
-      <link>https://www.kucoin.com/news/flash/core-lightning-confirms-security-flaws-urges-immediate-upgrade</link>
-      <guid isPermaLink="false">core-lightning-critical-vuln-shutdown-august-2026#upd-2026-09-02</guid>
-      <description>Blockstream publicó 26.06.7 con el parche para las vulnerabilidades críticas de agosto (nodos debían apagarse). Binarios disponibles ya; código fuente se publica el 11 de septiembre. Versiones anteriores a 26.06.7 sin soporte. Categoría: Core/Release.</description>
-      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
-      <category>Core/Release</category>
+      <title>[ALTA][Técnico] ACTUALIZACIÓN: BLAKE2b fork confirmado fracaso total — cero hashrate, ningún exchange lo listó</title>
+      <link>https://news.bitcoin.com/mining/bitcoin-hashrate-enters-first-bear-market-as-ai-pulls-miners-away/</link>
+      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-09-03</guid>
+      <description>El hard fork BLAKE2b lanzado el 1 de septiembre por Luke Dashjr terminó sin tracción: ningún exchange mayor listó BTCB2, spread del 131,7% en venue beta ($82/$190), Adam Back ironizó "Live by the fork, die by the fork." La cadena BTC original continúa sin afectaciones. Cierra el ciclo de intentos de fork post-BIP-110. Categoría: BIP/Fork.</description>
+      <pubDate>Thu, 03 Sep 2026 11:08:39 +0000</pubDate>
+      <category>BIP/Fork</category>
     </item>
 
     <item>
-      <title>[MEDIA][Macro] Fed: 66% de probabilidad de suba de tasas el 16 de septiembre</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-faces-fresh-fed-131715670.html</link>
-      <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026</guid>
-      <description>CME FedWatch descuenta 66% de probabilidad de suba de 25 bps en la reunión FOMC del 16 de septiembre, up desde ~57% a fines de agosto. Headwind macro para Bitcoin, que el 16 de septiembre comparte calendario con el voto clave de la Clarity Act. Categoría: Macro.</description>
-      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
-      <category>Macro</category>
+      <title>[MEDIA][Minería/AI] Bitcoin entra en su primer "hashrate bear market": -24% desde el pico histórico</title>
+      <link>https://crypto.news/bitcoin-enters-first-hashrate-bear-market-ceo-says/</link>
+      <guid isPermaLink="false">bitcoin-first-hashrate-bear-market-ai-2026</guid>
+      <description>CEO de Twenty One Capital, Raphael Zagury, describe el declive como el primer "hashrate bear market" de Bitcoin: de 1,3 ZH/s (pico 2025) a ~829 EH/s actual (-22-24%), el slump más largo de la historia, impulsado por la migración de mineros hacia IA/HPC. Próximo ajuste de dificultad estimado para el 5 de septiembre, se espera negativo. Categoría: Minería/AI.</description>
+      <pubDate>Thu, 03 Sep 2026 11:08:39 +0000</pubDate>
+      <category>Minería/AI</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] Kimchi Premium regresa a Corea del Sur: BTC 1% más caro en Upbit que en Binance</title>
-      <link>https://bitcoinmagazine.com/news/korea-bitcoin-premium-kimchi-returns</link>
-      <guid isPermaLink="false">bitcoin-kimchi-premium-korea-september-2026</guid>
-      <description>Bloomberg reporta que Bitcoin cotiza ~1% más caro en Upbit (Korea) vs. Binance, la racha positiva más larga desde mayo. Revierte el descuento de 3.1% de junio y señala retorno del retail coreano. Categoría: On-chain/Mercado.</description>
-      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
+      <title>[MEDIA][Mercado] ACTUALIZACIÓN: ETF Bitcoin recupera $217M el 2 de septiembre — IBIT lidera con $206M</title>
+      <link>https://en.bloomingbit.io/feed/news/119486</link>
+      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-09-03</guid>
+      <description>Un día después de las salidas de $236,5M del 1 de septiembre, los ETFs spot de BTC recuperaron $216,7M el 2 de septiembre; IBIT de BlackRock aportó $206M. El rebote en 24 horas señala demanda institucional resiliente pese al ruido macro (petróleo $94, Fed hawkish). Categoría: ETF.</description>
+      <pubDate>Thu, 03 Sep 2026 11:08:39 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Mercado] ACTUALIZACIÓN: Ballenas acumulan ~60.000 BTC el 1 de septiembre mientras retail distribuye</title>
+      <link>https://www.benzinga.com/crypto/cryptocurrency/26/09/61548887/bitcoin-on-chain-analysis-shows-whales-are-buying-but-so-is-hot-money</link>
+      <guid isPermaLink="false">bitcoin-whale-40100-btc-2-6b-accumulation-nine-days-august-2026#upd-2026-09-03</guid>
+      <description>Wallets con 100+ BTC sumaron ~60.000 BTC netos el 1 de septiembre; wallets 1-100 BTC vendieron ~33.000 BTC y menores de 1 BTC ~14.000 BTC. Divergencia entre smart money y retail se acentúa en zona $76K-$78K. Categoría: On-chain.</description>
+      <pubDate>Thu, 03 Sep 2026 11:08:39 +0000</pubDate>
       <category>On-chain</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] ACTUALIZACIÓN: ETF Bitcoin — $236M en salidas el 1 de septiembre, quiebra racha de 9 días</title>
-      <link>https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow</link>
-      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-09-02</guid>
-      <description>Primer día negativo tras 9 sesiones positivas y un agosto récord ($3.52B). IBIT de BlackRock lidera las salidas con $201M, FBTC de Fidelity $44M. Contexto: ataques a Irán + suba de probabilidades de alza de la Fed. Categoría: ETF.</description>
-      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Técnico] HWI (Hardware Wallet Interface) entra en modo mantenimiento — será archivado</title>
-      <link>https://bitcoinops.org/en/newsletters/2026/08/28/</link>
-      <guid isPermaLink="false">hwi-hardware-wallet-interface-maintenance-mode-2026</guid>
-      <description>Ava Chow anunció que HWI, la librería que conecta wallets hardware con Bitcoin Core, dejará de aceptar nuevos dispositivos. Completará soporte MuSig2 y luego será archivado. Afecta usuarios de Coldcard/Trezor/Ledger con Bitcoin Core. Categoría: Core/Release.</description>
-      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
-      <category>Core/Release</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Mercado] IBIT de BlackRock supera al VOO de Vanguard desde enero 2024: +71% vs +66%</title>
-      <link>https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard</link>
-      <guid isPermaLink="false">ibit-beats-vanguard-sp500-71pct-since-launch-2026</guid>
-      <description>Desde su debut en enero 2024, IBIT acumula +71% en retorno total vs. +66% del Vanguard S&amp;P 500 ETF (VOO), según Bloomberg/Balchunas. El outperformance existe con mayor volatilidad. Categoría: ETF.</description>
-      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
-      <category>ETF</category>
     </item>
 
   </channel>
