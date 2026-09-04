@@ -1286,9 +1286,10 @@
         "2026-08-28",
         "2026-08-29",
         "2026-08-31",
-        "2026-09-02"
+        "2026-09-02",
+        "2026-09-04"
       ],
-      "last_update": "2026-09-02"
+      "last_update": "2026-09-04"
     },
     {
       "id": "lnd-reorg-channel-wipeout-vulnerability-august-2026",
@@ -1333,7 +1334,9 @@
       "id": "fed-september-hike-66pct-probability-september-2026",
       "title": "Fed: 66% de probabilidad de suba de tasas el 16 de septiembre — macro headwind para BTC",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-faces-fresh-fed-131715670.html",
-      "first_seen": "2026-09-02"
+      "first_seen": "2026-09-02",
+      "last_update": "2026-09-04",
+      "updates": ["2026-09-04"]
     },
     {
       "id": "bitcoin-kimchi-premium-korea-september-2026",
@@ -1364,6 +1367,15 @@
       "title": "Bitcoin entra en su primer 'hashrate bear market': -24% desde el pico y sin precedentes históricos",
       "url": "https://crypto.news/bitcoin-enters-first-hashrate-bear-market-ceo-says/",
       "first_seen": "2026-09-03"
+    },
+    {
+      "id": "bitcoin-etf-august-2026-record-month-352b",
+      "title": "ETFs spot de Bitcoin: agosto 2026 cierra como mejor mes desde octubre 2025 — USD 3,52B en entradas netas, activos rozan USD 100B",
+      "url": "https://www.kucoin.com/news/flash/bitcoin-etfs-record-strongest-month-of-2026-in-august-face-outflows-in-september",
+      "first_seen": "2026-09-04",
+      "eje": "Mercado",
+      "category": "ETF",
+      "relevancia": "Media"
     }
   ]
 }

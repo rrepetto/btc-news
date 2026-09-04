@@ -5,52 +5,30 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:08:39 +0000</lastBuildDate>
-
+    <lastBuildDate>Fri, 04 Sep 2026 11:09:10 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][Geo] Singapore MAS propone 100% de reservas y prohíbe el yield en stablecoins</title>
-      <link>https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers</link>
-      <guid isPermaLink="false">singapore-mas-stablecoin-100pct-reserve-yield-ban-2026</guid>
-      <description>La Autoridad Monetaria de Singapur (MAS) publicó el paper de consulta P015-2026: reservas del 100% segregadas, redención en 5 días hábiles y prohibición total de yield en stablecoins. Consulta abierta hasta el 16 de octubre. Singapur se suma a GENIUS Act y MiCA como tercer gran bloque regulatorio que prohíbe el yield. Afecta a Circle, Tether y otros emisores con operaciones en Asia. Categoría: Regulación.</description>
-      <pubDate>Thu, 03 Sep 2026 11:08:39 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[ALTA][Geo] [ACTUALIZACIÓN] Waller (Fed) pivotea a dovish: probabilidad de suba de tasas en septiembre cae del 66% al 38% — BTC +6,8% a USD 82.200</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-pumps-fed-signals-rate-163817310.html</link>
+      <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026#upd-2026-09-04</guid>
+      <description>[ACTUALIZACIÓN] El gobernador de la Fed Christopher Waller declaró el 3 de septiembre que apoyaría mantener las tasas en septiembre si la inflación sigue cediendo. El CME FedWatch redujo la probabilidad de suba del 66% al 38%, BTC recuperó USD 82.200 (máximo de 4 meses) y se liquidaron USD 415M en posiciones cortas en crypto. El dato clave: CPI de agosto el 11 de septiembre. Categoría: Macro.</description>
+      <pubDate>Fri, 04 Sep 2026 11:09:10 +0000</pubDate>
+      <category>Macro</category>
     </item>
-
     <item>
-      <title>[ALTA][Técnico] ACTUALIZACIÓN: BLAKE2b fork confirmado fracaso total — cero hashrate, ningún exchange lo listó</title>
-      <link>https://news.bitcoin.com/mining/bitcoin-hashrate-enters-first-bear-market-as-ai-pulls-miners-away/</link>
-      <guid isPermaLink="false">bip-110-signaling-august-fork-deadline#upd-2026-09-03</guid>
-      <description>El hard fork BLAKE2b lanzado el 1 de septiembre por Luke Dashjr terminó sin tracción: ningún exchange mayor listó BTCB2, spread del 131,7% en venue beta ($82/$190), Adam Back ironizó "Live by the fork, die by the fork." La cadena BTC original continúa sin afectaciones. Cierra el ciclo de intentos de fork post-BIP-110. Categoría: BIP/Fork.</description>
-      <pubDate>Thu, 03 Sep 2026 11:08:39 +0000</pubDate>
-      <category>BIP/Fork</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Minería/AI] Bitcoin entra en su primer "hashrate bear market": -24% desde el pico histórico</title>
-      <link>https://crypto.news/bitcoin-enters-first-hashrate-bear-market-ceo-says/</link>
-      <guid isPermaLink="false">bitcoin-first-hashrate-bear-market-ai-2026</guid>
-      <description>CEO de Twenty One Capital, Raphael Zagury, describe el declive como el primer "hashrate bear market" de Bitcoin: de 1,3 ZH/s (pico 2025) a ~829 EH/s actual (-22-24%), el slump más largo de la historia, impulsado por la migración de mineros hacia IA/HPC. Próximo ajuste de dificultad estimado para el 5 de septiembre, se espera negativo. Categoría: Minería/AI.</description>
-      <pubDate>Thu, 03 Sep 2026 11:08:39 +0000</pubDate>
-      <category>Minería/AI</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Mercado] ACTUALIZACIÓN: ETF Bitcoin recupera $217M el 2 de septiembre — IBIT lidera con $206M</title>
-      <link>https://en.bloomingbit.io/feed/news/119486</link>
-      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-09-03</guid>
-      <description>Un día después de las salidas de $236,5M del 1 de septiembre, los ETFs spot de BTC recuperaron $216,7M el 2 de septiembre; IBIT de BlackRock aportó $206M. El rebote en 24 horas señala demanda institucional resiliente pese al ruido macro (petróleo $94, Fed hawkish). Categoría: ETF.</description>
-      <pubDate>Thu, 03 Sep 2026 11:08:39 +0000</pubDate>
+      <title>[MEDIA][Mercado] ETFs spot de Bitcoin: agosto 2026 cierra como mejor mes desde oct 2025 — USD 3,52B en entradas netas, activos rozan USD 100B</title>
+      <link>https://www.kucoin.com/news/flash/bitcoin-etfs-record-strongest-month-of-2026-in-august-face-outflows-in-september</link>
+      <guid isPermaLink="false">bitcoin-etf-august-2026-record-month-352b</guid>
+      <description>Los ETFs spot de BTC registraron USD 3.520M en flujos netos en agosto (16 de 21 jornadas positivas), cuadruplicando los USD 172M de julio. Los activos netos totales pasaron de USD 76,29B a USD 99,61B, a pasos del hito de los USD 100B. Categoría: ETF.</description>
+      <pubDate>Fri, 04 Sep 2026 11:09:10 +0000</pubDate>
       <category>ETF</category>
     </item>
-
     <item>
-      <title>[BAJA][Mercado] ACTUALIZACIÓN: Ballenas acumulan ~60.000 BTC el 1 de septiembre mientras retail distribuye</title>
-      <link>https://www.benzinga.com/crypto/cryptocurrency/26/09/61548887/bitcoin-on-chain-analysis-shows-whales-are-buying-but-so-is-hot-money</link>
-      <guid isPermaLink="false">bitcoin-whale-40100-btc-2-6b-accumulation-nine-days-august-2026#upd-2026-09-03</guid>
-      <description>Wallets con 100+ BTC sumaron ~60.000 BTC netos el 1 de septiembre; wallets 1-100 BTC vendieron ~33.000 BTC y menores de 1 BTC ~14.000 BTC. Divergencia entre smart money y retail se acentúa en zona $76K-$78K. Categoría: On-chain.</description>
-      <pubDate>Thu, 03 Sep 2026 11:08:39 +0000</pubDate>
-      <category>On-chain</category>
+      <title>[MEDIA][Técnico] [ACTUALIZACIÓN] Core Lightning: divulgación técnica completa prevista para el 11 de septiembre — todos los operadores deben actualizar a v26.06.7 ya</title>
+      <link>https://cryptorank.io/news/feed/8e6e7-bitcoin-lightning-network-vulnerability-embargo</link>
+      <guid isPermaLink="false">core-lightning-critical-vuln-shutdown-august-2026#upd-2026-09-04</guid>
+      <description>[ACTUALIZACIÓN] La versión CLN 26.06.7 (lanzada el 29 de agosto) contiene los parches de las vulnerabilidades críticas; el embargo de 14 días expira el 11 de septiembre, cuando los detalles técnicos quedarán públicos. CLN 26.09 llega en septiembre. Nodos sin actualizar están en riesgo de pérdida de fondos. Categoría: Core/Release (Lightning).</description>
+      <pubDate>Fri, 04 Sep 2026 11:09:10 +0000</pubDate>
+      <category>Core/Release</category>
     </item>
-
   </channel>
 </rss>
