@@ -5,30 +5,52 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:09:33 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACIÓN] Waller (Fed) pivotea a dovish: probabilidad de suba de tasas en septiembre cae del 66% al 38% — BTC +6,8% a USD 82.200</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-pumps-fed-signals-rate-163817310.html</link>
-      <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026#upd-2026-09-04</guid>
-      <description>[ACTUALIZACIÓN] El gobernador de la Fed Christopher Waller declaró el 3 de septiembre que apoyaría mantener las tasas en septiembre si la inflación sigue cediendo. El CME FedWatch redujo la probabilidad de suba del 66% al 38%, BTC recuperó USD 82.200 (máximo de 4 meses) y se liquidaron USD 415M en posiciones cortas en crypto. El dato clave: CPI de agosto el 11 de septiembre. Categoría: Macro.</description>
-      <pubDate>Fri, 04 Sep 2026 11:09:10 +0000</pubDate>
+      <title>[ALTA][Macro] [ACTUALIZACIÓN] Jobs report de agosto revierte el pivot dovish: probabilidad de suba Fed salta al 58%, BTC cae a $76,6K y $757M en liquidaciones</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-blowout-jobs-report-151328014.html</link>
+      <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026#upd-2026-09-05</guid>
+      <description>El informe de empleo de agosto mostró 162.000 nuevos puestos (vs 53.000 estimado), empujando las probabilidades de suba de la Fed del 38% al 58%. BTC cayó a $76.657 (mínimo $78.649). Se liquidaron $757M en crypto. Categoría: Macro</description>
+      <pubDate>Sat, 05 Sep 2026 11:09:33 +0000</pubDate>
       <category>Macro</category>
     </item>
+
     <item>
-      <title>[MEDIA][Mercado] ETFs spot de Bitcoin: agosto 2026 cierra como mejor mes desde oct 2025 — USD 3,52B en entradas netas, activos rozan USD 100B</title>
-      <link>https://www.kucoin.com/news/flash/bitcoin-etfs-record-strongest-month-of-2026-in-august-face-outflows-in-september</link>
-      <guid isPermaLink="false">bitcoin-etf-august-2026-record-month-352b</guid>
-      <description>Los ETFs spot de BTC registraron USD 3.520M en flujos netos en agosto (16 de 21 jornadas positivas), cuadruplicando los USD 172M de julio. Los activos netos totales pasaron de USD 76,29B a USD 99,61B, a pasos del hito de los USD 100B. Categoría: ETF.</description>
-      <pubDate>Fri, 04 Sep 2026 11:09:10 +0000</pubDate>
+      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] ETFs Bitcoin: $3,8B en tres semanas — racha más fuerte de 2026, activos totales superan $101,3B</title>
+      <link>https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026</link>
+      <guid isPermaLink="false">bitcoin-etf-august-2026-record-month-352b#upd-2026-09-05</guid>
+      <description>Tres semanas (15 ago - 5 sep): $3.800M netos, el mejor tramo del año. Semana del 29 ago - 5 sep: $986,9M. IBIT: $117,4M el viernes (67% del total). Activos totales: $101,3B. Categoría: ETF</description>
+      <pubDate>Sat, 05 Sep 2026 11:09:33 +0000</pubDate>
       <category>ETF</category>
     </item>
+
     <item>
-      <title>[MEDIA][Técnico] [ACTUALIZACIÓN] Core Lightning: divulgación técnica completa prevista para el 11 de septiembre — todos los operadores deben actualizar a v26.06.7 ya</title>
-      <link>https://cryptorank.io/news/feed/8e6e7-bitcoin-lightning-network-vulnerability-embargo</link>
-      <guid isPermaLink="false">core-lightning-critical-vuln-shutdown-august-2026#upd-2026-09-04</guid>
-      <description>[ACTUALIZACIÓN] La versión CLN 26.06.7 (lanzada el 29 de agosto) contiene los parches de las vulnerabilidades críticas; el embargo de 14 días expira el 11 de septiembre, cuando los detalles técnicos quedarán públicos. CLN 26.09 llega en septiembre. Nodos sin actualizar están en riesgo de pérdida de fondos. Categoría: Core/Release (Lightning).</description>
-      <pubDate>Fri, 04 Sep 2026 11:09:10 +0000</pubDate>
-      <category>Core/Release</category>
+      <title>[MEDIA][Geo] [ACTUALIZACIÓN] Ley cripto de Rusia en vigor desde el 1 de septiembre: trading licenciado de BTC/ETH/USDT con tope minorista de ~$3.700/año</title>
+      <link>https://crypto.news/russia-crypto-law-digital-ruble-contradictions/</link>
+      <guid isPermaLink="false">russia-crypto-law-duma-july-2026#upd-2026-09-05</guid>
+      <description>La Ley 282-FZ entró en vigor el 1 de septiembre: BTC, ETH y USDT aprobados con tope minorista de 300.000 rublos/año (~$3.700). Pagos internos prohibidos. Uso en liquidaciones cross-border (workaround sanciones) ahora formalmente legal. Rublo digital lanzado el mismo día. Categoría: Regulación</description>
+      <pubDate>Sat, 05 Sep 2026 11:09:33 +0000</pubDate>
+      <category>Regulación</category>
     </item>
+
+    <item>
+      <title>[MEDIA][Geo] [ACTUALIZACIÓN] CLARITY Act: Polymarket colapsa al 13-18% ante el voto del 15 de septiembre</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/polymarket-clarity-act-odds-crashed-110351607.html</link>
+      <guid isPermaLink="false">coinbase-armstrong-clarity-act-60votes-september-2026#upd-2026-09-05</guid>
+      <description>Probabilidades Polymarket caen al 13-18% (desde 82% en 2026) sobre la CLARITY Act. La cláusula de ética para funcionarios con crypto sigue sin resolverse. Voto de clotura el 15 de septiembre a las 14:15 ET. Categoría: Regulación</description>
+      <pubDate>Sat, 05 Sep 2026 11:09:33 +0000</pubDate>
+      <category>Regulación</category>
+    </item>
+
+    <item>
+      <title>[BAJA][On-chain] Wallet Bitcoin de noviembre 2011 vinculada a demanda de $293B mueve 40 BTC ($3,1M)</title>
+      <link>https://crypto.news/bitcoin-wallet-in-293b-lawsuit-moves-3-1m-in-btc/</link>
+      <guid isPermaLink="false">bitcoin-2011-wallet-293b-lawsuit-3m-btc-september-2026</guid>
+      <description>Dirección dormida desde noviembre 2011 transfirió 40 BTC (~$3,1M) el 3 de septiembre, vinculada a demanda de $293B por wallets supuestamente abandonadas en Nueva York. Patrón más amplio: seis wallets 2011-2014 movieron ~$40M en agosto. Categoría: On-chain</description>
+      <pubDate>Sat, 05 Sep 2026 11:09:33 +0000</pubDate>
+      <category>On-chain</category>
+    </item>
+
   </channel>
 </rss>

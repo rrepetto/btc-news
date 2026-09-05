@@ -576,9 +576,10 @@
       "url": "https://www.themoscowtimes.com/2026/07/22/russia-passes-crypto-law-to-legalize-trading-under-tight-central-bank-oversight-a93307",
       "first_seen": "2026-07-22",
       "updates": [
-        "2026-08-13"
+        "2026-08-13",
+        "2026-09-05"
       ],
-      "last_update": "2026-08-13"
+      "last_update": "2026-09-05"
     },
     {
       "id": "bitcoin-lth-supply-ath-1664m-coinglass-july-2026",
@@ -1211,9 +1212,10 @@
       "url": "https://www.cbsnews.com/news/coinbase-ceo-clarity-act-crypto-protection/",
       "first_seen": "2026-08-24",
       "updates": [
-        "2026-09-01"
+        "2026-09-01",
+        "2026-09-05"
       ],
-      "last_update": "2026-09-01"
+      "last_update": "2026-09-05"
     },
     {
       "id": "bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026",
@@ -1335,8 +1337,11 @@
       "title": "Fed: 66% de probabilidad de suba de tasas el 16 de septiembre — macro headwind para BTC",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-faces-fresh-fed-131715670.html",
       "first_seen": "2026-09-02",
-      "last_update": "2026-09-04",
-      "updates": ["2026-09-04"]
+      "last_update": "2026-09-05",
+      "updates": [
+        "2026-09-04",
+        "2026-09-05"
+      ]
     },
     {
       "id": "bitcoin-kimchi-premium-korea-september-2026",
@@ -1375,7 +1380,20 @@
       "first_seen": "2026-09-04",
       "eje": "Mercado",
       "category": "ETF",
-      "relevancia": "Media"
+      "relevancia": "Media",
+      "updates": [
+        "2026-09-05"
+      ],
+      "last_update": "2026-09-05"
+    },
+    {
+      "id": "bitcoin-2011-wallet-293b-lawsuit-3m-btc-september-2026",
+      "title": "Wallet Bitcoin de noviembre 2011 vinculada a demanda de $293B mueve 40 BTC ($3,1M)",
+      "url": "https://crypto.news/bitcoin-wallet-in-293b-lawsuit-moves-3-1m-in-btc/",
+      "first_seen": "2026-09-05",
+      "eje": "On-chain",
+      "category": "On-chain",
+      "relevancia": "Baja"
     }
   ]
 }
