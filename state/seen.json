@@ -1371,7 +1371,11 @@
       "id": "bitcoin-first-hashrate-bear-market-ai-2026",
       "title": "Bitcoin entra en su primer 'hashrate bear market': -24% desde el pico y sin precedentes históricos",
       "url": "https://crypto.news/bitcoin-enters-first-hashrate-bear-market-ceo-says/",
-      "first_seen": "2026-09-03"
+      "first_seen": "2026-09-03",
+      "last_update": "2026-09-06",
+      "updates": [
+        "2026-09-06"
+      ]
     },
     {
       "id": "bitcoin-etf-august-2026-record-month-352b",
@@ -1394,6 +1398,12 @@
       "eje": "On-chain",
       "category": "On-chain",
       "relevancia": "Baja"
+    },
+    {
+      "id": "uk-fca-crypto-authorization-gateway-september-2026",
+      "title": "Reino Unido: FCA abre gateway de autorización cripto el 30 de septiembre, sin licencia sin operar en 2027",
+      "url": "https://www.theblock.co/post/384907/uk-fca-september-crypto-licensing-gateway",
+      "first_seen": "2026-09-06"
     }
   ]
 }

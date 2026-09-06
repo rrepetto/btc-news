@@ -5,52 +5,22 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:09:33 +0000</lastBuildDate>
-
+    <lastBuildDate>Sun, 06 Sep 2026 11:09:54 +0000</lastBuildDate>
     <item>
-      <title>[ALTA][Macro] [ACTUALIZACIÓN] Jobs report de agosto revierte el pivot dovish: probabilidad de suba Fed salta al 58%, BTC cae a $76,6K y $757M en liquidaciones</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-blowout-jobs-report-151328014.html</link>
-      <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026#upd-2026-09-05</guid>
-      <description>El informe de empleo de agosto mostró 162.000 nuevos puestos (vs 53.000 estimado), empujando las probabilidades de suba de la Fed del 38% al 58%. BTC cayó a $76.657 (mínimo $78.649). Se liquidaron $757M en crypto. Categoría: Macro</description>
-      <pubDate>Sat, 05 Sep 2026 11:09:33 +0000</pubDate>
-      <category>Macro</category>
+      <title>[MEDIA][Minería/AI] [ACTUALIZACIÓN] Bitcoin hashrate se recupera a 1,01 ZH/s — bear market declarado el 3/9 contradito en tres días</title>
+      <link>https://news.bitcoin.com/bitcoin-hashrate-reclaims-1-zh-s-as-hashprice-slides-lower/</link>
+      <guid isPermaLink="false">bitcoin-first-hashrate-bear-market-ai-2026#upd-2026-09-06</guid>
+      <description>Apenas 72 horas después de que el CEO de Twenty One Capital acuñara el término "hashrate bear market" (caída sostenida del -24% desde el pico de 1,3 ZH/s), el hashrate de Bitcoin volvió a superar 1 ZH/s: los datos de CoinWarz al bloque 965.469 muestran 1,01 ZH/s. El ajuste de dificultad del 5 de septiembre resultó en apenas -0,94% (dificultad: 125,81T). El rebote no confirma el fin del bear market pero contradice la narrativa de colapso inmediato. Categoría: Minería/AI</description>
+      <pubDate>Sun, 06 Sep 2026 11:09:54 +0000</pubDate>
+      <category>Minería/AI</category>
     </item>
-
     <item>
-      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] ETFs Bitcoin: $3,8B en tres semanas — racha más fuerte de 2026, activos totales superan $101,3B</title>
-      <link>https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026</link>
-      <guid isPermaLink="false">bitcoin-etf-august-2026-record-month-352b#upd-2026-09-05</guid>
-      <description>Tres semanas (15 ago - 5 sep): $3.800M netos, el mejor tramo del año. Semana del 29 ago - 5 sep: $986,9M. IBIT: $117,4M el viernes (67% del total). Activos totales: $101,3B. Categoría: ETF</description>
-      <pubDate>Sat, 05 Sep 2026 11:09:33 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Geo] [ACTUALIZACIÓN] Ley cripto de Rusia en vigor desde el 1 de septiembre: trading licenciado de BTC/ETH/USDT con tope minorista de ~$3.700/año</title>
-      <link>https://crypto.news/russia-crypto-law-digital-ruble-contradictions/</link>
-      <guid isPermaLink="false">russia-crypto-law-duma-july-2026#upd-2026-09-05</guid>
-      <description>La Ley 282-FZ entró en vigor el 1 de septiembre: BTC, ETH y USDT aprobados con tope minorista de 300.000 rublos/año (~$3.700). Pagos internos prohibidos. Uso en liquidaciones cross-border (workaround sanciones) ahora formalmente legal. Rublo digital lanzado el mismo día. Categoría: Regulación</description>
-      <pubDate>Sat, 05 Sep 2026 11:09:33 +0000</pubDate>
+      <title>[MEDIA][Geo] Reino Unido: FCA abre gateway de autorización cripto el 30 de septiembre — sin licencia, sin operar en 2027</title>
+      <link>https://www.theblock.co/post/384907/uk-fca-september-crypto-licensing-gateway</link>
+      <guid isPermaLink="false">uk-fca-crypto-authorization-gateway-september-2026</guid>
+      <description>La FCA del Reino Unido abre el 30 de septiembre el gateway formal de autorización para empresas cripto: exchanges, custodios, emisores de stablecoins y firmas de staking deben presentar solicitud entre el 30/9/2026 y el 28/2/2027. Las inscripciones AML actuales no se convierten automáticamente en licencia. Firmas sin autorización quedarán impedidas de operar en el UK a partir del 25/10/2027. Es el primer marco de autorización unificado del UK para activos digitales. Categoría: Regulación</description>
+      <pubDate>Sun, 06 Sep 2026 11:09:54 +0000</pubDate>
       <category>Regulación</category>
     </item>
-
-    <item>
-      <title>[MEDIA][Geo] [ACTUALIZACIÓN] CLARITY Act: Polymarket colapsa al 13-18% ante el voto del 15 de septiembre</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/polymarket-clarity-act-odds-crashed-110351607.html</link>
-      <guid isPermaLink="false">coinbase-armstrong-clarity-act-60votes-september-2026#upd-2026-09-05</guid>
-      <description>Probabilidades Polymarket caen al 13-18% (desde 82% en 2026) sobre la CLARITY Act. La cláusula de ética para funcionarios con crypto sigue sin resolverse. Voto de clotura el 15 de septiembre a las 14:15 ET. Categoría: Regulación</description>
-      <pubDate>Sat, 05 Sep 2026 11:09:33 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-
-    <item>
-      <title>[BAJA][On-chain] Wallet Bitcoin de noviembre 2011 vinculada a demanda de $293B mueve 40 BTC ($3,1M)</title>
-      <link>https://crypto.news/bitcoin-wallet-in-293b-lawsuit-moves-3-1m-in-btc/</link>
-      <guid isPermaLink="false">bitcoin-2011-wallet-293b-lawsuit-3m-btc-september-2026</guid>
-      <description>Dirección dormida desde noviembre 2011 transfirió 40 BTC (~$3,1M) el 3 de septiembre, vinculada a demanda de $293B por wallets supuestamente abandonadas en Nueva York. Patrón más amplio: seis wallets 2011-2014 movieron ~$40M en agosto. Categoría: On-chain</description>
-      <pubDate>Sat, 05 Sep 2026 11:09:33 +0000</pubDate>
-      <category>On-chain</category>
-    </item>
-
   </channel>
 </rss>
