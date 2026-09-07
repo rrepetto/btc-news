@@ -5,22 +5,46 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 06 Sep 2026 11:09:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:11:56 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA][Minería/AI] [ACTUALIZACIÓN] Bitcoin hashrate se recupera a 1,01 ZH/s — bear market declarado el 3/9 contradito en tres días</title>
-      <link>https://news.bitcoin.com/bitcoin-hashrate-reclaims-1-zh-s-as-hashprice-slides-lower/</link>
-      <guid isPermaLink="false">bitcoin-first-hashrate-bear-market-ai-2026#upd-2026-09-06</guid>
-      <description>Apenas 72 horas después de que el CEO de Twenty One Capital acuñara el término "hashrate bear market" (caída sostenida del -24% desde el pico de 1,3 ZH/s), el hashrate de Bitcoin volvió a superar 1 ZH/s: los datos de CoinWarz al bloque 965.469 muestran 1,01 ZH/s. El ajuste de dificultad del 5 de septiembre resultó en apenas -0,94% (dificultad: 125,81T). El rebote no confirma el fin del bear market pero contradice la narrativa de colapso inmediato. Categoría: Minería/AI</description>
-      <pubDate>Sun, 06 Sep 2026 11:09:54 +0000</pubDate>
+      <title>[ALTA][Técnico/Cuántica] SHRINCS BIP: primera propuesta de firma post-cuántica diseñada específicamente para Bitcoin</title>
+      <link>https://www.coindesk.com/tech/2026/08/27/bitcoin-researchers-propose-quantum-fix-that-would-not-crowd-out-transactions</link>
+      <guid isPermaLink="false">shrincs-bip-draft-post-quantum-bitcoin-2026</guid>
+      <description>Blockstream Research publica el draft BIP de SHRINCS (27 agosto), primer esquema de firma post-cuántico específico para Bitcoin. Firmas de 548 bytes permiten ~3 TPS bajo descuento SegWit, frente a &lt;0,5 TPS de alternativas NIST. SHA-256 only, compatible con BIP-39. Limitaciones: ruta de firma stateful, prueba formal de seguridad pendiente. Categoría: Técnico/Cuántica.</description>
+      <pubDate>Mon, 07 Sep 2026 11:11:56 +0000</pubDate>
+      <category>Cuántica</category>
+    </item>
+    <item>
+      <title>[MEDIA][Geo/Regulación] SEC propone primera revisión de reglas de transfer agents en 40 años — blockchain y activos tokenizados</title>
+      <link>https://www.kucoin.com/news/flash/sec-proposes-major-transfer-agent-rule-overhaul-addresses-tokenized-securities</link>
+      <guid isPermaLink="false">sec-transfer-agent-overhaul-blockchain-tokenized-securities-2026</guid>
+      <description>El 1° de septiembre la SEC publicó 421 páginas de normas modernizadas para transfer agents, por primera vez abordando blockchain nativo, tokenización de fondos y registros en distributed ledgers. Periodo de comentarios: 60 días. Afecta custodios institucionales y protocolos de tokenización sobre Bitcoin (Taproot Assets, RGB). Categoría: Regulación.</description>
+      <pubDate>Mon, 07 Sep 2026 11:11:56 +0000</pubDate>
+      <category>Regulación</category>
+    </item>
+    <item>
+      <title>[MEDIA][Minería/AI] Bitdeer compra 200 acres en Texas por $100M para AI/HPC en Rockdale</title>
+      <link>https://www.globenewswire.com/news-release/2026/09/01/3354593/0/en/bitdeer-announces-acquisition-of-200-acres-near-rockdale-facility-in-milam-county-texas-to-support-aihpc-infrastructure-development.html</link>
+      <guid isPermaLink="false">bitdeer-texas-200-acres-100m-rockdale-2026</guid>
+      <description>Bitdeer (BTDR) adquirió 200 acres en Milam County, Texas (ex-planta Alcoa) por $100M en efectivo (1° sept.), expandiendo capacidad de 563 a 742 MW para AI/HPC. Suma 455 acres en Rockdale, ~110 km de Austin. Categoría: Minería/AI.</description>
+      <pubDate>Mon, 07 Sep 2026 11:11:56 +0000</pubDate>
       <category>Minería/AI</category>
     </item>
     <item>
-      <title>[MEDIA][Geo] Reino Unido: FCA abre gateway de autorización cripto el 30 de septiembre — sin licencia, sin operar en 2027</title>
-      <link>https://www.theblock.co/post/384907/uk-fca-september-crypto-licensing-gateway</link>
-      <guid isPermaLink="false">uk-fca-crypto-authorization-gateway-september-2026</guid>
-      <description>La FCA del Reino Unido abre el 30 de septiembre el gateway formal de autorización para empresas cripto: exchanges, custodios, emisores de stablecoins y firmas de staking deben presentar solicitud entre el 30/9/2026 y el 28/2/2027. Las inscripciones AML actuales no se convierten automáticamente en licencia. Firmas sin autorización quedarán impedidas de operar en el UK a partir del 25/10/2027. Es el primer marco de autorización unificado del UK para activos digitales. Categoría: Regulación</description>
-      <pubDate>Sun, 06 Sep 2026 11:09:54 +0000</pubDate>
-      <category>Regulación</category>
+      <title>[MEDIA][On-chain] 600 BTC de 2010 se mueven tras 16 años de inactividad — $47.84M sin vínculo con Satoshi</title>
+      <link>https://coinspectator.com/bitcoin-com/2026/09/06/satoshi-era-bitcoin-whale-awakens-moves-48m-in-vintage-btc/</link>
+      <guid isPermaLink="false">satoshi-era-600-btc-2010-dormant-whale-september-2026</guid>
+      <description>El 5 de septiembre, 12 wallets de marzo 2010 (cada una con 50 BTC de recompensa de bloque) movieron 600 BTC (~$47.84M) a P2WPKH nuevas (bloques 965.639-965.646). Whale Alert descarta conexión con Satoshi. Diferente al ítem de la demanda de $293B del 5/9. Categoría: On-chain.</description>
+      <pubDate>Mon, 07 Sep 2026 11:11:56 +0000</pubDate>
+      <category>On-chain</category>
+    </item>
+    <item>
+      <title>[BAJA][Técnico] Silent payments en coinbase para pagos de pools a mineros — propuesta en Delving Bitcoin</title>
+      <link>https://delvingbitcoin.org/t/silent-payments-coinbase/2833</link>
+      <guid isPermaLink="false">silent-payments-coinbase-miners-optech-421-2026</guid>
+      <description>Propuesta en Delving Bitcoin (Optech #421, 4 sept.): pools podrían pagar a mineros via silent payments en la coinbase, usando dirección estática reutilizable sin exponer la base de datos del pool. En etapa de discusión. Categoría: Técnico/Lightning.</description>
+      <pubDate>Mon, 07 Sep 2026 11:11:56 +0000</pubDate>
+      <category>Técnico</category>
     </item>
   </channel>
 </rss>

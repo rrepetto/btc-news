@@ -1404,6 +1404,36 @@
       "title": "Reino Unido: FCA abre gateway de autorización cripto el 30 de septiembre, sin licencia sin operar en 2027",
       "url": "https://www.theblock.co/post/384907/uk-fca-september-crypto-licensing-gateway",
       "first_seen": "2026-09-06"
+    },
+    {
+      "id": "shrincs-bip-draft-post-quantum-bitcoin-2026",
+      "title": "SHRINCS BIP: primera propuesta de firma post-cuántica diseñada específicamente para Bitcoin",
+      "url": "https://www.coindesk.com/tech/2026/08/27/bitcoin-researchers-propose-quantum-fix-that-would-not-crowd-out-transactions",
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "sec-transfer-agent-overhaul-blockchain-tokenized-securities-2026",
+      "title": "SEC propone primera revisión de reglas de transfer agents en 40 años — apunta directamente a blockchain y activos tokenizados",
+      "url": "https://www.kucoin.com/news/flash/sec-proposes-major-transfer-agent-rule-overhaul-addresses-tokenized-securities",
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "bitdeer-texas-200-acres-100m-rockdale-2026",
+      "title": "Bitdeer compra 200 acres en Texas por $100M en efectivo para expandir infraestructura de AI/HPC",
+      "url": "https://www.globenewswire.com/news-release/2026/09/01/3354593/0/en/bitdeer-announces-acquisition-of-200-acres-near-rockdale-facility-in-milam-county-texas-to-support-aihpc-infrastructure-development.html",
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "satoshi-era-600-btc-2010-dormant-whale-september-2026",
+      "title": "600 BTC minados en 2010 se mueven tras 16 años de inactividad — $47.84M sin vínculo con Satoshi",
+      "url": "https://coinspectator.com/bitcoin-com/2026/09/06/satoshi-era-bitcoin-whale-awakens-moves-48m-in-vintage-btc/",
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "silent-payments-coinbase-miners-optech-421-2026",
+      "title": "Propuesta de silent payments en transacciones coinbase para pagos de pools a mineros",
+      "url": "https://delvingbitcoin.org/t/silent-payments-coinbase/2833",
+      "first_seen": "2026-09-07"
     }
   ]
 }
