@@ -16,33 +16,33 @@ Compatible con cualquier lector RSS (Feedly, Inoreader, Miniflux, etc.).
 
 | Fecha | Items |
 |-------|-------|
+| [2026-09-08](digests/2026-09-08.md) | 1 nuevo |
 | [2026-09-07](digests/2026-09-07.md) | 5 nuevos |
-| [2026-09-06](digests/2026-09-06.md) | 1 nuevos |
-| [2026-09-05](digests/2026-09-05.md) | 1 nuevos |
-| [2026-09-04](digests/2026-09-04.md) | 1 nuevos |
+| [2026-09-06](digests/2026-09-06.md) | 1 nuevo |
+| [2026-09-05](digests/2026-09-05.md) | 1 nuevo |
+| [2026-09-04](digests/2026-09-04.md) | 1 nuevo |
 | [2026-09-03](digests/2026-09-03.md) | 2 nuevos |
 | [2026-09-02](digests/2026-09-02.md) | 5 nuevos |
-| [2026-08-31](digests/2026-08-31.md) | 1 nuevos |
+| [2026-08-31](digests/2026-08-31.md) | 1 nuevo |
 | [2026-08-30](digests/2026-08-30.md) | 2 nuevos |
 | [2026-08-27](digests/2026-08-27.md) | 2 nuevos |
-| [2026-08-26](digests/2026-08-26.md) | 1 nuevos |
+| [2026-08-26](digests/2026-08-26.md) | 1 nuevo |
 | [2026-08-25](digests/2026-08-25.md) | 3 nuevos |
 | [2026-08-24](digests/2026-08-24.md) | 5 nuevos |
 | [2026-08-23](digests/2026-08-23.md) | 2 nuevos |
-| [2026-08-22](digests/2026-08-22.md) | 1 nuevos |
-| [2026-08-21](digests/2026-08-21.md) | 1 nuevos |
+| [2026-08-22](digests/2026-08-22.md) | 1 nuevo |
+| [2026-08-21](digests/2026-08-21.md) | 1 nuevo |
 | [2026-08-20](digests/2026-08-20.md) | 3 nuevos |
 | [2026-08-19](digests/2026-08-19.md) | 2 nuevos |
 | [2026-08-18](digests/2026-08-18.md) | 2 nuevos |
-| [2026-08-17](digests/2026-08-17.md) | 1 nuevos |
+| [2026-08-17](digests/2026-08-17.md) | 1 nuevo |
 | [2026-08-16](digests/2026-08-16.md) | 3 nuevos |
 | [2026-08-15](digests/2026-08-15.md) | 2 nuevos |
-| [2026-08-14](digests/2026-08-14.md) | 1 nuevos |
+| [2026-08-14](digests/2026-08-14.md) | 1 nuevo |
 | [2026-08-13](digests/2026-08-13.md) | 3 nuevos |
-| [2026-08-12](digests/2026-08-12.md) | 1 nuevos |
+| [2026-08-12](digests/2026-08-12.md) | 1 nuevo |
 | [2026-08-11](digests/2026-08-11.md) | 4 nuevos |
-| [2026-08-10](digests/2026-08-10.md) | 1 nuevos |
-| [2026-08-09](digests/2026-08-09.md) | 1 nuevos |
-| [2026-08-08](digests/2026-08-08.md) | 1 nuevos |
+| [2026-08-10](digests/2026-08-10.md) | 1 nuevo |
+| [2026-08-09](digests/2026-08-09.md) | 1 nuevo |
+| [2026-08-08](digests/2026-08-08.md) | 1 nuevo |
 | [2026-08-07](digests/2026-08-07.md) | 3 nuevos |
-| [2026-08-06](digests/2026-08-06.md) | 4 nuevos |

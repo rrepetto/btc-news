@@ -5,46 +5,34 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:11:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:11:11 +0000</lastBuildDate>
+
     <item>
-      <title>[ALTA][Técnico/Cuántica] SHRINCS BIP: primera propuesta de firma post-cuántica diseñada específicamente para Bitcoin</title>
-      <link>https://www.coindesk.com/tech/2026/08/27/bitcoin-researchers-propose-quantum-fix-that-would-not-crowd-out-transactions</link>
-      <guid isPermaLink="false">shrincs-bip-draft-post-quantum-bitcoin-2026</guid>
-      <description>Blockstream Research publica el draft BIP de SHRINCS (27 agosto), primer esquema de firma post-cuántico específico para Bitcoin. Firmas de 548 bytes permiten ~3 TPS bajo descuento SegWit, frente a &lt;0,5 TPS de alternativas NIST. SHA-256 only, compatible con BIP-39. Limitaciones: ruta de firma stateful, prueba formal de seguridad pendiente. Categoría: Técnico/Cuántica.</description>
-      <pubDate>Mon, 07 Sep 2026 11:11:56 +0000</pubDate>
-      <category>Cuántica</category>
+      <title>[ALTA][Técnico] Liquid Network hackeada: 4.000 BTC ($320M) drenados por bug en Elements — 3.400 BTC recuperados, $47M retenidos</title>
+      <link>https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart</link>
+      <guid isPermaLink="false">liquid-network-hack-elements-btc-320m-september-2026</guid>
+      <description>Un bug en el caché de range-proofs de Elements permitió crear L-BTC sin respaldo y drenar ~3.998,5 BTC ($320M) del sidechain Liquid el 6/9. White-hats devolvieron 3.400 BTC; 598,5 BTC ($47M) retenidos como "comisión". Red pausada mientras se coordina el reinicio. Categoría: Core/Release (vulnerabilidad de sidechain).</description>
+      <pubDate>Tue, 08 Sep 2026 11:11:11 +0000</pubDate>
+      <category>Core/Release</category>
     </item>
+
     <item>
-      <title>[MEDIA][Geo/Regulación] SEC propone primera revisión de reglas de transfer agents en 40 años — blockchain y activos tokenizados</title>
-      <link>https://www.kucoin.com/news/flash/sec-proposes-major-transfer-agent-rule-overhaul-addresses-tokenized-securities</link>
-      <guid isPermaLink="false">sec-transfer-agent-overhaul-blockchain-tokenized-securities-2026</guid>
-      <description>El 1° de septiembre la SEC publicó 421 páginas de normas modernizadas para transfer agents, por primera vez abordando blockchain nativo, tokenización de fondos y registros en distributed ledgers. Periodo de comentarios: 60 días. Afecta custodios institucionales y protocolos de tokenización sobre Bitcoin (Taproot Assets, RGB). Categoría: Regulación.</description>
-      <pubDate>Mon, 07 Sep 2026 11:11:56 +0000</pubDate>
+      <title>[ALTA][Geo/Regulación][ACTUALIZACIÓN] CLARITY Act: SEC Chair Atkins predice que llegará al escritorio de Trump "este mes" y anuncia Reg Crypto como marco paralelo</title>
+      <link>https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-below-78k-with-us-regulatory-developments-in-focus-4887020</link>
+      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026#upd-2026-09-08</guid>
+      <description>Atkins (SEC) dice públicamente que el CLARITY Act alcanzará el escritorio de Trump en septiembre y que la SEC puede avanzar con Regulation Crypto Assets incluso si el Congreso falla — reversión de la cancelación de agosto. Voto de cloture el 15/9, 60 votos necesarios. Categoría: Regulación.</description>
+      <pubDate>Tue, 08 Sep 2026 11:11:11 +0000</pubDate>
       <category>Regulación</category>
     </item>
+
     <item>
-      <title>[MEDIA][Minería/AI] Bitdeer compra 200 acres en Texas por $100M para AI/HPC en Rockdale</title>
-      <link>https://www.globenewswire.com/news-release/2026/09/01/3354593/0/en/bitdeer-announces-acquisition-of-200-acres-near-rockdale-facility-in-milam-county-texas-to-support-aihpc-infrastructure-development.html</link>
-      <guid isPermaLink="false">bitdeer-texas-200-acres-100m-rockdale-2026</guid>
-      <description>Bitdeer (BTDR) adquirió 200 acres en Milam County, Texas (ex-planta Alcoa) por $100M en efectivo (1° sept.), expandiendo capacidad de 563 a 742 MW para AI/HPC. Suma 455 acres en Rockdale, ~110 km de Austin. Categoría: Minería/AI.</description>
-      <pubDate>Mon, 07 Sep 2026 11:11:56 +0000</pubDate>
-      <category>Minería/AI</category>
+      <title>[MEDIA][Mercado][ACTUALIZACIÓN] MSCI vs. Strategy: Saylor presenta objeción formal llamando el screening de MSCI un "pretexto" — consulta cierra 30 sept, decisión 16 oct</title>
+      <link>https://www.benzinga.com/crypto/cryptocurrency/26/09/61546230/strategy-slams-msci-rule-as-a-pretext-to-exclude-bitcoin-companies</link>
+      <guid isPermaLink="false">msci-strategy-mstr-index-exclusion-review-august-2026#upd-2026-09-08</guid>
+      <description>Strategy publicó objeción formal al screening de MSCI argumentando que los conceptos "operativo/no operativo" no tienen base en US GAAP ni IFRS. Consulta MSCI cierra 30/9, decisión 16/10, efecto desde 1/12. Strategy, Metaplanet y Yellow Cake fallarían el test. Categoría: Ballenas.</description>
+      <pubDate>Tue, 08 Sep 2026 11:11:11 +0000</pubDate>
+      <category>Ballenas</category>
     </item>
-    <item>
-      <title>[MEDIA][On-chain] 600 BTC de 2010 se mueven tras 16 años de inactividad — $47.84M sin vínculo con Satoshi</title>
-      <link>https://coinspectator.com/bitcoin-com/2026/09/06/satoshi-era-bitcoin-whale-awakens-moves-48m-in-vintage-btc/</link>
-      <guid isPermaLink="false">satoshi-era-600-btc-2010-dormant-whale-september-2026</guid>
-      <description>El 5 de septiembre, 12 wallets de marzo 2010 (cada una con 50 BTC de recompensa de bloque) movieron 600 BTC (~$47.84M) a P2WPKH nuevas (bloques 965.639-965.646). Whale Alert descarta conexión con Satoshi. Diferente al ítem de la demanda de $293B del 5/9. Categoría: On-chain.</description>
-      <pubDate>Mon, 07 Sep 2026 11:11:56 +0000</pubDate>
-      <category>On-chain</category>
-    </item>
-    <item>
-      <title>[BAJA][Técnico] Silent payments en coinbase para pagos de pools a mineros — propuesta en Delving Bitcoin</title>
-      <link>https://delvingbitcoin.org/t/silent-payments-coinbase/2833</link>
-      <guid isPermaLink="false">silent-payments-coinbase-miners-optech-421-2026</guid>
-      <description>Propuesta en Delving Bitcoin (Optech #421, 4 sept.): pools podrían pagar a mineros via silent payments en la coinbase, usando dirección estática reutilizable sin exponer la base de datos del pool. En etapa de discusión. Categoría: Técnico/Lightning.</description>
-      <pubDate>Mon, 07 Sep 2026 11:11:56 +0000</pubDate>
-      <category>Técnico</category>
-    </item>
+
   </channel>
 </rss>
