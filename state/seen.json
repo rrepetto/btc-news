@@ -1131,9 +1131,10 @@
       "category": "Macro",
       "relevancia": "Media",
       "updates": [
-        "2026-08-22"
+        "2026-08-22",
+        "2026-09-09"
       ],
-      "last_update": "2026-08-22"
+      "last_update": "2026-09-09"
     },
     {
       "id": "bitcoin-hashrate-17pct-drop-ai-hpc-70b-contracts-2026",
@@ -1164,7 +1165,11 @@
       "first_seen": "2026-08-22",
       "eje": "Técnico",
       "category": "Core/Release",
-      "relevancia": "Baja"
+      "relevancia": "Baja",
+      "last_update": "2026-09-09",
+      "updates": [
+        "2026-09-09"
+      ]
     },
     {
       "id": "harvard-endowment-ibit-q2-2026-holds-steady",
@@ -1339,10 +1344,11 @@
       "title": "Fed: 66% de probabilidad de suba de tasas el 16 de septiembre — macro headwind para BTC",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-faces-fresh-fed-131715670.html",
       "first_seen": "2026-09-02",
-      "last_update": "2026-09-05",
+      "last_update": "2026-09-09",
       "updates": [
         "2026-09-04",
-        "2026-09-05"
+        "2026-09-05",
+        "2026-09-09"
       ]
     },
     {
@@ -1444,7 +1450,20 @@
       "first_seen": "2026-09-08",
       "eje": "Técnico",
       "category": "Core/Release",
-      "relevancia": "Alta"
+      "relevancia": "Alta",
+      "last_update": "2026-09-09",
+      "updates": [
+        "2026-09-09"
+      ]
+    },
+    {
+      "id": "germany-crypto-haltefrist-preserved-transparency-2027",
+      "title": "Alemania preserva la Haltefrist (exención 1 año) en reforma 2027 — pero activa reporte obligatorio de transacciones cripto",
+      "url": "https://cointelegraph.com/news/germany-signals-2027-crypto-tax-overhaul-one-year-holding-perk-under-threat",
+      "first_seen": "2026-09-09",
+      "eje": "Geo/Regulación",
+      "category": "Regulación",
+      "relevancia": "Media"
     }
   ]
 }

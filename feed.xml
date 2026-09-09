@@ -3,35 +3,53 @@
   <channel>
     <title>Bitcoin Daily Digest</title>
     <link>https://rrepetto.github.io/btc-news/</link>
-    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
+    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo, mercado, regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:07:53 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] Liquid Network hackeada: 4.000 BTC ($320M) drenados por bug en Elements — 3.400 BTC recuperados, $47M retenidos</title>
-      <link>https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart</link>
-      <guid isPermaLink="false">liquid-network-hack-elements-btc-320m-september-2026</guid>
-      <description>Un bug en el caché de range-proofs de Elements permitió crear L-BTC sin respaldo y drenar ~3.998,5 BTC ($320M) del sidechain Liquid el 6/9. White-hats devolvieron 3.400 BTC; 598,5 BTC ($47M) retenidos como "comisión". Red pausada mientras se coordina el reinicio. Categoría: Core/Release (vulnerabilidad de sidechain).</description>
-      <pubDate>Tue, 08 Sep 2026 11:11:11 +0000</pubDate>
+      <title>[ALTA][Técnico] [ACTUALIZACIÓN] Liquid Network sigue pausada: 3.400 BTC recuperados (85%), $47M en negociación con white hats</title>
+      <link>https://cryptobriefing.com/liquid-network-recovers-bitcoin-white-hat-hackers/</link>
+      <guid isPermaLink="false">liquid-network-hack-elements-btc-320m-september-2026#upd-2026-09-09</guid>
+      <description>Red aún inactiva; Blockstream parcheó nodos el 7 sept; 3.400 de 4.000 BTC devueltos por white hats; 598,5 BTC (~$47M) retenidos con negociaciones en curso. Categoría: Core/Release</description>
+      <pubDate>Wed, 09 Sep 2026 11:07:53 +0000</pubDate>
       <category>Core/Release</category>
     </item>
 
     <item>
-      <title>[ALTA][Geo/Regulación][ACTUALIZACIÓN] CLARITY Act: SEC Chair Atkins predice que llegará al escritorio de Trump "este mes" y anuncia Reg Crypto como marco paralelo</title>
-      <link>https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-below-78k-with-us-regulatory-developments-in-focus-4887020</link>
-      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026#upd-2026-09-08</guid>
-      <description>Atkins (SEC) dice públicamente que el CLARITY Act alcanzará el escritorio de Trump en septiembre y que la SEC puede avanzar con Regulation Crypto Assets incluso si el Congreso falla — reversión de la cancelación de agosto. Voto de cloture el 15/9, 60 votos necesarios. Categoría: Regulación.</description>
-      <pubDate>Tue, 08 Sep 2026 11:11:11 +0000</pubDate>
+      <title>[ALTA][Geo] [ACTUALIZACIÓN] NFP agosto +162K empleos — BTC bajo $80K con CPI del 11 sept como último examen antes del FOMC del 16</title>
+      <link>https://www.theblock.co/news/markets/2026-09-07-bitcoin-holds-near-80000-despite-renewed-fed-rate-hike-fears-as-cpi-test-looms-413692</link>
+      <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026#upd-2026-09-09</guid>
+      <description>NFP de agosto: +162K empleos (muy por encima del promedio). Hike odds al 60-65% según CME FedWatch. CPI del 11 sept es el dato decisivo antes del FOMC del 16. Categoría: Macro</description>
+      <pubDate>Wed, 09 Sep 2026 11:07:53 +0000</pubDate>
+      <category>Macro</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Geo] Alemania preserva la Haltefrist (exención 1 año) en reforma 2027 — pero activa reporte obligatorio de transacciones cripto</title>
+      <link>https://cointelegraph.com/news/germany-signals-2027-crypto-tax-overhaul-one-year-holding-perk-under-threat</link>
+      <guid isPermaLink="false">germany-crypto-haltefrist-preserved-transparency-2027</guid>
+      <description>El borrador del Gabinete del 2 sept no incluyó cripto: la exención por tenencia de 1 año continúa. Por ley separada, los proveedores deberán reportar transacciones de 2026 al Fisco alemán antes de julio 2027. Categoría: Regulación</description>
+      <pubDate>Wed, 09 Sep 2026 11:07:53 +0000</pubDate>
       <category>Regulación</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado][ACTUALIZACIÓN] MSCI vs. Strategy: Saylor presenta objeción formal llamando el screening de MSCI un "pretexto" — consulta cierra 30 sept, decisión 16 oct</title>
-      <link>https://www.benzinga.com/crypto/cryptocurrency/26/09/61546230/strategy-slams-msci-rule-as-a-pretext-to-exclude-bitcoin-companies</link>
-      <guid isPermaLink="false">msci-strategy-mstr-index-exclusion-review-august-2026#upd-2026-09-08</guid>
-      <description>Strategy publicó objeción formal al screening de MSCI argumentando que los conceptos "operativo/no operativo" no tienen base en US GAAP ni IFRS. Consulta MSCI cierra 30/9, decisión 16/10, efecto desde 1/12. Strategy, Metaplanet y Yellow Cake fallarían el test. Categoría: Ballenas.</description>
-      <pubDate>Tue, 08 Sep 2026 11:11:11 +0000</pubDate>
-      <category>Ballenas</category>
+      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] Recompras del Tesoro de EE.UU. ($4B+ por operación en bonos largos) arrancan hoy 9 de septiembre</title>
+      <link>https://home.treasury.gov/news/press-releases/sb0607</link>
+      <guid isPermaLink="false">us-treasury-buyback-4b-long-bond-september-2026#upd-2026-09-09</guid>
+      <description>El programa expandido en bonos de 10-30 años (mínimo $4B/operación) entra en vigor desde hoy hasta el 4 de noviembre. Viento de cola para activos de riesgo; BTC ya anticipó el movimiento el 20 de agosto. Categoría: Macro</description>
+      <pubDate>Wed, 09 Sep 2026 11:07:53 +0000</pubDate>
+      <category>Macro</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Técnico] [ACTUALIZACIÓN] Bitcoin Core v32: rc1 previsto para mañana 10 sept, release final objetivo 10 oct</title>
+      <link>https://github.com/bitcoin/bitcoin/issues/35122</link>
+      <guid isPermaLink="false">bitcoin-core-v32-feature-freeze-august-2026#upd-2026-09-09</guid>
+      <description>Tras el feature freeze del 20 agosto, el equipo bifurcará la rama 32.x y publicará rc1 mañana; release final objetivo: 10 de octubre. Categoría: Core/Release</description>
+      <pubDate>Wed, 09 Sep 2026 11:07:53 +0000</pubDate>
+      <category>Core/Release</category>
     </item>
 
   </channel>
