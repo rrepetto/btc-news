@@ -3,52 +3,79 @@
   <channel>
     <title>Bitcoin Daily Digest</title>
     <link>https://rrepetto.github.io/btc-news/</link>
-    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo, mercado, regulación y minería.</description>
+    <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:07:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:08:37 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Técnico] [ACTUALIZACIÓN] Liquid Network sigue pausada: 3.400 BTC recuperados (85%), $47M en negociación con white hats</title>
-      <link>https://cryptobriefing.com/liquid-network-recovers-bitcoin-white-hat-hackers/</link>
-      <guid isPermaLink="false">liquid-network-hack-elements-btc-320m-september-2026#upd-2026-09-09</guid>
-      <description>Red aún inactiva; Blockstream parcheó nodos el 7 sept; 3.400 de 4.000 BTC devueltos por white hats; 598,5 BTC (~$47M) retenidos con negociaciones en curso. Categoría: Core/Release</description>
-      <pubDate>Wed, 09 Sep 2026 11:07:53 +0000</pubDate>
-      <category>Core/Release</category>
+      <title>[ALTA][Técnico] Alby Hub: vulnerabilidad crítica en wallet Lightning auto-hospedado — actualizar a v1.24.0</title>
+      <link>https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html</link>
+      <guid isPermaLink="false">alby-hub-critical-vulnerability-lightning-september-2026</guid>
+      <description>Alby confirma falla crítica en Hub v1.7.0–v1.18.5: si el management API es accesible desde Internet, un atacante puede tomar el control y transferir fondos. Un usuario afectado confirmado con pérdidas reales. Actualizar a v1.24.0 de inmediato y restringir el acceso público al API. Categoría: Lightning</description>
+      <pubDate>Thu, 10 Sep 2026 11:08:37 +0000</pubDate>
+      <category>Lightning</category>
     </item>
 
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACIÓN] NFP agosto +162K empleos — BTC bajo $80K con CPI del 11 sept como último examen antes del FOMC del 16</title>
-      <link>https://www.theblock.co/news/markets/2026-09-07-bitcoin-holds-near-80000-despite-renewed-fed-rate-hike-fears-as-cpi-test-looms-413692</link>
-      <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026#upd-2026-09-09</guid>
-      <description>NFP de agosto: +162K empleos (muy por encima del promedio). Hike odds al 60-65% según CME FedWatch. CPI del 11 sept es el dato decisivo antes del FOMC del 16. Categoría: Macro</description>
-      <pubDate>Wed, 09 Sep 2026 11:07:53 +0000</pubDate>
-      <category>Macro</category>
-    </item>
-
-    <item>
-      <title>[MEDIA][Geo] Alemania preserva la Haltefrist (exención 1 año) en reforma 2027 — pero activa reporte obligatorio de transacciones cripto</title>
-      <link>https://cointelegraph.com/news/germany-signals-2027-crypto-tax-overhaul-one-year-holding-perk-under-threat</link>
-      <guid isPermaLink="false">germany-crypto-haltefrist-preserved-transparency-2027</guid>
-      <description>El borrador del Gabinete del 2 sept no incluyó cripto: la exención por tenencia de 1 año continúa. Por ley separada, los proveedores deberán reportar transacciones de 2026 al Fisco alemán antes de julio 2027. Categoría: Regulación</description>
-      <pubDate>Wed, 09 Sep 2026 11:07:53 +0000</pubDate>
+      <title>[ALTA][Geo] [ACTUALIZACIÓN] Alemania: nuevo borrador elimina la exención fiscal de 1 año para BTC comprados después de dic-2026</title>
+      <link>https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains</link>
+      <guid isPermaLink="false">germany-crypto-haltefrist-preserved-transparency-2027#upd-2026-09-10</guid>
+      <description>El Ministerio de Finanzas alemán publicó un borrador que propone suprimir la Haltefrist (exención por tenencia &gt;1 año) para activos cripto adquiridos después del 31-dic-2026, aplicando un impuesto flat del 25–26.4% vigente desde 2027. Cambio sustancial: el item anterior señalaba que la Haltefrist había sido preservada; el nuevo texto la elimina para compras futuras. Aún requiere aprobación parlamentaria. Categoría: Regulación</description>
+      <pubDate>Thu, 10 Sep 2026 11:08:37 +0000</pubDate>
       <category>Regulación</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] Recompras del Tesoro de EE.UU. ($4B+ por operación en bonos largos) arrancan hoy 9 de septiembre</title>
-      <link>https://home.treasury.gov/news/press-releases/sb0607</link>
-      <guid isPermaLink="false">us-treasury-buyback-4b-long-bond-september-2026#upd-2026-09-09</guid>
-      <description>El programa expandido en bonos de 10-30 años (mínimo $4B/operación) entra en vigor desde hoy hasta el 4 de noviembre. Viento de cola para activos de riesgo; BTC ya anticipó el movimiento el 20 de agosto. Categoría: Macro</description>
-      <pubDate>Wed, 09 Sep 2026 11:07:53 +0000</pubDate>
+      <title>[MEDIA][Técnico] BLAKE2b fork de Bitcoin lanzado — escaso soporte, bajo volumen, cotiza en ~$526</title>
+      <link>https://crypto.news/bitcoin-blake2b-fork-faces-sept-1-launch-test/</link>
+      <guid isPermaLink="false">bitcoin-blake2b-fork-dashjr-launch-september-2026</guid>
+      <description>Luke Dashjr activó un hard fork de Bitcoin en el bloque 961.640 (~30 agosto) cambiando el algoritmo de prueba de trabajo de SHA-256d a BLAKE2b. El fork paga 3.125 monedas por bloque, requiere hardware Sia-family ASICs e inició cotización a ~$526 con grandes oscilaciones diarias. Ningún exchange ni pool principal lo soporta; replay protection pendiente. Categoría: BIP/Fork</description>
+      <pubDate>Thu, 10 Sep 2026 11:08:37 +0000</pubDate>
+      <category>BIP/Fork</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Técnico] Hyperscale Data (GPUS) apaga todos sus miners de BTC para liberar 20 MW a AI cloud</title>
+      <link>https://cryptolexicon.org/en/blog/bitcoin-difficulty-rise-hashprice-jump-september-2026/</link>
+      <guid isPermaLink="false">hyperscale-data-gpus-mining-shutdown-ai-pivot-september-2026</guid>
+      <description>La minera pública Hyperscale Data apagó todos sus equipos de Bitcoin en su sitio de Michigan el 1 de septiembre para entregar 20 MW a un cliente de AI cloud. Uno de los pivotes minería→AI más completos vistos en el sector cotizado. Categoría: Minería/AI</description>
+      <pubDate>Thu, 10 Sep 2026 11:08:37 +0000</pubDate>
+      <category>Minería/AI</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] ETF spot BTC: se rompe la racha de 3 semanas de entradas — $166.8M en salidas en dos días</title>
+      <link>https://cryptobriefing.com/spot-bitcoin-etfs-sell-166m-market-evaluation/</link>
+      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-09-10</guid>
+      <description>$166.8M en salidas netas los días 8-9 de septiembre terminan la racha positiva más larga de 2026. ARKB lidera con $77.98M retirados; Grayscale suma $27.22M. El MTD sigue en ~$622.7M positivo, pero el freno señala cautela institucional ante el FOMC del 16 sept. Categoría: ETF</description>
+      <pubDate>Thu, 10 Sep 2026 11:08:37 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Técnico] [ACTUALIZACIÓN] Dificultad Bitcoin +1.31%: primer ajuste positivo tras el hashrate bear market</title>
+      <link>https://cryptolexicon.org/en/blog/bitcoin-difficulty-rise-hashprice-jump-september-2026/</link>
+      <guid isPermaLink="false">bitcoin-first-hashrate-bear-market-ai-2026#upd-2026-09-10</guid>
+      <description>El 6 de septiembre (bloque 965.664) la dificultad subió por primera vez después de múltiples ajustes negativos; hashprice salta 22% a $39.63/PH/s/día. El hashrate ronda 932–934 EH/s. Podría marcar el inicio de la estabilización tras el primer hashrate bear market de la historia de Bitcoin. Categoría: Minería/AI</description>
+      <pubDate>Thu, 10 Sep 2026 11:08:37 +0000</pubDate>
+      <category>Minería/AI</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] Probabilidad de suba de tasas Fed cae de 66% a ~57% — mañana CPI de agosto</title>
+      <link>https://beincrypto.com/us-inflation-forecasts-bitcoin-fed/</link>
+      <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026#upd-2026-09-10</guid>
+      <description>Las probabilidades de suba del 16 de septiembre bajaron desde el 66% al ~57% mientras los mercados se posicionan antes del CPI de agosto (publica el 11 sept, 8:30 ET). BTC cotiza en ~$78.200, atrapado bajo resistencia de $80K. Categoría: Macro</description>
+      <pubDate>Thu, 10 Sep 2026 11:08:37 +0000</pubDate>
       <category>Macro</category>
     </item>
 
     <item>
-      <title>[BAJA][Técnico] [ACTUALIZACIÓN] Bitcoin Core v32: rc1 previsto para mañana 10 sept, release final objetivo 10 oct</title>
+      <title>[BAJA][Técnico] [ACTUALIZACIÓN] Bitcoin Core v32.0rc1 liberado hoy según calendario</title>
       <link>https://github.com/bitcoin/bitcoin/issues/35122</link>
-      <guid isPermaLink="false">bitcoin-core-v32-feature-freeze-august-2026#upd-2026-09-09</guid>
-      <description>Tras el feature freeze del 20 agosto, el equipo bifurcará la rama 32.x y publicará rc1 mañana; release final objetivo: 10 de octubre. Categoría: Core/Release</description>
-      <pubDate>Wed, 09 Sep 2026 11:07:53 +0000</pubDate>
+      <guid isPermaLink="false">bitcoin-core-v32-feature-freeze-august-2026#upd-2026-09-10</guid>
+      <description>Los mantenedores dividieron la rama 32.x y publicaron el release candidate 1 el 10 de septiembre, tal como estaba previsto desde el feature freeze del 20 de agosto. El release final se mantiene para el 10 de octubre. Categoría: Core/Release</description>
+      <pubDate>Thu, 10 Sep 2026 11:08:37 +0000</pubDate>
       <category>Core/Release</category>
     </item>
 
