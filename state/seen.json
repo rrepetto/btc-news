@@ -1352,13 +1352,14 @@
       "title": "Fed: 66% de probabilidad de suba de tasas el 16 de septiembre — macro headwind para BTC",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-faces-fresh-fed-131715670.html",
       "first_seen": "2026-09-02",
-      "last_update": "2026-09-11",
+      "last_update": "2026-09-12",
       "updates": [
         "2026-09-04",
         "2026-09-05",
         "2026-09-09",
         "2026-09-10",
-        "2026-09-11"
+        "2026-09-11",
+        "2026-09-12"
       ]
     },
     {
@@ -1462,10 +1463,11 @@
       "eje": "Técnico",
       "category": "Core/Release",
       "relevancia": "Alta",
-      "last_update": "2026-09-11",
+      "last_update": "2026-09-12",
       "updates": [
         "2026-09-09",
-        "2026-09-11"
+        "2026-09-11",
+        "2026-09-12"
       ]
     },
     {
@@ -1507,6 +1509,30 @@
       "eje": "Técnico",
       "category": "Minería/AI",
       "relevancia": "Media"
+    },
+    {
+      "id": "ethereum-etf-beats-bitcoin-etf-flows-ytd-2026",
+      "title": "ETF spot de ETH supera a BTC en flujos 2026 por primera vez histórica (+$863M vs -$1B YTD)",
+      "url": "https://crypto.news/ethereum-etf-inflows-beat-bitcoin-institutional-rotation/",
+      "first_seen": "2026-09-12",
+      "eje": "Mercado",
+      "category": "ETF"
+    },
+    {
+      "id": "babilonia-v2-probabilistic-coinjoin-covert-bets-signet-2026",
+      "title": "Babilonia v2: protocolo de coinjoin probabilístico disfrazado de apuestas encubiertas, con demo Thimbly en Signet",
+      "url": "https://delvingbitcoin.org/t/babilonia-probabilistic-coinjoin-and-covert-betting/2704",
+      "first_seen": "2026-09-12",
+      "eje": "Técnico",
+      "category": "CoinJoin/Privacidad"
+    },
+    {
+      "id": "blindbit-oracle-v2-silent-payments-benchmarks-optech-422-2026",
+      "title": "BlindBit Oracle v2: benchmarks de indexación de silent payments vs filtros compactos BIP-158 para light clients",
+      "url": "https://bitcoinops.org/en/newsletters/2026/09/11/",
+      "first_seen": "2026-09-12",
+      "eje": "Técnico",
+      "category": "Silent Payments/Lightning"
     }
   ]
 }

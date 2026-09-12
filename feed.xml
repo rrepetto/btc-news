@@ -5,46 +5,46 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:13:02 +0000</lastBuildDate>
-    <item>
-      <title>[ALTA][Geo] [ACTUALIZACIÓN] EE.UU.–Irán: petróleo cruza $100/barril — BTC retrocede a $77K</title>
-      <link>https://ca.investing.com/news/cryptocurrency-news/bitcoin-steadies-below-78k-with-us-regulatory-developments-in-focus-4826793</link>
-      <guid isPermaLink="false">us-iran-new-strikes-oil-94-btc-78k-september-2026#upd-2026-09-11</guid>
-      <description>Las nuevas escaladas militares entre EE.UU. e Irán empujaron el WTI por encima de $100/barril (Brent: +$105), primera vez desde fines de mayo. Bitcoin cae a ~$77K, el bono del Tesoro a 30 años toca 5.353% (mayor nivel desde junio 2007). Primer reporte el 2-sept con crudo en $94.50; hoy supera el umbral psicológico de $100. Categoría: Geopolítica</description>
-      <pubDate>Fri, 11 Sep 2026 11:13:02 +0000</pubDate>
-      <category>Geopolítica</category>
-    </item>
-    <item>
-      <title>[ALTA][Mercado] [ACTUALIZACIÓN] Fed rate hike: probabilidad sube al 72% — CPI de agosto se publica hoy</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/fed-rate-hike-odds-hit-092724315</link>
-      <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026#upd-2026-09-11</guid>
-      <description>El PPI de agosto (+5.4% mensual, máximo desde jun-2026) combinado con el crudo a $100 disparó las probabilidades de suba de tasas del FOMC del 16 septiembre hasta el ~72% (CME FedWatch), desde el ~57% del día anterior. El CPI de agosto se publica hoy (11 sept, 8:30 ET) y es el último dato macro antes de la decisión de la Fed. Categoría: Macro</description>
-      <pubDate>Fri, 11 Sep 2026 11:13:02 +0000</pubDate>
-      <category>Macro</category>
-    </item>
-    <item>
-      <title>[ALTA][Mercado] [ACTUALIZACIÓN] Bitcoin ETF: $283M en salidas el 10 sept — cuarto día consecutivo de outflows</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-news-demand-faces-142217788</link>
-      <guid isPermaLink="false">bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026#upd-2026-09-11</guid>
-      <description>Los ETF spot de BTC registraron $283M en salidas netas el 10 de septiembre, el mayor single-day de la racha negativa actual. ARKB lidera con $164.3M retirados, seguido por GBTC ($38.4M) y FBTC ($33.6M). El MTD acumula ~$622M positivo pero la aceleración de salidas antes del FOMC refleja cautela institucional. Categoría: ETF</description>
-      <pubDate>Fri, 11 Sep 2026 11:13:02 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-    <item>
-      <title>[ALTA][Técnico] [ACTUALIZACIÓN] Liquid Network: bloques reanudados, Adam Back garantiza peg LBTC:BTC 1:1</title>
-      <link>https://www.cryptotimes.io/2026/09/10/liquid-network-restarts-after-320m-exploit-adam-back-says-lbtc-peg-will-be-covered/</link>
-      <guid isPermaLink="false">liquid-network-hack-elements-btc-320m-september-2026#upd-2026-09-11</guid>
-      <description>El 10 de septiembre la Liquid Network reanudó producción de bloques en modo controlado (sin transacciones de usuarios) tras el exploit del 6 sept que drenó ~$320M. El CEO de Blockstream Adam Back confirmó que el peg LBTC:BTC será cubierto 1:1 e instó a los holders a no vender OTC. Peg-in y peg-out siguen suspendidos; recuperación por fases. Categoría: Core/Release</description>
-      <pubDate>Fri, 11 Sep 2026 11:13:02 +0000</pubDate>
-      <category>Core/Release</category>
-    </item>
-    <item>
-      <title>[MEDIA][Geo] [ACTUALIZACIÓN] CLARITY Act: cloture vote el 15 sept — posible voto antes de que la ley esté terminada</title>
-      <link>https://cryptoslate.com/clarity-acts-biggest-senate-vote-could-happen-before-the-bill-is-actually-finished/</link>
-      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026#upd-2026-09-11</guid>
-      <description>El cloture vote en el Senado está fijado para el 15 de septiembre a las 14:15 ET (requiere 60 votos). Siguen sin resolverse tres disputas: cláusula de ética Trump, responsabilidad DeFi (sec. 604) y eliminación de rendimiento sobre stablecoins. El voto podría ocurrir antes de que las partes acuerden la versión final del texto. Polymarket: 16%, Galaxy: 10%. Categoría: Regulación</description>
-      <pubDate>Fri, 11 Sep 2026 11:13:02 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
+    <lastBuildDate>Sat, 12 Sep 2026 11:07:00 +0000</lastBuildDate>
+  <item>
+    <title>[ALTA][Geo] [ACTUALIZACIÓN] CPI agosto confirma hike del 16 sept — Fed a ~79% de probabilidad</title>
+    <link>https://finance.yahoo.com/economy/articles/august-cpi-shows-inflation-held-124530919.html</link>
+    <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026#upd-2026-09-12</guid>
+    <description>El IPC de agosto (publicado el 11 sept) subió 0.4% mensual y 3.4% interanual, elevando la probabilidad de hike del FOMC al ~79%. Primera cobertura: 2 sept con prob. 66%; ayer 72%. Con el CPI ya publicado, el mercado llega al 16 sept con la suba prácticamente descontada. Categoría: Macro</description>
+    <pubDate>Sat, 12 Sep 2026 11:07:00 +0000</pubDate>
+    <category>Macro</category>
+  </item>
+  <item>
+    <title>[MEDIA][Mercado] ETF spot de ETH supera a BTC en flujos 2026 — primera vez histórica</title>
+    <link>https://crypto.news/ethereum-etf-inflows-beat-bitcoin-institutional-rotation/</link>
+    <guid isPermaLink="false">ethereum-etf-beats-bitcoin-etf-flows-ytd-2026</guid>
+    <description>Los ETF spot de ether acumulan +$863M netos YTD vs -$1B para BTC. El 11 sept: ETH absorbió $216M en un día y BTC perdió $13M. Primera vez que ETH lidera el flujo anual sobre BTC. Señal de diversificación institucional. Categoría: ETF</description>
+    <pubDate>Sat, 12 Sep 2026 11:07:00 +0000</pubDate>
+    <category>ETF</category>
+  </item>
+  <item>
+    <title>[MEDIA][Técnico] [ACTUALIZACIÓN] Liquid Network: 598.5 BTC (~$47M) aún sin devolver — peg-outs suspendidos</title>
+    <link>https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html</link>
+    <guid isPermaLink="false">liquid-network-hack-elements-btc-320m-september-2026#upd-2026-09-12</guid>
+    <description>Transacciones reanudadas en Liquid pero peg-outs siguen suspendidos sin cronograma. De los ~4,000 BTC explotados, 3,400 devueltos; quedan 598.5 BTC (~$47M) sin retornar. Blockstream no ha dicho cómo cubrirá el faltante. Categoría: Stablecoins/Liquid</description>
+    <pubDate>Sat, 12 Sep 2026 11:07:00 +0000</pubDate>
+    <category>Stablecoins/Liquid</category>
+  </item>
+  <item>
+    <title>[MEDIA][Técnico] Babilonia v2: coinjoins disfrazados de apuestas encubiertas, demo Thimbly en Signet</title>
+    <link>https://delvingbitcoin.org/t/babilonia-probabilistic-coinjoin-and-covert-betting/2704</link>
+    <guid isPermaLink="false">babilonia-v2-probabilistic-coinjoin-covert-bets-signet-2026</guid>
+    <description>Adam Gibson (JoinMarket) publicó Babilonia v2 en Delving Bitcoin: coinjoin probabilístico que hace que la transacción parezca una apuesta ordinaria on-chain, rompiendo la heurística de propiedad común de inputs. Demo Thimbly en Signet. Optech #422. Categoría: CoinJoin/Privacidad</description>
+    <pubDate>Sat, 12 Sep 2026 11:07:00 +0000</pubDate>
+    <category>CoinJoin/Privacidad</category>
+  </item>
+  <item>
+    <title>[BAJA][Técnico] BlindBit Oracle v2: benchmarks silent payments vs filtros compactos BIP-158</title>
+    <link>https://bitcoinops.org/en/newsletters/2026/09/11/</link>
+    <guid isPermaLink="false">blindbit-oracle-v2-silent-payments-benchmarks-optech-422-2026</guid>
+    <description>Rob Segers comparó BlindBit Oracle v2 (BIP-352) vs filtros BIP-158: BlindBit descarga ~2.1x más bytes que taproot-only filters. Abre el debate sobre cómo escalar silent payments en carteras ligeras. Optech #422, 11 sept. Categoría: Silent Payments</description>
+    <pubDate>Sat, 12 Sep 2026 11:07:00 +0000</pubDate>
+    <category>Silent Payments</category>
+  </item>
   </channel>
 </rss>
