@@ -5,46 +5,46 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 11:02:16 +0000</lastBuildDate>
   <item>
-    <title>[ALTA][Geo] [ACTUALIZACIÓN] CPI agosto confirma hike del 16 sept — Fed a ~79% de probabilidad</title>
-    <link>https://finance.yahoo.com/economy/articles/august-cpi-shows-inflation-held-124530919.html</link>
-    <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026#upd-2026-09-12</guid>
-    <description>El IPC de agosto (publicado el 11 sept) subió 0.4% mensual y 3.4% interanual, elevando la probabilidad de hike del FOMC al ~79%. Primera cobertura: 2 sept con prob. 66%; ayer 72%. Con el CPI ya publicado, el mercado llega al 16 sept con la suba prácticamente descontada. Categoría: Macro</description>
-    <pubDate>Sat, 12 Sep 2026 11:07:00 +0000</pubDate>
+    <title>[ALTA][Geo] [ACTUALIZACIÓN] CLARITY Act: texto final 630 páginas, voto en Senado el 15 de septiembre</title>
+    <link>https://coincodex.com/article/91821/senate-releases-updated-clarity-act-ahead-of-next-weeks-landmark-vote-what-changed</link>
+    <guid isPermaLink="false">coinbase-armstrong-clarity-act-60votes-september-2026#upd-2026-09-13</guid>
+    <description>La senadora Lummis publicó el 10 de septiembre el texto revisado de 630 páginas con más de 100 cambios: protocolos DeFi 'descentralizados solo de nombre' (DINO) deberán registrarse en la CFTC y cumplir la Bank Secrecy Act. Voto de cloture el 15 de septiembre, requiere 60 votos. Categoría: Regulación</description>
+    <pubDate>Sun, 13 Sep 2026 11:02:16 +0000</pubDate>
+    <category>Regulación</category>
+  </item>
+  <item>
+    <title>[ALTA][Macro] [ACTUALIZACIÓN] Fed: probabilidad de suba de tasas salta al 87% — reunión mañana 16 de septiembre</title>
+    <link>https://coinpedia.org/news/fed-rate-hike-odds-hit-87-how-will-crypto-react/</link>
+    <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026#upd-2026-09-13</guid>
+    <description>La probabilidad de alza de 25pb en el FOMC del 16 de septiembre subió al 87% (vs. 66% reportado el 2 de septiembre). Potencial presión bajista sobre BTC vía yields y dólar; BTC cotiza ~$77K. Categoría: Macro</description>
+    <pubDate>Sun, 13 Sep 2026 11:02:16 +0000</pubDate>
     <category>Macro</category>
   </item>
   <item>
-    <title>[MEDIA][Mercado] ETF spot de ETH supera a BTC en flujos 2026 — primera vez histórica</title>
-    <link>https://crypto.news/ethereum-etf-inflows-beat-bitcoin-institutional-rotation/</link>
-    <guid isPermaLink="false">ethereum-etf-beats-bitcoin-etf-flows-ytd-2026</guid>
-    <description>Los ETF spot de ether acumulan +$863M netos YTD vs -$1B para BTC. El 11 sept: ETH absorbió $216M en un día y BTC perdió $13M. Primera vez que ETH lidera el flujo anual sobre BTC. Señal de diversificación institucional. Categoría: ETF</description>
-    <pubDate>Sat, 12 Sep 2026 11:07:00 +0000</pubDate>
-    <category>ETF</category>
+    <title>[MEDIA][Técnico] Revolut expone pasaportes e historial Bitcoin de clientes tras caer en solicitud gubernamental falsa</title>
+    <link>https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</link>
+    <guid isPermaLink="false">revolut-data-breach-bitcoin-transaction-history-september-2026</guid>
+    <description>Atacante usó dominio de email auténtico de agencia gubernamental para obtener datos de Revolut: pasaportes, selfies de onboarding e historial completo de transacciones Bitcoin. Alerta de ZachXBT el 11 de septiembre. Afecta privacidad de holders en plataformas custodias reguladas. Categoría: Seguridad</description>
+    <pubDate>Sun, 13 Sep 2026 11:02:16 +0000</pubDate>
+    <category>Seguridad</category>
   </item>
   <item>
-    <title>[MEDIA][Técnico] [ACTUALIZACIÓN] Liquid Network: 598.5 BTC (~$47M) aún sin devolver — peg-outs suspendidos</title>
-    <link>https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html</link>
-    <guid isPermaLink="false">liquid-network-hack-elements-btc-320m-september-2026#upd-2026-09-12</guid>
-    <description>Transacciones reanudadas en Liquid pero peg-outs siguen suspendidos sin cronograma. De los ~4,000 BTC explotados, 3,400 devueltos; quedan 598.5 BTC (~$47M) sin retornar. Blockstream no ha dicho cómo cubrirá el faltante. Categoría: Stablecoins/Liquid</description>
-    <pubDate>Sat, 12 Sep 2026 11:07:00 +0000</pubDate>
-    <category>Stablecoins/Liquid</category>
+    <title>[MEDIA][Técnico] [ACTUALIZACIÓN] Bitcoin Core v32.0rc1 publicado alrededor del 10 de septiembre</title>
+    <link>https://github.com/bitcoin/bitcoin/issues/35122</link>
+    <guid isPermaLink="false">bitcoin-core-v32-feature-freeze-august-2026#upd-2026-09-13</guid>
+    <description>Los mantenedores etiquetaron v32.0rc1 alrededor del 10 de septiembre; versión final apunta al 10 de octubre. La fase de prueba pública comenzó tras la feature freeze del 20 de agosto. Categoría: Core/Release</description>
+    <pubDate>Sun, 13 Sep 2026 11:02:16 +0000</pubDate>
+    <category>Core/Release</category>
   </item>
   <item>
-    <title>[MEDIA][Técnico] Babilonia v2: coinjoins disfrazados de apuestas encubiertas, demo Thimbly en Signet</title>
-    <link>https://delvingbitcoin.org/t/babilonia-probabilistic-coinjoin-and-covert-betting/2704</link>
-    <guid isPermaLink="false">babilonia-v2-probabilistic-coinjoin-covert-bets-signet-2026</guid>
-    <description>Adam Gibson (JoinMarket) publicó Babilonia v2 en Delving Bitcoin: coinjoin probabilístico que hace que la transacción parezca una apuesta ordinaria on-chain, rompiendo la heurística de propiedad común de inputs. Demo Thimbly en Signet. Optech #422. Categoría: CoinJoin/Privacidad</description>
-    <pubDate>Sat, 12 Sep 2026 11:07:00 +0000</pubDate>
-    <category>CoinJoin/Privacidad</category>
-  </item>
-  <item>
-    <title>[BAJA][Técnico] BlindBit Oracle v2: benchmarks silent payments vs filtros compactos BIP-158</title>
-    <link>https://bitcoinops.org/en/newsletters/2026/09/11/</link>
-    <guid isPermaLink="false">blindbit-oracle-v2-silent-payments-benchmarks-optech-422-2026</guid>
-    <description>Rob Segers comparó BlindBit Oracle v2 (BIP-352) vs filtros BIP-158: BlindBit descarga ~2.1x más bytes que taproot-only filters. Abre el debate sobre cómo escalar silent payments en carteras ligeras. Optech #422, 11 sept. Categoría: Silent Payments</description>
-    <pubDate>Sat, 12 Sep 2026 11:07:00 +0000</pubDate>
-    <category>Silent Payments</category>
+    <title>[BAJA][Técnico] Ajuste de dificultad Bitcoin +1.31%, hashprice sube 22%</title>
+    <link>https://news.bitcoin.com/mining/difficulty-rises-hashprice-rips-22-as-bitcoin-hashrate-stalls/</link>
+    <guid isPermaLink="false">bitcoin-difficulty-adjustment-plus1pct-hashprice-22pct-september-2026</guid>
+    <description>El ajuste del 6 de septiembre (bloque 965.664) elevó la dificultad a 127.45T. Hashprice subió 22% ($32.42 a $39.63/PH/s/día) impulsado por recuperación del precio BTC; hashrate estable ~934 EH/s, aún por debajo de 1 ZH/s. Categoría: Minería/AI</description>
+    <pubDate>Sun, 13 Sep 2026 11:02:16 +0000</pubDate>
+    <category>Minería/AI</category>
   </item>
   </channel>
 </rss>

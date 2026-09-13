@@ -1167,10 +1167,11 @@
       "eje": "Técnico",
       "category": "Core/Release",
       "relevancia": "Baja",
-      "last_update": "2026-09-10",
+      "last_update": "2026-09-13",
       "updates": [
         "2026-09-09",
-        "2026-09-10"
+        "2026-09-10",
+        "2026-09-13"
       ]
     },
     {
@@ -1222,9 +1223,10 @@
       "first_seen": "2026-08-24",
       "updates": [
         "2026-09-01",
-        "2026-09-05"
+        "2026-09-05",
+        "2026-09-13"
       ],
-      "last_update": "2026-09-05"
+      "last_update": "2026-09-13"
     },
     {
       "id": "bitcoin-etf-7-consecutive-days-2-5b-btc-80k-august-25-2026",
@@ -1352,14 +1354,15 @@
       "title": "Fed: 66% de probabilidad de suba de tasas el 16 de septiembre — macro headwind para BTC",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-faces-fresh-fed-131715670.html",
       "first_seen": "2026-09-02",
-      "last_update": "2026-09-12",
+      "last_update": "2026-09-13",
       "updates": [
         "2026-09-04",
         "2026-09-05",
         "2026-09-09",
         "2026-09-10",
         "2026-09-11",
-        "2026-09-12"
+        "2026-09-12",
+        "2026-09-13"
       ]
     },
     {
@@ -1533,6 +1536,18 @@
       "first_seen": "2026-09-12",
       "eje": "Técnico",
       "category": "Silent Payments/Lightning"
+    },
+    {
+      "id": "revolut-data-breach-bitcoin-transaction-history-september-2026",
+      "title": "Revolut expone pasaportes e historial Bitcoin de clientes tras caer en solicitud gubernamental falsa",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "bitcoin-difficulty-adjustment-plus1pct-hashprice-22pct-september-2026",
+      "title": "Ajuste de dificultad Bitcoin +1.31%, hashprice sube 22% — bloque 965.664",
+      "url": "https://news.bitcoin.com/mining/difficulty-rises-hashprice-rips-22-as-bitcoin-hashrate-stalls/",
+      "first_seen": "2026-09-13"
     }
   ]
 }
