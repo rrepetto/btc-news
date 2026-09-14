@@ -5,46 +5,30 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 13 Sep 2026 11:02:16 +0000</lastBuildDate>
-  <item>
-    <title>[ALTA][Geo] [ACTUALIZACIÓN] CLARITY Act: texto final 630 páginas, voto en Senado el 15 de septiembre</title>
-    <link>https://coincodex.com/article/91821/senate-releases-updated-clarity-act-ahead-of-next-weeks-landmark-vote-what-changed</link>
-    <guid isPermaLink="false">coinbase-armstrong-clarity-act-60votes-september-2026#upd-2026-09-13</guid>
-    <description>La senadora Lummis publicó el 10 de septiembre el texto revisado de 630 páginas con más de 100 cambios: protocolos DeFi 'descentralizados solo de nombre' (DINO) deberán registrarse en la CFTC y cumplir la Bank Secrecy Act. Voto de cloture el 15 de septiembre, requiere 60 votos. Categoría: Regulación</description>
-    <pubDate>Sun, 13 Sep 2026 11:02:16 +0000</pubDate>
-    <category>Regulación</category>
-  </item>
-  <item>
-    <title>[ALTA][Macro] [ACTUALIZACIÓN] Fed: probabilidad de suba de tasas salta al 87% — reunión mañana 16 de septiembre</title>
-    <link>https://coinpedia.org/news/fed-rate-hike-odds-hit-87-how-will-crypto-react/</link>
-    <guid isPermaLink="false">fed-september-hike-66pct-probability-september-2026#upd-2026-09-13</guid>
-    <description>La probabilidad de alza de 25pb en el FOMC del 16 de septiembre subió al 87% (vs. 66% reportado el 2 de septiembre). Potencial presión bajista sobre BTC vía yields y dólar; BTC cotiza ~$77K. Categoría: Macro</description>
-    <pubDate>Sun, 13 Sep 2026 11:02:16 +0000</pubDate>
-    <category>Macro</category>
-  </item>
-  <item>
-    <title>[MEDIA][Técnico] Revolut expone pasaportes e historial Bitcoin de clientes tras caer en solicitud gubernamental falsa</title>
-    <link>https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</link>
-    <guid isPermaLink="false">revolut-data-breach-bitcoin-transaction-history-september-2026</guid>
-    <description>Atacante usó dominio de email auténtico de agencia gubernamental para obtener datos de Revolut: pasaportes, selfies de onboarding e historial completo de transacciones Bitcoin. Alerta de ZachXBT el 11 de septiembre. Afecta privacidad de holders en plataformas custodias reguladas. Categoría: Seguridad</description>
-    <pubDate>Sun, 13 Sep 2026 11:02:16 +0000</pubDate>
-    <category>Seguridad</category>
-  </item>
-  <item>
-    <title>[MEDIA][Técnico] [ACTUALIZACIÓN] Bitcoin Core v32.0rc1 publicado alrededor del 10 de septiembre</title>
-    <link>https://github.com/bitcoin/bitcoin/issues/35122</link>
-    <guid isPermaLink="false">bitcoin-core-v32-feature-freeze-august-2026#upd-2026-09-13</guid>
-    <description>Los mantenedores etiquetaron v32.0rc1 alrededor del 10 de septiembre; versión final apunta al 10 de octubre. La fase de prueba pública comenzó tras la feature freeze del 20 de agosto. Categoría: Core/Release</description>
-    <pubDate>Sun, 13 Sep 2026 11:02:16 +0000</pubDate>
-    <category>Core/Release</category>
-  </item>
-  <item>
-    <title>[BAJA][Técnico] Ajuste de dificultad Bitcoin +1.31%, hashprice sube 22%</title>
-    <link>https://news.bitcoin.com/mining/difficulty-rises-hashprice-rips-22-as-bitcoin-hashrate-stalls/</link>
-    <guid isPermaLink="false">bitcoin-difficulty-adjustment-plus1pct-hashprice-22pct-september-2026</guid>
-    <description>El ajuste del 6 de septiembre (bloque 965.664) elevó la dificultad a 127.45T. Hashprice subió 22% ($32.42 a $39.63/PH/s/día) impulsado por recuperación del precio BTC; hashrate estable ~934 EH/s, aún por debajo de 1 ZH/s. Categoría: Minería/AI</description>
-    <pubDate>Sun, 13 Sep 2026 11:02:16 +0000</pubDate>
-    <category>Minería/AI</category>
-  </item>
+    <lastBuildDate>Mon, 14 Sep 2026 11:09:16 +0000</lastBuildDate>
+    <item>
+      <title>[MEDIA][Mercado] ETFs Bitcoin pierden $463M en la semana del 7-11 sept — fin de racha de 3 semanas en positivo</title>
+      <link>https://www.tradingview.com/news/cointelegraph:1486070e4094b:0-bitcoin-etfs-shed-463m-in-weekly-reversal-as-ether-etfs-gain-197m/</link>
+      <guid isPermaLink="false">bitcoin-etf-463m-outflows-3week-streak-ethrota-sept14-2026</guid>
+      <description>Los fondos spot de BTC estadounidenses acumularon $463M en salidas netas durante la semana del 7-11 sept, poniendo fin a una racha de tres semanas en positivo. ARKB lideró con $234.2M, GBTC $129.1M, IBIT $52.5M, FBTC $50.7M. En contraste, ETFs de ETH sumaron $197M (cuarta semana positiva consecutiva), sugiriendo rotación institucional hacia Ethereum. Categoría: ETF.</description>
+      <pubDate>Mon, 14 Sep 2026 11:09:16 +0000</pubDate>
+      <category>ETF</category>
+    </item>
+    <item>
+      <title>[MEDIA][Técnico] Bots escanean nodos Lightning expuestos buscando control administrativo vía BTCPay/LND</title>
+      <link>https://cryptoslate.com/malicious-bots-are-actively-probing-exposed-bitcoin-payment-servers-to-steal-master-administrative-keys/</link>
+      <guid isPermaLink="false">bots-probing-lightning-lnd-admin-takeover-btcpay-sept14-2026</guid>
+      <description>BTCPay Server advirtió que bots maliciosos sondean instancias con LND público, explotando la ventana de restart del wallet para imponer un password propio y extraer un macaroon de administrador. BTCPay v2.4.4 cierra el path directo pero proxies reversos siguen expuestos. Operadores deben eliminar rutas LND públicas. Categoría: Core/Release.</description>
+      <pubDate>Mon, 14 Sep 2026 11:09:16 +0000</pubDate>
+      <category>Core/Release</category>
+    </item>
+    <item>
+      <title>[BAJA][Minería/AI] Mineros Bitcoin retiran 23% del hashrate en H1 2026; ingresos IA/HPC suben 52%</title>
+      <link>https://news.bitcoin.com/mining/miner-weekly-bitcoin-miners-unplug-23-as-ai-revenue-surges-52/</link>
+      <guid isPermaLink="false">miners-unplug-23pct-ai-revenue-surge-52pct-h1-2026-minerweekly</guid>
+      <description>Balance H1 2026: miners públicos desenchufaron ~56 EH/s (23% reducción); ingresos IA/HPC crecieron 52% de Q1 a Q2. Para HIVE e Iris Energy, AI superó mining revenue por primera vez. Ecuación: AI cloud ~$940/MWh vs ~$179/MWh del mejor ASIC. Categoría: Minería/AI.</description>
+      <pubDate>Mon, 14 Sep 2026 11:09:16 +0000</pubDate>
+      <category>Minería/AI</category>
+    </item>
   </channel>
 </rss>

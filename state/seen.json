@@ -1548,6 +1548,33 @@
       "title": "Ajuste de dificultad Bitcoin +1.31%, hashprice sube 22% — bloque 965.664",
       "url": "https://news.bitcoin.com/mining/difficulty-rises-hashprice-rips-22-as-bitcoin-hashrate-stalls/",
       "first_seen": "2026-09-13"
+    },
+    {
+      "id": "bitcoin-etf-463m-outflows-3week-streak-ethrota-sept14-2026",
+      "title": "Bitcoin ETFs pierden $463M en semana del 7-11 sept, fin de racha 3 semanas; ETH ETFs suman $197M",
+      "url": "https://www.tradingview.com/news/cointelegraph:1486070e4094b:0-bitcoin-etfs-shed-463m-in-weekly-reversal-as-ether-etfs-gain-197m/",
+      "first_seen": "2026-09-14",
+      "eje": "Mercado",
+      "category": "ETF",
+      "relevancia": "Media"
+    },
+    {
+      "id": "bots-probing-lightning-lnd-admin-takeover-btcpay-sept14-2026",
+      "title": "Bots activos escanean nodos Lightning/BTCPay buscando tomar control administrativo vía ventana de restart de LND",
+      "url": "https://cryptoslate.com/malicious-bots-are-actively-probing-exposed-bitcoin-payment-servers-to-steal-master-administrative-keys/",
+      "first_seen": "2026-09-14",
+      "eje": "Técnico",
+      "category": "Core/Release",
+      "relevancia": "Media"
+    },
+    {
+      "id": "miners-unplug-23pct-ai-revenue-surge-52pct-h1-2026-minerweekly",
+      "title": "Mineros Bitcoin retiran 23% de hashrate en H1 2026; ingresos IA/HPC suben 52% — primera vez que AI supera mining revenue en top firms",
+      "url": "https://news.bitcoin.com/mining/miner-weekly-bitcoin-miners-unplug-23-as-ai-revenue-surges-52/",
+      "first_seen": "2026-09-14",
+      "eje": "Geo/Regulación",
+      "category": "Minería/AI",
+      "relevancia": "Baja"
     }
   ]
 }
