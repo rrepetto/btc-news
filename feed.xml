@@ -5,30 +5,52 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:09:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:07:16 +0000</lastBuildDate>
+
     <item>
-      <title>[MEDIA][Mercado] ETFs Bitcoin pierden $463M en la semana del 7-11 sept — fin de racha de 3 semanas en positivo</title>
-      <link>https://www.tradingview.com/news/cointelegraph:1486070e4094b:0-bitcoin-etfs-shed-463m-in-weekly-reversal-as-ether-etfs-gain-197m/</link>
-      <guid isPermaLink="false">bitcoin-etf-463m-outflows-3week-streak-ethrota-sept14-2026</guid>
-      <description>Los fondos spot de BTC estadounidenses acumularon $463M en salidas netas durante la semana del 7-11 sept, poniendo fin a una racha de tres semanas en positivo. ARKB lideró con $234.2M, GBTC $129.1M, IBIT $52.5M, FBTC $50.7M. En contraste, ETFs de ETH sumaron $197M (cuarta semana positiva consecutiva), sugiriendo rotación institucional hacia Ethereum. Categoría: ETF.</description>
-      <pubDate>Mon, 14 Sep 2026 11:09:16 +0000</pubDate>
-      <category>ETF</category>
+      <title>[ALTA][Geo] [ACTUALIZACIÓN] CLARITY Act: día del voto en el Senado — revuelta de senadores y acuerdo ético de último momento</title>
+      <link>https://cryptoslate.com/clarity-acts-final-deal-is-already-breaking-down-before-tomorrows-senate-vote/</link>
+      <guid isPermaLink="false">clarity-act-senate-vote-deadline-august-7-2026#upd-2026-09-15</guid>
+      <description>El 13 sept la Casa Blanca aceptó nuevo lenguaje de ética para desbloquear votos demócratas; el 14 sept una revuelta amplió el rechazo (bancos, AGs estatales, desarrolladores) horas antes del cloture vote del 15 sept a las 14:15 ET. Se necesitan 60 votos; Polymarket cotiza la aprobación en 14-26% dada la resistencia persistente. Si falla, el proyecto queda efectivamente muerto para 2026. Categoría: Regulación</description>
+      <pubDate>Tue, 15 Sep 2026 11:07:16 +0000</pubDate>
+      <category>Regulación</category>
     </item>
+
     <item>
-      <title>[MEDIA][Técnico] Bots escanean nodos Lightning expuestos buscando control administrativo vía BTCPay/LND</title>
-      <link>https://cryptoslate.com/malicious-bots-are-actively-probing-exposed-bitcoin-payment-servers-to-steal-master-administrative-keys/</link>
-      <guid isPermaLink="false">bots-probing-lightning-lnd-admin-takeover-btcpay-sept14-2026</guid>
-      <description>BTCPay Server advirtió que bots maliciosos sondean instancias con LND público, explotando la ventana de restart del wallet para imponer un password propio y extraer un macaroon de administrador. BTCPay v2.4.4 cierra el path directo pero proxies reversos siguen expuestos. Operadores deben eliminar rutas LND públicas. Categoría: Core/Release.</description>
-      <pubDate>Mon, 14 Sep 2026 11:09:16 +0000</pubDate>
+      <title>[MEDIA][Técnico] BIP54 'Consensus Cleanup' emerge como el próximo gran debate de soft fork — Bitcoin Core fusiona PR #35949 anti-time-warp</title>
+      <link>https://news.bitcoin.com/crypto-news/after-bip-110-flops-bitcoins-next-soft-fork-faces-a-showdown/</link>
+      <guid isPermaLink="false">bip54-consensus-cleanup-post-bip110-2026</guid>
+      <description>Tras el fracaso de BIP-110, BIP54 es la próxima propuesta de soft fork en discusión: corrige cuatro vulnerabilidades históricas (time-warp de Murch-Zawy, validación lenta de bloques, exploits de árbol Merkle, transacciones duplicadas). Bitcoin Core fusionó PR #35949 que aplica la mitigación BIP54 al block template. Oposición: F2Pool (Wang Chun) rechaza activar el fork; el sitio bip54.lol lanzó argumentos contra. Categoría: BIP/Fork</description>
+      <pubDate>Tue, 15 Sep 2026 11:07:16 +0000</pubDate>
+      <category>BIP/Fork</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Técnico] LDK v0.2.6 corrige dos vulnerabilidades en Lightning: desvío de fondos en splice y fallo de reinicio de nodo</title>
+      <link>https://cryptoslate.com/critical-bitcoin-lightning-bugs-exposed-nodes-to-fund-theft-and-restart-failure/</link>
+      <guid isPermaLink="false">ldk-026-lightning-splice-restart-vuln-sept2026</guid>
+      <description>Lightning Development Kit (librería usada en wallets y stacks de pago) publicó el 9 sept v0.2.6 que cierra: (1) desvío de fondos durante un splice por canal hostil; (2) bug que impedía recargar datos de canal tras apagado. No se reportaron pérdidas. Wallets y servicios que usan LDK deben actualizar sus builds. Categoría: Lightning</description>
+      <pubDate>Tue, 15 Sep 2026 11:07:16 +0000</pubDate>
+      <category>Lightning</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] Strategy: 845.050 BTC con $6,4B en USD — 14 sept recompra $139M en STRC y omite BTC</title>
+      <link>https://www.cryptotimes.io/2026/09/14/michael-saylors-strategy-buys-back-139m-in-strc-skips-bitcoin-purchase/</link>
+      <guid isPermaLink="false">strategy-no-btc-purchase-four-weeks-july-2026#upd-2026-09-15</guid>
+      <description>Sin compras de BTC desde el 1 de septiembre, Strategy recompró el 14 sept $139M en su preferente STRC. La reserva USD asciende a $6,4B, la mayor desde el inicio de la estrategia. Señal de gestión de capital distinta: recompras de STRC en lugar de compras BTC. Categoría: Ballenas</description>
+      <pubDate>Tue, 15 Sep 2026 11:07:16 +0000</pubDate>
+      <category>Ballenas</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Técnico] [ACTUALIZACIÓN] Bitcoin Core v32.0rc1 etiquetado el 14 sept — release final apunta al 10 de octubre</title>
+      <link>https://www.tftc.io/bitcoin-core-v32-0rc1-release-candidate-october-2026</link>
+      <guid isPermaLink="false">bitcoin-core-v32-feature-freeze-august-2026#upd-2026-09-15</guid>
+      <description>Con cuatro días de demora sobre el target del 10 sept, rc1 fue etiquetado el 14 sept en el commit d0231bb. Solo se aceptan correcciones de bugs; ningún feature nuevo entra en v32. Los operadores de nodos tienen ~4 semanas para testear antes del release final el 10 octubre. Categoría: Core/Release</description>
+      <pubDate>Tue, 15 Sep 2026 11:07:16 +0000</pubDate>
       <category>Core/Release</category>
     </item>
-    <item>
-      <title>[BAJA][Minería/AI] Mineros Bitcoin retiran 23% del hashrate en H1 2026; ingresos IA/HPC suben 52%</title>
-      <link>https://news.bitcoin.com/mining/miner-weekly-bitcoin-miners-unplug-23-as-ai-revenue-surges-52/</link>
-      <guid isPermaLink="false">miners-unplug-23pct-ai-revenue-surge-52pct-h1-2026-minerweekly</guid>
-      <description>Balance H1 2026: miners públicos desenchufaron ~56 EH/s (23% reducción); ingresos IA/HPC crecieron 52% de Q1 a Q2. Para HIVE e Iris Energy, AI superó mining revenue por primera vez. Ecuación: AI cloud ~$940/MWh vs ~$179/MWh del mejor ASIC. Categoría: Minería/AI.</description>
-      <pubDate>Mon, 14 Sep 2026 11:09:16 +0000</pubDate>
-      <category>Minería/AI</category>
-    </item>
+
   </channel>
 </rss>

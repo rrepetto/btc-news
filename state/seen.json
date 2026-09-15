@@ -604,7 +604,7 @@
       "title": "Strategy acumula 4 semanas sin comprar BTC — vende $263.5M en acciones MSTR, reserva USD sube a $3.225B",
       "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion",
       "first_seen": "2026-07-23",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-15",
       "updates": [
         "2026-07-27",
         "2026-07-28",
@@ -614,7 +614,8 @@
         "2026-08-04",
         "2026-08-18",
         "2026-08-25",
-        "2026-09-01"
+        "2026-09-01",
+        "2026-09-15"
       ]
     },
     {
@@ -833,7 +834,7 @@
       "first_seen": "2026-08-06",
       "eje": "Geo/Regulación",
       "category": "Regulación",
-      "last_update": "2026-09-11",
+      "last_update": "2026-09-15",
       "updates": [
         "2026-08-07",
         "2026-08-08",
@@ -842,7 +843,8 @@
         "2026-08-15",
         "2026-08-17",
         "2026-09-08",
-        "2026-09-11"
+        "2026-09-11",
+        "2026-09-15"
       ]
     },
     {
@@ -1167,11 +1169,12 @@
       "eje": "Técnico",
       "category": "Core/Release",
       "relevancia": "Baja",
-      "last_update": "2026-09-13",
+      "last_update": "2026-09-15",
       "updates": [
         "2026-09-09",
         "2026-09-10",
-        "2026-09-13"
+        "2026-09-13",
+        "2026-09-15"
       ]
     },
     {
@@ -1575,6 +1578,24 @@
       "eje": "Geo/Regulación",
       "category": "Minería/AI",
       "relevancia": "Baja"
+    },
+    {
+      "id": "bip54-consensus-cleanup-post-bip110-2026",
+      "title": "BIP54 'Consensus Cleanup' emerge como el próximo gran debate de soft fork — Bitcoin Core fusiona PR #35949 anti-time-warp",
+      "url": "https://news.bitcoin.com/crypto-news/after-bip-110-flops-bitcoins-next-soft-fork-faces-a-showdown/",
+      "first_seen": "2026-09-15",
+      "eje": "Técnico",
+      "category": "BIP/Fork",
+      "relevancia": "Media"
+    },
+    {
+      "id": "ldk-026-lightning-splice-restart-vuln-sept2026",
+      "title": "LDK v0.2.6 corrige dos vulnerabilidades en Lightning: desvío de fondos en splice y fallo de reinicio de nodo",
+      "url": "https://cryptoslate.com/critical-bitcoin-lightning-bugs-exposed-nodes-to-fund-theft-and-restart-failure/",
+      "first_seen": "2026-09-15",
+      "eje": "Técnico",
+      "category": "Lightning",
+      "relevancia": "Media"
     }
   ]
 }
