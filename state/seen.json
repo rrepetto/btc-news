@@ -174,7 +174,7 @@
       "title": "CLARITY Act llega al calendario del Senado de EE.UU.: ley marco para crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done/",
       "first_seen": "2026-06-28",
-      "last_update": "2026-08-08",
+      "last_update": "2026-09-16",
       "updates": [
         "2026-06-29",
         "2026-07-01",
@@ -195,7 +195,8 @@
         "2026-08-04",
         "2026-08-06",
         "2026-08-07",
-        "2026-08-08"
+        "2026-08-08",
+        "2026-09-16"
       ]
     },
     {
@@ -1544,7 +1545,11 @@
       "id": "revolut-data-breach-bitcoin-transaction-history-september-2026",
       "title": "Revolut expone pasaportes e historial Bitcoin de clientes tras caer en solicitud gubernamental falsa",
       "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "first_seen": "2026-09-13"
+      "first_seen": "2026-09-13",
+      "updates": [
+        "2026-09-16"
+      ],
+      "last_update": "2026-09-16"
     },
     {
       "id": "bitcoin-difficulty-adjustment-plus1pct-hashprice-22pct-september-2026",
@@ -1559,7 +1564,11 @@
       "first_seen": "2026-09-14",
       "eje": "Mercado",
       "category": "ETF",
-      "relevancia": "Media"
+      "relevancia": "Media",
+      "updates": [
+        "2026-09-16"
+      ],
+      "last_update": "2026-09-16"
     },
     {
       "id": "bots-probing-lightning-lnd-admin-takeover-btcpay-sept14-2026",
@@ -1596,6 +1605,24 @@
       "eje": "Técnico",
       "category": "Lightning",
       "relevancia": "Media"
+    },
+    {
+      "id": "arma-hr-8957-strategic-bitcoin-reserve-house-committee-sept16-2026",
+      "title": "ARMA H.R. 8957: Comisión de Servicios Financieros de la Cámara marca primer voto para codificar Reserva Estratégica de BTC en ley federal",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/strategic-bitcoin-bill-wednesday-house-151147163.html",
+      "first_seen": "2026-09-16"
+    },
+    {
+      "id": "swiss-bitcoin-pay-breach-servers-offline-sept14-2026",
+      "title": "Swiss Bitcoin Pay suspende servidores tras brecha: emails, wallets, IBANs y historial de transacciones expuestos; fondos seguros",
+      "url": "https://www.cryptotimes.io/2026/09/14/swiss-bitcoin-pay-shuts-down-servers-after-suspected-hack/",
+      "first_seen": "2026-09-16"
+    },
+    {
+      "id": "fomc-fed-rate-hike-25bps-sept16-2026",
+      "title": "Fed FOMC: decisión de tasas 16 sept — mercados valúan ~90% de probabilidad de suba 25 bps (primera alza desde julio 2023)",
+      "url": "https://www.kucoin.com/blog/september-2026-fomc-decision-will-the-fed-hike-rates-or-hold",
+      "first_seen": "2026-09-16"
     }
   ]
 }
