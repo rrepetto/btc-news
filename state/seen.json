@@ -1610,7 +1610,11 @@
       "id": "arma-hr-8957-strategic-bitcoin-reserve-house-committee-sept16-2026",
       "title": "ARMA H.R. 8957: Comisión de Servicios Financieros de la Cámara marca primer voto para codificar Reserva Estratégica de BTC en ley federal",
       "url": "https://finance.yahoo.com/markets/crypto/articles/strategic-bitcoin-bill-wednesday-house-151147163.html",
-      "first_seen": "2026-09-16"
+      "first_seen": "2026-09-16",
+      "updates": [
+        "2026-09-17"
+      ],
+      "last_update": "2026-09-17"
     },
     {
       "id": "swiss-bitcoin-pay-breach-servers-offline-sept14-2026",
@@ -1622,7 +1626,29 @@
       "id": "fomc-fed-rate-hike-25bps-sept16-2026",
       "title": "Fed FOMC: decisión de tasas 16 sept — mercados valúan ~90% de probabilidad de suba 25 bps (primera alza desde julio 2023)",
       "url": "https://www.kucoin.com/blog/september-2026-fomc-decision-will-the-fed-hike-rates-or-hold",
-      "first_seen": "2026-09-16"
+      "first_seen": "2026-09-16",
+      "updates": [
+        "2026-09-17"
+      ],
+      "last_update": "2026-09-17"
+    },
+    {
+      "id": "deutsche-bank-btc-eth-custody-launch-2026",
+      "title": "Deutsche Bank lanzará custodia de BTC/ETH para instituciones europeas en 2026",
+      "url": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
+      "first_seen": "2026-09-17",
+      "eje": "Geo/Regulación",
+      "category": "Figuras",
+      "relevancia": "Media"
+    },
+    {
+      "id": "bitdeer-august-2026-production-report",
+      "title": "Bitdeer agosto 2026: 79,9 EH/s propios y 100% GPU contratado en Malaysia para AI",
+      "url": "https://www.globenewswire.com/news-release/2026/09/16/3363523/0/en/bitdeer-announces-august-2026-production-and-operations-update.html",
+      "first_seen": "2026-09-17",
+      "eje": "Minería",
+      "category": "Minería/AI",
+      "relevancia": "Baja"
     }
   ]
 }

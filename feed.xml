@@ -5,60 +5,42 @@
     <link>https://rrepetto.github.io/btc-news/</link>
     <description>Resumen diario automatizado de novedades de Bitcoin: protocolo y forks (BIPs), amenaza cuántica, stablecoins sobre BTC, mercado y ETFs, figuras, geopolítica/regulación y minería.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:03:26 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA][Geo] [ACTUALIZACIÓN] CLARITY Act fracasa en el Senado (50-49): ley muerta para 2026, BTC cae 3.8%</title>
-      <link>https://homecryptoinvest.com/news/clarity-act-senate-vote-result.html</link>
-      <guid isPermaLink="false">clarity-act-senate-calendar-crypto-market-structure#upd-2026-09-16</guid>
-      <description>El voto de cloture del 15 septiembre obtuvo 50 votos a favor y 49 en contra, lejos de los 60 requeridos. La ley queda efectivamente muerta para 2026. Bitcoin cayó hasta $75,748 (-3.8%) y los ETFs spot perdieron $450M en el día. Categoría: Regulación</description>
-      <pubDate>Wed, 16 Sep 2026 11:09:10 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-
-    <item>
-      <title>[ALTA][Geo] ARMA H.R. 8957: primer markup de comité para codificar la Reserva Estratégica de Bitcoin en ley federal</title>
-      <link>https://finance.yahoo.com/markets/crypto/articles/strategic-bitcoin-bill-wednesday-house-151147163.html</link>
-      <guid isPermaLink="false">arma-hr-8957-strategic-bitcoin-reserve-house-committee-sept16-2026</guid>
-      <description>El 16 sept a las 10:00 ET la Comisión de Servicios Financieros de la Cámara marca el H.R. 8957 (American Reserve Modernization Act). Convertiría la reserva de BTC de orden ejecutiva en ley federal con retención mínima de 20 años y auditorías trimestrales independientes. Categoría: Geopolítica</description>
-      <pubDate>Wed, 16 Sep 2026 11:09:10 +0000</pubDate>
+      <title>[ALTA][Geo] [ACTUALIZACION] ARMA H.R. 8957: comite 28-21 aprueba ley para codificar Reserva Estrategica de BTC</title>
+      <link>https://www.cryptotimes.io/2026/09/17/us-house-passes-strategic-bitcoin-reserve-bill-28-21-with-20-year-lock/</link>
+      <guid isPermaLink="false">arma-hr-8957-strategic-bitcoin-reserve-house-committee-sept16-2026#upd-2026-09-17</guid>
+      <description>American Reserve Modernization Act aprobada 28-21 en comite. Avanza al pleno de la Camara con retencion minima 20 anos, auditorias trimestrales y derecho a auto-custodia. Primer hito legislativo pro-BTC significativo tras el fracaso del CLARITY Act. Categoria: Geopolitica.</description>
+      <pubDate>Thu, 17 Sep 2026 11:03:26 +0000</pubDate>
       <category>Geopolítica</category>
     </item>
 
     <item>
-      <title>[MEDIA][Mercado] [ACTUALIZACIÓN] ETFs de Bitcoin pierden $450M el 15 sept — mayor outflow diario desde junio 25</title>
-      <link>https://bitcoinethereumnews.com/bitcoin/bitcoin-etf-outflows-surge-to-450-million-after-clarity-act-setback/</link>
-      <guid isPermaLink="false">bitcoin-etf-463m-outflows-3week-streak-ethrota-sept14-2026#upd-2026-09-16</guid>
-      <description>La derrota del CLARITY Act desencadenó la mayor salida de ETFs de BTC en semanas: FBTC $214.8M, IBIT $161.7M. BTC y ETH combinados perdieron $592M, revirtiendo el rebote de $160M del lunes 14 sept. Categoría: ETF</description>
-      <pubDate>Wed, 16 Sep 2026 11:09:10 +0000</pubDate>
-      <category>ETF</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Geo] [ACTUALIZACIÓN] Revolut: extorsionadores exigen 10.000 BTC ($780M), publican datos en Telegram, ICO del Reino Unido investiga</title>
-      <link>https://cryptonews.com/news/revolut-data-breach-customer-records/</link>
-      <guid isPermaLink="false">revolut-data-breach-bitcoin-transaction-history-september-2026#upd-2026-09-16</guid>
-      <description>Desde la brecha del 13 sept, escaló a extorsión activa con exigencia de 10K BTC y publicación diaria de dossiers de clientes en Telegram. El Information Commissioner's Office del Reino Unido inició investigación formal. Categoría: Regulación</description>
-      <pubDate>Wed, 16 Sep 2026 11:09:10 +0000</pubDate>
-      <category>Regulación</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Técnico] Swiss Bitcoin Pay suspende servidores tras brecha: emails, wallets, IBANs y tx history expuestos</title>
-      <link>https://www.cryptotimes.io/2026/09/14/swiss-bitcoin-pay-shuts-down-servers-after-suspected-hack/</link>
-      <guid isPermaLink="false">swiss-bitcoin-pay-breach-servers-offline-sept14-2026</guid>
-      <description>Procesador de pagos BTC no custodial suizo tomó offline sus servidores el 14 sept. Expuso 5 tipos de datos. Fondos seguros por diseño no custodial. Riesgo secundario de phishing/SIM-swap para afectados. Categoría: Core/Release</description>
-      <pubDate>Wed, 16 Sep 2026 11:09:10 +0000</pubDate>
-      <category>Core/Release</category>
-    </item>
-
-    <item>
-      <title>[BAJA][Macro] Fed FOMC: decisión hoy 16 sept 14:00 ET — ~90% prob. suba 25 bps, primera alza desde julio 2023</title>
-      <link>https://www.kucoin.com/blog/september-2026-fomc-decision-will-the-fed-hike-rates-or-hold</link>
-      <guid isPermaLink="false">fomc-fed-rate-hike-25bps-sept16-2026</guid>
-      <description>FOMC publica decisión a las 14:00 ET. Mercados valúan ~90% de prob. de suba de 25 bps que llevaría la tasa a 3.75%-4.00%. Primera alza desde julio 2023. Llega horas después del fracaso del CLARITY Act, maximizando presión bajista sobre BTC. Categoría: Macro</description>
-      <pubDate>Wed, 16 Sep 2026 11:09:10 +0000</pubDate>
+      <title>[MEDIA][Macro] [ACTUALIZACION] Fed confirma suba 25pb: tasa 3,75-4,00%; BTC aguanta sobre $76K</title>
+      <link>https://coinpedia.org/news/fed-hikes-rates-25-bps-for-first-time-in-3-years-bitcoin-holds-76k/</link>
+      <guid isPermaLink="false">fomc-fed-rate-hike-25bps-sept16-2026#upd-2026-09-17</guid>
+      <description>Resultado confirmado: primera suba de la Fed en 3 anos, tasa a 3,75-4,00%. BTC se mantuvo sobre $76K. Dot plot anticipa otra suba a fin de 2026 (mediana 4,1%). Categoria: Macro.</description>
+      <pubDate>Thu, 17 Sep 2026 11:03:26 +0000</pubDate>
       <category>Macro</category>
+    </item>
+
+    <item>
+      <title>[MEDIA][Geo] Deutsche Bank lanzara custodia de BTC/ETH para instituciones europeas en 2026</title>
+      <link>https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients</link>
+      <guid isPermaLink="false">deutsche-bank-btc-eth-custody-launch-2026</guid>
+      <description>Banco sistemico aleman anuncia custodia digital regulada bajo MiCA: BTC, ETH, USDC, EURC, EURAU para fondos y corporates europeos. Primer banco grande de la eurozona en ofrecer custodia crypto directa. Categoria: Figuras.</description>
+      <pubDate>Thu, 17 Sep 2026 11:03:26 +0000</pubDate>
+      <category>Figuras</category>
+    </item>
+
+    <item>
+      <title>[BAJA][Mineria] Bitdeer agosto 2026: 79,9 EH/s, 1.310 BTC minados, 100% GPU contratado para AI en Malaysia</title>
+      <link>https://www.globenewswire.com/news-release/2026/09/16/3363523/0/en/bitdeer-announces-august-2026-production-and-operations-update.html</link>
+      <guid isPermaLink="false">bitdeer-august-2026-production-report</guid>
+      <description>79,9 EH/s self-mining, 21,6 EH/s co-mining, 1.310 BTC (+249% YoY). Facility 9,5 MW en Malaysia 100% contratada para AI antes de energizarse. Categoria: Mineria/AI.</description>
+      <pubDate>Thu, 17 Sep 2026 11:03:26 +0000</pubDate>
+      <category>Minería/AI</category>
     </item>
 
   </channel>
